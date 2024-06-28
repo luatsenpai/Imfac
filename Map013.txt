@@ -307,27 +307,32 @@ Tôi xin lỗi, \\.tôi quen anh à?"
 \\.\\.And. . . my dark secret. \\..\\. .\\."
 > CONTEXT: Map013/events/4/pages/7/213/Dialogue < UNTRANSLATED
 
-> END STRING
+> END STR\\ignr\\e[20]\\nm[ Quincy ]
+"Cô đã hoỉ tôi món ăn yêu thích là gì. . .
+\\.\\.Và. . . bí mật đen tối của tôi \\..\\. .\\."
 
 > BEGIN STRING
 \\ignr\\e[78]\\nm[ Lynri ]
 "Okay. . . \\.You're starting to freak me out."
 > CONTEXT: Map013/events/4/pages/7/228/Dialogue < UNTRANSLATED
-
+\\ignr\\e[78]\\nm[ Lynri ]
+"Okay. . . \\.Anh đang bắt đầu khiến tôi sợ đấy."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Quincy ]
 "Wait a minute. . ."
 > CONTEXT: Map013/events/4/pages/7/245/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Quincy ]
+"Đợi đã. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Quincy ]
 ". . . Do you happen to have a twin?"
 > CONTEXT: Map013/events/4/pages/7/275/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Quincy ]
+". . . Cô có chị em song sinh không?"
 > END STRING
 
 > BEGIN STRING
@@ -335,14 +340,17 @@ Tôi xin lỗi, \\.tôi quen anh à?"
 ". . . Please do not harrass the
 other guests, \\.Mr. Reynard."
 > CONTEXT: Map013/events/4/pages/7/283/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Emil ]
+". . . Vui lòng không quấy rối
+người khác, \\.Ngài Reynard."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[79]\\nm[ Prisha ]
 "Oooh, \\.what grisly skies we have out there. . ."
 > CONTEXT: Map013/events/4/pages/8/98/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Prisha ]
+"Oooh, \\.thời tiết bên ngoài tệ quá. . ."
 > END STRING
 
 > BEGIN STRING
@@ -350,14 +358,17 @@ other guests, \\.Mr. Reynard."
 "Tell me you have someone to take care
 of the mess,\\. dear?"
 > CONTEXT: Map013/events/4/pages/8/104/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Prisha ]
+"Nói ta biết cậu đã cử người
+dọn mớ hỗn độn này\\. chưa?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[40]\\nm[ Emil ]
 "Worry not, \\.Ms. Ahuja. . ."
 > CONTEXT: Map013/events/4/pages/8/109/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Emil ]
+"Đừng lo, \\.Bà Ahuja. . ."
 > END STRING
 
 > BEGIN STRING
@@ -365,7 +376,9 @@ of the mess,\\. dear?"
 ". . . Just step up onto the auto-cleaning
 module,\\. and all will be sorted."
 > CONTEXT: Map013/events/4/pages/8/114/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Emil ]
+". . . Chỉ cần bước lên hệ thống tự
+lau dọn,\\. và mọi thứ sẽ tươm tất."
 > END STRING
 
 > BEGIN STRING
@@ -373,21 +386,25 @@ module,\\. and all will be sorted."
 "Auto-cleaning? \\.\\.Whatever happened
 to the more hands-on approach?"
 > CONTEXT: Map013/events/4/pages/8/124/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Prisha ]
+"Tự lau dọn sao? \\.\\.Sao không
+làm bằng tay hả?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[79]\\nm[ Prisha ]
 "You seem like a capable lad, \\.for one. . ."
 > CONTEXT: Map013/events/4/pages/8/131/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Prisha ]
+"Trông anh cũng có \\.năng lực mà. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[79]\\nm[ Idina ]
 "Gosh, \\.I'm such a mess. . .
 > CONTEXT: Map013/events/4/pages/9/97/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Idina ]
+"Ối, \\.Trông tôi luộm thuộm quá. . .
 > END STRING
 
 > BEGIN STRING
@@ -395,7 +412,9 @@ to the more hands-on approach?"
 "And to think that I got into this gown
 just to drip mud all over the floor. . ."
 > CONTEXT: Map013/events/4/pages/9/105/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Idina ]
+"Và chiếc đầm này của tôi đã khiến
+buồn đất văng khắp nhà rồi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -403,28 +422,33 @@ just to drip mud all over the floor. . ."
 "Worry not, \\.ma'am. \\.\\.It's nothing our
 \\iX-Clean 4000-Super\\i can't handle."
 > CONTEXT: Map013/events/4/pages/9/110/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Emil ]
+"Đừng lo, \\.thưa bà. \\.\\.Không có gì mà
+\\iX-Clean 4000-Super\\i không thể xử lý."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Viktor ]
 "\\i4000\\i. . .\\. A generation behind, \\.aren't we?"
 > CONTEXT: Map013/events/4/pages/9/118/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Viktor ]
+"\\i4000\\i. . .\\. là thế hệ mới, \\.đúng chứ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Viktor ]
 "I expected better for a facility of this nature."
 > CONTEXT: Map013/events/4/pages/9/131/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Viktor ]
+"Tôi muốn cơ sở này phải có gì đó tiên tiến hơn."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[40]\\nm[ Emil ]
 "Duly noted, \\.Mr. Armstrong."
 > CONTEXT: Map013/events/4/pages/9/139/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Emil ]
+"Tôi đã ghi nhận, \\.Ngài Armstrong."
 > END STRING
 
 > BEGIN STRING
@@ -432,28 +456,33 @@ just to drip mud all over the floor. . ."
 "Oh, \\.your cheeks are just so cuuuute
 when you say that!"
 > CONTEXT: Map013/events/4/pages/9/171/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Idina ]
+"Oh, \\.má của anh thật dễ thươnggg
+sau khi anh nói câu đó!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[79]\\nm[ Louie ]
 "Boy, \\.it's raining terabytes out there."
 > CONTEXT: Map013/events/4/pages/10/91/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Louie ]
+"Trời, \\.bên ngoài mưa kinh thật đấy."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[79]\\nm[ Louie ]
 "Darn, \\.is that the \\iX-Clean 4000-Super\\i I spy?"
 > CONTEXT: Map013/events/4/pages/10/104/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Louie ]
+"Quào, thứ tôi thấy \\.có phải là \\iX-Clean 4000-Super\\i?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[40]\\nm[ Emil ]
 "Impeccable catch, \\.Mr. Clegg."
 > CONTEXT: Map013/events/4/pages/10/108/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Emil ]
+"Ngài thật có tầm nhìn, \\.Ngài Clegg."
 > END STRING
 
 > BEGIN STRING
@@ -461,7 +490,9 @@ when you say that!"
 "Of course. \\.\\.I've been wanting to
 take one of these apart."
 > CONTEXT: Map013/events/4/pages/10/113/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Louie ]
+"Tất nhiên. \\.\\.tôi đang mong chờ
+để tháo rời thứ này ra."
 > END STRING
 
 > BEGIN STRING
@@ -469,28 +500,34 @@ take one of these apart."
 ". . . Along with what you've been brewing
 over here, \\.if the rumours are true."
 > CONTEXT: Map013/events/4/pages/10/118/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Louie ]
+". . . Cùng với thứ anh đã pha chế ở đây,
+\\.có vẻ như tin đồn là thật rồi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[40]\\nm[ Emil ]
 "Certainly. \\.\\.We'll try not to disappoint."
 > CONTEXT: Map013/events/4/pages/10/139/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Emil ]
+"Chắc rồi. \\.\\.Chúng tôi sẽ không khiến
+ngài thất vọng."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ( Just. . . \\.\\.What is even happening here?? )
 > CONTEXT: Map013/events/4/pages/12/76/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Chuyện. . . \\.\\.gì vừa xảy ra ở đây vậy? )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ( . . . Am I going crazy? )
 > CONTEXT: Map013/events/4/pages/12/85/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( . . . Mình bị điên rồi sao? )
 > END STRING
 
 > BEGIN STRING
@@ -498,7 +535,9 @@ over here, \\.if the rumours are true."
 ( Or maybe. . . \\.\\.It's just déjà vu
 combined with a bad dream. . . )
 > CONTEXT: Map013/events/4/pages/12/92/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Hoặc có lẽ. . . \\.\\.Chỉ là déjà vu
+pha trộn với ác mộng thôi. . . )
 > END STRING
 
 > BEGIN STRING
@@ -506,7 +545,9 @@ combined with a bad dream. . . )
 ( Yeah. . . \\.\\.I must've slept too late last night
 and dozed off in the bathroom. )
 > CONTEXT: Map013/events/4/pages/12/107/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Ừm. . . \\.\\.Có lẽ do đêm qua mình thức
+khuya và ngủ quên trong phòng tắm. )
 > END STRING
 
 > BEGIN STRING
