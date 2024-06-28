@@ -1,4 +1,4 @@
-> RPGMAKER TRANS PATCH FILE VERSION 3.2
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . Wait,\\. this is how horror stories

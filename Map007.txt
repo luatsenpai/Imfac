@@ -1,0 +1,499 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Huh, \\.that's new. . . )
+> CONTEXT: Map007/events/1/pages/4/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Quincy ]
+"Hey--. . . \\.What are you doing out here?"
+> CONTEXT: Map007/events/2/pages/4/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Quincy ]
+"This whole time. . . \\.You could come
+and go all on your own accord?"
+> CONTEXT: Map007/events/2/pages/4/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Quincy ]
+"Wait a minute. . ."
+> CONTEXT: Map007/events/2/pages/4/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Quincy ]
+"Could it be. . . ?!"
+> CONTEXT: Map007/events/2/pages/4/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Quincy ]
+"H--\\.Hey-. . ."
+> CONTEXT: Map007/events/4/pages/2/19/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Quincy ]
+"Ê--\\.ê-. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Quincy ]
+"What. . . . . ."
+> CONTEXT: Map007/events/4/pages/2/183/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Quincy ]
+"Cái gì thế này. . . . . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"H-\\.HELP--. . . \\.\\.SOMEONE HELP!!"
+> CONTEXT: Map007/events/4/pages/3/84/Dialogue < UNTRANSLATED
+\\ignr\\e[4]\\nm[ Quincy ]
+"C-\\.CỨU--. . . \\.\\.AI ĐÓ GIÚP TÔI VỚI!!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Lynri. . . ?"
+> CONTEXT: Map007/events/4/pages/4/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/20/pages/8/392/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/20/pages/16/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+( How could this be happening again. . . ?! )
+> CONTEXT: Map007/events/4/pages/5/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+( Maybe. . .\\.\\. Maybe I really am just
+seeing things after all. . . )
+> CONTEXT: Map007/events/4/pages/5/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+( Yeah. . . \\.\\.These hallucinations are really
+getting out of hand. . . )
+> CONTEXT: Map007/events/4/pages/5/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Rika ]
+"Oh, \\.Mr. Reynard!"
+> CONTEXT: Map007/events/4/pages/5/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Rika ]
+"Have you met the professors already?"
+> CONTEXT: Map007/events/4/pages/5/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Uh y-yeah, \\.I think they're in there."
+> CONTEXT: Map007/events/4/pages/5/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Rika ]
+"Great, \\.thanks!"
+> CONTEXT: Map007/events/4/pages/5/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Please be hallucination, \\.
+please be hallucination. . ."
+> CONTEXT: Map007/events/4/pages/5/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Ugh."
+> CONTEXT: Map007/events/4/pages/5/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . No. \\.No it couldn't be.
+\\.That's just dumb. )
+> CONTEXT: Map007/events/4/pages/9/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hey--. . . \\.where'd it go. . . ? )
+> CONTEXT: Map007/events/4/pages/9/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/4/pages/9/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . No. \\.No it couldn't be.
+\\.That's dumb. )
+> CONTEXT: Map007/events/4/pages/9/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"Downstairs."
+> CONTEXT: Map007/events/4/pages/14/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"What is it?"
+> CONTEXT: Map007/events/4/pages/14/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"I mean. . . \\.\\.What \\iisn't\\i 'it'?"
+> CONTEXT: Map007/events/4/pages/14/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"But. . ."
+> CONTEXT: Map007/events/4/pages/14/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . For one, \\.I guess I'm still trying to
+get used to this being the real you."
+> CONTEXT: Map007/events/4/pages/14/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Hey-- \\.I didn't mean that in a bad way."
+> CONTEXT: Map007/events/4/pages/14/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"And even then. . . \\.\\.Why would you
+care about what I think anyway?"
+> CONTEXT: Map007/events/4/pages/14/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Downstairs."
+> CONTEXT: Map007/events/4/pages/14/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]
+The door's locked.
+There is a small opening at the bottom.
+> CONTEXT: Map007/events/18/pages/0/4/Dialogue < UNTRANSLATED
+Cửa khóa.
+Có một khe hở ở bên dưới.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( It's locked again. . . ? )
+> CONTEXT: Map007/events/18/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( It's unlocked. . . )
+> CONTEXT: Map007/events/18/pages/3/3/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Khóa. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]
+The door's locked.
+> CONTEXT: Map007/events/18/pages/4/4/Dialogue < UNTRANSLATED
+\\ignr\\e[18]
+Cửa khóa.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[28]
+A fancy painting of a lady whose eyes
+always seem to follow you.
+> CONTEXT: Map007/events/23/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]
+The door's locked.
+> CONTEXT: Map007/events/27/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/27/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/27/pages/2/3/Dialogue < UNTRANSLATED
+\\ignr\\e[18]
+The door's locked.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( But. . . \\.\\.I'm sorta already inside this door. . . ? )
+> CONTEXT: Map007/events/27/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Quite a room in there. . . )
+> CONTEXT: Map007/events/27/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]
+A painting of a slanted tree off the mountain-side.
+> CONTEXT: Map007/events/30/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[41]\\nm[ Quincy ]
+"Hey--. . . \\.What are you doing out here?"
+> CONTEXT: Map007/events/41/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[41]\\nm[ Quincy ]
+"This whole time. . . \\.You could come
+and go all on your own accord?"
+> CONTEXT: Map007/events/41/pages/3/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[41]\\nm[ Quincy ]
+"Wait a minute. . ."
+> CONTEXT: Map007/events/41/pages/3/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[41]\\nm[ Quincy ]
+"Could it be. . . ?!"
+> CONTEXT: Map007/events/41/pages/3/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Hey, \\.I didn't even ask. . .
+\\.What is your name?"
+> CONTEXT: Map007/events/44/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"What? \\.Oh. . . \\.I guess I didn't
+ tell you yet this time around."
+> CONTEXT: Map007/events/44/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"It's Quincy."
+> CONTEXT: Map007/events/44/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Quincy, \\.huh?\\.\\. That sounds fitting."
+> CONTEXT: Map007/events/44/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"What's that supposed to mean?"
+> CONTEXT: Map007/events/44/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"I don't know. . . \\.I guess you just
+look like a Quincy to me?"
+> CONTEXT: Map007/events/44/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Alright then. . ."
+> CONTEXT: Map007/events/44/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"This wasn't something I wanted to
+show you \\ithis\\i iteration, \\.but. . ."
+> CONTEXT: Map007/events/45/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Since I need to keep you around for reference,
+\\.you might as well go and have a look."
+> CONTEXT: Map007/events/45/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hold on, \\.just back up a minute. . ."
+> CONTEXT: Map007/events/45/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"What do you mean you \\icreated\\i--. . ."
+> CONTEXT: Map007/events/45/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"I mean, \\.what even \\iis\\i this place?!"
+> CONTEXT: Map007/events/45/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"I think you'll find the answers inside here."
+> CONTEXT: Map007/events/45/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"Sorry you have to keep these weird memories,
+\\.though. . . \\.I'll need them later for reference."
+> CONTEXT: Map007/events/45/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"But just. . . \\.\\.try not to worry about it."
+> CONTEXT: Map007/events/45/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"\\iNot worry\\i about it. . . ?"
+> CONTEXT: Map007/events/45/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"Yeah, \\.don't worry about it."
+> CONTEXT: Map007/events/45/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"Go on, \\.I'll meet you in there."
+> CONTEXT: Map007/events/45/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"But--
+> CONTEXT: Map007/events/45/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"\\i'But but but--'\\i get your butt in there--
+> CONTEXT: Map007/events/45/pages/0/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"What a mess. . ."
+> CONTEXT: Map007/events/45/pages/0/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Might as well let this one run its course."
+> CONTEXT: Map007/events/45/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"I guess the first time's never the charm,\\.
+but to happen \\ievery\\i time. . ."
+> CONTEXT: Map007/events/45/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+"Every time. . .\\. when. . . "
+> CONTEXT: Map007/events/45/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Wait a minute. . ."
+> CONTEXT: Map007/events/45/pages/0/369/Dialogue < UNTRANSLATED
+
+> END STRING

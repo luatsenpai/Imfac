@@ -1,0 +1,211 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+COMMON EVENT 10 CALLED -
+ NOT SUPPOSED TO HAPPEN ANYWHERE! WTF?!
+> CONTEXT: Commonevents/10/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"windowskin-phone"
+> CONTEXT: Commonevents/11/0/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/15/0/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/22/1/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/47/0/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"viewwindow"
+> CONTEXT: Commonevents/12/1/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/100/209/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/100/239/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"
+> CONTEXT: Commonevents/20/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\e[0]Received \\c[6]\\oi[54]
+> CONTEXT: Commonevents/20/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+> CONTEXT: Commonevents/20/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+> CONTEXT: Commonevents/20/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Colin ]
+> CONTEXT: Commonevents/20/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]
+> CONTEXT: Commonevents/20/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[40]
+Who goes to fetch the files?
+> CONTEXT: Commonevents/20/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\oi[11]
+> CONTEXT: Commonevents/20/65/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\oi[12]
+> CONTEXT: Commonevents/20/65/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[TRANSLATOR EXPLANATION]:
+References to: "...All that junk inside your trunk..."
+from song <My Humps\> by Black Eyed Peas
+> CONTEXT: Commonevents/20/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Finding Paradise (Main Theme) - Kan
+R. Gao"
+> CONTEXT: Commonevents/20/281/InlineScript/3:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Dr. Rosalene ]
+"Turn off visibility and interactivity; \\.it'd
+be messy to be seen."
+> CONTEXT: Commonevents/26/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Dr. Watts ]
+"Yeah yeah, \\.happy?"
+> CONTEXT: Commonevents/26/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[Glitch: Common event 34 Set to Walking]
+> CONTEXT: Commonevents/34/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[Glitch: Common event 35 Set to Walking]
+> CONTEXT: Commonevents/35/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"windowskin_bg2"
+> CONTEXT: Commonevents/49/1/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"viewwindow_bw"
+> CONTEXT: Commonevents/54/1/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"OooOo. . .\\.\\. I'm a ghoOoOost. . . . ."
+> CONTEXT: Commonevents/62/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+E N T I T Y   D E A C T I V A T E D
+> CONTEXT: Commonevents/63/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"So long. . .\\.\\. But why. . ."
+> CONTEXT: Commonevents/64/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Yeah,\\. you're definitely getting longer. . ."
+> CONTEXT: Commonevents/64/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Wait. . . \\.\\.Are you getting longer?"
+> CONTEXT: Commonevents/64/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"What do you even do. . ."
+> CONTEXT: Commonevents/64/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Requires memory links to shoot.
+\\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
+> CONTEXT: Commonevents/100/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Requires: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
+> CONTEXT: Commonevents/100/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Dr. Watts ]
+"What?"
+> CONTEXT: Commonevents/103/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\e[0]\\iNot enough memory links established.
+> CONTEXT: Commonevents/130/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\e[0]\\iRequires \\b\\v[32]\\b \\oi[26] to proceed.\\i
+> CONTEXT: Commonevents/131/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/131/11/Dialogue < UNTRANSLATED
+
+> END STRING

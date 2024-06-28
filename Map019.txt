@@ -1,0 +1,661 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( That door over there should lead
+back to the hallway. . . )
+> CONTEXT: Map019/events/1/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/15/pages/1/11/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Cánh cửa đằng kia chắc hẳn là
+lối quay về hành lang. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( I should probably get that key outta there. . . )
+> CONTEXT: Map019/events/1/pages/1/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/15/pages/1/23/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có lẽ mình nên lấy chìa khóa ra khỏi đó. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+The door's locked.
+> CONTEXT: Map019/events/1/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/1/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/1/pages/7/3/Dialogue < UNTRANSLATED
+\\ignr\\e[1]
+Cửa khóa.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]
+Unlocked the door with \\oi[29].
+> CONTEXT: Map019/events/3/pages/1/6/Dialogue < UNTRANSLATED
+\\ignr\\e[3]
+Mở khóa cửa với \\oi[29].
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Huh, \\.I thought I left the key on the door earlier. . . )
+> CONTEXT: Map019/events/3/pages/2/8/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hử, \\.mình nhớ vừa này còn cắm chìa khóa trên cửa mà. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Whoa. . .\\.\\. This room's something else. . . )
+> CONTEXT: Map019/events/4/pages/1/33/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Quào. . .\\.\\. Căn phòng này trông lạ quá. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Lady?"
+> CONTEXT: Map019/events/4/pages/2/41/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+"Phu nhân?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Oh my god,\\. it's real!"
+> CONTEXT: Map019/events/4/pages/4/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]
+Received \\oi[29].
+> CONTEXT: Map019/events/7/pages/1/8/Dialogue < UNTRANSLATED
+\\ignr\\e[7]
+Đã nhận \\oi[29].
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A small bronze key.
+> CONTEXT: Map019/events/12/pages/0/56/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Một chiếc chìa khóa đồng nhỏ.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Perhaps that's for the door. . . )
+> CONTEXT: Map019/events/12/pages/0/88/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có lẽ nó dùng cho cánh cửa kia. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Uhhh, \\.I should probably get that back. . . )
+> CONTEXT: Map019/events/12/pages/0/197/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Uhhh, \\.Có lẽ mình nên lấy nó ở lại . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Maybe there's something around
+here that would help lure it out. . . )
+> CONTEXT: Map019/events/12/pages/1/56/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có lẽ có gì đó quanh đây sẽ giúp
+dụ nó ra. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( I'd better find a way to get that key. . .
+\\.. . . without losing a hand. )
+> CONTEXT: Map019/events/12/pages/1/61/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mình nên tìm cách lấy chìa khóa. . .
+\\.. . . không thì mất tay như chơi. )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Here goes something. . . \\.\\.on a stick. . . )
+> CONTEXT: Map019/events/12/pages/2/70/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Đây, lấy thứ đó. . . \\.\\.trên cây gậy đi. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Ok."
+> CONTEXT: Map019/events/12/pages/2/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Looks like it wants to be left alone. . . )
+> CONTEXT: Map019/events/12/pages/4/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+The hole is empty.
+> CONTEXT: Map019/events/12/pages/5/56/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Trong hố không có gì.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hey,\\. I just wanna talk. . ."
+> CONTEXT: Map019/events/16/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
+"This SUUUUUCKS!!"
+> CONTEXT: Map019/events/16/pages/3/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+Received \\oi[28].
+> CONTEXT: Map019/events/17/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Why's that cat so long?!"
+> CONTEXT: Map019/events/17/pages/7/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Excuse me. . . ?"
+> CONTEXT: Map019/events/17/pages/7/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Wait no, \\.that's not what
+I came here to ask."
+> CONTEXT: Map019/events/17/pages/7/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"You know what, \\.I'm just gonna
+straight up say it."
+> CONTEXT: Map019/events/17/pages/7/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"There are two of you."
+> CONTEXT: Map019/events/17/pages/7/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"That's right, \\.I saw it. \\.You were at
+two places at once."
+> CONTEXT: Map019/events/17/pages/7/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Also, \\.I think that sink downstairs
+freakin' \\iresets time\\i."
+> CONTEXT: Map019/events/17/pages/7/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"I don't wanna say \\i'Groundhog Day'\\i, \\.but
+there's something bonkers goin' on. . ."
+> CONTEXT: Map019/events/17/pages/7/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . You're aware of how crazy you
+sound, \\.right?"
+> CONTEXT: Map019/events/17/pages/7/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Oh trust me, \\.I know."
+> CONTEXT: Map019/events/17/pages/7/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"I mean,\\. \\iam I\\i crazy? \\.Maybe."
+> CONTEXT: Map019/events/17/pages/7/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"But \\iis this\\i crazy?\\. Definitely!"
+> CONTEXT: Map019/events/17/pages/7/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . I don't know what you expect me to say."
+> CONTEXT: Map019/events/17/pages/7/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Just answer me this: \\.Do you have
+any clue what I'm talking about?"
+> CONTEXT: Map019/events/17/pages/7/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Not at all. . ."
+> CONTEXT: Map019/events/17/pages/7/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ah-hah! \\.\\.You're lying!"
+> CONTEXT: Map019/events/17/pages/7/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Why do you think that?"
+> CONTEXT: Map019/events/17/pages/7/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Well, \\.let's see. . ."
+> CONTEXT: Map019/events/17/pages/7/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"There are dead bodies downstairs.\\. You're alone,
+\\.and a stranger approaches with crazy tales. . ."
+> CONTEXT: Map019/events/17/pages/7/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . If you aren't in on all of this,\\. then
+\\iwhy are you not running\\i?"
+> CONTEXT: Map019/events/17/pages/7/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"And where would I run to?"
+> CONTEXT: Map019/events/17/pages/7/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"I don't know. . .\\. somewhere away from me?"
+> CONTEXT: Map019/events/17/pages/7/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Look. . . \\.To be honest, \\.you \\iare\\i freaking me out."
+> CONTEXT: Map019/events/17/pages/7/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"But it's more in a strange way than. . .\\. Well. . ."
+> CONTEXT: Map019/events/17/pages/7/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . I don't know, \\.but I just don't think
+you're the killer or anything."
+> CONTEXT: Map019/events/17/pages/7/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"How do you know that? \\.\\.You don't know me!"
+> CONTEXT: Map019/events/17/pages/7/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . And given the circumstances, \\.even \\iI\\i
+would think I could be the killer."
+> CONTEXT: Map019/events/17/pages/7/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . I'm not sure. \\.\\.It's just a feeling."
+> CONTEXT: Map019/events/17/pages/7/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"There's something about you. . .\\.\\.
+I just feel like you \\ican't\\i be the killer."
+> CONTEXT: Map019/events/17/pages/7/294/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Okay, \\.I know that's supposed to be good,
+\\.but why does it feel a bit emasculating. . ."
+> CONTEXT: Map019/events/17/pages/7/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Well. . . \\.Why aren't \\iyou\\i running?"
+> CONTEXT: Map019/events/17/pages/7/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"From what?"
+> CONTEXT: Map019/events/17/pages/7/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"From me."
+> CONTEXT: Map019/events/17/pages/7/348/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Why uh. . .\\. why would I be running from you?"
+> CONTEXT: Map019/events/17/pages/7/355/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"I mean, \\.a mysterious stranger appearing
+double in a time-resetting murder loop. . ."
+> CONTEXT: Map019/events/17/pages/7/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . If what you're saying is true, \\.then it
+sounds like \\iI\\i would be the suspicious one."
+> CONTEXT: Map019/events/17/pages/7/381/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Uhh. . . \\.\\.Can't argue with you there."
+> CONTEXT: Map019/events/17/pages/7/394/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"But I guess. . . \\.\\.I feel like there's
+something about you,\\. too?"
+> CONTEXT: Map019/events/17/pages/7/407/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"I mean, \\.this is so crazy that I
+feel like I'm still in denial, \\.but. . ."
+> CONTEXT: Map019/events/17/pages/7/417/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . There's something about you that makes
+me feel like you can't be the killer either."
+> CONTEXT: Map019/events/17/pages/7/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Take me to it."
+> CONTEXT: Map019/events/17/pages/7/442/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"What?"
+> CONTEXT: Map019/events/17/pages/7/449/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/37/pages/6/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"The sink downstairs. \\.\\.You said it resets time?"
+> CONTEXT: Map019/events/17/pages/7/459/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"You believe me?"
+> CONTEXT: Map019/events/17/pages/7/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"No, \\.don't be ridiculous."
+> CONTEXT: Map019/events/17/pages/7/473/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"But given the circumstances. . . \\.I'd like
+to see what's making you act this way."
+> CONTEXT: Map019/events/17/pages/7/484/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Alright, \\.I guess that's the
+best I could hope for."
+> CONTEXT: Map019/events/17/pages/7/496/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Quincy ]
+"C'mon. . . \\.\\.I'll show you."
+> CONTEXT: Map019/events/17/pages/7/533/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+^REMINDER CAT STUFF SAFE ROOM PLX^
+> CONTEXT: Map019/events/18/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
+"FUUUUUUUUUUUUUUUUUUUUUUUUU--
+> CONTEXT: Map019/events/19/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A cushioned throne with plushy subjects on its side.
+> CONTEXT: Map019/events/21/pages/0/3/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Chiếc ngai vàng lót đệm và bên cạnh có vài đồ vật
+bằng vải.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A battle-worn sofa that hides its wounds from afar.
+> CONTEXT: Map019/events/22/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/22/pages/2/3/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Chiếc sofa cũ kỹ với những vết sờn rách.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A shiny new play tunnel.
+> CONTEXT: Map019/events/23/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/23/pages/2/3/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Đường hầm vui chơi còn mới.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"You know this cat?"
+> CONTEXT: Map019/events/23/pages/8/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[38]\\nm[ Lynri ]
+"We met five minutes ago, \\.if that counts."
+> CONTEXT: Map019/events/23/pages/8/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Yeah? \\.Think he's the culprit?"
+> CONTEXT: Map019/events/23/pages/8/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[38]\\nm[ Lynri ]
+"Well, \\.there's a red herring on the
+carpet over there,\\. so probably not."
+> CONTEXT: Map019/events/23/pages/8/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Har-har."
+> CONTEXT: Map019/events/23/pages/8/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Oh wait, \\.there actually is."
+> CONTEXT: Map019/events/23/pages/8/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+An empty bowl.
+> CONTEXT: Map019/events/24/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+The cat is fast asleep.
+> CONTEXT: Map019/events/24/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Wake it up
+> CONTEXT: Map019/events/24/pages/1/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Leave it be
+> CONTEXT: Map019/events/24/pages/1/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hey. . . \\.\\.pssst. . ."
+> CONTEXT: Map019/events/24/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A fish-shaped plush toy.
+> CONTEXT: Map019/events/36/pages/0/6/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Đồ chơi nhồi bông hình con cá.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A red herring-shaped plush toy. . . ?
+> CONTEXT: Map019/events/36/pages/1/3/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Đồ chơi nhồi bông hình con cá trích đỏ. . . ?
+> END STRING

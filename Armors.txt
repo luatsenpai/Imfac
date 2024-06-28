@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\oa[\#]: x=38
+> CONTEXT: Armors/1/description/ < UNTRANSLATED
+
+> END STRING
