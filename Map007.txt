@@ -72,7 +72,8 @@ and go all on your own accord?"
 \\ignr\\e[4]\\nm[ Quincy ]
 ( How could this be happening again. . . ?! )
 > CONTEXT: Map007/events/4/pages/5/32/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Làm sao chuyện này có thể lặp lại. . . ?! )
 > END STRING
 
 > BEGIN STRING
@@ -80,7 +81,9 @@ and go all on your own accord?"
 ( Maybe. . .\\.\\. Maybe I really am just
 seeing things after all. . . )
 > CONTEXT: Map007/events/4/pages/5/55/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Có lẽ. . .\\.\\. có lẽ mình chỉ
+đang gặp ảo giác thôi. . . )
 > END STRING
 
 > BEGIN STRING
@@ -88,35 +91,41 @@ seeing things after all. . . )
 ( Yeah. . . \\.\\.These hallucinations are really
 getting out of hand. . . )
 > CONTEXT: Map007/events/4/pages/5/67/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Ừm. . . \\.\\.Những ảo giác này đang
+vượt khỏi tầm kiểm soát. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Rika ]
 "Oh, \\.Mr. Reynard!"
 > CONTEXT: Map007/events/4/pages/5/123/Dialogue < UNTRANSLATED
-
+\\ignr\\e[5]\\nm[ Rika ]
+"A, \\.Ngài Reynard!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Rika ]
 "Have you met the professors already?"
 > CONTEXT: Map007/events/4/pages/5/131/Dialogue < UNTRANSLATED
-
+\\ignr\\e[5]\\nm[ Rika ]
+"Ngài đã gặp giáo sư chưa?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "Uh y-yeah, \\.I think they're in there."
 > CONTEXT: Map007/events/4/pages/5/137/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+"Uh ờm, \\.tôi nghĩ họ đang ở trong đó."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Rika ]
 "Great, \\.thanks!"
 > CONTEXT: Map007/events/4/pages/5/141/Dialogue < UNTRANSLATED
-
+\\ignr\\e[5]\\nm[ Rika ]
+"Tuyệt, \\.cảm ơn!"
 > END STRING
 
 > BEGIN STRING
@@ -124,7 +133,9 @@ getting out of hand. . . )
 "Please be hallucination, \\.
 please be hallucination. . ."
 > CONTEXT: Map007/events/4/pages/5/184/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+"Làm ơn hãy là ảo giác, \\.
+làm ơn hãy là ảo giác. . ."
 > END STRING
 
 > BEGIN STRING
@@ -139,7 +150,9 @@ please be hallucination. . ."
 ( . . . No. \\.No it couldn't be.
 \\.That's just dumb. )
 > CONTEXT: Map007/events/4/pages/9/34/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . Không. \\.Không thể nào đâu.
+\\.Thật ngớ ngẩn. )
 > END STRING
 
 > BEGIN STRING

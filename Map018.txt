@@ -147,7 +147,9 @@
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . I need to get to the bottom of this. )
 > CONTEXT: Map018/events/4/pages/5/60/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . Mình cần phải tìm hiểu ngọn ngành
+chuyện này. )
 > END STRING
 
 > BEGIN STRING
@@ -155,7 +157,9 @@
 ". . . Direct human-to-machine
 memory interfacing. . . ?"
 > CONTEXT: Map018/events/4/pages/10/78/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+". . . Direct human-to-machine
+memory interfacing. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -374,7 +378,8 @@ A N O M A L Y   D E T E C T E D
 The bloodstained body appears stiff.
 > CONTEXT: Map018/events/5/pages/7/5/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/16/pages/2/5/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Thi thể dính máu có vẻ đã cứng đờ.
 > END STRING
 
 > BEGIN STRING
@@ -1041,14 +1046,17 @@ nor are they knife wounds. . ."
 "Please step back, \\.Ms. Ahuja. \\.
 We don't know if the bodies are dangerous."
 > CONTEXT: Map018/events/38/pages/1/11/Dialogue < UNTRANSLATED
-
+\\ignr\\e[38]\\nm[ Emil ]
+"Hãy lùi lại, \\.Bà Ahuja. \\.
+Chúng tôi không biết thi thể có nguy hiềm không."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[43]\\nm[ Prisha ]
 "Oh quit your yabbin', \\.it's not like I'm touching 'em."
 > CONTEXT: Map018/events/38/pages/1/19/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Prisha ]
+"Thôi, đừng càm ràm nữa, \\.ta có đụng vào họ đâu."
 > END STRING
 
 > BEGIN STRING
@@ -1056,7 +1064,9 @@ We don't know if the bodies are dangerous."
 "Ms. Ahuja, \\.please stay back and
 keep a safe distance."
 > CONTEXT: Map018/events/38/pages/1/30/Dialogue < UNTRANSLATED
-
+\\ignr\\e[38]\\nm[ Emil ]
+"Bà Ahuja, \\.xin hãy lùi lại và
+giữ khoảng cách an toàn."
 > END STRING
 
 > BEGIN STRING
@@ -1064,7 +1074,9 @@ keep a safe distance."
 "Oh please, \\.dear; \\.I've seen my fair
 share of corpses back in the day."
 > CONTEXT: Map018/events/38/pages/1/37/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Prisha ]
+"Không sao mà\\.; \\.Ta từng chứng kiến
+nhiều thi thể trước kia rồi."
 > END STRING
 
 > BEGIN STRING
@@ -1072,7 +1084,9 @@ share of corpses back in the day."
 "But you know what's odd. . . \\.\\.
 I've never seen wounds like \\ithese\\i."
 > CONTEXT: Map018/events/38/pages/1/45/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Prisha ]
+"Nhưgn có biết có gì lạ không. . . \\.\\.
+Ta chưa từng thấy vết thương \\inhư vậy\\i."
 > END STRING
 
 > BEGIN STRING
@@ -1080,7 +1094,9 @@ I've never seen wounds like \\ithese\\i."
 "And their eyes. . . \\.\\.It's as if they
 were seeing something horrible."
 > CONTEXT: Map018/events/38/pages/1/49/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Prisha ]
+"Và mắt của họ. . . \\.\\.Như thể họ đã
+chứng kiến thứ gì đó khủng khiếp vậy."
 > END STRING
 
 > BEGIN STRING
@@ -1088,7 +1104,9 @@ were seeing something horrible."
 "Yes,\\. they are Dr. Alise Yu and
 Dr. Warden Haynes. . ."
 > CONTEXT: Map018/events/39/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[39]\\nm[ Rika ]
+"Ừm,\\. họ là Ts. Alise Yu và
+Ts. Warden Haynes. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1096,28 +1114,33 @@ Dr. Warden Haynes. . ."
 "Ambulance? \\.\\.Yes, \\.but I don't think
 they're breathing. . ."
 > CONTEXT: Map018/events/39/pages/0/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[39]\\nm[ Rika ]
+"Cấp cứu phải không? \\.\\.Vâng, \\.nhưng tôi
+không nghĩ họ vẫn còn thở. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[39]\\nm[ Rika ]
 "What's that--. . . \\.Fire trucks? \\.\\.Well--"
 > CONTEXT: Map018/events/39/pages/0/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[39]\\nm[ Rika ]
+"Gì cơ--. . . \\.Cứu hỏa sao? \\.\\.Chà--"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[41]\\nm[ Viktor ]
 "Bring \\iEVERYONE\\i!!"
 > CONTEXT: Map018/events/39/pages/0/21/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Viktor ]
+"Đem \\iAI CŨNG ĐƯỢC\\i!!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[39]\\nm[ Rika ]
 "Um yes, \\.\\.fire trucks too please. . ."
 > CONTEXT: Map018/events/39/pages/0/24/Dialogue < UNTRANSLATED
-
+\\ignr\\e[39]\\nm[ Rika ]
+"Um vâng, \\.\\.đội cứu hỏa cũng tới đi ạ. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1125,14 +1148,17 @@ they're breathing. . ."
 "Yes, \\.I know it's remote,
 \\.but please hurry. . ."
 > CONTEXT: Map018/events/39/pages/0/29/Dialogue < UNTRANSLATED
-
+\\ignr\\e[39]\\nm[ Rika ]
+"Vâng, \\.tôi biết là xa,
+\\.nhưng hãy nhanh lên ạ. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[34]\\nm[ Idina ]
 "Oh my gosh. . . \\.\\.What have I gotten myself into?!"
 > CONTEXT: Map018/events/40/pages/1/4/Dialogue < UNTRANSLATED
-
+\\ignr\\e[34]\\nm[ Idina ]
+"Trời đất. . . \\.\\.Tôi đang tự đẩy mình vào đâu đây?!"
 > END STRING
 
 > BEGIN STRING
@@ -1140,28 +1166,33 @@ they're breathing. . ."
 "The one time we attend a sketchy and
 secluded party without our bodyguards. . ."
 > CONTEXT: Map018/events/40/pages/1/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[34]\\nm[ Idina ]
+"Đây là lần đầu tiên chúng ta dự một bữa tiệc
+đáng ngờ tại nơi hẻo lánh mà không có vệ sĩ. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[34]\\nm[ Idina ]
 "Argh, \\.the way their eyes are still open. . ."
 > CONTEXT: Map018/events/40/pages/1/19/Dialogue < UNTRANSLATED
-
+\\ignr\\e[34]\\nm[ Idina ]
+"Argh, \\.cảnh tượng mắt họ vẫn còn mở. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[34]\\nm[ Idina ]
 "And that smell. . . \\.\\.I just can't take it anymore!"
 > CONTEXT: Map018/events/40/pages/1/24/Dialogue < UNTRANSLATED
-
+\\ignr\\e[34]\\nm[ Idina ]
+"Và cái mùi đó. . . \\.\\.mình không chịu nổi nữa!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Wait--. . ."
 > CONTEXT: Map018/events/40/pages/1/53/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan--. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1177,7 +1208,9 @@ I've ever made. . . \\.\\.and it was free!!"
 "We'll be okay, \\.right. . . ? \\.
 The FBI has got to be on their way. . ."
 > CONTEXT: Map018/events/41/pages/0/33/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Viktor ]
+"Chúng ta sẽ ổn thôi, \\.đúng chứ. . . ? \\.
+FBI chắc đang trên đường tới đây. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1185,7 +1218,9 @@ The FBI has got to be on their way. . ."
 "And they'll bring SWAT. . .\\. and PETA. . .
 \\.\\.They'll bring everything. . ."
 > CONTEXT: Map018/events/41/pages/0/38/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Viktor ]
+"Và họ sẽ mang theo SWAT. . .\\. và PETA. . .
+\\.\\.Họ sẽ mang theo mọi thứ. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1193,7 +1228,9 @@ The FBI has got to be on their way. . ."
 "Oh god. . . \\.Oh man. . .\\.
 Oh man. . . \\.Oh god. . ."
 > CONTEXT: Map018/events/42/pages/1/1/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Đầu Bếp Tóc Đỏ ]
+"Trời ơi. . . \\.Trời ơi. . .\\.
+Trời ơi. . . \\.Trời ơi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1201,56 +1238,65 @@ Oh man. . . \\.Oh god. . ."
 "Oh god. . . \\.\\.Oh man. . .\\.\\.
 It's finally happened. . ."
 > CONTEXT: Map018/events/42/pages/1/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Đầu Bếp Tóc Đỏ ]
+"Trời đất. . . \\.\\.không thể nào. . .\\.\\.
+Có chuyện không hay rồi . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Chef in Red ]
 ". . . My cooking killed someone. . ."
 > CONTEXT: Map018/events/42/pages/1/11/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Đầu Bếp Tóc Đỏ ]
+". . . Món mình nấu đã gây chết người rồi. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[42]\\nm[ Louie ]
 "Did he even eat the meal yet?"
 > CONTEXT: Map018/events/42/pages/1/15/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Louie ]
+"Ngài ấy đã dùng bữa chưa?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Chef in Red ]
 "No. . .\\.\\. But what does it matter anymore. . ."
 > CONTEXT: Map018/events/42/pages/1/17/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Đầu Bếp Tóc Đỏ ]
+"Chưa. . .\\.\\. Nhưng nó không quan trọng nữa. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[42]\\nm[ Louie ]
 "\\iWellll. . . . . .\\i"
 > CONTEXT: Map018/events/42/pages/1/21/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Louie ]
+"\\iChàaaa. . . . . .\\i"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Chef in Yellow ]
 "Hmhmm. . . \\.mhm. . . . . ."
 > CONTEXT: Map018/events/44/pages/0/7/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Hmhmm. . . \\.mhm. . . . . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Chef in Yellow ]
 "Mmhmm. . . \\.hmmm. . . . . ."
 > CONTEXT: Map018/events/44/pages/0/13/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Hmhmm. . . \\.mhm. . . . . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Chef in Yellow ]
 "What \\iwould\\i I have done?\\.\\. Hmmm. . ."
 > CONTEXT: Map018/events/44/pages/0/18/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Tôi \\ivừa\\i làm gì thế này\\.\\. Hmmm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1258,7 +1304,9 @@ It's finally happened. . ."
 "I mean, I don't \\ithink\\i it's me,\\.
 but the method. . . \\.The timing. . ."
 > CONTEXT: Map018/events/44/pages/0/32/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Ý tôi là, tôi không \\inghĩ\\i là tại tôi,\\.
+do vô tình. . . \\.trùng hợp thôi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1266,7 +1314,9 @@ but the method. . . \\.The timing. . ."
 ". . . No, no, \\.it looks too much
 like a murder to be me."
 > CONTEXT: Map018/events/44/pages/0/38/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+". . . Không, không, \\.nó quá giống
+một vụ án mạng do chính tôi gây ra."
 > END STRING
 
 > BEGIN STRING
@@ -1274,7 +1324,9 @@ like a murder to be me."
 "I'll be frank. . . \\.If you ask me,\\.
 I'd say one of you guests did it."
 > CONTEXT: Map018/events/44/pages/0/49/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Tôi nói thẳng. . . \\.nếu anh hỏi tôi,\\. tôi sẽ
+nói là do một trong số khách mời làm."
 > END STRING
 
 > BEGIN STRING
@@ -1282,7 +1334,9 @@ I'd say one of you guests did it."
 "Unless, \\.of course, \\.one of us took this very
 chance to make it appear as so instead. . ."
 > CONTEXT: Map018/events/44/pages/0/58/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Tất nhiên, \\.trừ khi \\.một trong số chúng tôi
+đã lợi dụng cơ hội để ra tay. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1290,28 +1344,34 @@ chance to make it appear as so instead. . ."
 "I mean, if I were to commit this heinous crime,\\.
 this is \\iexactly\\i how I would go about it. . ."
 > CONTEXT: Map018/events/44/pages/0/66/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Ý tôi là, nếu tôi là hung thủ gây án,\\. thì đó
+\\ichính\\i là cách thức tôi sẽ thực hiện. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Chef in Yellow ]
 "Wait a minute. . .\\.\\. Did \\iI\\i do it??"
 > CONTEXT: Map018/events/44/pages/0/77/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
+"Khoan đã. . .\\.\\. Là do \\itôi\\i ư??"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Chef in Blue ]
 "I hope I still have a job afterwards. . ."
 > CONTEXT: Map018/events/45/pages/0/4/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Đầu Bếp Tóc Lam ]
+"Tôi mong tôi vẫn giữ được công việc
+sau vụ này. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Chef in Blue ]
 "Oh no, \\.this is just terrible. . ."
 > CONTEXT: Map018/events/45/pages/0/18/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Đầu Bếp Tóc Lam ]
+"Không, \\.vụ này kinh khủng quá. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1319,7 +1379,9 @@ this is \\iexactly\\i how I would go about it. . ."
 ". . . Culinary school did NOT
 prepare me for this."
 > CONTEXT: Map018/events/45/pages/0/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Đầu Bếp Tóc Lam ]
+". . . Trường dạy nấu ăn KHÔNG hề
+dạy tôi xử lý chuyện này."
 > END STRING
 
 > BEGIN STRING
@@ -1333,7 +1395,8 @@ prepare me for this."
 \\ignr\\e[46]\\nm[ Lynri ]
 "\\iPssst\\i, \\.you know what's strange?"
 > CONTEXT: Map018/events/46/pages/0/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Lynri ]
+"\\iSuỵt\\i, \\.anh biết điều gì lạ không?"
 > END STRING
 
 > BEGIN STRING
@@ -1341,7 +1404,9 @@ prepare me for this."
 ". . . If only four people live here,\\.
 why do they need three chefs?"
 > CONTEXT: Map018/events/46/pages/0/20/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Lynri ]
+". . . Nếu chỉ có bốn người sống ở đây,\\.
+tại sao họ cần tới ba đầu bếp chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -1349,7 +1414,9 @@ why do they need three chefs?"
 "This isn't time for jokes--. . . \\.\\.
 What were you doing upstairs earlier?"
 > CONTEXT: Map018/events/46/pages/0/24/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Đây không phải lúc để đùa--. . . \\.\\.
+Hồi nãy cô làm gì ở trên lầu thế?"
 > END STRING
 
 > BEGIN STRING
@@ -1357,7 +1424,9 @@ What were you doing upstairs earlier?"
 "That wasn't a joke.\\.\\.
 And what do you mean?"
 > CONTEXT: Map018/events/46/pages/0/36/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Lynri ]
+"Đấy không phải đùa đâu.\\.\\.
+Và ý anh là sao?"
 > END STRING
 
 > BEGIN STRING
@@ -1365,7 +1434,9 @@ And what do you mean?"
 "I saw you coming upstairs earlier,\\.
 right before I found the bodies. . ."
 > CONTEXT: Map018/events/46/pages/0/39/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Lúc nãy tôi thấy cô lên lầu,\\.
+trước khi tôi tìm thấy thi thể. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1373,28 +1444,33 @@ right before I found the bodies. . ."
 "But I never came upstairs?
 \\.I was in the kitchen."
 > CONTEXT: Map018/events/46/pages/0/56/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Lynri ]
+"Nhưng tôi chưa từng lên lầu mà?
+\\.Tôi luôn ở trong bếp."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Well, yeah,\\. okay. . .\\.\\. I saw that too."
 > CONTEXT: Map018/events/46/pages/0/66/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm, đúng,\\. okay. . .\\.\\. tôi cũng thấy vậy."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Lynri ]
 "You aren't making much sense. . ."
 > CONTEXT: Map018/events/46/pages/0/69/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Lynri ]
+"Anh nói chuyện không mạch lạc cho lắm. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "I'm not. . .\\.\\. I know. . ."
 > CONTEXT: Map018/events/46/pages/0/78/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi không. . .\\.\\. tôi biết. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1402,7 +1478,9 @@ right before I found the bodies. . ."
 "Look, \\.we all need to calm down.
 \\.\\.This is a lot to take in."
 > CONTEXT: Map018/events/46/pages/0/90/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Lynri ]
+"Này, \\.chúng ta cần bình tĩnh lại.
+\\.\\.Có quá nhiều chuyện diễn ra rồi."
 > END STRING
 
 > BEGIN STRING
@@ -1418,14 +1496,14 @@ It's 3:25.
 > CONTEXT: Map018/events/49/pages/2/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/67/pages/1/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/67/pages/4/7/Dialogue < UNTRANSLATED
-
+Đã 3:25.
 > END STRING
 
 > BEGIN STRING
 It's 3:21.
 > CONTEXT: Map018/events/49/pages/3/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/67/pages/5/7/Dialogue < UNTRANSLATED
-
+Đã 3:21.
 > END STRING
 
 > BEGIN STRING
