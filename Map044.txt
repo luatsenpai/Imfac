@@ -1,0 +1,52 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"What. . . \\.\\.What is happening. . . ?"
+> CONTEXT: Map044/events/10/pages/0/96/Dialogue < UNTRANSLATED
+\\ignr\\e[16]\\nm[ Quincy ]
+"Chuyện. . . \\.\\.Chuyện gì đang
+diễn ra vậy. . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"I don't understand. . . \\.\\.
+What is this. . . ?"
+> CONTEXT: Map044/events/10/pages/0/120/Dialogue < UNTRANSLATED
+\\ignr\\e[16]\\nm[ Quincy ]
+"Mình không thể hiểu . . \\.\\.
+Chuyện gì thế này. . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( The door won't open. . . )
+> CONTEXT: Map044/events/11/pages/0/26/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Không mở cửa được. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]
+The door's locked.
+> CONTEXT: Map044/events/15/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/15/pages/3/4/Dialogue < UNTRANSLATED
+\\ignr\\e[15]
+Cửa khóa.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( What is. . . this feeling. . . )
+> CONTEXT: Map044/events/24/pages/1/19/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Cảm giác này. . . là gì. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Was that the door. . . ? )
+> CONTEXT: Map044/events/24/pages/4/24/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Đó có phải là cánh cửa không. . . ? )
+> END STRING

@@ -154,14 +154,16 @@ Trong hố không có gì.
 \\ignr\\e[0]\\nm[ Quincy ]
 "Hey,\\. I just wanna talk. . ."
 > CONTEXT: Map019/events/16/pages/2/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Này,\\. tao chỉ muốn nói chuyện thôi mà. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
 "This SUUUUUCKS!!"
 > CONTEXT: Map019/events/16/pages/3/18/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
+"TỆ QUÁ!!"
 > END STRING
 
 > BEGIN STRING
@@ -615,33 +617,36 @@ carpet over there,\\. so probably not."
 \\ignr\\e[0]
 An empty bowl.
 > CONTEXT: Map019/events/24/pages/0/3/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Cái tô trống rỗng.
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]
 The cat is fast asleep.
 > CONTEXT: Map019/events/24/pages/1/6/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Con mèo đang ngủ say.
 > END STRING
 
 > BEGIN STRING
 Wake it up
 > CONTEXT: Map019/events/24/pages/1/9/Choice/0 < UNTRANSLATED
-
+Đánh thức nó
 > END STRING
 
 > BEGIN STRING
 Leave it be
 > CONTEXT: Map019/events/24/pages/1/9/Choice/1 < UNTRANSLATED
-
+Để nó ngủ
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Hey. . . \\.\\.pssst. . ."
 > CONTEXT: Map019/events/24/pages/1/19/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Này. . . \\.\\.pssst. . ."
 > END STRING
 
 > BEGIN STRING

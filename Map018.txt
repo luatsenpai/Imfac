@@ -126,7 +126,7 @@
 ( Where'd she go. . . ? )
 > CONTEXT: Map018/events/4/pages/2/29/Dialogue < UNTRANSLATED
 \\ignr\\e[0]\\nm[ Quincy ]
-( Bà ấy đi đâu rồi. . . ? )
+( Cô ấy đi đâu rồi nhỉ. . . ? )
 > END STRING
 
 > BEGIN STRING
@@ -998,7 +998,7 @@ Cả 2 đồng hồ đã ngừng chạy.
 A stained chess board.
 > CONTEXT: Map018/events/30/pages/1/2/Dialogue < UNTRANSLATED
 \\ignr\\e[30]
-Bàn cờ đã sờn.
+Bàn cờ nhuốm máu.
 > END STRING
 
 > BEGIN STRING

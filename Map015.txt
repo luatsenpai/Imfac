@@ -1412,8 +1412,8 @@ in common waste bins. . ."
 to spend money for once!"
 > CONTEXT: Map015/events/52/pages/0/4/Dialogue < UNTRANSLATED
 \\ignr\\e[52]\\nm[ Idina ]
-"Tôi rất vui khi thấy anh tôi dám
-chi tiền mạnh tay như vậy!"
+"Tôi rất vui khi thấy anh tôi biết
+cách chi tiền hợp lý!"
 > END STRING
 
 > BEGIN STRING
