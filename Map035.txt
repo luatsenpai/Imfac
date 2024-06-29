@@ -1,0 +1,24 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Quincy ]
+"H-\\.hey. . ."
+> CONTEXT: Map035/events/2/pages/0/53/Dialogue < UNTRANSLATED
+\\ignr\\e[3]\\nm[ Quincy ]
+"Ê-\\.ê. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Quincy ]
+"You said you'd meet me in here. . ."
+> CONTEXT: Map035/events/2/pages/0/67/Dialogue < UNTRANSLATED
+\\ignr\\e[3]\\nm[ Quincy ]
+"Cô bảo cô sẽ gặp tôi trong đây mà. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Wasn't there a staircase here?"
+> CONTEXT: Map035/events/6/pages/0/22/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ở đây không có cầu thang sao?"
+> END STRING

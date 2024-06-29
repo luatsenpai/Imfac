@@ -1,0 +1,45 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Doctor ]
+". . . Could one of you stay here with Lynri?"
+> CONTEXT: Map143/events/48/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/48/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/48/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/48/pages/0/14/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+". . . Một trong hai người có thể ở lại với
+Lynri chứ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Doctor ]
+"As for the other. . . \\.Please come with me."
+> CONTEXT: Map143/events/48/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/48/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/48/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/48/pages/0/35/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+"Người còn lại. . . \\.Xin hãy đi với tôi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( I can't hear what they're saying. . . )
+> CONTEXT: Map143/events/49/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/49/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/49/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/49/pages/0/11/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mình không thể nghe họ nói gì. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Is it. . .\\. Is it because \\ishe\\i couldn't? )
+> CONTEXT: Map143/events/49/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/49/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/49/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/49/pages/0/20/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hay là. . .\\. do \\icô ấy\\i không nghe thấy? )
+> END STRING
