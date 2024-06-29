@@ -3,14 +3,16 @@
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Huh, \\.that's new. . . )
 > CONTEXT: Map007/events/1/pages/4/7/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Huh, \\.mới à nha. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Quincy ]
 "Hey--. . . \\.What are you doing out here?"
 > CONTEXT: Map007/events/2/pages/4/26/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Quincy ]
+"Ê--. . . \\.Cô đang làm gì ngoài đó vậy?"
 > END STRING
 
 > BEGIN STRING
@@ -18,21 +20,25 @@
 "This whole time. . . \\.You could come
 and go all on your own accord?"
 > CONTEXT: Map007/events/2/pages/4/45/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Quincy ]
+"Từ nãy tới giờ. . . \\.cô cứ
+tự tiên đi ra đi vào thế?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Quincy ]
 "Wait a minute. . ."
 > CONTEXT: Map007/events/2/pages/4/72/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Quincy ]
+"Đợi đã. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Quincy ]
 "Could it be. . . ?!"
 > CONTEXT: Map007/events/2/pages/4/84/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Quincy ]
+"Có lẽ nào. . . ?!"
 > END STRING
 
 > BEGIN STRING
@@ -394,35 +400,41 @@ show you \\ithis\\i iteration, \\.but. . ."
 ". . . Since I need to keep you around for reference,
 \\.you might as well go and have a look."
 > CONTEXT: Map007/events/45/pages/0/55/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Vì tôi cần giữ anh để tham khảo,
+\\.anh cun4g có thể đi theo và quan sát."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Hold on, \\.just back up a minute. . ."
 > CONTEXT: Map007/events/45/pages/0/70/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan đã, \\.hãy đợi ở đây một chút . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "What do you mean you \\icreated\\i--. . ."
 > CONTEXT: Map007/events/45/pages/0/82/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô nói cô \\itạo ra\\i nghĩa là sao--. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "I mean, \\.what even \\iis\\i this place?!"
 > CONTEXT: Map007/events/45/pages/0/90/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ý tôi là, \\.nơi này \\ilà\\i nơi nào?!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "I think you'll find the answers inside here."
 > CONTEXT: Map007/events/45/pages/0/100/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Tôi nghĩ anh sẽ tìm ra câu trả lời ở đây."
 > END STRING
 
 > BEGIN STRING
@@ -430,63 +442,74 @@ show you \\ithis\\i iteration, \\.but. . ."
 "Sorry you have to keep these weird memories,
 \\.though. . . \\.I'll need them later for reference."
 > CONTEXT: Map007/events/45/pages/0/148/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Xin lỗi, anh phải giữ lại những ký ức kỳ lạ
+\\.này. . . \\.sau này tôi sẽ cần chúng để tham khảo."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "But just. . . \\.\\.try not to worry about it."
 > CONTEXT: Map007/events/45/pages/0/162/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Nhưng. . . \\.\\.đừng lo nghĩ gì về chuyện đó"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "\\iNot worry\\i about it. . . ?"
 > CONTEXT: Map007/events/45/pages/0/173/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"\\iĐừng lo nghĩ\\i gì về chuyện đó. . . ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "Yeah, \\.don't worry about it."
 > CONTEXT: Map007/events/45/pages/0/188/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Ừ, \\.đừng lo nghĩ gì về chuyện đó."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "Go on, \\.I'll meet you in there."
 > CONTEXT: Map007/events/45/pages/0/220/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Đi thôi, \\.tôi sẽ gắp anh ở trong kia."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "But--
 > CONTEXT: Map007/events/45/pages/0/223/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Nhưng--
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "\\i'But but but--'\\i get your butt in there--
 > CONTEXT: Map007/events/45/pages/0/242/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"\\i'Nhưng nhị cái gì--'\\i vào lẹ lẹ đi--
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "What a mess. . ."
 > CONTEXT: Map007/events/45/pages/0/323/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Lộn xộn quá. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 ". . . Might as well let this one run its course."
 > CONTEXT: Map007/events/45/pages/0/328/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Tốt hơn là cho sự kiện này diễn ra đúng
+tiến trình của nó."
 > END STRING
 
 > BEGIN STRING
@@ -494,19 +517,23 @@ show you \\ithis\\i iteration, \\.but. . ."
 "I guess the first time's never the charm,\\.
 but to happen \\ievery\\i time. . ."
 > CONTEXT: Map007/events/45/pages/0/343/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Chắc sự kiện đầu tiên này không may chút nào,\\.
+nhưng nó sẽ xảy ra \\imọi\\i lúc. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "Every time. . .\\. when. . . "
 > CONTEXT: Map007/events/45/pages/0/353/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Mọi lúc. . .\\. khi. . . "
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 ". . . Wait a minute. . ."
 > CONTEXT: Map007/events/45/pages/0/369/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Khoan đã. . ."
 > END STRING

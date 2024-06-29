@@ -699,14 +699,17 @@ giải đáp rồi. )
 ( Where's Lynri. . . ? \\.I'm just
 gonna go ask her outright. )
 > CONTEXT: Map013/events/4/pages/19/239/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Lynri đi đâu rồi. . . ? \\.Mình
+sẽ đi hỏi thẳng cô ấy. )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[33]\\nm[ Quincy ]
 ". . . What."
 > CONTEXT: Map013/events/4/pages/24/60/Dialogue < UNTRANSLATED
-
+\\ignr\\e[33]\\nm[ Quincy ]
+". . . Cái gì."
 > END STRING
 
 > BEGIN STRING
@@ -722,7 +725,9 @@ gonna go ask her outright. )
 ( Wow, \\.feels like it's been ages since
 I last washed my hands here. . . )
 > CONTEXT: Map013/events/4/pages/26/125/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Quào, \\.cứ như nó đã trải qua nhiều
+năm kể từ lúc mình rửa tay. . . )
 > END STRING
 
 > BEGIN STRING
@@ -730,7 +735,9 @@ I last washed my hands here. . . )
 ( All these umbrellas. . . \\.\\.I guess
 the guests have already arrived. )
 > CONTEXT: Map013/events/4/pages/26/134/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+( Số dù này. . . \\.\\.mình đoán
+toàn bộ khách đã có mặt. )
 > END STRING
 
 > BEGIN STRING
