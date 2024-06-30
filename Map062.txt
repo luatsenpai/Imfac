@@ -517,8 +517,8 @@ to live day to day like that."
 > CONTEXT: Map062/events/18/pages/0/671/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/671/Dialogue < UNTRANSLATED
 \\ignr\\e[42]\\nm[ Lynri ]
-"Tớ ghen tỵ với bà cậu. . .\\.\\. I'm not sure if I'd be able
-to live day to day like that."
+"Tớ ghen tỵ với bà cậu. . .\\.\\. Tớ không biết
+mình có chịu đựng nổi cuộc sống như thế không."
 > END STRING
 
 > BEGIN STRING
@@ -527,7 +527,9 @@ to live day to day like that."
 on me a bit through the years."
 > CONTEXT: Map062/events/18/pages/0/676/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/676/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Tớ cũng thế, \\.nhưng chắc là nó
+đã ngấm dần vào tớ theo thời gian."
 > END STRING
 
 > BEGIN STRING
@@ -536,7 +538,9 @@ on me a bit through the years."
 we first met,\\. actually."
 > CONTEXT: Map062/events/18/pages/0/696/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/696/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Thực ra, \\.bà đã qua đời từ
+rất lâu trước khi ta gặp nhau."
 > END STRING
 
 > BEGIN STRING
@@ -545,7 +549,9 @@ we first met,\\. actually."
 \\.and complications got her."
 > CONTEXT: Map062/events/18/pages/0/707/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/707/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+". . . "Bệnh Alzheimer đã đến vào những năm tháng
+cuối đời, \\.và những biến chứng của nó đã cướp bà đi."
 > END STRING
 
 > BEGIN STRING
@@ -553,7 +559,8 @@ we first met,\\. actually."
 "When we first met. . ."
 > CONTEXT: Map062/events/18/pages/0/716/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/716/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Khi chúng ta gặp nhau lần đầu. . ."
 > END STRING
 
 > BEGIN STRING
@@ -561,7 +568,9 @@ we first met,\\. actually."
 "Is that why you went on that trip?"
 > CONTEXT: Map062/events/18/pages/0/724/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/724/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Không lẽ vì thế mà cậu quyết định
+đi du lịch?"
 > END STRING
 
 > BEGIN STRING
@@ -570,7 +579,9 @@ we first met,\\. actually."
 your paper when I came back. . ."
 > CONTEXT: Map062/events/18/pages/0/745/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/745/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Cậu còn nhớ không, \\.lúc tớ quay lại,
+cậu đã chia sẻ về nghiên cứu của cậu. . ."
 > END STRING
 
 > BEGIN STRING
@@ -578,7 +589,8 @@ your paper when I came back. . ."
 ". . . I really questioned the path I'd chosen."
 > CONTEXT: Map062/events/18/pages/0/753/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/753/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+". . . Tớ đã quyết định con đường phải đi."
 > END STRING
 
 > BEGIN STRING
@@ -587,7 +599,9 @@ your paper when I came back. . ."
 work could make a difference. . ."
 > CONTEXT: Map062/events/18/pages/0/765/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/765/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Tớ đã suy nghĩ. . . \\iSẽ trở thành\\i một cá nhân với
+công việc của có thể tạo ra tác động tích cực. . ."
 > END STRING
 
 > BEGIN STRING
@@ -596,7 +610,9 @@ work could make a difference. . ."
 through life for myself."
 > CONTEXT: Map062/events/18/pages/0/770/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/770/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+". . . Thế rồi giờ đây \\.tớ cứ thế mà
+tung tăng hưởng thụ cuộc sống."
 > END STRING
 
 > BEGIN STRING
@@ -605,7 +621,9 @@ through life for myself."
 my part either, \\.to be honest."
 > CONTEXT: Map062/events/18/pages/0/786/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/786/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Thú thực thì, đây cũng không phải
+\\.lựa chọn xuất phát từ đáy lòng tớ."
 > END STRING
 
 > BEGIN STRING
@@ -613,7 +631,9 @@ my part either, \\.to be honest."
 "It's more like. . .\\. an impulse."
 > CONTEXT: Map062/events/18/pages/0/804/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/804/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Nói đúng hơn thì. . .\\. đó chỉ 
+là một phút bốc đồng."
 > END STRING
 
 > BEGIN STRING
@@ -622,7 +642,10 @@ my part either, \\.to be honest."
 being carefree and having fun. . .\\. but I can't."
 > CONTEXT: Map062/events/18/pages/0/813/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/813/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Theo một cách nào đó, \\.tớ ước gì mình có thể cảm thấy
+mãn nguyện chỉ bằng cách vô tư và vui vẻ. . .\\. 
+nhưng tớ không thể."
 > END STRING
 
 > BEGIN STRING
@@ -631,7 +654,9 @@ being carefree and having fun. . .\\. but I can't."
 bitter about it in the end."
 > CONTEXT: Map062/events/18/pages/0/831/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/831/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+". . . Đôi khi tớ tự hỏi liệu
+mình có hối hận vì điều đó không."
 > END STRING
 
 > BEGIN STRING
@@ -640,7 +665,9 @@ bitter about it in the end."
 keep each other in check."
 > CONTEXT: Map062/events/18/pages/0/852/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/852/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+". . . Ừm,\\. nghe có vẻ như chúng ta
+có thể giúp nhau đi đúng hướng."
 > END STRING
 
 > BEGIN STRING
@@ -648,7 +675,8 @@ keep each other in check."
 "Maybe we could."
 > CONTEXT: Map062/events/18/pages/0/858/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/858/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Có thể lắm chứ."
 > END STRING
 
 > BEGIN STRING
@@ -656,7 +684,8 @@ keep each other in check."
 "Hey, \\.what do you think if. . ."
 > CONTEXT: Map062/events/18/pages/0/873/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/873/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Này, \\.cậu nghĩ sao nếu. . ."
 > END STRING
 
 > BEGIN STRING
@@ -665,7 +694,9 @@ keep each other in check."
 now and then already, \\.but. . ."
 > CONTEXT: Map062/events/18/pages/0/889/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/889/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Nếu như. . . \\.\\.Ý tớ là, \\.tớ biết lâu lâu
+chúng ta cũng đi chơi với nhau, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -673,7 +704,9 @@ now and then already, \\.but. . ."
 "What if we do that, \\.but. . . \\.\\.more?"
 > CONTEXT: Map062/events/18/pages/0/904/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/904/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Nếu chúng ta tiếp tục, \\.nhưng. . .
+\\.\\.tiến xa hơn?"
 > END STRING
 
 > BEGIN STRING
@@ -682,7 +715,9 @@ now and then already, \\.but. . ."
 that makes the best avocado salad. . ."
 > CONTEXT: Map062/events/18/pages/0/917/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/917/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Như là, \\.tớ biết nơi này bên ngoài khuôn viên
+trường có thể làm món salad bơ ngon lắm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -690,7 +725,8 @@ that makes the best avocado salad. . ."
 ". . .  Are you asking me out?"
 > CONTEXT: Map062/events/18/pages/0/936/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/936/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+". . .  Cậu rủ tớ đi chơi à?"
 > END STRING
 
 > BEGIN STRING
@@ -698,7 +734,8 @@ that makes the best avocado salad. . ."
 "Well, \\.if you put it that way. . ."
 > CONTEXT: Map062/events/18/pages/0/941/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/941/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Ừm, \\.nếu cậu nghĩ vậy. . ."
 > END STRING
 
 > BEGIN STRING
@@ -706,7 +743,8 @@ that makes the best avocado salad. . ."
 ". . . Yeah,\\. I guess I am."
 > CONTEXT: Map062/events/18/pages/0/947/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/947/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+". . . Ừm,\\. đúng thế"
 > END STRING
 
 > BEGIN STRING
@@ -714,7 +752,8 @@ that makes the best avocado salad. . ."
 ". . . I don't think that's a good idea."
 > CONTEXT: Map062/events/18/pages/0/986/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/986/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+". . . Tớ không nghĩ đó là ý tưởng hay."
 > END STRING
 
 > BEGIN STRING
@@ -722,7 +761,9 @@ that makes the best avocado salad. . ."
 "It's 'cause I'm a liberal arts major, \\.isn't it?"
 > CONTEXT: Map062/events/18/pages/0/1006/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1006/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Bởi vì tớ là sinh viên ngành giáo dục khai phóng,
+\\.đúng không?"
 > END STRING
 
 > BEGIN STRING
@@ -730,7 +771,8 @@ that makes the best avocado salad. . ."
 "I know. . . \\.I'm just kidding."
 > CONTEXT: Map062/events/18/pages/0/1022/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1022/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Tớ biết mà. . . \\.Tớ chỉ đùa thôi."
 > END STRING
 
 > BEGIN STRING
@@ -738,7 +780,8 @@ that makes the best avocado salad. . ."
 ". . . But it's okay, \\.I get it."
 > CONTEXT: Map062/events/18/pages/0/1036/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1036/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+". . . Nhưng không sao, \\.tớ hiểu mà."
 > END STRING
 
 > BEGIN STRING
@@ -746,7 +789,8 @@ that makes the best avocado salad. . ."
 "No hard feelings. \\.\\.Let's just--
 > CONTEXT: Map062/events/18/pages/0/1049/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1049/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Đừng gượng ép quá. \\.\\.Chỉ cần--
 > END STRING
 
 > BEGIN STRING
@@ -754,7 +798,8 @@ that makes the best avocado salad. . ."
 "I'm sick, \\.Quincy."
 > CONTEXT: Map062/events/18/pages/0/1058/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1058/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Tớ bị bệnh, \\.Quincy."
 > END STRING
 
 > BEGIN STRING
@@ -762,7 +807,8 @@ that makes the best avocado salad. . ."
 "I have been since I was a kid."
 > CONTEXT: Map062/events/18/pages/0/1075/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1075/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Tớ đã bị kể từ khi tớ còn rất nhỏ."
 > END STRING
 
 > BEGIN STRING
@@ -771,7 +817,9 @@ that makes the best avocado salad. . ."
 sure if it'll take a turn for the worse."
 > CONTEXT: Map062/events/18/pages/0/1096/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1096/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+"Cứ mỗi buổi sáng thức dậy. . .\\.\\. tớ không
+chắc rằng liệu nó có chuyển bién xấu đi không."
 > END STRING
 
 > BEGIN STRING
@@ -779,5 +827,6 @@ sure if it'll take a turn for the worse."
 ". . . I'm a time bomb."
 > CONTEXT: Map062/events/18/pages/0/1104/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1104/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+". . . Tớ là quả bom hẹn giờ."
 > END STRING
