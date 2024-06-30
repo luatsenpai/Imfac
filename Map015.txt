@@ -1889,19 +1889,22 @@ buỗi trình diễn một thứ đầy hứa hẹn."
 "Not the details, \\.but the briefing at
 the NDA-signing surely-. . ."
 > CONTEXT: Map015/events/61/pages/1/57/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Louie ]
+"Không nói chi tiết được, \\.vì tôi
+đã ký TTBMTT. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[61]\\nm[ Louie ]
 ". . . Wait, \\.have you not signed the NDA?"
 > CONTEXT: Map015/events/61/pages/1/64/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Louie ]
+". . . Khoan, \\.anh ký TTBMTT chưa?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"NDA?"
+"TTBMTT?"
 > CONTEXT: Map015/events/61/pages/1/69/Dialogue < UNTRANSLATED
 
 > END STRING
@@ -1911,21 +1914,25 @@ the NDA-signing surely-. . ."
 "Non-disclosure agreement. . .
 \\.and I'll take that as a no."
 > CONTEXT: Map015/events/61/pages/1/72/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Louie ]
+"Thỏa Thuận Bảo Mật thông Tin. . .
+\\.vậy xem như là anh từ chối rồi nhé."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[61]\\nm[ Louie ]
 "Well, \\.I can't say much, but here's a hint. . ."
 > CONTEXT: Map015/events/61/pages/1/76/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Louie ]
+"Ờm, \\.tôi không thể nói nhiều, nhưng đây là gợi ý. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[61]\\nm[ Louie ]
 ". . . This thing messes with your noggin."
 > CONTEXT: Map015/events/61/pages/1/80/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Louie ]
+". . . Thứ này sẽ khiến anh nổ não đấy."
 > END STRING
 
 > BEGIN STRING
