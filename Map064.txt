@@ -668,8 +668,8 @@ to see an opera one day!"
 "It's not \\iBig\\i Ben,\\. but it's \\ia\\i Ben. . ."
 > CONTEXT: Map064/events/63/pages/4/10/Dialogue < UNTRANSLATED
 \\ignr\\e[39]\\nm[ Quincy ]
-"Dù không phải Big Ben \\ibự\\i,\\. nhưng
-nó cũng là Big Ben \\inhỏ\\i. . ."
+"Dù không phải \\iBig\\i, Ben\\. nhưng
+nó cũng là \\Bánh\\i Ben. . ."
 > END STRING
 
 > BEGIN STRING
@@ -677,7 +677,7 @@ nó cũng là Big Ben \\inhỏ\\i. . ."
 ". . . Huh,\\. it's pizza o' clock."
 > CONTEXT: Map064/events/63/pages/4/17/Dialogue < UNTRANSLATED
 \\ignr\\e[40]\\nm[ Lynri ]
-". . . Hở,\\. đồng hồ pizza."
+". . . Hở,\\. tháp đồng hồ pizza."
 > END STRING
 
 > BEGIN STRING
@@ -685,7 +685,7 @@ nó cũng là Big Ben \\inhỏ\\i. . ."
 "Always."
 > CONTEXT: Map064/events/63/pages/4/19/Dialogue < UNTRANSLATED
 \\ignr\\e[39]\\nm[ Quincy ]
-"Kệ nó đi."
+"Sao cũng được."
 > END STRING
 
 > BEGIN STRING
@@ -739,7 +739,7 @@ balls I had to find for this Taj Mahal."
 > CONTEXT: Map064/events/63/pages/7/7/Dialogue < UNTRANSLATED
 \\ignr\\e[45]\\nm[ Quincy ]
 "Em sẽ \\ikhông tin\\i là anh đã phải tìm
-bao nhiên viên bi để làm Taj Mahal đâu."
+bao nhiêu viên bi để làm Taj Mahal đâu."
 > END STRING
 
 > BEGIN STRING
