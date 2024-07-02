@@ -158,29 +158,32 @@ chuyện này. )
 memory interfacing. . . ?"
 > CONTEXT: Map018/events/4/pages/10/78/Dialogue
 \\ignr\\e[14]\\nm[ Lynri ]
-". . . Direct human-to-machine
-memory interfacing. . . ?"
+". . . Chuyễn giao ký ức từ
+người sang máy móc. . . ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Dr. Haynes ]
 "That's right."
 > CONTEXT: Map018/events/4/pages/10/87/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Đúng thế."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Dr. Haynes ]
 "Well, \\.interfacing,\\. and. . . \\.permuting."
 > CONTEXT: Map018/events/4/pages/10/94/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Ừm, \\.kết nối,\\. và. . . \\.chuyển đổi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Dr. Yu ]
 "But you don't have to worry about that."
 > CONTEXT: Map018/events/4/pages/10/99/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Nhưng cô không cần phải lo."
 > END STRING
 
 > BEGIN STRING
@@ -188,7 +191,9 @@ memory interfacing. . . ?"
 "Knowing your area of expertise, \\.we only
 expect your help with the former."
 > CONTEXT: Map018/events/4/pages/10/103/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Sau khi biết lĩnh vực chuyên môn của cô,\\.
+chúng tôi chỉ cần cô giúp một tay thôi."
 > END STRING
 
 > BEGIN STRING
@@ -196,21 +201,25 @@ expect your help with the former."
 "That sounds fascinating, \\.even though
 it wasn't exactly the job posting. . ."
 > CONTEXT: Map018/events/4/pages/10/124/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+"Nghe cũng hấp dẫn đấy, \\.dù nó không
+giống với nội dung đăng tuyển. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Dr. Haynes ]
 "Of course not."
 > CONTEXT: Map018/events/4/pages/10/134/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Tất nhiên là không."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Dr. Haynes ]
 ". . . But it's better, \\.isn't it?"
 > CONTEXT: Map018/events/4/pages/10/146/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+". . . Nhưng nó tốt mà, \\.đúng chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -218,7 +227,9 @@ it wasn't exactly the job posting. . ."
 "The research you'd be doing here would be far
 beyond the scope of any other on your list."
 > CONTEXT: Map018/events/4/pages/10/160/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Nghiên cứu cô sẽ thực hiện ở đây sẽ có tầm quan trọng
+vượt trội so với bất kỳ nghiên cứu nào cô từng làm."
 > END STRING
 
 > BEGIN STRING
@@ -226,28 +237,34 @@ beyond the scope of any other on your list."
 "You understand why it's not on the
 public posting, \\.don't you?"
 > CONTEXT: Map018/events/4/pages/10/173/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Cô đã hiểu tại sao điều này không có trong
+nội dung đăng tuyển công khai, \\.đúng chứ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Lynri ]
 "I suppose so, \\.but. . ."
 > CONTEXT: Map018/events/4/pages/10/178/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+"Dù biết là vậy, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Lynri ]
 ". . . Why me?"
 > CONTEXT: Map018/events/4/pages/10/190/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+". . . Tại sao lại là tôi?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Lynri ]
 "Surely there are more experienced candidates. . ."
 > CONTEXT: Map018/events/4/pages/10/203/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+"Chắc chắn là có những ứng viên nhiều
+kinh nghiệm hơn. . ."
 > END STRING
 
 > BEGIN STRING
@@ -255,7 +272,9 @@ public posting, \\.don't you?"
 "Well, \\.we've done our background
 check,\\. and your particular situa--
 > CONTEXT: Map018/events/4/pages/10/216/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Được rồi, \\.chúng tôi đã kiểm tra lý lịch
+của cô \\. và tình hình đặc biệt của cô---
 > END STRING
 
 > BEGIN STRING
@@ -263,7 +282,9 @@ check,\\. and your particular situa--
 "Oh, \\.we could always use some
 fresh perspective, \\.that's all."
 > CONTEXT: Map018/events/4/pages/10/229/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Ừm, \\.chúng tôi chỉ muốn những
+ý tưởng mới mẻ, \\.chỉ vậy thôi."
 > END STRING
 
 > BEGIN STRING
@@ -271,14 +292,18 @@ fresh perspective, \\.that's all."
 "And don't sell yourself short;\\.
 \\.your paper speaks for itself."
 > CONTEXT: Map018/events/4/pages/10/243/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Và cô đừng tự ti như thế;\\.
+\\.nghiên cứu của cô đã
+nói lên tất cả."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Dr. Haynes ]
 ". . . Aye, \\.there's no reason for self doubt."
 > CONTEXT: Map018/events/4/pages/10/250/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+". . . Đúng thế, \\.không cần phải tự ti đâu."
 > END STRING
 
 > BEGIN STRING
@@ -286,21 +311,25 @@ fresh perspective, \\.that's all."
 "Impostor syndrome is commonplace
 among talents; \\.don't let it get to you."
 > CONTEXT: Map018/events/4/pages/10/252/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Dr. Haynes ]
+"Hội chứng kẻ mạo danh rất phổ biến với những
+người tài năng; \\.đừng để nó ảnh hưởng tới cô."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Lynri ]
 ". . . Thank you for believing in me."
 > CONTEXT: Map018/events/4/pages/10/275/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+". . . Cảm ơn đã tin tưởng tôi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Dr. Haynes ]
 "Well then! \\.Now that we're past that step. . ."
 > CONTEXT: Map018/events/4/pages/10/287/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Tốt! \\.Giờ chúng ta có thể tiếp tục bước tiếp theo. . ."
 > END STRING
 
 > BEGIN STRING
@@ -308,7 +337,9 @@ among talents; \\.don't let it get to you."
 "Shall we go sign the NDAs and witness
 some miracles firsthand?"
 > CONTEXT: Map018/events/4/pages/10/294/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Chúng ta sẽ ký TTBMTT và
+chứng kiến những ký tích chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -316,7 +347,9 @@ some miracles firsthand?"
 "But I'd already signed NDAs
 before coming here. . . ?"
 > CONTEXT: Map018/events/4/pages/10/309/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+"Nhưng tôi đã ký TTBMTT trước
+khi vào đây rồi mà. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -324,14 +357,18 @@ before coming here. . . ?"
 "Oh, \\.there's always more NDA.
 \\.\\.NDA and waivers."
 > CONTEXT: Map018/events/4/pages/10/317/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Dr. Haynes ]
+"À, \\.còn nhiều TTBMTT.
+\\.\\.TTBMTT và giấy
+miễn trừ trách nhiệm."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Lynri ]
 "Waivers. . . ?"
 > CONTEXT: Map018/events/4/pages/10/343/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+"Giấy miễn trừ trách nhiệm. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -339,7 +376,9 @@ before coming here. . . ?"
 "Bureaucracy. . .\\.\\. You'd better learn
 to love the paperwork."
 > CONTEXT: Map018/events/4/pages/10/351/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Thủ tục hành chính. . .\\.\\. Tốt nhất
+cô nên thích nghi với giấy tờ đi."
 > END STRING
 
 > BEGIN STRING
@@ -355,7 +394,9 @@ to love the paperwork."
 ( Doesn't seem like she's the Lynri
 who could see me. . . )
 > CONTEXT: Map018/events/4/pages/10/481/Dialogue < UNTRANSLATED
-
+\\ignr\\e[13]\\nm[ Quincy ]
+( Có vẻ cô ấy không phải Lynri
+có thể nhìn thấy mình. . . )
 > END STRING
 
 > BEGIN STRING
@@ -363,16 +404,19 @@ who could see me. . . )
 ( I guess this is still some kind of a replay?\\.
 Human-machine memory interfacing, \\.huh. . . )
 > CONTEXT: Map018/events/4/pages/10/490/Dialogue < UNTRANSLATED
-
+\\ignr\\e[13]\\nm[ Quincy ]
+( Phải chăng đây lại là một dạng lặp lại?\\.
+Chuyển giao ký ức từ người và máy móc\\.. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[53]
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map018/events/4/pages/13/161/Dialogue < UNTRANSLATED
-
+\\ignr\\e[53]
+A N O M A L Y   D E T E C T E D
 > END STRING
-
+P H Á T  H I Ệ N  S Ự  B Ấ T  T H Ư Ờ N G
 > BEGIN STRING
 \\ignr\\e[0]
 The bloodstained body appears stiff.

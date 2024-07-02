@@ -1,0 +1,72 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+"The board is not the only way to
+have a say, \\.Mr. Armstrong. . ."
+> CONTEXT: Map096/events/7/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/10/pages/0/67/Dialogue < UNTRANSLATED
+\\ignr\\e[7]\\nm[ Ts. Haynes ]
+"Ngài Armstrong, \\.không chỉ hội
+đồng quản trị mới có tiếng nói. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+". . . Of course. \\.\\.It's an honour to have you here."
+> CONTEXT: Map096/events/10/pages/0/1/Dialogue < UNTRANSLATED
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+". . . Tất nhiên. \\.\\.Sự hiện diện của
+quý vị là niềm vinh dự cho chúng tôi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Lynri ]
+"Thank you, \\.I'll do my bes--\\w[10]
+> CONTEXT: Map096/events/10/pages/0/4/Dialogue < UNTRANSLATED
+\\ignr\\e[8]\\nm[ Lynri ]
+"Cảm ơn, \\.Tôi sẽ cố hết mình--\\w[10]
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Viktor ]
+"Dr. Haynes?\\.\\. Are you still there?"
+> CONTEXT: Map096/events/10/pages/0/13/Dialogue < UNTRANSLATED
+\\ignr\\e[7]\\nm[ Viktor ]
+"Ts. Haynes?\\.\\. Ngài vẫn còn ở đó chứ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+"Excuse me. . ."
+> CONTEXT: Map096/events/10/pages/0/23/Dialogue < UNTRANSLATED
+\\ignr\\e[7]\\nm[ Ts. Haynes ]
+"Xin lỗi. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+"I'm here."
+> CONTEXT: Map096/events/10/pages/0/33/Dialogue < UNTRANSLATED
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+"Tôi đây."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Viktor ]
+"Regarding the contract. . . \\.\\.It's not in our interest
+to fund the project without a say on the board."
+> CONTEXT: Map096/events/10/pages/0/59/Dialogue < UNTRANSLATED
+\\ignr\\e[7]\\nm[ Viktor ]
+"Nếu không có ghế trong hội đồng quản trị. . . \\.\\.
+Việc tài trợ cho dự án này sẽ không có lợi cho chúng tôi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Rika ]
+". . . You should go meet Dr. Yu in the west wing.
+\\.\\.She's in charge of your research team."
+> CONTEXT: Map096/events/10/pages/0/81/Dialogue < UNTRANSLATED
+\\ignr\\e[9]\\nm[ Rika ]
+". . . Cô nên đi gặp Ts. Yu ở khu vực phía tây.
+\\.\\.Cô ấy phụ trách nhóm nghiên cứu của cô."
+> END STRING

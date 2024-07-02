@@ -295,21 +295,24 @@ Cửa khóa.
 \\ignr\\e[0]\\nm[ Quincy ]
 ( But. . . \\.\\.I'm sorta already inside this door. . . ? )
 > CONTEXT: Map007/events/27/pages/1/14/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Nhưng. . . \\.\\.Mình đã vào đây rồi mà. . . ? )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Quite a room in there. . . )
 > CONTEXT: Map007/events/27/pages/2/7/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Trong đó là một căn phòng khá lớn. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[31]
 A painting of a slanted tree off the mountain-side.
 > CONTEXT: Map007/events/30/pages/0/3/Dialogue < UNTRANSLATED
-
+\\ignr\\e[31]
+Bức tranh vẽ cái cây nghiêng bên sườn núi.
 > END STRING
 
 > BEGIN STRING

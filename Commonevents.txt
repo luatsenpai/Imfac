@@ -137,7 +137,8 @@ be messy to be seen."
 \\ignr\\e[0]\\nm[ Quincy ]
 "OooOo. . .\\.\\. I'm a ghoOoOost. . . . ."
 > CONTEXT: Commonevents/62/31/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"OooOo. . .\\.\\. Mình là maaaaa. . . . ."
 > END STRING
 
 > BEGIN STRING

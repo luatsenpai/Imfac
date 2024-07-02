@@ -1,0 +1,62 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Lynri ]
+"Where is everybody?\\.\\. Emil said they'd
+already arrived. . ."
+> CONTEXT: Map085/events/1/pages/0/11/Dialogue < UNTRANSLATED
+\\ignr\\e[15]\\nm[ Lynri ]
+"Mọi người đâu rồi?\\.\\. Emil nói họ
+đã đến rồi. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Rika ]
+"They've already gone to the lab."
+> CONTEXT: Map085/events/1/pages/0/20/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Rika ]
+"Họ đã đến phòng thí nghiệm rồi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Lynri ]
+"Oh no. . . \\.\\.Am I late for the commute?"
+> CONTEXT: Map085/events/1/pages/0/24/Dialogue < UNTRANSLATED
+\\ignr\\e[15]\\nm[ Lynri ]
+"Ối. . . \\.\\.Tôi đã đi muộn rồi sao?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Rika ]
+"Not quite."
+> CONTEXT: Map085/events/1/pages/0/47/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Rika ]
+"Không hẳn."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Rika ]
+"Come aboard."
+> CONTEXT: Map085/events/1/pages/0/169/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Rika ]
+"Đi thôi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Rika ]
+". . . Going down."
+> CONTEXT: Map085/events/38/pages/4/30/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Rika ]
+". . . Xuống."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A vintage record player with a blank disc.
+> CONTEXT: Map085/events/47/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/47/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/40/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/47/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/47/pages/2/6/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Máy hát đĩa cổ điển với cái đĩa trắng.
+> END STRING

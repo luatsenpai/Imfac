@@ -1,0 +1,57 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Here again. . . )
+> CONTEXT: Map071/events/17/pages/1/393/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Lại là nơi này. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( This fountain still looks old
+and broken down,\\. but. . . )
+> CONTEXT: Map071/events/19/pages/0/8/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Đài phun nước này trông vẫn
+vũ kỹ và hỏng hóc,\\. nhưng. . . )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( The place as a whole seems
+more. . .\\.\\. maintained? )
+> CONTEXT: Map071/events/19/pages/0/21/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+( Nguyên nơi này trông như
+đang được. . .\\.\\. bảo trì? )
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A shiny mailbox.
+> CONTEXT: Map071/events/47/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/98/pages/0/9/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Hộp thư sáng bóng.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+". . . Sir Floofox . . .
+DO NOT ENTER"
+> CONTEXT: Map071/events/75/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/75/pages/1/1/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+". . . Ngài Floofox . . .
+ĐỪNG VÀO ĐẤY"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A drinking pool.
+> CONTEXT: Map071/events/89/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/89/pages/0/2/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Bể bơi.
+> END STRING

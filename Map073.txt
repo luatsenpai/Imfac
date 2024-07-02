@@ -1,0 +1,52 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"This reminds me. . ."
+> CONTEXT: Map073/events/6/pages/0/5/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Nó khiến em nhớ. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"At the mansion today, \\.they
+literally had a golden toilet."
+> CONTEXT: Map073/events/6/pages/0/9/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Hôm nay ở cái biệt thự đó, \\.
+họ còn có toilet bằng vàng cơ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Literally?"
+> CONTEXT: Map073/events/6/pages/0/17/Dialogue < UNTRANSLATED
+\\ignr\\e[4]\\nm[ Quincy ]
+"Thật hả?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"Literally."
+> CONTEXT: Map073/events/6/pages/0/22/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Thật."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Wow. . ."
+> CONTEXT: Map073/events/6/pages/0/24/Dialogue < UNTRANSLATED
+\\ignr\\e[4]\\nm[ Quincy ]
+"Quào. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Do they really need to sit on
+gold to take a dump. . . ?"
+> CONTEXT: Map073/events/6/pages/0/33/Dialogue < UNTRANSLATED
+\\ignr\\e[4]\\nm[ Quincy ]
+"Họ thực sự tiêu cả đống vàng để
+làm mấy cái vớ vẩn này sao. . . ?"
+> END STRING

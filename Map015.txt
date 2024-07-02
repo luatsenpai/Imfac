@@ -75,7 +75,7 @@ quay ngược thời gian. . . ? )
 ". . . Yes, \\.they're ready for you upstairs."
 > CONTEXT: Map015/events/4/pages/8/54/Dialogue
 \\ignr\\e[55]\\nm[ Rika ]
-". . . Ừm, \\.họ đang đợi ngài trên lầu."
+". . . Ừm, \\.họ đang đợi cô trên lầu."
 > END STRING
 
 > BEGIN STRING
@@ -162,14 +162,16 @@ P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 \\ignr\\e[37]\\nm[ Idina ]
 "Oh my gosh. . ."
 > CONTEXT: Map015/events/37/pages/2/74/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Idina ]
+"Quào. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Idina ]
 ". . . It's hideous!"
 > CONTEXT: Map015/events/37/pages/2/84/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Idina ]
+". . . Trông khủng phết!"
 > END STRING
 
 > BEGIN STRING
@@ -177,14 +179,17 @@ P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 ". . . Do you expect us to invest in
 a printer from the last century?"
 > CONTEXT: Map015/events/37/pages/2/98/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Viktor ]
+". . . Ông bà đang kỳ vọng tôi đầu tư
+vào cái máy in cổ lỗ sĩ này à?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Dr. Yu ]
 "As Dr. Haynes said, \\.it is only a prototype."
 > CONTEXT: Map015/events/37/pages/2/106/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Ts. Yu ]
+"Như Ts. Haynes đã nói, \\.đây chỉ là vật mẫu."
 > END STRING
 
 > BEGIN STRING
@@ -192,14 +197,18 @@ a printer from the last century?"
 "Although he does have a taste for
 rather. . .\\. \\ivintage\\i aesthetics."
 > CONTEXT: Map015/events/37/pages/2/130/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Dr. Yu ]
+"Tuy nhiên gu ông ấy có chút. . .
+\\.\\ihoài cổ\\i."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Louie ]
 "I'm not one to judge a book by its cover, \\.but. . ."
 > CONTEXT: Map015/events/37/pages/2/205/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Louie ]
+"Tôi không phải kiểu người đánh giá quyển sách
+qua vẻ bề ngoài, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -207,7 +216,9 @@ rather. . .\\. \\ivintage\\i aesthetics."
 "If this has the quantum computational capabilities
 that you proclaimed. . . \\.It's unbelievably small."
 > CONTEXT: Map015/events/37/pages/2/216/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Louie ]
+"Nếu như thứ này có khả năng tính toán lượng tử
+như đã tuyên bố. . . \\.Nó nhỏ đến khó tin."
 > END STRING
 
 > BEGIN STRING
@@ -215,7 +226,10 @@ that you proclaimed. . . \\.It's unbelievably small."
 "And I know we've made significant progress
 on cooling;\\. but to practically eliminate it. . . ?"
 > CONTEXT: Map015/events/37/pages/2/224/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Louie ]
+"Tôi biết chúng ta đã đạt được tiến bộ đáng kể trong 
+việc tản nhiệt;\\. nhưng để loại bỏ hoàn toàn nó lại
+là một thách thức hoàn toàn khác. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -223,21 +237,25 @@ on cooling;\\. but to practically eliminate it. . . ?"
 "No. \\.This is mostly a wired client
 connected to the computing center."
 > CONTEXT: Map015/events/37/pages/2/229/Dialogue < UNTRANSLATED
-
+\\ignr\\e[12]\\nm[ Ts. Yu ]
+"Không. \\.Đây chủ yếu là một máy trạm được
+kết nối có dây với trung tâm dữ liệu."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Dr. Yu ]
 "Most of the calculation is done. . .\\. elsewhere."
 > CONTEXT: Map015/events/37/pages/2/233/Dialogue < UNTRANSLATED
-
+\\ignr\\e[12]\\nm[ Ts. Yu ]
+"Hầu hết các tính toán được thực hiện. . .\\. ở một nơi khác."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Dr. Yu ]
 "That being said. . ."
 > CONTEXT: Map015/events/37/pages/2/237/Dialogue < UNTRANSLATED
-
+\\ignr\\e[12]\\nm[ Ts. Yu ]
+"Có nghĩa là. . ."
 > END STRING
 
 > BEGIN STRING
@@ -245,14 +263,17 @@ connected to the computing center."
 "Even with stubbed cerebral data, \\.
 its astounding potential is evident."
 > CONTEXT: Map015/events/37/pages/2/256/Dialogue < UNTRANSLATED
-
+\\ignr\\e[12]\\nm[ Ts. Yu ]
+"Dữ liệu đầu vào bị hạn chế nhưng không thể\\.
+phủ nhận tiềm năng đáng kinh ngạc của nó."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Dr. Yu ]
 "Allow me to demonstrate. . ."
 > CONTEXT: Map015/events/37/pages/2/264/Dialogue < UNTRANSLATED
-
+\\ignr\\e[12]\\nm[ Ts. Yu ]
+"Cho phép tôi trình diễn. . ."
 > END STRING
 
 > BEGIN STRING
@@ -260,7 +281,9 @@ its astounding potential is evident."
 ( I wish it showed the actual demo
 before everything froze. . . )
 > CONTEXT: Map015/events/37/pages/2/454/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Giá như nó có thể trình diễn bản demo
+trước khi mọi thứ đóng băng. . . )
 > END STRING
 
 > BEGIN STRING

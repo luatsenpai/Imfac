@@ -1,0 +1,87 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Rika ]
+". . . The cafeteria and recreational room."
+> CONTEXT: Map097/events/12/pages/0/5/Dialogue < UNTRANSLATED
+\\ignr\\e[11]\\nm[ Rika ]
+". . . Nhà ăn và phòng giải trí."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Rika ]
+"The chefs send meals down the shaft
+thrice a day.\\.\\. Just give them your order."
+> CONTEXT: Map097/events/12/pages/0/13/Dialogue < UNTRANSLATED
+\\ignr\\e[11]\\nm[ Rika ]
+"Các đầu bếp sẽ gửi đồ ăn xuống ống thông ba
+lần mỗi ngày.\\.\\. Chỉ cần đưa yêu cầu thôi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"I \\ithought\\i it was strange that
+there were three chefs here. . ."
+> CONTEXT: Map097/events/12/pages/0/20/Dialogue < UNTRANSLATED
+\\ignr\\e[10]\\nm[ Lynri ]
+"Tôi \\iđã\\i thấy lạ vì có
+tới ba đầu bếp ở đây. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]
+"There's a third chef, \\.did you know that?"
+> CONTEXT: Map097/events/17/pages/0/1/Dialogue < UNTRANSLATED
+\\ignr\\e[15]
+"Ở đây có ba đầu bếp lận đấy,\\.
+ông có biết vụ đó không?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]
+"Huh. \\.For some reason, I've never noticed him."
+> CONTEXT: Map097/events/17/pages/0/3/Dialogue < UNTRANSLATED
+\\ignr\\e[16]
+"Huh. \\.không hiểu sao tôi không để ý luôn đấy."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]
+"Red Chef's cooking is best, \\.I'm telling ya."
+> CONTEXT: Map097/events/17/pages/0/7/Dialogue < UNTRANSLATED
+\\ignr\\e[15]
+"Nói cho cậu biết, \\.Đầu Bếp Tóc Đỏ giỏi nhất."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]
+"No way, \\.Yellow Chef is clearly better!"
+> CONTEXT: Map097/events/17/pages/0/9/Dialogue < UNTRANSLATED
+\\ignr\\e[16]
+"Không đâu, \\.Đầu Bếp Tóc Vàng giỏi hơn!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]
+"They have names,\\. y'know."
+> CONTEXT: Map097/events/17/pages/0/11/Dialogue < UNTRANSLATED
+\\ignr\\e[18]
+"Mà\\. họ có tên đấy."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]
+"Uhh yeah, \\.what are they again?"
+> CONTEXT: Map097/events/17/pages/0/13/Dialogue < UNTRANSLATED
+\\ignr\\e[15]
+"Ờ ừm, \\.nhưng họ tên gì?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]
+"I don't know. \\.But they have 'em,
+is all I'm saying."
+> CONTEXT: Map097/events/17/pages/0/15/Dialogue < UNTRANSLATED
+\\ignr\\e[18]
+"Tôi không biết. \\.Tôi chỉ
+biết là họ được thuê thôi."
+> END STRING
