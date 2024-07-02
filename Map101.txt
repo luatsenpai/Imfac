@@ -5,7 +5,9 @@
 computer still looks like this."
 > CONTEXT: Map101/events/19/pages/1/6/Dialogue < UNTRANSLATED
 > CONTEXT: Map101/events/20/pages/1/6/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Không ngờ là máy tính lượng tự
+hiện đại lại trông thế này."
 > END STRING
 
 > BEGIN STRING
@@ -14,7 +16,9 @@ computer still looks like this."
 It didn't even look like this with the glass back then."
 > CONTEXT: Map101/events/19/pages/1/10/Dialogue < UNTRANSLATED
 > CONTEXT: Map101/events/20/pages/1/10/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Vẻ ngoài cổ điển là để tôn vinh.. . .\\.\\.
+Lúc trước đâu có mặt kính thế này."
 > END STRING
 
 > BEGIN STRING
@@ -105,15 +109,16 @@ nếu không có những phát hiện từ cô."
 figured it all out years ago."
 > CONTEXT: Map101/events/22/pages/0/66/Dialogue < UNTRANSLATED
 \\ignr\\e[19]\\nm[ Louie ]
-". . . Dr. Yu and her team must've already
-figured it all out years ago."
+". . . Ts. Yu và đội của bà ấy chắc hẳn
+đã tìm ra nó từ nhiều năm trước rồi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Years ago. . . ?"
 > CONTEXT: Map101/events/22/pages/0/76/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Nhiều năm trước. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -121,14 +126,17 @@ figured it all out years ago."
 "But then. . .\\.\\. Why were their
 findings not published?"
 > CONTEXT: Map101/events/22/pages/0/86/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Nhưng mà. . .\\.\\. tại sao những phát
+hiện của họ lại không được công bố?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 "Are you serious?"
 > CONTEXT: Map101/events/22/pages/0/93/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Cô nghiêm túc sao?"
 > END STRING
 
 > BEGIN STRING
@@ -136,7 +144,9 @@ findings not published?"
 "This isn't some purist academia spreading
 knowledge for the betterment of humanity."
 > CONTEXT: Map101/events/22/pages/0/102/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Đây không phải là một học viện thuần túy nào đó
+truyền bá kiến thức vì lợi ích của nhân loại."
 > END STRING
 
 > BEGIN STRING
@@ -144,14 +154,17 @@ knowledge for the betterment of humanity."
 "I'd say 'money', \\.but. . .\\. the interest groups
 involved are a lot more complicated than that."
 > CONTEXT: Map101/events/22/pages/0/108/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Tôi muốn 'tiền', \\.nhưng. . .\\. các nhóm
+lợi ích liên quan còn phức tạp hơn nhiều."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 "Regardless,\\. look. . ."
 > CONTEXT: Map101/events/22/pages/0/116/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Dù thì nào thì,\\. xem này. . ."
 > END STRING
 
 > BEGIN STRING
@@ -159,7 +172,9 @@ involved are a lot more complicated than that."
 ". . . If you're looking to make a difference
 in the world,\\. this \\iis\\i still the place."
 > CONTEXT: Map101/events/22/pages/0/129/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+". . . Nếu cô muốn tạo ra gì đó khác biệt,
+\\.thì \\iđây\\i là nơi thích hợp nhất."
 > END STRING
 
 > BEGIN STRING
@@ -167,12 +182,15 @@ in the world,\\. this \\iis\\i still the place."
 "It may be a while before the public
 gets a taste, \\.but here. . ."
 > CONTEXT: Map101/events/22/pages/0/148/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Có thể sẽ mất một thời gian nữa công chúng
+mới được trải nghiệm, \\.nhưng ở đây thì. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 ". . . Here is where it all starts."
 > CONTEXT: Map101/events/22/pages/0/158/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+". . . đây sẽ là nơi mọi thứ bắt đầu."
 > END STRING

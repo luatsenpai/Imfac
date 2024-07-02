@@ -1,0 +1,152 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Viktor ]
+". . . But what good is a memory interfacing
+machine if it kills the user?!"
+> CONTEXT: Map117/events/7/pages/0/54/Dialogue < UNTRANSLATED
+". . . Nhưng giữ lại một cỗ máy chuyễn giao
+ký ức làm gì khi nó đã giết người dùng?!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Dr. Yu ]
+"We don't know that for sure."
+> CONTEXT: Map117/events/7/pages/0/64/Dialogue < UNTRANSLATED
+\\ignr\\e[13]\\nm[ Ts. Yu ]
+"Chúng ta vẫn chưa chắc
+chắn về việc đó mà."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Dr. Yu ]
+"It's just one failed attempt."
+> CONTEXT: Map117/events/7/pages/0/70/Dialogue < UNTRANSLATED
+\\ignr\\e[13]\\nm[ Ts. Yu ]
+"Nó chỉ mới thất bại một lần."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Viktor ]
+"Well,\\. good luck with more attempts under
+all the regulations this is going to trigger."
+> CONTEXT: Map117/events/7/pages/0/82/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Viktor ]
+"Chà,\\. chúc may mắn với những lần thử nghiệm
+tiếp theo và những hạn chế pháp lý mà nó gây ra."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Dr. Haynes ]
+"We are under the radar. . .\\.
+\\.We can get around those."
+> CONTEXT: Map117/events/7/pages/0/87/Dialogue < UNTRANSLATED
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Chúng ta đang hoạt động bí mật. . .\\.
+\\.Chúng ta có thể lách luật được."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Viktor ]
+"No. . . \\.\\.You \\iwere\\i under the radar."
+> CONTEXT: Map117/events/7/pages/0/92/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Viktor ]
+"Không. . . \\.\\.Ông bà \\itừng\\i hoạt động bí mật."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Idina ]
+"Yeah,\\. and now you're like,\\. totally \\iover\\i it!"
+> CONTEXT: Map117/events/7/pages/0/104/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Idina ]
+"Đúng,\\. và bây giờ mọi thứ\\.
+đang \\ivượt\\itầm kiểm soát rồi!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Viktor ]
+"Either way, \\.if there's a fundamental
+incompatibility with writing the memories. . ."
+> CONTEXT: Map117/events/7/pages/0/116/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Viktor ]
+"Dù bằng cách nào, \\.nếu không có sự tương
+thích cơ bản với việc ghi chép ký ức. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Viktor ]
+". . . That surely doesn't bode well
+for the core of the project."
+> CONTEXT: Map117/events/7/pages/0/121/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Viktor ]
+". . . Điều đó chắc chắn không phải là
+điềm tốt cho cốt lõi của dự án."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Prisha ]
+"Oh, \\.you bunch are so pessimistic. . ."
+> CONTEXT: Map117/events/7/pages/0/133/Dialogue < UNTRANSLATED
+\\ignr\\e[11]\\nm[ Prisha ]
+"Chà, \\.mấy người bi quan quá đấy. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Prisha ]
+"Haven't you heard of pivoting? \\.\\.
+Let's not lose our heads over a little setback."
+> CONTEXT: Map117/events/7/pages/0/150/Dialogue < UNTRANSLATED
+\\ignr\\e[11]\\nm[ Prisha ]
+"Biết đâu mọi thj17 xoay chuyển thì sao?\\.\\.
+Đừng đánh mất lý trí chỉ vì một chút trở ngại chứ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Viktor ]
+"How is this a \\ilittle\\i setback?!"
+> CONTEXT: Map117/events/7/pages/0/156/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Viktor ]
+"Đây mà là \\imột chút\\i trở ngại à?!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Idina ]
+"Yeah. . . \\.\\.What's even the point of memory-
+interfacing if they die in the process?"
+> CONTEXT: Map117/events/7/pages/0/164/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Idina ]
+"Ừm. . . \\.\\.Chuyển giao ký ức để làm gì
+nếu họ chết trong quá trình đó?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Prisha ]
+"Wellll. \\..\\. .\\."
+> CONTEXT: Map117/events/7/pages/0/171/Dialogue < UNTRANSLATED
+\\ignr\\e[11]\\nm[ Prisha ]
+"Chà. \\..\\. .\\."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Dr. Haynes ]
+"Lynri. . . ?"
+> CONTEXT: Map117/events/7/pages/0/196/Dialogue < UNTRANSLATED
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Lynri. . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Dr. Yu ]
+"Wait, \\.Lynri--. . .
+> CONTEXT: Map117/events/7/pages/0/297/Dialogue < UNTRANSLATED
+\\ignr\\e[13]\\nm[ Ts. Yu ]
+"Đợi đã, \\.Lynri--. . .
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]
+The door is locked.
+> CONTEXT: Map117/events/9/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map094/events/9/pages/0/8/Dialogue < UNTRANSLATED
+\\ignr\\e[9]
+Cửa khóa.
+> END STRING

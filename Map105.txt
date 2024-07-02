@@ -1,0 +1,56 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'airport_pano'
+> CONTEXT: Map104/events/7/pages/0/0/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map105/events/7/pages/0/9/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map104/events/8/pages/0/8/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map105/events/7/pages/1/3/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map104/events/8/pages/1/9/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map012/events/8/pages/0/10/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"Lynri. . . ?"
+> CONTEXT: Map105/events/7/pages/0/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"Are you alright. . . ?"
+> CONTEXT: Map105/events/31/pages/0/9/Dialogue < UNTRANSLATED
+\\ignr\\e[8]\\nm[ Quincy ]
+"Em không sao chứ. . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Lynri ]
+"Yeah. . . \\.\\.Just a bit airsick from
+the bumpy flight, \\.I think."
+> CONTEXT: Map105/events/31/pages/0/19/Dialogue < UNTRANSLATED
+\\ignr\\e[14]\\nm[ Lynri ]
+"Ừm. . . \\.\\.em nghĩ\\. em chỉ bị
+say máy bay do máy bay hơi sóc thôi"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"Are you sure? \\.\\.I've never seen
+you get airsick before. . ."
+> CONTEXT: Map105/events/31/pages/0/28/Dialogue < UNTRANSLATED
+\\ignr\\e[8]\\nm[ Quincy ]
+"Em chắc chứ? \\.\\.Anh chưa từng thấy
+em say máy bay bao giờ. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"I'll give your doctor a call. . . \\.\\.
+Let's get you checked just to be sure."
+> CONTEXT: Map105/events/31/pages/0/44/Dialogue < UNTRANSLATED
+\\ignr\\e[8]\\nm[ Quincy ]
+"Để anh đưa em đến chỗ bác sĩ. . . \\.\\.
+Đến đó kiểm tra cho chắc."
+> END STRING

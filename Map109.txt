@@ -1,0 +1,262 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"Living at the campus on your own. . . ?"
+> CONTEXT: Map109/events/12/pages/0/14/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Em sẽ ở ký túc xá một mình ư. . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"But. . .\\.\\. We've got this place."
+> CONTEXT: Map109/events/12/pages/0/26/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Nhưng. . .\\.\\. Chúng ta đã có nơi này rồi mà."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"I haven't agreed to it yet."
+> CONTEXT: Map109/events/12/pages/0/35/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Em vẫn chưa đồng ý với họ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"But you're seriously thinking about it."
+> CONTEXT: Map109/events/12/pages/0/41/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Nhưng mà em nên nghiêm túc cân nhắc về nó."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"I mean, \\.it'd only be for a while. . ."
+> CONTEXT: Map109/events/12/pages/0/50/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Ý em là, \\.đó chỉ là tạm thời thôi. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"That's what you said about working
+late. . . \\.\\.Now it's \\ievery\\i night."
+> CONTEXT: Map109/events/12/pages/0/53/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Và những gì em nói là làm việc tới
+tối muộn. . . \\.\\.Giờ là \\icả\\i buổi tối."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"I know, \\.\\.it's just. . ."
+> CONTEXT: Map109/events/12/pages/0/58/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Em biết, \\.\\.chỉ là. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"We're doing something amazing,\\. Quince."
+> CONTEXT: Map109/events/12/pages/0/85/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Bọn em đang làm một thứ rất tuyệt,\\. Quince."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"And we're so close. . . \\.\\.
+This could change the world."
+> CONTEXT: Map109/events/12/pages/0/100/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Và bọn em sắp đạt được rồi. . . \\.\\.
+Nó sẽ thay đổi cả thế giới."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"This is what I've always wanted to do."
+> CONTEXT: Map109/events/12/pages/0/108/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Đây là điều em luôn muốn làm."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"Look, I know I haven't been around for us
+as much as I should. \\.I'm sorry about that."
+> CONTEXT: Map109/events/12/pages/0/120/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Nghe này, wm biết em đã không dành nhiều thời
+gian cho chúng ta. \\.Em xin lỗi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"But I thought we both knew what I had
+to do from the start. . .\\.\\. Didn't you?"
+> CONTEXT: Map109/events/12/pages/0/128/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Nhưng em nghĩ ngay từ đầu chúng ta đã biết
+em đang làm gì. . .\\.\\. Phải không anh?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"You said you understood, and that you'd
+give me a reason to keep going. . ."
+> CONTEXT: Map109/events/12/pages/0/138/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Anh đã nói anh sẽ cảm thông, và sẽ
+cho em động lực để tiếp tục. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+". . . That you'd bring me the world to see,
+\\.so I can stay and do this."
+> CONTEXT: Map109/events/12/pages/0/145/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+". . . Rằng anh sẽ mang thế giới này cho em,
+\\.rằng em chỉ cần tiếp tục theo duổi nó."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"I know it sounds selfish,\\. but
+I never asked for it."
+> CONTEXT: Map109/events/12/pages/0/152/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Em biết nó ích kỷ,\\. nhưng
+em chưa từng đòi hỏi điều đó."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+". . . I never would've said yes if I knew
+it wasn't what you really wanted."
+> CONTEXT: Map109/events/12/pages/0/161/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+". . . Em sẽ không bao giờ đồng ý nếu biết rằng
+đó không phải là điều anh thực sự mong muốn."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"Of course I wanted to.\\.\\. I wouldn't
+still be here if it weren't."
+> CONTEXT: Map109/events/12/pages/0/168/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Tất nhiên là anh muốn vậy rồi.\\.\\.
+Nếu không thì anh đã không ở đây."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"I meant what I said, \\.and I've been
+trying so hard to do just that."
+> CONTEXT: Map109/events/12/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"It's just. . ."
+> CONTEXT: Map109/events/12/pages/0/189/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Chỉ là. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"I just thought we'd still be able to
+have more than just. . . \\.\\.this."
+> CONTEXT: Map109/events/12/pages/0/201/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"anh chỉ nghĩ chúng ta sẽ có
+nhiều hơn. . . \\.\\.thế này."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"I know I said that I'd bring you
+the world, \\.but. . ."
+> CONTEXT: Map109/events/12/pages/0/209/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Anh biết anh nói sẽ mang thế giới
+vể bên em, \\.nhưng. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"I guess at some point, \\.I still wanted
+to see the world \\iwith\\i you, too."
+> CONTEXT: Map109/events/12/pages/0/218/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Anh đoán một lúc nào đó, \\.anh vẫn 
+muốn \\icùng\\i em ngắm nhìn thế giới."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"And now, \\.it all just feels farther
+and farther away."
+> CONTEXT: Map109/events/12/pages/0/229/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Và bây giờ, \\.cứ có cảm giác như
+mọi thư đang dần xa thật xa."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"This isn't really fair to you though, \\.is it?"
+> CONTEXT: Map109/events/12/pages/0/240/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Thế thì đâu công bằng với em chứ, \\.đúng không?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+"I guess I don't know what I was really expecting."
+> CONTEXT: Map109/events/12/pages/0/248/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+"Anh biết anh đang thật sự mong đợi điều gì."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"I'm sorry. . .\\.\\. I really can't stay and
+talk more about this right now."
+> CONTEXT: Map109/events/12/pages/0/261/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Em xin lỗi. . .\\.\\. Em thực sự không thể
+ở lại và nói thêm về vấn đề này nữa."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"I'm already so late. . . \\.and we're supposed to be
+presenting our progress to the investors today."
+> CONTEXT: Map109/events/12/pages/0/288/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Em không còn nhiều thời gian. . . \\.và bọn em sắp phải
+trình bày tiến độ cho các nhà đầu tư ngay hôm nay."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"But. . . \\.\\.We'll talk about this later,\\. okay?"
+> CONTEXT: Map109/events/12/pages/0/325/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Lynri ]
+"Nhưng. . . \\.\\.Chúng ta sẽ nói chuyện này sau,\\. được chứ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Quincy ]
+". . . Yeah."
+> CONTEXT: Map109/events/12/pages/0/328/Dialogue < UNTRANSLATED
+\\ignr\\e[6]\\nm[ Quincy ]
+". . . Ừm."
+> END STRING
