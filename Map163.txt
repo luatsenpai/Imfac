@@ -1,0 +1,98 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Dr. Kim ]
+"Lynri! \\.\\.Everything's ready for
+tomorrow's presentation."
+> CONTEXT: Map163/events/1/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Dr. Kim ]
+"The tests all went through without a hitch."
+> CONTEXT: Map163/events/1/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Lynri ]
+"Great work, \\.Al."
+> CONTEXT: Map163/events/1/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Lynri ]
+"You should go get some rest. . .
+\\.\\.They'll be here early tomorrow."
+> CONTEXT: Map163/events/1/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Dr. Kim ]
+"You're still working?"
+> CONTEXT: Map163/events/1/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Lynri ]
+"Yeah. . .\\.\\. One more test never hurts."
+> CONTEXT: Map163/events/1/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Dr. Kim ]
+"Heh, \\.not gonna argue with you there."
+> CONTEXT: Map163/events/1/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"There you go."
+> CONTEXT: Map163/events/28/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/27/Dialogue < UNTRANSLATED
+\\ignr\\e[25]\\nm[ Rika ]
+"Được rồi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"Dr. Louie Clegg should be there. \\.\\.He arrived
+at residence here a few days earlier."
+> CONTEXT: Map163/events/28/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/35/Dialogue < UNTRANSLATED
+\\ignr\\e[25]\\nm[ Rika ]
+"Ts. Louie Clegg đang ở trong đấy. \\.\\.
+Ông ấy đã đến đây vài ngày trước."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"I believe you've already met at the party."
+> CONTEXT: Map163/events/28/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/38/Dialogue < UNTRANSLATED
+\\ignr\\e[25]\\nm[ Rika ]
+"Tôi nghĩ cô đã gặp ở bữa tiệc nhỉ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]\\nm[ Lynri ]
+"I remember."
+> CONTEXT: Map163/events/28/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/44/Dialogue < UNTRANSLATED
+\\ignr\\e[27]\\nm[ Lynri ]
+"Tôi nhớ mà."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"Let's go, \\.Ricebot."
+> CONTEXT: Map163/events/28/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/64/Dialogue < UNTRANSLATED
+\\ignr\\e[25]\\nm[ Rika ]
+"Đi thôi, \\.Ricebot."
+> END STRING
