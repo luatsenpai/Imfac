@@ -1,0 +1,67 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Lynri!"
+> CONTEXT: Map127/events/1/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/12/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"You're awake. . ."
+> CONTEXT: Map127/events/1/pages/0/95/Dialogue < UNTRANSLATED
+\\ignr\\e[4]\\nm[ Quincy ]
+"Em tỉnh lại rồi. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Quince. . ."
+> CONTEXT: Map127/events/1/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"How're you feeling?"
+> CONTEXT: Map127/events/1/pages/0/106/Dialogue < UNTRANSLATED
+\\ignr\\e[4]\\nm[ Quincy ]
+"Em thấy thế nào?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"I. . . \\.\\.I feel okay."
+> CONTEXT: Map127/events/1/pages/0/108/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ Lynri ]
+"Em. . . \\.\\.em vẫn ổn."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Doctor ]
+"The procedure went smoothly, \\.Lynri."
+> CONTEXT: Map127/events/1/pages/0/111/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Bác Sĩ ]
+"Quá trình đã diễn ra suôn sẻ, \\.Lynri."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Doctor ]
+"We'll continue with the follow-ups.\\.
+\\.But so far,\\. you're in the clear."
+> CONTEXT: Map127/events/1/pages/0/129/Dialogue < UNTRANSLATED
+\\ignr\\e[5]\\nm[ Bác Sĩ ]
+"Chúng tôi sẽ tiếp tục theo dõi tình hình.\\.
+\\.Nhưng hiện tại,\\. mọi thứ đều ổn."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"And the baby. . . ?"
+> CONTEXT: Map127/events/1/pages/0/143/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/76/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ Lynri ]
+"Và còn đứa bé. . . ?"
+> END STRING

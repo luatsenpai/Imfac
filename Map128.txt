@@ -1,0 +1,46 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Doctor ]
+"He's stable right now,\\. but we need to monitor
+him here for another couple of months."
+> CONTEXT: Map128/events/3/pages/0/75/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+"Hiện tại tình trạng của bé đã ổn định,\\. nhưng
+chúng tôi cần theo dõi thêm vài tháng nữa."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Doctor ]
+"His organs aren't fully developed,\\. and
+we're keeping him on ventilator."
+> CONTEXT: Map128/events/3/pages/0/79/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+"Các cơ quan của bé chưa phát triển hoàn 
+chỉnh,\\. vì vậy bé cần phải thở máy."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Doctor ]
+"But even then,\\. our help can only go so far."
+> CONTEXT: Map128/events/3/pages/0/91/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+"Tuy nhiên,\\. khả năng của chúng tôi có hạn."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Doctor ]
+"I'm not sure how he'll do as he
+grows up. . . \\.but it won't be easy."
+> CONTEXT: Map128/events/3/pages/0/106/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+Tôi không chắc bé sẽ phát triển ra sao. . .
+\\.nhưng sẽ không dễ dàng đâu."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Doctor ]
+". . . Do your best to take care of him, okay?"
+> CONTEXT: Map128/events/3/pages/0/123/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+". . . Nhớ chăm sóc bé cẩn thận nha?"
+> END STRING
