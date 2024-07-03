@@ -1,0 +1,79 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"You're doing good,\\. champ. . ."
+> CONTEXT: Map135/events/12/pages/1/3/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Quincy ]
+"Con làm tốt lắm,\\. tiếp tục đi nào. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Tobias ]
+"Dad. . . \\.where are mom and grandpa going?"
+> CONTEXT: Map135/events/12/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/18/pages/1/11/Dialogue < UNTRANSLATED
+\\ignr\\e[18]\\nm[ Tobias ]
+"Bố ơi. . . \\.ông và mẹ đi đâu rồi ạ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"They're off to get ya something real cool. . .
+. . . So just hang on there, \\.okay?"
+> CONTEXT: Map135/events/12/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/18/pages/1/14/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Quincy ]
+"Chúng ta sắp có gì đó cực kỳ thú vị rồi đấy. . .
+. . . Hãy ráng chờ thêm một chút \\.nhé?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Tobias ]
+". . . Okay."
+> CONTEXT: Map135/events/12/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/18/pages/1/23/Dialogue < UNTRANSLATED
+\\ignr\\e[18]\\nm[ Tobias ]
+". . . Dạ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Naomi ]
+"Are you hungry, \\.Tobi? \\.Anything
+you want,\\. just let us know. . ."
+> CONTEXT: Map135/events/24/pages/1/6/Dialogue < UNTRANSLATED
+\\ignr\\e[24]\\nm[ Naomi ]
+"Cháu có đói không, \\.Tobi? \\.Cháu
+muốn gì\\. thì cứ nói nhé. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+". . . In his current condition?"
+> CONTEXT: Map135/events/32/pages/0/8/Dialogue < UNTRANSLATED
+\\ignr\\e[32]\\nm[ Lynri ]
+". . . Với tình trạng hiện
+tại của thằng bé?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+"Do you think it'd be okay to go out. . . ?"
+> CONTEXT: Map135/events/32/pages/0/16/Dialogue < UNTRANSLATED
+\\ignr\\e[32]\\nm[ Lynri ]
+"Liệu đưa ra ngoài chơi có ổn không ạ. . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Bill ]
+"Lynri. . ."
+> CONTEXT: Map135/events/32/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+"Yeah. . .\\.\\. Okay."
+> CONTEXT: Map135/events/32/pages/0/51/Dialogue < UNTRANSLATED
+\\ignr\\e[32]\\nm[ Lynri ]
+"Vâng. . .\\.\\. Được rồi."
+> END STRING

@@ -4,21 +4,25 @@
 "Lynri! \\.\\.Everything's ready for
 tomorrow's presentation."
 > CONTEXT: Map163/events/1/pages/0/118/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Lynri! \\.\\.Mọi thứ đã sẵn sàng
+cho bài thuyết trình ngày mai."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Dr. Kim ]
 "The tests all went through without a hitch."
 > CONTEXT: Map163/events/1/pages/0/126/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Mọi thứ đều ổn trong quá trình thử nghiệm."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Lynri ]
 "Great work, \\.Al."
 > CONTEXT: Map163/events/1/pages/0/133/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Lynri ]
+"Làm tốt lắm, \\.Al."
 > END STRING
 
 > BEGIN STRING
@@ -26,28 +30,34 @@ tomorrow's presentation."
 "You should go get some rest. . .
 \\.\\.They'll be here early tomorrow."
 > CONTEXT: Map163/events/1/pages/0/144/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Lynri ]
+"Ông nên đi nghỉ ngơi đi. . .
+\\.\\.Họ sẽ đến đây vào ngày mai"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Dr. Kim ]
 "You're still working?"
 > CONTEXT: Map163/events/1/pages/0/177/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Cô vẫn làm việc ư?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Lynri ]
 "Yeah. . .\\.\\. One more test never hurts."
 > CONTEXT: Map163/events/1/pages/0/180/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Lynri ]
+"Ừm. . .\\.\\. Thêm một lần thử nghiệm
+nữa sẽ không có vấn đề gì đâu."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Dr. Kim ]
 "Heh, \\.not gonna argue with you there."
 > CONTEXT: Map163/events/1/pages/0/184/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Heh, \\.đúng là vậy."
 > END STRING
 
 > BEGIN STRING
