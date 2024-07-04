@@ -145,35 +145,40 @@ be messy to be seen."
 \\ignr\\e[0]
 E N T I T Y   D E A C T I V A T E D
 > CONTEXT: Commonevents/63/5/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "So long. . .\\.\\. But why. . ."
 > CONTEXT: Commonevents/64/4/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Lâu quá. . .\\.\\. Nhưng tại sao. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Yeah,\\. you're definitely getting longer. . ."
 > CONTEXT: Commonevents/64/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm,\\. càng ngày càng lâu lắc. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Wait. . . \\.\\.Are you getting longer?"
 > CONTEXT: Commonevents/64/20/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan. . . \\.\\.Cô đang lâu hơn sao?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "What do you even do. . ."
 > CONTEXT: Commonevents/64/62/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô đang làm gì vậy. . ."
 > END STRING
 
 > BEGIN STRING
@@ -181,14 +186,17 @@ E N T I T Y   D E A C T I V A T E D
 Requires memory links to shoot.
 \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
 > CONTEXT: Commonevents/100/212/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Cần liên kết ký ức để bắn.
+\\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]
 Requires: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
 > CONTEXT: Commonevents/100/242/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Cần: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
 > END STRING
 
 > BEGIN STRING

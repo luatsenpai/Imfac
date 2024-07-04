@@ -737,7 +737,8 @@ nước và rửa tay như thế này. . ."
 \\ignr\\e[0]\\nm[ Quincy ]
 ( So this \\iisn't\\i a time machine. . . ? )
 > CONTEXT: Map017/events/11/pages/10/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Nó \\ikhông còn\\i là cỗ máy thời gian. . . ? )
 > END STRING
 
 > BEGIN STRING

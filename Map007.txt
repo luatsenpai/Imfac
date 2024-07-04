@@ -185,7 +185,7 @@ làm ơn hãy là ảo giác. . ."
 "Downstairs."
 > CONTEXT: Map007/events/4/pages/14/79/Dialogue < UNTRANSLATED
 \\ignr\\e[45]\\nm[ Lynri ]
-"Dưới lầu."
+"Xuống lầu."
 > END STRING
 
 > BEGIN STRING
@@ -193,21 +193,23 @@ làm ơn hãy là ảo giác. . ."
 "What is it?"
 > CONTEXT: Map007/events/4/pages/14/124/Dialogue < UNTRANSLATED
 \\ignr\\e[45]\\nm[ Lynri ]
-"What is it?"
+"Có chuyện gì?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "I mean. . . \\.\\.What \\iisn't\\i 'it'?"
 > CONTEXT: Map007/events/4/pages/14/144/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+"Ừm. . . \\.\\.Có \\ichuyện\\i 'gì'?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "But. . ."
 > CONTEXT: Map007/events/4/pages/14/155/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+"Nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -215,14 +217,17 @@ làm ơn hãy là ảo giác. . ."
 ". . . For one, \\.I guess I'm still trying to
 get used to this being the real you."
 > CONTEXT: Map007/events/4/pages/14/166/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Trước hết, \\.tôi đoán tôi phải quen
+với việc đây chính là cô thật."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "Hey-- \\.I didn't mean that in a bad way."
 > CONTEXT: Map007/events/4/pages/14/203/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+"Ê-- \\.Tôi không định nói đó là ý tồi."
 > END STRING
 
 > BEGIN STRING
@@ -230,14 +235,17 @@ get used to this being the real you."
 "And even then. . . \\.\\.Why would you
 care about what I think anyway?"
 > CONTEXT: Map007/events/4/pages/14/230/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]\\nm[ Quincy ]
+"Và cho dù thế. . . \\.\\.Tại sao cô
+quan tâm tới suy nghĩ của tôi làm gì?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 ". . . Downstairs."
 > CONTEXT: Map007/events/4/pages/14/241/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+". . . Xuống lầu."
 > END STRING
 
 > BEGIN STRING
@@ -319,7 +327,8 @@ Bức tranh vẽ cái cây nghiêng bên sườn núi.
 \\ignr\\e[41]\\nm[ Quincy ]
 "Hey--. . . \\.What are you doing out here?"
 > CONTEXT: Map007/events/41/pages/3/26/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Ê--. . . \\.Mày làm gì ngoài đây thế?"
 > END STRING
 
 > BEGIN STRING
@@ -327,21 +336,25 @@ Bức tranh vẽ cái cây nghiêng bên sườn núi.
 "This whole time. . . \\.You could come
 and go all on your own accord?"
 > CONTEXT: Map007/events/41/pages/3/45/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Từ nãy đến giờ. . . \\.Mày cứ
+tự tiện đi ra đi vào thế?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[41]\\nm[ Quincy ]
 "Wait a minute. . ."
 > CONTEXT: Map007/events/41/pages/3/72/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Khoan đã. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[41]\\nm[ Quincy ]
 "Could it be. . . ?!"
 > CONTEXT: Map007/events/41/pages/3/84/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Có lẽ nào. . . ?!"
 > END STRING
 
 > BEGIN STRING
@@ -349,7 +362,9 @@ and go all on your own accord?"
 "Hey, \\.I didn't even ask. . .
 \\.What is your name?"
 > CONTEXT: Map007/events/44/pages/0/7/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Lynri ]
+"Này, \\.Tôi còn chưa hỏi. . .
+\\.Anh tên gì thế?"
 > END STRING
 
 > BEGIN STRING
@@ -357,28 +372,33 @@ and go all on your own accord?"
 "What? \\.Oh. . . \\.I guess I didn't
  tell you yet this time around."
 > CONTEXT: Map007/events/44/pages/0/16/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Sao cơ? \\.A. . . \\.tôi đoán
+tôi chưa nói với cô nhỉ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "It's Quincy."
 > CONTEXT: Map007/events/44/pages/0/20/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi là Quincy."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[43]\\nm[ Lynri ]
 "Quincy, \\.huh?\\.\\. That sounds fitting."
 > CONTEXT: Map007/events/44/pages/0/23/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Lynri ]
+"Quincy, \\.huh?\\.\\. Nghe hợp phết nhỉ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "What's that supposed to mean?"
 > CONTEXT: Map007/events/44/pages/0/26/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Vậy nghĩa là sao hả?"
 > END STRING
 
 > BEGIN STRING

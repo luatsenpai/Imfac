@@ -1,0 +1,76 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'bridge-treeline'
+> CONTEXT: Map166/events/17/pages/0/27/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map165/events/1/pages/0/39/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/0/17/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/1/33/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/2/36/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/3/37/InlineScript/2:8 < UNTRANSLATED
+'hàng cây'
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+M E M O R Y   L O A D E D  :  V I S I T
+A T   Y U - H A Y N E S   E S T A T E
+> CONTEXT: Map166/events/17/pages/0/68/Dialogue < UNTRANSLATED
+\\ignr\\e[17]
+Đ Ã  T Ả I  K Ý  Ứ C  :  G H É  T H Ă M
+D I N H  T H Ự  Y U - H A Y N E S	
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[117]\\nm[ Lynri ]
+". . . That's fine."
+> CONTEXT: Map166/events/17/pages/0/79/Dialogue < UNTRANSLATED
+\\ignr\\e[117]\\nm[ Lynri ]
+". . . Được rồi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+I N I T I A T I N G   F O R E I G N   E N T I T Y
+T O   M E M O R Y   S E T T I N G
+> CONTEXT: Map166/events/17/pages/0/331/Dialogue < UNTRANSLATED
+\\ignr\\e[17]
+K H Ở I  T Ạ O  T H Ự C  T H Ể  N G O À I
+V Ớ I  T H I Ế T  L Ậ P  K Ý  Ứ C
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+E N T I T Y   A C T I V A T I O N   I N   3  .  .  .
+> CONTEXT: Map166/events/17/pages/0/343/Dialogue < UNTRANSLATED
+\\ignr\\e[17]
+T H Ự C  T H Ể  S Ẽ  H O Ạ T  Đ Ộ N G  S A U   3  .  .  .
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+2  .  .  .
+> CONTEXT: Map166/events/17/pages/0/348/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+1  .  .  .
+> CONTEXT: Map166/events/17/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+A large and misshapen overgrowth.
+> CONTEXT: Map166/events/94/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map166/events/95/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map166/events/96/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map166/events/97/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/94/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/95/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/96/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/97/pages/0/3/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Cây cối phát triển um tùm.
+> END STRING

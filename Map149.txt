@@ -1,0 +1,24 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Tobi! \\.\\.Can you hear me?!"
+> CONTEXT: Map149/events/1/pages/0/63/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Quincy ]
+"Tobi! \\.\\.Con có nghe bố nói không?!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Naomi ]
+"Please, \\.just send someone right away--
+> CONTEXT: Map149/events/1/pages/0/84/Dialogue < UNTRANSLATED
+\\ignr\\e[18]\\nm[ Naomi ]
+"Làm ơn, \\.hãy đưa ai đó đến ngay--
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Naomi ]
+"N-no,\\. he's not. . ."
+> CONTEXT: Map149/events/1/pages/0/92/Dialogue < UNTRANSLATED
+\\ignr\\e[18]\\nm[ Naomi ]
+"K-không,\\. thằng bé không. . ."
+> END STRING
