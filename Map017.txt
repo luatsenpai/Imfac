@@ -5,22 +5,25 @@
 my hands while I'm here. . . )
 > CONTEXT: Map017/events/2/pages/0/7/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Might as well as actually wash
-my hands while I'm here. . . )
+( Thôi thì nhân tiện ở đây,
+mình cũng rửa tay luôn vậy. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Nope. . . )
 > CONTEXT: Map017/events/2/pages/2/7/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Không. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[1]\\nm[ Quincy ]
 "H-hey listen, \\.this is a misunderstanding,\\. okay?"
 > CONTEXT: Map017/events/2/pages/2/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]\\nm[ Quincy ]
+"Ê-ê nghe tôi giải thích, \\.đây chỉ
+là hiểu lầm thôi,\\. okay?"
 > END STRING
 
 > BEGIN STRING
@@ -28,35 +31,42 @@ my hands while I'm here. . . )
 "I mean, \\.this is crazy. . .\\.
 \\.I swear I didn't do anything!"
 > CONTEXT: Map017/events/2/pages/2/30/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]\\nm[ Quincy ]
+"Ý tôi là, \\.chuyện gì đang xảy ra
+thế này. . .\\. \\.nhưng tôi thề
+tôi chưa làm gì ca3!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[1]\\nm[ Quincy ]
 "And I uh. . . \\.\\.I think I just hallucinated?"
 > CONTEXT: Map017/events/2/pages/2/42/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]\\nm[ Quincy ]
+"Và ừm. . . \\.\\.hình như tôi vừa bị ảo giác thì phải?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Rika ]
 "Oh, \\.I see.\\.\\. Why didn't you just say so?"
 > CONTEXT: Map017/events/2/pages/2/46/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Rika ]
+"À, \\.vậy sao.\\.\\. Tại sao ngài lại nói thế?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Emil ]
 "Aye, lad. \\.We believe you."
 > CONTEXT: Map017/events/2/pages/2/53/Dialogue < UNTRANSLATED
-
+\\ignr\\e[22]\\nm[ Emil ]
+"Được rồi. \\.Chúng tôi tin ngài."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[1]\\nm[ Quincy ]
 "You. . . \\.\\.You do. . . ?"
 > CONTEXT: Map017/events/2/pages/2/61/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]\\nm[ Quincy ]
+"Thật. . . \\.\\.thật sao. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -64,35 +74,41 @@ my hands while I'm here. . . )
 "Yeah. \\.\\.Let's all just calm down and
 talk it out in the next room."
 > CONTEXT: Map017/events/2/pages/2/64/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Rika ]
+"Ừm. \\.\\.Bây giờ chỉ cần bình tĩnh
+và đưa nó sang phòng khác."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[1]\\nm[ Quincy ]
 "Okay. . . \\.\\.Thank you. . ."
 > CONTEXT: Map017/events/2/pages/2/73/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]\\nm[ Quincy ]
+"Rồi. . . \\.\\.Cảm ơn cô. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Rika ]
 \\i"Pssst, get ready to knock his legs out."\\i
 > CONTEXT: Map017/events/2/pages/2/87/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Rika ]
+\\i"Suỵt, chuẩn bị gạt chân hắn chưa."\\i
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Emil ]
 \\i"Where did we put those zip-ties?"\\i
 > CONTEXT: Map017/events/2/pages/2/91/Dialogue < UNTRANSLATED
-
+\\ignr\\e[22]\\nm[ Emil ]
+\\i"Chúng ta cất dây zip ở đâu nhỉ?"\\i
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[1]\\nm[ Quincy ]
 "Hey-- \\.I can hear you. . ."
 > CONTEXT: Map017/events/2/pages/2/106/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]\\nm[ Quincy ]
+"Ê-- \\.Tôi nghe đấy nhé. . ."
 > END STRING
 
 > BEGIN STRING
@@ -148,14 +164,17 @@ CHÚNG TÔI PHÁ CỬA!"
 "Weren't you going to show me
 how this works?"
 > CONTEXT: Map017/events/2/pages/5/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Lynri ]
+"Chắc phải anh sẽ cho tôi xem
+cách nó hoạt động sao?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Uhh yeah, \\.I'm coming."
 > CONTEXT: Map017/events/2/pages/5/23/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"À ừm, \\.tôi đang làm đây."
 > END STRING
 
 > BEGIN STRING
@@ -178,7 +197,8 @@ how this works?"
 \\ignr\\e[0]\\nm[ Quincy ]
 ( She just came out of here. . . )
 > CONTEXT: Map017/events/4/pages/4/11/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Cô ấy mới ra khỏi đây thôi mà. . . )
 > END STRING
 
 > BEGIN STRING
@@ -222,28 +242,31 @@ làm mấy cái vớ vẩn này sao. . . ? )
 "Uhhh-- \\.I see them!"
 > CONTEXT: Map017/events/10/pages/3/10/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Uhhh-- \\.I see them!"
+"Uhhh-- \\.Tôi thấy họ rồi!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[30]\\nm[ Lynri ]
 "Good.\\. Now come back out."
 > CONTEXT: Map017/events/10/pages/3/15/Dialogue < UNTRANSLATED
-
+\\ignr\\e[30]\\nm[ Lynri ]
+"Tốt.\\. Giờ hãy quay lại."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( I guess I should just head out. . . )
 > CONTEXT: Map017/events/10/pages/5/6/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mình nghĩ nên quay lại thôi. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( They don't seem responsive. . . )
 > CONTEXT: Map017/events/10/pages/5/15/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Họ không phản hồi. . . )
 > END STRING
 
 > BEGIN STRING
@@ -253,21 +276,24 @@ Just an ordinary sink.
 > CONTEXT: Map017/events/11/pages/5/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/11/pages/9/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/11/pages/10/4/Dialogue < UNTRANSLATED
-
+\\ignr\\e[11]
+Chỉ là bồn rửa thông thường
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( I washed my hands here earlier, \\.and then. . . )
 > CONTEXT: Map017/events/11/pages/3/10/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Lúc nãy mình rửa tay ở đây, \\.và rồi. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . No,\\. that's absurd. )
 > CONTEXT: Map017/events/11/pages/3/15/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . Không,\\. thật vô lý. )
 > END STRING
 
 > BEGIN STRING
@@ -299,7 +325,9 @@ Just an ordinary sink.
 ( . . . I should talk to Lynri first
 and ask her outright. )
 > CONTEXT: Map017/events/11/pages/6/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . Mình nên bắt chuyện với Lynri
+trước và hỏi thẳng cô ấy. )
 > END STRING
 
 > BEGIN STRING
@@ -307,7 +335,9 @@ and ask her outright. )
 ( It's gone pretty far. \\.
 I suppose if I wash again. . . )
 > CONTEXT: Map017/events/11/pages/6/32/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hết cách rồi. \\.
+Chắc phải rửa tay nữa thôi. . . )
 > END STRING
 
 > BEGIN STRING
@@ -315,7 +345,9 @@ I suppose if I wash again. . . )
 ( . . . No, \\.I should talk to Lynri first
 and ask her outright. )
 > CONTEXT: Map017/events/11/pages/6/60/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . Mình nên bắt chuyện với Lynri
+trước và hỏi thẳng cô ấy. )
 > END STRING
 
 > BEGIN STRING
@@ -813,7 +845,8 @@ A crystalline bathtub.
 > CONTEXT: Map017/events/16/pages/2/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/17/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/17/pages/2/3/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]
+Bồn tắm bằng pha lê.
 > END STRING
 
 > BEGIN STRING
@@ -822,14 +855,16 @@ A typical crystalline bathtub.
 > CONTEXT: Map017/events/15/pages/1/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/16/pages/1/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/17/pages/1/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]
+Bồn tắm bằng pha lê.
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]
 Soap bar.
 > CONTEXT: Map017/events/18/pages/0/4/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Thanh xà bông.
 > END STRING
 
 > BEGIN STRING
@@ -837,49 +872,56 @@ Soap bar.
 ( Wow,\\. they really got everything. . . )
 > CONTEXT: Map017/events/18/pages/0/14/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/19/pages/0/14/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Quào,\\. họ có đầy đủ luôn. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]
 Liquid soap.
 > CONTEXT: Map017/events/19/pages/0/4/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Xà bông nước.
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[25]\\nm[ Lynri ]
 "Go ahead. \\.I'll be the witness."
 > CONTEXT: Map017/events/25/pages/1/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Lynri ]
+"Cứ làm đi. \\.Tôi sẽ làm chứng cho."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[25]\\nm[ Lynri ]
 "Is this the sink you were talking about?"
 > CONTEXT: Map017/events/25/pages/1/6/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Lynri ]
+"Đây là bồn rửa tay mà anh nói?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Yeah."
 > CONTEXT: Map017/events/25/pages/1/9/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[25]\\nm[ Lynri ]
 "Alright. \\.\\.Go ahead."
 > CONTEXT: Map017/events/25/pages/1/15/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Lynri ]
+"Được rồi. \\.\\.Tiến hành thôi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Whoa-- !"
 > CONTEXT: Map017/events/26/pages/4/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Quào-- !"
 > END STRING
 
 > BEGIN STRING

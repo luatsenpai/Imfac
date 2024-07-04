@@ -2015,28 +2015,31 @@ lần cuối chúng tôi trò chuyện với nhau."
 "Or perhaps, \\.more accurately. . .\\.\\. I did."
 > CONTEXT: Map013/events/20/pages/9/475/Dialogue < UNTRANSLATED
 \\ignr\\e[20]\\nm[ Lynri ]
-"Hoặc có lẽ, \\.more accurately. . .\\.\\. I did."
+"Hoặc có lẽ, \\.đúng hơn. . .\\.\\. là do tôi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Oh yeah, \\.I just saw something weird outside."
 > CONTEXT: Map013/events/20/pages/9/504/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm, \\.Tôi vừa thấy bên ngoài có gì đó lạ lắm."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "You know that fountain? \\.\\.There was-- \\w[5]
 > CONTEXT: Map013/events/20/pages/9/514/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô biết đài phun nước chứ? \\.\\.Ở đó-- \\w[5]
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( I've already asked that. . . )
 > CONTEXT: Map013/events/20/pages/9/550/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mình đã hỏi về nó rồi. . . )
 > END STRING
 
 > BEGIN STRING
@@ -2044,21 +2047,25 @@ lần cuối chúng tôi trò chuyện với nhau."
 "It's almost complete. . . \\.\\.
 There's time for just a couple more questions."
 > CONTEXT: Map013/events/20/pages/9/589/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Gần xong rồi. . . \\.\\.
+Vẫn còn thời gian cho một vài câu hỏi nữa."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "One last question, \\.and we're starting."
 > CONTEXT: Map013/events/20/pages/9/608/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Một câu hỏi cuối cúng, \\.và nó sẽ khởi động."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 ". . . Okay, \\.\\.it's ready."
 > CONTEXT: Map013/events/20/pages/10/105/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+". . . Rồi, \\.\\.nó đã khởi động."
 > END STRING
 
 > BEGIN STRING
@@ -2066,7 +2073,9 @@ There's time for just a couple more questions."
 "I've prepared a batch of test scenarios
 with particular. . .\\.\\. variables."
 > CONTEXT: Map013/events/20/pages/10/116/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Tôi đã chuẩn bị một loạt các kịch bản
+kiểm tra. . .\\.\\. với các biến cụ thể."
 > END STRING
 
 > BEGIN STRING
@@ -2074,21 +2083,25 @@ with particular. . .\\.\\. variables."
 "Notably, \\.the location of Dr. Haynes and
 Dr. Yu, \\.and their intent."
 > CONTEXT: Map013/events/20/pages/10/127/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Đáng chú ý là, \\.vị trí của Ts. Haynes
+và Ts. Yu, \\.và mục đích của họ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "As for you. . . \\.\\.You'll be my observer."
 > CONTEXT: Map013/events/20/pages/10/135/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Về phần anh. . . \\.\\.Anh sẽ quan sát thay tôi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Observer. . . ?"
 > CONTEXT: Map013/events/20/pages/10/142/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Quan sát. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -2096,76 +2109,87 @@ Dr. Yu, \\.and their intent."
 "Yup. \\.\\.All you have to do is go into
 the rooms and look at them."
 > CONTEXT: Map013/events/20/pages/10/149/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Ừm. \\.\\.Những gì anh cần làm là vào
+văn phòng và quan sát họ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "That's easy."
 > CONTEXT: Map013/events/20/pages/10/161/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Vậy thì đơn giản."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Look at them. . . \\.to check if they're dead."
 > CONTEXT: Map013/events/20/pages/10/168/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Quan sát họ. . . \\.để xem họ có chết không."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . That's easy but less appealing."
 > CONTEXT: Map013/events/20/pages/10/176/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Tuy dễ nhưng lại không mấy hấp dẫn."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "It's for science."
 > CONTEXT: Map013/events/20/pages/10/183/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Vì mục đích khoa học."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Oh, \\.then uh. . . \\.\\.Yay?"
 > CONTEXT: Map013/events/20/pages/10/191/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"À, \\.vậy. . . \\.\\.Được chưa?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Indeed. \\.\\.You ready?"
 > CONTEXT: Map013/events/20/pages/10/204/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Được rồi. \\.\\.Sẵn sáng chưa?"
 > END STRING
 
 > BEGIN STRING
 Definitely Yes
 > CONTEXT: Map013/events/20/pages/10/206/Choice/2 < UNTRANSLATED
-
+Chắc chắn là có
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Great. \\.\\.Now check the bathroom."
 > CONTEXT: Map013/events/20/pages/10/216/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Tốt. \\.\\.Giờ hãy kiểm tra phòng tắm"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "The bathroom?"
 > CONTEXT: Map013/events/20/pages/10/224/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Phòng tắm?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Yup. \\.\\.I stuffed them there first."
 > CONTEXT: Map013/events/20/pages/10/231/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Ừm. \\.\\.xử lý nó trước."
 > END STRING
 
 > BEGIN STRING
@@ -2173,7 +2197,9 @@ Definitely Yes
 "Can you not? \\.\\.That bathroom is like,
 \\.the only sanctuary I had left."
 > CONTEXT: Map013/events/20/pages/10/239/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hay là thôi đi? \\.\\.Cái phòng tắm đó gần như
+\\.là nơi trú ẩn duy nhất còn sót lại của tôi."
 > END STRING
 
 > BEGIN STRING
@@ -2181,7 +2207,9 @@ Definitely Yes
 "It's fine. \\.\\.I'll be monitoring and
 waiting right out here."
 > CONTEXT: Map013/events/20/pages/10/247/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Không sao mà. \\.\\.Tôi sẽ chờ ở ngoài
+đây và canh chừng cho."
 > END STRING
 
 > BEGIN STRING
@@ -2189,7 +2217,9 @@ waiting right out here."
 "Besides, \\.you need to learn to get
 out of your comfort zone."
 > CONTEXT: Map013/events/20/pages/10/261/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Hơn nữa, \\.anh nên học cách
+bước ra khỏi vùng an toàn đi."
 > END STRING
 
 > BEGIN STRING
@@ -2197,7 +2227,9 @@ out of your comfort zone."
 ". . . Oh, \\.we're waaay beyond the
 very concept of 'comfort zone'."
 > CONTEXT: Map013/events/20/pages/10/272/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . À, \\.'vùng an toàn' ấy à,
+chúng ta đã đi xa quá rồi."
 > END STRING
 
 > BEGIN STRING
@@ -2205,21 +2237,25 @@ very concept of 'comfort zone'."
 "There might be bodies in the bathroom.
 \\.\\.You should visit."
 > CONTEXT: Map013/events/20/pages/11/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Tốt nhất là anh nên kiểm tra phòng tắm.
+\\.\\.Có khả năng ở đó có người gặp chuyện."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Go on. \\.\\.They're waiting for you by the toilet."
 > CONTEXT: Map013/events/20/pages/11/9/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Đi thôi. \\.\\.Họ đang đợi anh trong toilet."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . That sounds sketchy regardless of context."
 > CONTEXT: Map013/events/20/pages/11/14/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Nghe cũng thật đáng ngờ dù ở hoàn cảnh nào."
 > END STRING
 
 > BEGIN STRING
