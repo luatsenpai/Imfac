@@ -926,7 +926,7 @@ Ch1uc may mắn!"
 ". . . You don't protecc."
 > CONTEXT: Map013/events/4/pages/30/766/Dialogue < UNTRANSLATED
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Ngươi không thể bảo vệ."
+". . . Mày không thể bảo vệ."
 > END STRING
 
 > BEGIN STRING
@@ -950,7 +950,7 @@ T Ô I  L À  H Ệ  T H Ố N G
 "Oh, \\.I've seen you in her memories. . ."
 > CONTEXT: Map013/events/4/pages/31/120/Dialogue < UNTRANSLATED
 \\ignr\\e[0]\\nm[ Quincy ]
-"À, \\.ta đã thấy ngươi trong ký ức của cô ấy. . ."
+"À, \\.ta đã thấy mi trong ký ức của cô ấy. . ."
 > END STRING
 
 > BEGIN STRING
@@ -3393,7 +3393,8 @@ hơi quá đề cao bản thân!" )
 \\ignr\\e[94]\\nm[ Lynri ]
 ( "Almost like. . . \\.like \\icaricatures\\i of real people." )
 > CONTEXT: Map013/events/54/pages/10/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[94]\\nm[ Lynri ]
+( "Trông giống như. . . \\.\\itranh biếm họa\\i bằng người thật." )
 > END STRING
 
 > BEGIN STRING
@@ -3591,14 +3592,17 @@ Cửa khóa rồi.
 "Get it together, \\.lad. \\.You're
 embarrasing yourself."
 > CONTEXT: Map013/events/61/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Prisha ]
+"Xin cậu hãy \\.bình tĩnh.\\. Cậu
+đang tự hạ thấp hình tượng đấy."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[61]\\nm[ Prisha ]
 "Oh, \\.pull yourself together, \\.lad."
 > CONTEXT: Map013/events/61/pages/0/7/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Prisha ]
+"Này, \\.cậu \\.hãy bình tĩnh."
 > END STRING
 
 > BEGIN STRING
@@ -3606,7 +3610,9 @@ embarrasing yourself."
 "What kind of trained chef hasn't braced
 through a murder or two?"
 > CONTEXT: Map013/events/61/pages/0/9/Dialogue < UNTRANSLATED
-
+\\ignr\\e[61]\\nm[ Prisha ]
+"Đầu bếp lành nghề nào mà không phải
+trải qua hai hay ba vụ chết người chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -3632,14 +3638,16 @@ mọi nơi chỉ trừ nhà bếp vậy. . . ? )
 \\ignr\\e[66]\\nm[ R I C E B O T ]
 "W O U L D   Y O U   L I K E   R I C E  ?"
 > CONTEXT: Map013/events/66/pages/5/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[66]\\nm[ R I C E B O T ]
+"N G À I  M U Ố N  D Ù N G  C Ơ M  C H Ứ  ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Wait--. . . \\.You can see me??"
 > CONTEXT: Map013/events/66/pages/5/48/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan--. . . \\.Mi thấy ta à??"
 > END STRING
 
 > BEGIN STRING
@@ -3647,21 +3655,25 @@ mọi nơi chỉ trừ nhà bếp vậy. . . ? )
 "Cut it out, \\.Ricebot. \\.\\.
 No one's asking for rice."
 > CONTEXT: Map013/events/66/pages/5/50/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Rika ]
+"Thôi đi, \\.Ricebot. \\.\\.
+không ai yêu cầu cơm cả."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[66]\\nm[ R I C E B O T ]
 W O U L D   R I K A   L I K E   R I C E  ?
 > CONTEXT: Map013/events/66/pages/5/82/Dialogue < UNTRANSLATED
-
+\\ignr\\e[66]\\nm[ R I C E B O T ]
+R I K A  M U Ố N  D Ù N G  C Ơ M  K H Ô N G ?
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[40]\\nm[ Rika ]
 "No. \\.Stop it."
 > CONTEXT: Map013/events/66/pages/5/86/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]\\nm[ Rika ]
+"Không. \\.Dừng lại đi."
 > END STRING
 
 > BEGIN STRING

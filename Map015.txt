@@ -91,7 +91,7 @@ quay ngược thời gian. . . ? )
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map015/events/4/pages/11/236/Dialogue
 \\ignr\\e[81]
-P H Á T  H I Ệ N  D Ị  T H Ư Ờ N G
+P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 > END STRING
 
 > BEGIN STRING
@@ -290,14 +290,16 @@ trước khi mọi thứ đóng băng. . . )
 \\ignr\\e[82]
 I T   I S   S T A R T I N G
 > CONTEXT: Map015/events/37/pages/4/21/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+N Ó  S Ắ P  B Ắ T  Đ Ầ U
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Huh,\\. I remember this from the memories. . ."
 > CONTEXT: Map015/events/37/pages/4/85/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hử,\\. ta nhớ cảnh này trong ký ức. . ."
 > END STRING
 
 > BEGIN STRING
@@ -305,14 +307,17 @@ I T   I S   S T A R T I N G
 "They demo the machine here,\\. right? \\.
 \\.I don't think the replay got that far,\\. though."
 > CONTEXT: Map015/events/37/pages/4/94/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Họ sẽ demo cái máy ở đây\\. nhỉ? \\.
+\\.Ta không nghĩ\\. đoạn hồi ức có cảnh đó."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 T H I S   I S   T H E   F U R T H E S T   P O I N T
 > CONTEXT: Map015/events/37/pages/4/99/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+Đ Â Y  L À  G I Ớ I  H Ạ N  X A  N H Ấ T
 > END STRING
 
 > BEGIN STRING
@@ -328,7 +333,9 @@ T H I S   I S   T H E   F U R T H E S T   P O I N T
 \\ignr\\e[82]
 D E A T H   I S   V A R I A B L E ,  B U T . . .
 > CONTEXT: Map015/events/37/pages/4/123/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+K H Ô N G  T H Ể  T R Á N H  K H Ỏ I
+C Á I  C H Ế T ,  N H Ư N G . . .
 > END STRING
 
 > BEGIN STRING
@@ -336,14 +343,17 @@ D E A T H   I S   V A R I A B L E ,  B U T . . .
 A L L   D E A T H   T A N G E N T S
 L I N K   T O   T H I S   M O M E N T
 > CONTEXT: Map015/events/37/pages/4/128/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+C Á C  N H Á N H  D Ẫ N  Đ Ế N  C Á I  C H Ế T
+Đ Ề U  L I Ê N  Q U A N  K H O Ả N G  K H Ắ C  N À Y
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "When they demo the machine for the guests. . . ?"
 > CONTEXT: Map015/events/37/pages/4/142/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Lúc họ demo cái máy cho khách mời. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -352,7 +362,8 @@ A F F I R M A T I V E
 > CONTEXT: Map015/events/37/pages/4/165/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/37/pages/6/591/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/37/pages/6/651/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+Đ Ú N G
 > END STRING
 
 > BEGIN STRING
@@ -360,42 +371,50 @@ A F F I R M A T I V E
 D A T A   P R E D I C T S   I F   W E   L E A V E   T H I S
 R O O M   N O W ,\\.  E V E R Y O N E   W I L L   D I E
 > CONTEXT: Map015/events/37/pages/4/188/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+D Ữ  L I Ệ U  C Ả N H  B Á O  R Ằ N G  N Ế U  C H Ú N G  T A
+R Ờ I  K H Ỏ I  P H Ò N G , \\. M Ọ I  N G Ư Ờ I  S Ẽ  C H Ế T
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "\\iEveryone\\i here?!"
 > CONTEXT: Map015/events/37/pages/4/197/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"\\iMọi người\\i ở đây?!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 W I L L   D I E , \\.  D A T A   P R E D I C T S
 > CONTEXT: Map015/events/37/pages/4/201/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+S Ẽ  C H Ế T ,  \\.D Ữ  L I Ệ U  Đ Ã  D Ự  B Á O  V Ậ Y
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 N O W ,\\.  L E T   U S   L E A V E   T H I S   R O O M
 > CONTEXT: Map015/events/37/pages/4/254/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+G I Ờ ,\\.  H Ã Y  R Ờ I  K H Ỏ I  P H Ò N G
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "What-- \\.\\.Do we have to?!"
 > CONTEXT: Map015/events/37/pages/4/264/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cái gì-- \\.\\.Chúng ta phải
+làm thế sao?!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 I T   I S   I M P E R A T I V E
 > CONTEXT: Map015/events/37/pages/4/277/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+B Ắ T  B U Ộ C  P H Ả I  L À M  V Ậ Y
 > END STRING
 
 > BEGIN STRING
@@ -403,7 +422,9 @@ I T   I S   I M P E R A T I V E
 L E A V E   T H I S   R O O M   A N D
 C O M E   B A C K   T O   C O N F I R M
 > CONTEXT: Map015/events/37/pages/4/303/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+R Ờ I  K H Ỏ I  P H Ò N G  V À
+Q U A Y  L Ạ I  X Á C  N H Ậ N
 > END STRING
 
 > BEGIN STRING
@@ -412,7 +433,9 @@ P L E A S E   L E A V E  A N D   C O M E
 B A C K   T O   T H I S   R O O M
 > CONTEXT: Map015/events/37/pages/5/6/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/37/pages/5/17/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+H Ã Y  R Ờ I  K H Ỏ I  P H Ò N G
+V À  Q U A Y  L Ạ I
 > END STRING
 
 > BEGIN STRING
@@ -420,21 +443,26 @@ B A C K   T O   T H I S   R O O M
 T H E   S C E N E   W I L L   N O T   B E   R E S E T
 \\.\\.A N D   D E A T H S   A R E   E X P E C T E D
 > CONTEXT: Map015/events/37/pages/5/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+C Ả N H  N À Y  S Ẽ  K H Ô N G  T H Ể  T H I Ế T 
+L Ậ P  L Ạ I \\.\\. V À  K H Ô N G  T H Ể
+T R Á N H  K H Ỏ I  C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 D E A T H S   C O N F I R M E D
 > CONTEXT: Map015/events/37/pages/6/26/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+X Á C  N H Ậ N  C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 R E S E T T I N G   R O O M
 > CONTEXT: Map015/events/37/pages/6/35/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+T H I Ế T  L Ậ P  L Ạ I  C Ă N  P H Ò N G
 > END STRING
 
 > BEGIN STRING
@@ -442,7 +470,9 @@ R E S E T T I N G   R O O M
 "Wait, \\.if you could just reset the room
 while we're in here. . ."
 > CONTEXT: Map015/events/37/pages/6/188/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan, \\.nếu được, hãy thiết lập lại
+căn phòng khi chúng ta ở bên trong. . ."
 > END STRING
 
 > BEGIN STRING
@@ -450,7 +480,9 @@ while we're in here. . ."
 ". . . Why did we have to leave and
 come back every time earlier?"
 > CONTEXT: Map015/events/37/pages/6/206/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Rại sao nãy giờ chúng ta cứ
+ra vào căn phòng chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -458,7 +490,9 @@ come back every time earlier?"
 L E A V I N G   W A S   \\BN O T\\B
 N E C E S S A R Y   F O R   R E S E T
 > CONTEXT: Map015/events/37/pages/6/248/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+\\BK H Ô N G\\B  C Ầ N  R Ờ I  P H Ò N G
+Đ Ể  T H I Ế T  L Ậ P  L Ạ I
 > END STRING
 
 > BEGIN STRING
@@ -466,14 +500,17 @@ N E C E S S A R Y   F O R   R E S E T
 L E A V I N G   \\BW A S\\B   N E C E S S A R Y
 F O R   \\bD E A T H\\b
 > CONTEXT: Map015/events/37/pages/6/252/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+\\BC Ầ N \\B R Ờ I  K H Ỏ I  M Ớ I
+X Ả Y  R A \\B C Á I  C H Ế T\\B
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
-W H E N E V E R   W E   L O O K ,
-\\.T H E Y   D O   N O T   D I E
+K H I  C H Ú N G  T A  Q U A N  S Á T,
+\\.H Ọ  S Ẽ  K H Ô N G  C H Ế T
 > CONTEXT: Map015/events/37/pages/6/314/Dialogue < UNTRANSLATED
+\\ignr\\e[82]
 
 > END STRING
 
@@ -481,14 +518,16 @@ W H E N E V E R   W E   L O O K ,
 \\ignr\\e[37]\\nm[ Louie ]
 "Whoa, \\.what happened?"
 > CONTEXT: Map015/events/37/pages/6/420/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Louie ]
+"Ối, \\.chuyện gì vậy?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Dr. Yu ]
 "I. . . \\.I'm not certain."
 > CONTEXT: Map015/events/37/pages/6/429/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Ts. Yu ]
+"Ta. . . \\.Ta không rõ lắm."
 > END STRING
 
 > BEGIN STRING
@@ -496,7 +535,9 @@ W H E N E V E R   W E   L O O K ,
 "This isn't supposed to--
 \\.\\.It's never happened before. . ."
 > CONTEXT: Map015/events/37/pages/6/433/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Ts. Yu ]
+"Không thể nào--\\.\\. Chuyện này
+không thể xảy ra được. . ."
 > END STRING
 
 > BEGIN STRING
@@ -504,7 +545,9 @@ W H E N E V E R   W E   L O O K ,
 U N D E R   T H I S   S C E N A R I O ,  \\.
 E Q U I P M E N T   D A M A G E   O C C U R S
 > CONTEXT: Map015/events/37/pages/6/442/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+T R O N G  T Ì N H  H U Ố N G  N À Y ,  \\.
+T H I Ế T  B Ị  Đ Ã  H Ỏ N G
 > END STRING
 
 > BEGIN STRING
@@ -512,35 +555,41 @@ E Q U I P M E N T   D A M A G E   O C C U R S
 C O R E   C O M P U T I N G   U N I T   I N
 B A S E M E N T   I S   D E S T R O Y E D
 > CONTEXT: Map015/events/37/pages/6/446/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+T R U N G  T Â M  T Í N H  T O Á N  D Ư Ớ I
+T Ầ N G  H Ầ M  Đ Ã  B Ị  P H Á  H Ủ Y
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Destroyed? \\.\\.How. . . ?"
 > CONTEXT: Map015/events/37/pages/6/453/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Phá hủy? \\.\\.Làm sao có thể. . . ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 D A T A   U N K N O W N
 > CONTEXT: Map015/events/37/pages/6/457/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+D Ữ  L I Ệ U  K H Ô N G  B I Ế T
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 R E S E T T I N G
 > CONTEXT: Map015/events/37/pages/6/466/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+T H I Ế T  L Ậ P  L Ạ I
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 N O W ,  \\.T H E   F I N A L   T E S T
 > CONTEXT: Map015/events/37/pages/6/562/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+G I Ờ ,  \\.K I Ể M  T R A  L Ầ N  C U Ố I
 > END STRING
 
 > BEGIN STRING
@@ -548,49 +597,57 @@ N O W ,  \\.T H E   F I N A L   T E S T
 Q U I N C Y   W I L L   G O
 T O   B A S E M E N T
 > CONTEXT: Map015/events/37/pages/6/572/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+Q U I N C Y  S Ẽ  X U Ố N G
+T Ầ N G  H Ầ M
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . The core computing control room?"
 > CONTEXT: Map015/events/37/pages/6/584/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Phòng trung tâm tính toán?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 B O T H   S I T E S   W I L L   B E   O B S E R V E D
 > CONTEXT: Map015/events/37/pages/6/600/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+C Ầ N  G I Á M  S Á T  C Ả  H A I  N Ơ I
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 D A T A   A N O M A L Y   I S   E X P E C T E D
 > CONTEXT: Map015/events/37/pages/6/603/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+P H Á T  H I Ệ N  D Ữ  L I Ệ U  B Ấ T  T H Ư Ờ N G
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "What kind of anomaly. . . ?"
 > CONTEXT: Map015/events/37/pages/6/612/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Đấy là loại bất thường gì. . . ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 U N K N O W N
 > CONTEXT: Map015/events/37/pages/6/617/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+K H Ô N G  B I Ế T
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . Guess I'll find out, \\.then."
 > CONTEXT: Map015/events/37/pages/6/627/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Vậy, \\.tôi phải đi tìm hiều rồi."
 > END STRING
 
 > BEGIN STRING
@@ -598,35 +655,41 @@ U N K N O W N
 D O   Y O U   R E M E M B E R
 T H E   E N T R A N C E  ?
 > CONTEXT: Map015/events/37/pages/6/637/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+A N H  V Ẫ N  N H Ớ
+L Ố I  V À O ?
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "The pool table?"
 > CONTEXT: Map015/events/37/pages/6/647/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Bàn bida?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[82]
 P L E A S E   P R O C E E D
 > CONTEXT: Map015/events/37/pages/6/691/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+H Ã Y  T I Ế N  H À N H  Đ I
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[84]
 W A I T
 > CONTEXT: Map015/events/37/pages/7/18/Dialogue < UNTRANSLATED
-
+\\ignr\\e[84]
+K H O A N
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[84]
 I T   I S   D A N G E R O U S   T O   G O   A L O N E
 > CONTEXT: Map015/events/37/pages/7/42/Dialogue < UNTRANSLATED
-
+\\ignr\\e[84]
+Đ I  M Ộ T  M Ì N H  N G U Y  H I Ể M  L Ắ M
 > END STRING
 
 > BEGIN STRING
@@ -635,21 +698,24 @@ T A K E   T H I S
 > CONTEXT: Map015/events/37/pages/7/89/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/37/pages/7/173/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/37/pages/7/274/Dialogue < UNTRANSLATED
-
+\\ignr\\e[84]
+Đ E M  T H E O  Đ I
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[85]
 \\c[6]\\oi[12]\\c[0]  joined the party.
 > CONTEXT: Map015/events/37/pages/7/296/Dialogue < UNTRANSLATED
-
+\\ignr\\e[85]
+\\c[6]\\oi[12]\\c[0]  đã đi cùng.
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "I mean. . . \\.\\.sure,\\. why not."
 > CONTEXT: Map015/events/37/pages/7/351/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ồ. . . \\.\\.chắc rồi,\\. tại sao không."
 > END STRING
 
 > BEGIN STRING
@@ -665,7 +731,9 @@ T A K E   T H I S
 A C T I V A T I O N N N N N
 E X C L A M A T I O N   M A R K   O N E
 > CONTEXT: Map015/events/39/pages/2/28/Dialogue < UNTRANSLATED
-
+\\ignr\\e[39]\\nm[ ? B O T ]
+K Í C H  H O Ạ T
+C H Ờ  N H Ậ N  L Ệ N H
 > END STRING
 
 > BEGIN STRING
@@ -689,7 +757,7 @@ C H À O
 "So er. . . \\.\\.What do you do?"
 > CONTEXT: Map015/events/39/pages/2/64/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ừm. . . \\.\\.ngươi có thể làm gì?"
+"Ừm. . . \\.\\.mi có thể làm gì?"
 > END STRING
 
 > BEGIN STRING
@@ -737,7 +805,7 @@ R I C E B O T   B I Ế T   N Ấ U  Ă N
 ". . . Are you sure you cook the best rice?"
 > CONTEXT: Map015/events/39/pages/2/105/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Ngươi có chắc là người sẽ nấu ngon?"
+". . . Mi có chắc là mi sẽ nấu ngon?"
 > END STRING
 
 > BEGIN STRING
@@ -754,7 +822,7 @@ X I N  H Ã Y  N Ó I  C Ụ  T H Ể
 cook the \\ibest\\i rice?\\. Who's to say?"
 > CONTEXT: Map015/events/39/pages/2/112/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ý ta là, \\.làm sao ngươi biết ngươi
+"Ý ta là, \\.làm sao ngươi biết mi
 nấu cơm \\ingon\\i?\\. Ai làm chứng?"
 > END STRING
 
@@ -771,7 +839,7 @@ R I C E B O T   L À M  C H Ứ N G
 "But you're the cook. . ."
 > CONTEXT: Map015/events/39/pages/2/120/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Nhưng ngươi là người nấu mà. . ."
+"Nhưng mi là người nấu mà. . ."
 > END STRING
 
 > BEGIN STRING
@@ -832,7 +900,7 @@ T H E   S O L U T I O N   I S   R I C E
 "I know. . . \\.You said that already."
 > CONTEXT: Map015/events/39/pages/2/163/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Biết rồi. . . \\.Nãy ngươi nói rồi mà."
+"Biết rồi. . . \\.Nãy mi nói rồi mà."
 > END STRING
 
 > BEGIN STRING
@@ -842,7 +910,7 @@ support right now. . . \\.\\.How can you help?"
 > CONTEXT: Map015/events/39/pages/2/171/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Ờm, \\.ta đang rất cần hỗ trợ tinh thần ngay
-bây giở. . . \\.\\.Ngươi sẽ giúp ta bằng cách nào?"
+bây giờ. . . \\.\\.Mi sẽ giúp ta bằng cách nào?"
 > END STRING
 
 > BEGIN STRING
@@ -852,7 +920,7 @@ support. . . \\.\\.How can you help?"
 > CONTEXT: Map015/events/39/pages/2/176/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Ờm,\\. ta nghĩ ta cần hỗ trợ tinh thần...
-\\.\\.Ngươi sẽ giúp ta bằng cách nào?"
+\\.\\.Mi sẽ giúp ta bằng cách nào?"
 > END STRING
 
 > BEGIN STRING
@@ -1024,7 +1092,7 @@ E M I L   Đ Ã  T H Ử  S U S H I  C Á H Ồ I\\.
 troubling given the circumstances."
 > CONTEXT: Map015/events/39/pages/3/58/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Oookay. . . \\.Cách ngươi nói mới
+"Oookay. . . \\.Cách mi nói mới
 là đáng lo ngại trong hoàn cảnh này."
 > END STRING
 
@@ -1980,7 +2048,8 @@ Vừa nãy có đèn ở đây không nhỉ? )
 \\ignr\\e[81]
 I T   W O U L D   N O T
 > CONTEXT: Map015/events/63/pages/3/43/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+K H Ô N G  P H Ả I
 > END STRING
 
 > BEGIN STRING
@@ -1988,14 +2057,17 @@ I T   W O U L D   N O T
 D O   Y O U   M E A N :
 S C H R Ö D I N G E R ' S   C A T  ?
 > CONTEXT: Map015/events/63/pages/3/96/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+Ý  A N H  L À:
+M È O  T R O N G  H Ộ P  ?
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[81]
 I T   D O E S   N O T
 > CONTEXT: Map015/events/63/pages/3/112/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+K H Ô N G  P H Ả I
 > END STRING
 
 > BEGIN STRING
@@ -2003,7 +2075,9 @@ I T   D O E S   N O T
 A L L   C U R R E N T   A N O M A L I E S   N O T E D
 A W A I T I N G   L Y N R I    F O R   R E P O R T
 > CONTEXT: Map015/events/63/pages/4/13/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+Đ Ã  G H I  C H É P  B Ấ T  T H Ư Ờ N G
+C H Ờ  B Á O  C Á O  C H O  L Y N R I
 > END STRING
 
 > BEGIN STRING
@@ -2011,7 +2085,9 @@ A W A I T I N G   L Y N R I    F O R   R E P O R T
 D E A T H   A N O M A L Y   O B S E R V E D
 P L E A S E   P R O C E E D   T O   N E X T   R O O M
 > CONTEXT: Map015/events/63/pages/4/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+P H Á T  H I Ệ N  C Á I  C H Ế T  B Ấ T  T H Ư Ờ N G
+H Ã Y  S A N G  P H Ò N G  T I Ế P  T H E O
 > END STRING
 
 > BEGIN STRING
@@ -2019,7 +2095,10 @@ P L E A S E   P R O C E E D   T O   N E X T   R O O M
 P L E A S E   E X I T   R O O M   T O   R E S E T
 A N D   T H E N   E N T E R   A G A I N
 > CONTEXT: Map015/events/63/pages/4/30/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+H Ã Y  R A  K H Ỏ I  C Ă N  P H Ò N G  N À Y
+Đ Ể  T H I Ế T  L Ậ P  L Ạ I  V À  V À O
+L Ạ I  L Ầ N  N Ữ A
 > END STRING
 
 > BEGIN STRING
@@ -2027,7 +2106,10 @@ A N D   T H E N   E N T E R   A G A I N
 Q U I N C Y   I S   N O T   T H E   O N E
 D O I N G   T H E   R E S E T
 > CONTEXT: Map015/events/63/pages/4/59/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+Q U I N C Y  K H Ô N G  P H Ả I  L À 
+N G Ư Ờ I  D U Y  N H Ấ T  T H Ự C 
+H I Ệ N  T H I Ế T  L Ậ P  L Ạ I
 > END STRING
 
 > BEGIN STRING
@@ -2035,7 +2117,10 @@ D O I N G   T H E   R E S E T
 H O W E V E R ,  \\.Q U I N C Y   I S   C A U S E
 O F   D E A T H   B Y   O B S E R V A T I O N
 > CONTEXT: Map015/events/63/pages/4/68/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+T U Y  N H I Ê N , \\.T H E O  Q U A N  S Á T  T H Ì
+Q U I N C Y  L À  N G U Y Ê N  N H Â N  G Â Y  R A
+C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
@@ -2043,7 +2128,9 @@ O F   D E A T H   B Y   O B S E R V A T I O N
 P R O F E S S O R S   S T A T U S   O N L Y
 C A L C U L A T E D   U P O N   O B S E R V A T I O N
 > CONTEXT: Map015/events/63/pages/4/86/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+T R Ạ N G  T H Á I  C Ủ A  G I Á O  S Ư  C H Ỉ  Đ Ư Ợ C
+T Í N H  T O Á N  D Ự A  T R Ê N  Q U A N  S Á T
 > END STRING
 
 > BEGIN STRING
@@ -2051,14 +2138,18 @@ C A L C U L A T E D   U P O N   O B S E R V A T I O N
 Q U I N C Y   O B S E R V A T I O N
 C A U S E S   S T A T U S
 > CONTEXT: Map015/events/63/pages/4/90/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+Q U I N C Y  L À  N G U Y Ê N  N H Â N
+G Â Y  R A  T Ì N H  T R Ạ N G  N À Y
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[81]
 S T A T U S   I S   D E A T H
 > CONTEXT: Map015/events/63/pages/4/94/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+T Ì N H  T R Ạ N G  D Ẫ N
+Đ Ế N  C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
@@ -2066,7 +2157,9 @@ S T A T U S   I S   D E A T H
 T H E R E F O R E   Q U I N C Y
 C A U S E S   D E A T H
 > CONTEXT: Map015/events/63/pages/4/97/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+V Ậ Y  N Ê N , Q U I N C Y  C H Í N H  L À 
+N G U Y Ê N  N H Â N  G Â Y  R A  C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
@@ -2074,7 +2167,9 @@ C A U S E S   D E A T H
 B E C A U S E   Q U I N C Y   I S   A L S O
 T E S T   S U B J E C T
 > CONTEXT: Map015/events/63/pages/4/133/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+B Ở I  V Ì  Q U I N C Y  C Ũ N G  L À
+Đ Ố I  T Ư Ợ N G  T H Ử  N G H I Ệ M
 > END STRING
 
 > BEGIN STRING
@@ -2082,7 +2177,10 @@ T E S T   S U B J E C T
 I N   A D D I T I O N ,  D A T A   S H O W S   Q U I N C Y
 P R E S E N C E   A L T E R S   R E S U L T S
 > CONTEXT: Map015/events/63/pages/4/140/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+T H A Y  V À O  Đ Ó ,  D Ữ  L I Ệ U  C H O  T H Ấ Y
+S Ự  C Ó  M Ặ T  C Ủ A  Q U I N C Y  Đ Ã  L À M
+T H A Y  Đ Ổ I  K Ế T  Q U Ả
 > END STRING
 
 > BEGIN STRING
@@ -2090,7 +2188,9 @@ P R E S E N C E   A L T E R S   R E S U L T S
 I N C O N C L U S I V E \\.
 M O R E   D A T A   N E E D E D
 > CONTEXT: Map015/events/63/pages/4/149/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+C H Ư A  T H Ể  K Ế T  L U Ậ N,\\.
+C Ầ N  T H Ê M  D Ữ  L I Ệ U
 > END STRING
 
 > BEGIN STRING
@@ -2098,7 +2198,9 @@ M O R E   D A T A   N E E D E D
 I T   I S   N O T   A B O U T   T H E M   D Y I N G
 \\.\\.B U T   \\BW H E N\\B   T H E Y   D I E
 > CONTEXT: Map015/events/63/pages/4/175/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+V Ấ N  Đ Ề  K H Ô N G  P H Ả I  L À  C H Ế T
+\\.\\.M À  L À  \\BT H Ờ I  Đ I Ể M\\B  C H Ế T
 > END STRING
 
 > BEGIN STRING
@@ -2106,7 +2208,10 @@ I T   I S   N O T   A B O U T   T H E M   D Y I N G
 E A C H   R E S E T   I S   C O N F I G U R E D
 W I T H   S P E C I F I C   C O N D I T I O N S
 > CONTEXT: Map015/events/63/pages/4/184/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+M Ỗ I  L Ầ N  K H Ở I  Đ Ộ N G  L Ạ I
+Đ Ề U  Đ Ư Ợ C  C À I  Đ Ặ T  V Ớ I
+C Á C  Đ I Ề U  K I Ệ N  C Ụ  T H Ể
 > END STRING
 
 > BEGIN STRING
@@ -2114,7 +2219,9 @@ W I T H   S P E C I F I C   C O N D I T I O N S
 P A T T E R N S   W I L L   B E   D E R I V E D
 F R O M   E X P E R I M E N T   D A T A
 > CONTEXT: Map015/events/63/pages/4/188/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+C Á C  S Ơ  Đ Ồ  S Ẽ  Đ Ư Ợ C  R Ú T  R A
+T Ừ  D Ữ  L I Ệ U  T H Í  N G H I Ệ M
 > END STRING
 
 > BEGIN STRING
@@ -2122,7 +2229,9 @@ F R O M   E X P E R I M E N T   D A T A
 H Y P O T H E S I S   W I L L   B E   T E S T E D
 \\.C A U S E   W I L L   B E   D E T E R M I N E D
 > CONTEXT: Map015/events/63/pages/4/192/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+G I Ả  T H U Y Ế T  S Ẽ  Đ Ư Ợ C  K I Ể M  T R A.
+\\.N G U Y Ê N  N H Â N  S Ẽ  Đ Ư Ợ C  X Á C  Đ Ị N H
 > END STRING
 
 > BEGIN STRING
@@ -2130,7 +2239,9 @@ H Y P O T H E S I S   W I L L   B E   T E S T E D
 P L E A S E   P R O C E E D   T O   T H E
 B A S E M E N T   C O M P U T I N G   L A B
 > CONTEXT: Map015/events/84/pages/1/3/Dialogue < UNTRANSLATED
-
+\\ignr\\e[84]
+H Ã Y  Đ Ế N  M Á Y  T Í N H  Ở
+P T N  D Ư Ớ I  T Ầ N G  H Ầ M
 > END STRING
 
 > BEGIN STRING

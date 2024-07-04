@@ -43,7 +43,7 @@
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map016/events/4/pages/11/133/Dialogue < UNTRANSLATED
 \\ignr\\e[81]
-P H Á T  H I Ệ N  D Ị  T H Ư Ờ N G
+P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 > END STRING
 
 > BEGIN STRING
@@ -560,7 +560,7 @@ A L L   C U R R E N T   A N O M A L I E S   N O T E D
 A W A I T I N G   L Y N R I    F O R   R E P O R T
 > CONTEXT: Map016/events/33/pages/1/13/Dialogue < UNTRANSLATED
 \\ignr\\e[29]
-Đ Ã  G H I  C H É P  D Ị  T H Ư Ờ N G
+Đ Ã  G H I  C H É P  B Ấ T  T H Ư Ờ N G
 C H Ờ  B Á O  C Á O  C H O  L Y N R I
 > END STRING
 
@@ -569,7 +569,9 @@ C H Ờ  B Á O  C Á O  C H O  L Y N R I
 D E A T H   A N O M A L Y   O B S E R V E D
 P L E A S E   P R O C E E D   T O   N E X T   R O O M
 > CONTEXT: Map016/events/33/pages/1/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+P H Á T  H I Ệ N  C Á I  C H Ế T  B Ấ T  T H Ư Ờ N G
+H Ã Y  S A N G  P H Ò N G  T I Ế P  T H E O
 > END STRING
 
 > BEGIN STRING
@@ -577,6 +579,7 @@ P L E A S E   P R O C E E D   T O   N E X T   R O O M
 P L E A S E   E X I T   R O O M   T O   R E S E T
 A N D   T H E N   E N T E R   A G A I N
 > CONTEXT: Map016/events/33/pages/1/30/Dialogue < UNTRANSLATED
+\\ignr\\e[29]
 H Ã Y  R A  K H Ỏ I  C Ă N  P H Ò N G  N À Y
 Đ Ể  T H I Ế T  L Ậ P  L Ạ I  V À  V À O
 L Ạ I  L Ầ N  N Ữ A
@@ -609,6 +612,7 @@ the one killing them?!"
 Q U I N C Y   I S   N O T   T H E   O N E
 D O I N G   T H E   R E S E T
 > CONTEXT: Map016/events/33/pages/1/59/Dialogue < UNTRANSLATED
+\\ignr\\e[29]
 Q U I N C Y  K H Ô N G  P H Ả I  L À 
 N G Ư Ờ I  D U Y  N H Ấ T  T H Ự C 
 H I Ệ N  T H I Ế T  L Ậ P  L Ạ I
@@ -631,7 +635,8 @@ O F   D E A T H   B Y   O B S E R V A T I O N
 > CONTEXT: Map016/events/33/pages/1/68/Dialogue < UNTRANSLATED
 \\ignr\\e[29]
 T U Y  N H I Ê N , \\.T H E O  Q U A N  S Á T  T H Ì
-Q U I N C Y  L À  N G U Y Ê N  N H Â N  T Ử  V O N G
+Q U I N C Y  L À  N G U Y Ê N  N H Â N  G Â Y  R A
+C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
@@ -679,7 +684,8 @@ G Â Y  R A  T Ì N H  T R Ạ N G  N À Y
 S T A T U S   I S   D E A T H
 > CONTEXT: Map016/events/33/pages/1/94/Dialogue < UNTRANSLATED
 \\ignr\\e[29]
-T Ì N H  T R Ạ N G  T Ử  V O N G
+T Ì N H  T R Ạ N G  D Ẫ N
+Đ Ế N  C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
@@ -688,8 +694,8 @@ T H E R E F O R E   Q U I N C Y
 C A U S E S   D E A T H
 > CONTEXT: Map016/events/33/pages/1/97/Dialogue < UNTRANSLATED
 \\ignr\\e[29]
-V Ậ Y  N Ê N , Q U I N C Y  C H Í N H 
-L À  N G U Y Ê N  N H Â N  T Ử  V O N G
+V Ậ Y  N Ê N , Q U I N C Y  C H Í N H  L À 
+N G U Y Ê N  N H Â N  G Â Y  R A  C Á I  C H Ế T
 > END STRING
 
 > BEGIN STRING
