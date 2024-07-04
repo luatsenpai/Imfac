@@ -91,7 +91,7 @@ quay ngược thời gian. . . ? )
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map015/events/4/pages/11/236/Dialogue
 \\ignr\\e[81]
-P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
+P H Á T  H I Ệ N  D Ị  T H Ư Ờ N G
 > END STRING
 
 > BEGIN STRING
