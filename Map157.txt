@@ -1,0 +1,150 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+There, \\.everything began unfolding the same way. . .
+> CONTEXT: Map157/events/1/pages/0/74/Dialogue < UNTRANSLATED
+Tại đó, \\.tất cả lại tiếp diễn theo
+một trình tự quen thuộc. . .
+> END STRING
+
+> BEGIN STRING
+Your childhood,\\. your youth. . .
+> CONTEXT: Map157/events/1/pages/0/82/Dialogue < UNTRANSLATED
+Tuổi thơ của cô,\\. tuổi trẻ của cô. . .
+> END STRING
+
+> BEGIN STRING
+. . . Your diagnosis.
+> CONTEXT: Map157/events/1/pages/0/90/Dialogue < UNTRANSLATED
+. . . chuẩn đoán của cô.
+> END STRING
+
+> BEGIN STRING
+And just like here, \\.against all odds. . .
+> CONTEXT: Map157/events/1/pages/0/94/Dialogue < UNTRANSLATED
+Và cũng giống ở đây, \\.chống lại mọi nghịch cảnh. . .
+> END STRING
+
+> BEGIN STRING
+. . . You kept pushing on.
+> CONTEXT: Map157/events/1/pages/0/95/Dialogue < UNTRANSLATED
+. . . Cô tiếp tục tiến lên.
+> END STRING
+
+> BEGIN STRING
+Never wasting a moment to unravel as much of the
+world as you can, \\.\\.while you still could. . .
+> CONTEXT: Map157/events/1/pages/0/103/Dialogue < UNTRANSLATED
+Sống trọn vẹn từng giây phút để tháo gỡ những
+bí ẩn của thế giới, \\.\\.cho đến khi cánh cửa
+đó đóng lại. . .
+> END STRING
+
+> BEGIN STRING
+You learned all you could,\\.
+tried as hard as you could. . .
+> CONTEXT: Map157/events/1/pages/0/109/Dialogue < UNTRANSLATED
+Cô đã tận dụng mọi cơ hội để học hỏi,\\.
+đã chiến đấu đến cùng vì điều mình tin tưởng. . .
+> END STRING
+
+> BEGIN STRING
+You met someone. . .
+> CONTEXT: Map157/events/1/pages/0/117/Dialogue < UNTRANSLATED
+Cô gặp ai đó. . .
+> END STRING
+
+> BEGIN STRING
+Someone you imagined the future with. . .
+> CONTEXT: Map157/events/1/pages/0/123/Dialogue < UNTRANSLATED
+Một người cô từng nghĩ đến
+khi mơ về tương lai. . .
+> END STRING
+
+> BEGIN STRING
+. . . And graduated into a career where you felt
+you could make a difference.
+> CONTEXT: Map157/events/1/pages/0/129/Dialogue < UNTRANSLATED
+. . . Tốt nghiệp và bước vào một công việc ý nghĩa,
+nơi cô cảm thấy mình có thể đóng góp cho xã hội.
+> END STRING
+
+> BEGIN STRING
+For a while, \\.at least. . .
+> CONTEXT: Map157/events/1/pages/0/134/Dialogue < UNTRANSLATED
+Trong một khoảng \\.thời gian nhất định. . .
+> END STRING
+
+> BEGIN STRING
+. . . Until it became something else,
+\\.too much to bear.
+> CONTEXT: Map157/events/1/pages/0/145/Dialogue < UNTRANSLATED
+. . . Nhưng rồi nó biến thành thứ khác,
+\\.vượt quá sức chịu đựng.
+> END STRING
+
+> BEGIN STRING
+You escaped, \\.travelled the world. . .
+> CONTEXT: Map157/events/1/pages/0/153/Dialogue < UNTRANSLATED
+Cô đã bỏ lại tất cả, \\.du lịch
+vòng quanh thế giới. . .
+> END STRING
+
+> BEGIN STRING
+. . . And wondered why you didn't do it sooner.
+> CONTEXT: Map157/events/1/pages/0/166/Dialogue < UNTRANSLATED
+. . . Cảm thấy hối tiếc vì đã không
+thực hiện điều đó sớm hơn.
+> END STRING
+
+> BEGIN STRING
+The base reality where we're from,
+\\.it all followed the same course. . .
+> CONTEXT: Map157/events/1/pages/0/176/Dialogue < UNTRANSLATED
+Ở thế giới ban đầu của chúng ta,
+\\.mọi việc đều tuân theo
+một quy luật bất biến. . .
+> END STRING
+
+> BEGIN STRING
+. . . That is,\\. up until that point.
+> CONTEXT: Map157/events/1/pages/0/183/Dialogue < UNTRANSLATED
+. . . Mọi chuyện diễn ra \\.
+như vậy cho đến khi. . .
+> END STRING
+
+> BEGIN STRING
+When you came back from the trip, \\.and
+found out you were pregnant. . .
+> CONTEXT: Map157/events/1/pages/1/10/Dialogue < UNTRANSLATED
+Sau chuyến đi, \\.khi cô trở về
+thì phát hiện mình có thai. 
+> END STRING
+
+> BEGIN STRING
+When you became ill halfway
+through the pregnancy. . .
+> CONTEXT: Map157/events/1/pages/1/18/Dialogue < UNTRANSLATED
+Đang trong giai đoạn giữa thai kỳ,
+cô không may bị ốm. . .
+> END STRING
+
+> BEGIN STRING
+Đó là lúc cô phải đưa ra quyết định đau đớn
+\\.lựa chọn giữa bản thân và con . .
+> CONTEXT: Map157/events/1/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . You chose to delay your surgery
+until he was due.
+> CONTEXT: Map157/events/1/pages/1/31/Dialogue < UNTRANSLATED
+. . . Vì con, cô đã quyết định
+lùi lịch phẫu thuật lại
+> END STRING
+
+> BEGIN STRING
+You chose the child.
+> CONTEXT: Map157/events/1/pages/1/34/Dialogue < UNTRANSLATED
+Cô đã chọn con.
+> END STRING
