@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[11]
 \\i<The Little Prince\>\\i by Antoine de Saint-Exupéry.
-> CONTEXT: Map057/events/11/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map057/events/11/pages/0/3/Dialogue
 \\ignr\\e[11]
 \\i<Hoàng Tử Bé\>\\i bởi Antoine de Saint-Exupéry.
 > END STRING

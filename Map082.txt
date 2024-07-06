@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[8]\\nm[ Lynri ]
 "Hey, \\.Quince. . ." \\w[30]
-> CONTEXT: Map082/events/22/pages/1/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map082/events/22/pages/1/160/Dialogue
 \\ignr\\e[8]\\nm[ Lynri ]
 "Nè, \\.Quince. . ." \\w[30]
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[8]\\nm[ Lynri ]
 "I'm glad we went on this trip." \\w[45]
-> CONTEXT: Map082/events/22/pages/1/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map082/events/22/pages/1/173/Dialogue
 \\ignr\\e[8]\\nm[ Lynri ]
 "Em vui vì chúng ta đã đi
 chuyến đi này." \\w[45]
@@ -19,7 +19,7 @@ chuyến đi này." \\w[45]
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . We'll come back again one day." \\w[50]
-> CONTEXT: Map082/events/22/pages/1/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map082/events/22/pages/1/185/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Chúng ta sẽ quay lại vào
 một ngày nào đó." \\w[50]

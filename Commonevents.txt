@@ -32,7 +32,7 @@ COMMON EVENT 10 CALLED -
 
 > BEGIN STRING
 \\e[0]Received \\c[6]\\oi[54]
-> CONTEXT: Commonevents/20/48/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/48/Dialogue
 \\e[0]Đã nhận \\c[6]\\oi[54]
 > END STRING
 
@@ -63,7 +63,7 @@ COMMON EVENT 10 CALLED -
 > BEGIN STRING
 \\ignr\\e[40]
 Who goes to fetch the files?
-> CONTEXT: Commonevents/20/63/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/63/Dialogue
 \\ignr\\e[40]
 Ai thường xuyên đi lấy tài liệu?
 > END STRING
@@ -99,7 +99,7 @@ R. Gao"
 \\ignr\\e[45]\\nm[ Dr. Rosalene ]
 "Turn off visibility and interactivity; \\.it'd
 be messy to be seen."
-> CONTEXT: Commonevents/26/85/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/26/85/Dialogue
 \\ignr\\e[45]\\nm[ Ts. Rosalene ]
 "Vô hiệu hóa hiển thị và tương tác; \\.
 Để lộ ra lúc này sẽ rất rối.."
@@ -108,7 +108,7 @@ be messy to be seen."
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Dr. Watts ]
 "Yeah yeah, \\.happy?"
-> CONTEXT: Commonevents/26/88/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/26/88/Dialogue
 \\ignr\\e[44]\\nm[ Ts. Watts ]
 "Ờ ờ, \\.vui ha?"
 > END STRING
@@ -140,7 +140,7 @@ be messy to be seen."
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "OooOo. . .\\.\\. I'm a ghoOoOost. . . . ."
-> CONTEXT: Commonevents/62/31/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/62/31/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "OooOo. . .\\.\\. Mình là maaaaa. . . . ."
 > END STRING
@@ -148,7 +148,7 @@ be messy to be seen."
 > BEGIN STRING
 \\ignr\\e[0]
 E N T I T Y   D E A C T I V A T E D
-> CONTEXT: Commonevents/63/5/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/5/Dialogue
 \\ignr\\e[0]
 N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
 > END STRING
@@ -156,7 +156,7 @@ N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "So long. . .\\.\\. But why. . ."
-> CONTEXT: Commonevents/64/4/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/64/4/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Lâu quá. . .\\.\\. Nhưng tại sao. . ."
 > END STRING
@@ -164,7 +164,7 @@ N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Yeah,\\. you're definitely getting longer. . ."
-> CONTEXT: Commonevents/64/12/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/64/12/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Ừm,\\. càng ngày càng lâu lắc. . ."
 > END STRING
@@ -172,7 +172,7 @@ N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Wait. . . \\.\\.Are you getting longer?"
-> CONTEXT: Commonevents/64/20/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/64/20/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Khoan. . . \\.\\.Cô đang lâu hơn sao?"
 > END STRING
@@ -180,7 +180,7 @@ N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "What do you even do. . ."
-> CONTEXT: Commonevents/64/62/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/64/62/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Cô đang làm gì vậy. . ."
 > END STRING
@@ -189,7 +189,7 @@ N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
 \\ignr\\e[0]
 Requires memory links to shoot.
 \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
-> CONTEXT: Commonevents/100/212/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/212/Dialogue
 \\ignr\\e[0]
 Cần liên kết ký ức để bắn.
 \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
@@ -198,7 +198,7 @@ Cần liên kết ký ức để bắn.
 > BEGIN STRING
 \\ignr\\e[0]
 Requires: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
-> CONTEXT: Commonevents/100/242/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/242/Dialogue
 \\ignr\\e[0]
 Cần: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
 > END STRING
@@ -206,20 +206,20 @@ Cần: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Dr. Watts ]
 "What?"
-> CONTEXT: Commonevents/103/116/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/116/Dialogue
 \\ignr\\e[0]\\nm[ Ts. Watts ]
 "Cái gì?"
 > END STRING
 
 > BEGIN STRING
 \\e[0]\\iNot enough memory links established.
-> CONTEXT: Commonevents/130/5/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/130/5/Dialogue
 \\e[0]\\iKhông đủ bộ nhớ, không thể thực hiện thao tác.
 > END STRING
 
 > BEGIN STRING
 \\e[0]\\iRequires \\b\\v[32]\\b \\oi[26] to proceed.\\i
-> CONTEXT: Commonevents/131/8/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/131/11/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/131/8/Dialogue
+> CONTEXT: Commonevents/131/11/Dialogue
 \\e[0]\\iCần \\b\\v[32]\\b \\oi[26] để tiến hành.\\i
 > END STRING

@@ -1,0 +1,7 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'pano_pyramids'
+> CONTEXT: Map077/events/22/pages/0/4/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map077/events/22/pages/1/1/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING

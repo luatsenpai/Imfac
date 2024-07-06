@@ -3,7 +3,7 @@
 \\ignr\\e[6]\\nm[ Bill ]
 "Could use a little dustin',\\. but. . .
 Still works like new."
-> CONTEXT: Map148/events/9/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/15/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Hơi dính bụi một tẹo,\\. nhưng. . .
 Vẫn còn xài ngon lành."
@@ -12,7 +12,7 @@ Vẫn còn xài ngon lành."
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Lynri ]
 "I can't believe how long it's been."
-> CONTEXT: Map148/events/9/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/27/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Thật không thể tin là đã lâu như vậy rồi."
 > END STRING
@@ -20,7 +20,7 @@ Vẫn còn xài ngon lành."
 > BEGIN STRING
 \\ignr\\e[6]\\nm[ Bill ]
 "Let's just hope the stars haven't left, \\.huh?"
-> CONTEXT: Map148/events/9/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/33/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Biết đâu những ngôi sao vẫn còn đó, \\.nhỉ?"
 > END STRING
@@ -28,7 +28,7 @@ Vẫn còn xài ngon lành."
 > BEGIN STRING
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . I wanted to wait until he was a little older."
-> CONTEXT: Map148/events/9/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/70/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . Bố muốn đợi tới khi thằng bé
 trưởng thành hơn một chút."
@@ -37,7 +37,7 @@ trưởng thành hơn một chút."
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Lynri ]
 "Why is that. . . ?"
-> CONTEXT: Map148/events/9/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/85/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Tại sao vậy ạ. . . ?"
 > END STRING
@@ -46,7 +46,7 @@ trưởng thành hơn một chút."
 \\ignr\\e[6]\\nm[ Bill ]
 "Well. . . \\.\\.You only get to see it like that
 for the first time once."
-> CONTEXT: Map148/events/9/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/93/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Ờm. . . \\.\\.Khoảnh khắc đầu tiên chiêm ngưỡng
 nó sẽ không bao giờ có thể lặp lại được."
@@ -56,7 +56,7 @@ nó sẽ không bao giờ có thể lặp lại được."
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . It's nice when it can be appreciated as
 more than just pretty lights in the sky."
-> CONTEXT: Map148/events/9/pages/0/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/100/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . Sẽ tuyệt hơn khi nhận ra nó không
 chỉ là ánh sáng đẹp trên bầu trời."
@@ -66,7 +66,7 @@ chỉ là ánh sáng đẹp trên bầu trời."
 \\ignr\\e[12]\\nm[ Lynri ]
 "Do you still remember when you
 first took me stargazing?"
-> CONTEXT: Map148/events/9/pages/0/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/138/Dialogue
 \\ignr\\e[12]\\nm[ Lynri ]
 "Bố còn nhớ lần đầu tiên bố
 đưa con đi ngắm sao không?"
@@ -75,7 +75,7 @@ first took me stargazing?"
 > BEGIN STRING
 \\ignr\\e[6]\\nm[ Bill ]
 "How could I forget?"
-> CONTEXT: Map148/events/9/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/148/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Làm sao bố có thể quên chứ?"
 > END STRING
@@ -84,7 +84,7 @@ first took me stargazing?"
 \\ignr\\e[6]\\nm[ Bill ]
 "I asked if you wanted to be a star or a lavender;\\.
 and you said you wanted to be a star,\\. so that--
-> CONTEXT: Map148/events/9/pages/0/158/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/158/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Bố đã hỏi rằng con muốn trở thành ngôi sao hay
 hoa oải hương;\\. và con nói con muốn trở thành
@@ -95,7 +95,7 @@ ngôi sao\\. và--
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . so that everyone else can see how
 lovely all the lavender are."
-> CONTEXT: Map148/events/9/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/163/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . và mọi người có thể thấy những bông
 hoa oải hương xinh đẹp đến nhường nào."
@@ -104,7 +104,7 @@ hoa oải hương xinh đẹp đến nhường nào."
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Lynri ]
 "I lied, \\.y'know?"
-> CONTEXT: Map148/events/9/pages/0/179/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/179/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Con đã \\.không nói thật."
 > END STRING
@@ -113,7 +113,7 @@ hoa oải hương xinh đẹp đến nhường nào."
 \\ignr\\e[7]\\nm[ Lynri ]
 "I mean, \\.at the time, \\.it was silly. . .
 \\.\\.I just wanted to make you proud."
-> CONTEXT: Map148/events/9/pages/0/201/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/201/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Con biết, \\.lúc đó \\.còn ngây ngô. . .
 \\.\\.con chỉ muốn bố hài lòng."
@@ -123,7 +123,7 @@ hoa oải hương xinh đẹp đến nhường nào."
 \\ignr\\e[7]\\nm[ Lynri ]
 "But later on, \\.though I actually \\idid\\i
 strive to be a star. . ."
-> CONTEXT: Map148/events/9/pages/0/208/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/208/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Nhưng sau đó, \\.dù thực sự \\iđã\\i
 cố gắng để trở thành một ngôi sao. . ."
@@ -132,7 +132,7 @@ cố gắng để trở thành một ngôi sao. . ."
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . It was never really because I wanted to."
-> CONTEXT: Map148/events/9/pages/0/214/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/214/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . Trái tim con không thực sự hướng về nó."
 > END STRING
@@ -141,7 +141,7 @@ cố gắng để trở thành một ngôi sao. . ."
 \\ignr\\e[7]\\nm[ Lynri ]
 "It was only because I was afraid of
 missing my one chance to shine."
-> CONTEXT: Map148/events/9/pages/0/220/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/220/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Chỉ vì con đã sợ rằng con sẽ
 bỏ lỡ cơ hôi duy nhất để tỏa sáng."
@@ -151,7 +151,7 @@ bỏ lỡ cơ hôi duy nhất để tỏa sáng."
 \\ignr\\e[7]\\nm[ Lynri ]
 "I know I'm supposed to \\iwant\\i to strive for
 greatness and leave my mark, \\.but. . ."
-> CONTEXT: Map148/events/9/pages/0/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/230/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Con biết mình \\iphải\\i phấn đấu vì những
 điều vĩ đại và để lại dấu ấn, \\.nhưng. . ."
@@ -161,7 +161,7 @@ greatness and leave my mark, \\.but. . ."
 \\ignr\\e[7]\\nm[ Lynri ]
 "Is it wrong if all I really wanted to be. . .
 \\.\\.. . . is just another lavender?"
-> CONTEXT: Map148/events/9/pages/0/240/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/240/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Liệu có gì sai khi con chỉ muốn là. . .
 \\.\\.. . . một cây hoa oải hương bình dị?"
@@ -171,7 +171,7 @@ greatness and leave my mark, \\.but. . ."
 \\ignr\\e[6]\\nm[ Bill ]
 "I don't know about \\iwanting\\i to strive
 for greatness, \\.Lyn, \\.but. . ."
-> CONTEXT: Map148/events/9/pages/0/267/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/267/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Bố không biết chuyện con \\imuốn\\i phấn
 đấu vì điều vĩ đại, \\.Lyn, \\.nhưng. . ."
@@ -181,7 +181,7 @@ for greatness, \\.Lyn, \\.but. . ."
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . I know those who leave a mark
 often never set out to do so."
-> CONTEXT: Map148/events/9/pages/0/271/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/271/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . Những ngôi sao lấp lánh nhất đôi
 khi lại không hề cố gắng tỏa sáng."
@@ -191,7 +191,7 @@ khi lại không hề cố gắng tỏa sáng."
 \\ignr\\e[6]\\nm[ Bill ]
 "But they do so nevertheless, \\.and
 often in the most unexpected ways."
-> CONTEXT: Map148/events/9/pages/0/277/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/277/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Dù vậy, chúng vẫn tỏa sáng, \\.và
 theo những cách thức kỳ diệu nhất."
@@ -201,7 +201,7 @@ theo những cách thức kỳ diệu nhất."
 \\ignr\\e[6]\\nm[ Bill ]
 "And hey, \\.whether you like it or not. . .
 \\.You sure still left a mark on me."
-> CONTEXT: Map148/events/9/pages/0/297/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/297/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Và nè, \\.dù con có muốn hay không. . .
 \\.Con vẫn để lại dấu ấn trong tim bố."
@@ -211,7 +211,7 @@ theo những cách thức kỳ diệu nhất."
 \\ignr\\e[6]\\nm[ Bill ]
 "I mean,\\. sure, \\.it might not mean something
 to the whole world, \\.but. . ."
-> CONTEXT: Map148/events/9/pages/0/317/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/317/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Ý bố là,\\. ừm, \\.có thể điều đó không mang
 nhiều ý nghĩa với cả thế giớ, \\.nhưng. . ."
@@ -221,7 +221,7 @@ nhiều ý nghĩa với cả thế giớ, \\.nhưng. . ."
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . Meaning the whole world to someone
 still counts for something,\\. right?"
-> CONTEXT: Map148/events/9/pages/0/325/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/325/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . Nhưng mang cả thế giới đến cho một người
 nào đó vẫn có giá trị mà,\\. phải không?"
@@ -231,7 +231,7 @@ nào đó vẫn có giá trị mà,\\. phải không?"
 \\ignr\\e[6]\\nm[ Bill ]
 "As you do to me, \\.and. . .\\.
 \\.As I'm sure Tobi does to you."
-> CONTEXT: Map148/events/9/pages/0/349/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/349/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Như con đã mang lại cho bố, \\.và. . .\\.
 \\.Bố chắc chắn Tobi đã mang lại cho."
@@ -241,7 +241,7 @@ nào đó vẫn có giá trị mà,\\. phải không?"
 \\ignr\\e[6]\\nm[ Bill ]
 "I know you still blame yourself, \\.Lynri. . .
 \\.\\.But that won't do any good."
-> CONTEXT: Map148/events/9/pages/0/364/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/364/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Bố biết con vẫn đang tự trách mình, \\.Lynri. . .
 \\.\\.Nhưng điều đó chẳng giúp ích gì."
@@ -251,7 +251,7 @@ nào đó vẫn có giá trị mà,\\. phải không?"
 \\ignr\\e[6]\\nm[ Bill ]
 "Nobody's here forever,\\. so all we can do
 is to make the most of what we're given."
-> CONTEXT: Map148/events/9/pages/0/385/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/385/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Cuộc đời ngắn ngủi,\\. nên chúng ta chỉ
 có thể trân trọng những gì đang có và
@@ -261,7 +261,7 @@ sống một cách trọn vẹn nhất."
 > BEGIN STRING
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . And that includes time."
-> CONTEXT: Map148/events/9/pages/0/393/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/393/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 ". . . Và bao gồm cả thời gian."
 > END STRING
@@ -270,7 +270,7 @@ sống một cách trọn vẹn nhất."
 \\ignr\\e[6]\\nm[ Bill ]
 "So, \\.let's go take him to see the wonders
 this world still has to offer. . . \\.\\.Hm?"
-> CONTEXT: Map148/events/9/pages/0/411/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/411/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Vậy, \\.chúng ta hãy đưa thằng bé đi xem
 những điều kỳ thú mà thế giới này vẫn đang
@@ -280,7 +280,7 @@ những điều kỳ thú mà thế giới này vẫn đang
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . Yeah."
-> CONTEXT: Map148/events/9/pages/0/421/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/9/pages/0/421/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . Vâng."
 > END STRING

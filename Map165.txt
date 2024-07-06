@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[1]
 E N T I T Y   S E L E C T I O N   C O N F I R M E D
-> CONTEXT: Map165/events/1/pages/0/427/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/1/pages/0/427/Dialogue
 \\ignr\\e[1]
 X Á C   N H Ậ N  L Ự A  C H Ọ N  T H Ự C  T H Ể
 > END STRING
@@ -10,7 +10,7 @@ X Á C   N H Ậ N  L Ự A  C H Ọ N  T H Ự C  T H Ể
 > BEGIN STRING
 \\ignr\\e[1]
 K E E P   P E R S O N A L I T Y   A N D   T R A I T S ?
-> CONTEXT: Map165/events/1/pages/0/436/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/1/pages/0/436/Dialogue
 \\ignr\\e[1]
 G I Ữ  L Ạ I  C Á  T Í N H  V À  P H Ẩ M  C H ẤT ?
 > END STRING
@@ -18,7 +18,7 @@ G I Ữ  L Ạ I  C Á  T Í N H  V À  P H Ẩ M  C H ẤT ?
 > BEGIN STRING
 \\ignr\\e[23]\\nm[ Lynri ]
 "Yes."
-> CONTEXT: Map165/events/1/pages/0/440/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/1/pages/0/440/Dialogue
 \\ignr\\e[23]\\nm[ Lynri ]
 "Có."
 > END STRING
@@ -26,7 +26,7 @@ G I Ữ  L Ạ I  C Á  T Í N H  V À  P H Ẩ M  C H ẤT ?
 > BEGIN STRING
 \\ignr\\e[1]
 K E E P   E X T R A P O L A T E D   M E M O R I E S ?
-> CONTEXT: Map165/events/1/pages/0/449/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/1/pages/0/449/Dialogue
 \\ignr\\e[1]
 G I Ữ  L Ạ I  K Ý  Ứ C  N G O Ạ I  L Ệ ?
 > END STRING
@@ -34,7 +34,7 @@ G I Ữ  L Ạ I  K Ý  Ứ C  N G O Ạ I  L Ệ ?
 > BEGIN STRING
 \\ignr\\e[23]\\nm[ Lynri ]
 ". . . No. \\.\\.Use generic memories."
-> CONTEXT: Map165/events/1/pages/0/463/Dialogue < UNTRANSLATED
+> CONTEXT: Map165/events/1/pages/0/463/Dialogue
 \\ignr\\e[23]\\nm[ Lynri ]
 ". . . Không. \\.\\.Dùng ký ức chung."
 > END STRING

@@ -1,0 +1,41 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+105-Heal01
+> CONTEXT: Skills/1/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/20/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/21/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/22/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/23/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/24/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/25/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/26/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+106-Heal02
+> CONTEXT: Skills/2/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/2/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/5/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/6/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+107-Heal03
+> CONTEXT: Skills/3/menu_se/name/ < UNTRANSLATED
+> CONTEXT: Items/3/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Restores states to one ally.
+> CONTEXT: Skills/4/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+113-Remedy01
+> CONTEXT: Skills/4/menu_se/name/ < UNTRANSLATED
+
+> END STRING

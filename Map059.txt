@@ -3,7 +3,7 @@
 \\ignr\\e[19]\\nm[ Teacher ]
 ". . . Just like the giraffes, \\.the peppered moth
 is also used as an example of natural selection."
-> CONTEXT: Map059/events/56/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/56/pages/0/14/Dialogue
 \\ignr\\e[19]\\nm[ Giáo Viên ]
 ". . . Giống như hươu cao cổ, \\.loài bướm đêm tiêu
 cũng được dùng làm ví dụ về chọn lọc tự nhiên."
@@ -13,7 +13,7 @@ cũng được dùng làm ví dụ về chọn lọc tự nhiên."
 \\ignr\\e[19]\\nm[ Teacher ]
 "Although the experiment has been debated,
 \\.the hypothesis remains unchanged. . ."
-> CONTEXT: Map059/events/56/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/56/pages/0/25/Dialogue
 \\ignr\\e[19]\\nm[ Giáo Viên ]
 "Mặc dù thí nghiệm đã gây nhiều tranh cãi,
 \\.nhưng giả thuyết vẫn không thay đổi. . ."
@@ -23,7 +23,7 @@ cũng được dùng làm ví dụ về chọn lọc tự nhiên."
 \\ignr\\e[19]\\nm[ Teacher ]
 ". . . That when genetic mutation occurs, \\.natural
 selection decides whether it lives on or dies out."
-> CONTEXT: Map059/events/56/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/56/pages/0/34/Dialogue
 \\ignr\\e[19]\\nm[ Giáo Viên ]
 ". . . Khi xảy ra đột biến gen, \\.chọn lọc tự nhiên
 sẽ quyết định liệu nó nên tồn tại hay bị đào thải.."
@@ -33,7 +33,7 @@ sẽ quyết định liệu nó nên tồn tại hay bị đào thải.."
 \\ignr\\e[19]\\nm[ Teacher ]
 "If the mutation is good, \\.then the organism is
 more likely to survive and pass on its genes. . ."
-> CONTEXT: Map059/events/56/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/56/pages/0/40/Dialogue
 \\ignr\\e[19]\\nm[ Giáo Viên ]
 "Nếu đột biến có lợi, \\.thì sinh vật đó có nhiều
 khả năng sống sót và truyền lại gen của nó. . ."
@@ -43,7 +43,7 @@ khả năng sống sót và truyền lại gen của nó. . ."
 \\ignr\\e[19]\\nm[ Teacher ]
 ". . . And if the mutation is harmful,\\. it's less likely to
 survive and reproduce;\\. thus filtering itself out."
-> CONTEXT: Map059/events/56/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/56/pages/0/44/Dialogue
 \\ignr\\e[19]\\nm[ Giáo Viên ]
 ". . . Và nếu đột biến có hại,\\. nó ít có khả năng sống sót
 và sinh sản;\\. do đó tự loại bỏ chính nó khỏi quần thể."
@@ -63,7 +63,7 @@ và sinh sản;\\. do đó tự loại bỏ chính nó khỏi quần thể."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Emily ]
 "You feelin' okay, \\.Lynri?"
-> CONTEXT: Map059/events/77/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/9/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Cậu vẫn ổn chứ, \\.Lynri?"
 > END STRING
@@ -71,7 +71,7 @@ và sinh sản;\\. do đó tự loại bỏ chính nó khỏi quần thể."
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . I'm fine.\\.\\. Why?"
-> CONTEXT: Map059/events/77/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/18/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . Tớ ổn.\\.\\. Có gì sao?"
 > END STRING
@@ -79,7 +79,7 @@ và sinh sản;\\. do đó tự loại bỏ chính nó khỏi quần thể."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Emily ]
 "Well,\\. for one,\\. you seemed upset. . ."
-> CONTEXT: Map059/events/77/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/26/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Ừm,\\. thứ nhất,\\. trông cậu có vẻ buồn. . ."
 > END STRING
@@ -88,7 +88,7 @@ và sinh sản;\\. do đó tự loại bỏ chính nó khỏi quần thể."
 \\ignr\\e[11]\\nm[ Emily ]
 ". . . And then there's the whole leaving
 in the middle of a class thing."
-> CONTEXT: Map059/events/77/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/34/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 ". . . Và thứ hai là chuyện cậu
 bỏ tiết giữa chừng."
@@ -97,7 +97,7 @@ bỏ tiết giữa chừng."
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "I just didn't want to waste time, \\.that's all."
-> CONTEXT: Map059/events/77/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/43/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Tớ chỉ không muốn lãng phí thời gian, \\.vậy thôi."
 > END STRING
@@ -106,7 +106,7 @@ bỏ tiết giữa chừng."
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . I was already familiar with
 the topics being taught."
-> CONTEXT: Map059/events/77/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/57/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . Tớ chẳng lạ gì với
 cái môn phải học rồi."
@@ -115,7 +115,7 @@ cái môn phải học rồi."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Emily ]
 "So you skip class to. . .\\.\\. \\iread\\i. . ."
-> CONTEXT: Map059/events/77/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/65/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Vậy cậu bỏ tiết để. . .\\.\\. \\iđọc\\i. . ."
 > END STRING
@@ -123,7 +123,7 @@ cái môn phải học rồi."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Emily ]
 "What even \\iis\\i that?"
-> CONTEXT: Map059/events/77/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/73/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Vậy là có \\iý\\i gì hả?"
 > END STRING
@@ -131,7 +131,7 @@ cái môn phải học rồi."
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "Microbiology."
-> CONTEXT: Map059/events/77/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/75/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Nghiên cứu vi sinh vật."
 > END STRING
@@ -140,7 +140,7 @@ cái môn phải học rồi."
 \\ignr\\e[11]\\nm[ Emily ]
 "Oh \\ic'mon\\i. . . \\.\\.You skip Stacy's parties
 but have time for freakin' micro-blah-bluh?!"
-> CONTEXT: Map059/events/77/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/88/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Hả, \\ithôi nào\\i. . . \\.\\.Cậu cúp tiết Stacy.
 Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
@@ -149,7 +149,7 @@ Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Emily ]
 "High school years are for making \\imemories\\i!"
-> CONTEXT: Map059/events/77/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/97/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Phải tạo \\iký ức\\i thời Trung Học chứ!"
 > END STRING
@@ -157,7 +157,7 @@ Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "Huh. . . \\.\\.You got an interesting point."
-> CONTEXT: Map059/events/77/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/110/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Huh. . . \\.\\.Cậu có quan điểm thú vị đấy."
 > END STRING
@@ -165,7 +165,7 @@ Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Emily ]
 "Hey--. . .\\. Where are you going?"
-> CONTEXT: Map059/events/77/pages/0/152/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/152/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Ê--. . .\\. Cậu đi đâu đấy?"
 > END STRING
@@ -174,7 +174,7 @@ Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
 \\ignr\\e[10]\\nm[ Lynri ]
 "I'm going to find some books on the
 formation of memories."
-> CONTEXT: Map059/events/77/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/163/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Tớ đi tìm vài cuốn sách về sự
 hình thành của ký ức."
@@ -183,7 +183,7 @@ hình thành của ký ức."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Emily ]
 "That's not what I meant!!"
-> CONTEXT: Map059/events/77/pages/0/169/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/169/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
 "Ý tớ không phải thế!!"
 > END STRING
@@ -191,7 +191,7 @@ hình thành của ký ức."
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "I know,\\. but thanks anyway."
-> CONTEXT: Map059/events/77/pages/0/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/77/pages/0/173/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Tớ biết,\\. dù sao cũng cảm ơn."
 > END STRING

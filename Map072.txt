@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 "Whew,\\. that's the last box. . ."
-> CONTEXT: Map072/events/20/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/14/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Phù,\\. đây là hộp cuối cùng rồi. . ."
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 "Told you we'd get everything here by tonight!"
-> CONTEXT: Map072/events/20/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/31/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Anh đã bảo là chúng ta sẽ có xong xuôi
 mọi thứ ngay đêm nay thôi!"
@@ -19,7 +19,7 @@ mọi thứ ngay đêm nay thôi!"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 "Hey. . .\\.\\. What is it?"
-> CONTEXT: Map072/events/20/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/53/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Này. . .\\.\\. Có chuyện gì vậy?"
 > END STRING
@@ -27,7 +27,7 @@ mọi thứ ngay đêm nay thôi!"
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . .  Are you sure about this?"
-> CONTEXT: Map072/events/20/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/61/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . .  Anh đã chắc rồi chứ?"
 > END STRING
@@ -36,7 +36,7 @@ mọi thứ ngay đêm nay thôi!"
 \\ignr\\e[10]\\nm[ Lynri ]
 "Moving all the way here with me
 because of my job. . . "
-> CONTEXT: Map072/events/20/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/69/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Chuyển nhà tới tận đây với em
 chỉ vì công việc của em. . . "
@@ -46,7 +46,7 @@ chỉ vì công việc của em. . . "
 \\ignr\\e[10]\\nm[ Lynri ]
 "You had arrangements back
 home too, \\.didn't you?"
-> CONTEXT: Map072/events/20/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/78/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Anh cũng bận giải quyết chút
 việc ở nhà mà, \\.đúng không"
@@ -55,7 +55,7 @@ việc ở nhà mà, \\.đúng không"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 "Well yeah,\\. but. . .\\.\\. Nothing like this!"
-> CONTEXT: Map072/events/20/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/86/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Ờ ừm,\\. nhưng. . .\\.\\. Không có gì bất thường đâu!"
 > END STRING
@@ -63,7 +63,7 @@ việc ở nhà mà, \\.đúng không"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 "I mean, \\.the Yu-Haynes foundation. . ."
-> CONTEXT: Map072/events/20/pages/0/99/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/99/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Ý anh là, \\.Cơ sở Yu-Haynes. . ."
 > END STRING
@@ -72,7 +72,7 @@ việc ở nhà mà, \\.đúng không"
 \\ignr\\e[11]\\nm[ Quincy ]
 "Whatever you do there,\\. I'm sure
 it'll be cutting edge!"
-> CONTEXT: Map072/events/20/pages/0/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/103/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Cứ làm những gì em muốn,\\. Anh
 chắc chắn nó sẽ đi trước thời đại!"
@@ -81,7 +81,7 @@ chắc chắn nó sẽ đi trước thời đại!"
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "Still. . ."
-> CONTEXT: Map072/events/20/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/115/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Chỉ là. . ."
 > END STRING
@@ -89,7 +89,7 @@ chắc chắn nó sẽ đi trước thời đại!"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 "Hey. . . \\.\\.It's okay."
-> CONTEXT: Map072/events/20/pages/0/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/130/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Nè. . . \\.\\.Ổn mà."
 > END STRING
@@ -97,7 +97,7 @@ chắc chắn nó sẽ đi trước thời đại!"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 ". . . I know how much this means to you."
-> CONTEXT: Map072/events/20/pages/0/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/138/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 ". . . Anh biết việc này có ý nghĩ như
 thế nào với em mà."
@@ -107,7 +107,7 @@ thế nào với em mà."
 \\ignr\\e[11]\\nm[ Quincy ]
 "And don't worry, \\.I'm sure I'll figure
 something out for myself here too."
-> CONTEXT: Map072/events/20/pages/0/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/150/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Và yên tâm đi, \\.anh chắc chắn
 sẽ xử lý hết mấy việc ở đây."
@@ -116,7 +116,7 @@ sẽ xử lý hết mấy việc ở đây."
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "Thanks, \\.Quince. . ."
-> CONTEXT: Map072/events/20/pages/0/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/160/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Cảm ơn, \\.Quince. . ."
 > END STRING
@@ -124,7 +124,7 @@ sẽ xử lý hết mấy việc ở đây."
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . I'm glad you're here."
-> CONTEXT: Map072/events/20/pages/0/168/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/168/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . Em rất vui vì có anh ở đây."
 > END STRING
@@ -132,7 +132,7 @@ sẽ xử lý hết mấy việc ở đây."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 "Of course. \\.\\.I promised I would."
-> CONTEXT: Map072/events/20/pages/0/175/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/175/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Tất nhiên rồi. \\.\\.Anh
 đã hứa là anh sẽ làm mà."
@@ -142,7 +142,7 @@ sẽ xử lý hết mấy việc ở đây."
 \\ignr\\e[11]\\nm[ Quincy ]
 "Anyhow. . .\\. Let's just settle down
 and let you get some rest."
-> CONTEXT: Map072/events/20/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/185/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Nào. . .\\. Hãy nằm xuống
 và nghỉ ngơi đi nào."
@@ -152,7 +152,7 @@ và nghỉ ngơi đi nào."
 \\ignr\\e[11]\\nm[ Quincy ]
 "Can't have you sleepwalking
 on your first day tomorrow."
-> CONTEXT: Map072/events/20/pages/0/191/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/20/pages/0/191/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Đừng có mà ngủ gật trong
 ngày đầu đi làm nhé."

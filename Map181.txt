@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[5]
 "Oh Neil, \\.there you are!"
-> CONTEXT: Map181/events/2/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/78/Dialogue
 \\ignr\\e[5]
 "A Neil, \\.ông đây rồi!"
 > END STRING
@@ -11,7 +11,7 @@
 \\ignr\\e[5]
 "I just can't hold it in anymore. . .
 . . . I must confess to you!"
-> CONTEXT: Map181/events/2/pages/0/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/90/Dialogue
 \\ignr\\e[5]
 "Tôi không thể kiềm chế được nữa. . .
 . . . tôi muốn thổ lộ với ông!"
@@ -20,7 +20,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "That's not funny."
-> CONTEXT: Map181/events/2/pages/0/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/94/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Không vui đâu."
 > END STRING
@@ -28,7 +28,7 @@
 > BEGIN STRING
 \\ignr\\e[5]
 "It's a \\ilittle\\i funny. . ."
-> CONTEXT: Map181/events/2/pages/0/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/119/Dialogue
 \\ignr\\e[5]
 "Đùa \\ichút\\i thôi. . ."
 > END STRING
@@ -36,7 +36,7 @@
 > BEGIN STRING
 \\ignr\\e[5]
 "So, \\.did I handle that alright?"
-> CONTEXT: Map181/events/2/pages/0/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/153/Dialogue
 \\ignr\\e[5]
 "Vậy, \\.tôi làm thế được chưa?"
 > END STRING
@@ -44,7 +44,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "Yeah. . . \\.\\.Thanks."
-> CONTEXT: Map181/events/2/pages/0/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/157/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Ừm. . . \\.\\.cảm ơn."
 > END STRING
@@ -53,7 +53,7 @@
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "Strange how that's supposed to be
 the 'perfect' timeline,\\. though. . ."
-> CONTEXT: Map181/events/2/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/163/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Nghe thì 'hoàn hảo' đấy,\\. nhưng
 kỳ lạ thật sự. . ."
@@ -63,7 +63,7 @@ kỳ lạ thật sự. . ."
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 ". . . It only felt 'perfect' because it had the
 context of adversity that already exists here."
-> CONTEXT: Map181/events/2/pages/0/178/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/178/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 ". . . Cảm giác 'hoàn hảo' chỉ là tạm thời
 vì thực tế vẫn còn nhiều khó khăn."
@@ -73,7 +73,7 @@ vì thực tế vẫn còn nhiều khó khăn."
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "Without that, \\.there was nothing to overcome. . .
 \\.\\.It passed by without even a meaningful ripple."
-> CONTEXT: Map181/events/2/pages/0/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/184/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Nó đến rồi đi, \\.chẳng mang lại bài
 học. . .\\.\\.hay kỷ niệm nào đáng nhớ."
@@ -82,7 +82,7 @@ học. . .\\.\\.hay kỷ niệm nào đáng nhớ."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "But still. . ."
-> CONTEXT: Map181/events/2/pages/0/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/202/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Nhưng vẫn. . ."
 > END STRING
@@ -90,7 +90,7 @@ học. . .\\.\\.hay kỷ niệm nào đáng nhớ."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "Are you familiar with the Library of Babel?"
-> CONTEXT: Map181/events/2/pages/0/212/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/212/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Cô có biết Thư viện Babylon không?"
 > END STRING
@@ -99,7 +99,7 @@ học. . .\\.\\.hay kỷ niệm nào đáng nhớ."
 \\ignr\\e[5]
 "I can be.\\.\\. Should I download
 the encyclopedia on it?"
-> CONTEXT: Map181/events/2/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/222/Dialogue
 \\ignr\\e[5]
 "Thư viện Babylon khá thú vị đấy.\\.\\. Tôi
 có nên tìm tài liệu về nó không?"
@@ -108,7 +108,7 @@ có nên tìm tài liệu về nó không?"
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "Uh, \\.no. . . \\.that's alright."
-> CONTEXT: Map181/events/2/pages/0/227/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/227/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Ừm, \\.không. . . \\.không cần."
 > END STRING
@@ -117,7 +117,7 @@ có nên tìm tài liệu về nó không?"
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "It’s this theoretical library of books containing every
 possible combination of letters and punctuation."
-> CONTEXT: Map181/events/2/pages/0/233/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/233/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Đó là một Thư viện giả thuyết chứa đựng mọi
 tổ hợp có thể của các chữ cái và dấu câu."
@@ -127,7 +127,7 @@ tổ hợp có thể của các chữ cái và dấu câu."
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 ". . . Anything that can be written,\\. or ever
 will be, \\.can be found there."
-> CONTEXT: Map181/events/2/pages/0/238/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/238/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 ". . . Mọi kiến thức, từ quá khứ đến tương lai,\\.
 đều nằm trong\\. Thư viện Babylon"
@@ -136,7 +136,7 @@ will be, \\.can be found there."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "So it's mostly nonsense and noise, \\.but. . ."
-> CONTEXT: Map181/events/2/pages/0/245/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/245/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Vậy nên nó chỉ toàn mấy thứ vô nghĩa, \\.nhưng. . ."
 > END STRING
@@ -145,7 +145,7 @@ will be, \\.can be found there."
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 ". . . Once in a while, you reach for a book,\\. and
 it just happens to be exactly what you need."
-> CONTEXT: Map181/events/2/pages/0/251/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/251/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 ". . . Đôi khi, cô với lấy một quyển sách,\\.
 và nó tình cờ là thứ cô cần."
@@ -154,7 +154,7 @@ và nó tình cờ là thứ cô cần."
 > BEGIN STRING
 \\ignr\\e[5]
 "What is that?!"
-> CONTEXT: Map181/events/2/pages/0/280/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/280/Dialogue
 \\ignr\\e[5]
 "Cái gì thế?!"
 > END STRING
@@ -162,7 +162,7 @@ và nó tình cờ là thứ cô cần."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "A perimeter breach attempt. . ."
-> CONTEXT: Map181/events/2/pages/0/285/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/285/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Phát hiện sự xâm nhập trái phép. . ."
 > END STRING
@@ -170,7 +170,7 @@ và nó tình cờ là thứ cô cần."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Watts ]
 "I gotta go."
-> CONTEXT: Map181/events/2/pages/0/298/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/298/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Tôi phải đi rồi."
 > END STRING
@@ -178,7 +178,7 @@ và nó tình cờ là thứ cô cần."
 > BEGIN STRING
 \\ignr\\e[5]
 "Perimeter breach? \\.\\.What perimeter. . . ??"
-> CONTEXT: Map181/events/2/pages/0/359/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/359/Dialogue
 \\ignr\\e[5]
 "Xâm nhập trái phép? \\.\\.Cái gì xâm nhập cơ. . . ??"
 > END STRING
@@ -186,7 +186,7 @@ và nó tình cờ là thứ cô cần."
 > BEGIN STRING
 \\ignr\\e[5]
 "Wait, \\.you don't mean--
-> CONTEXT: Map181/events/2/pages/0/370/Dialogue < UNTRANSLATED
+> CONTEXT: Map181/events/2/pages/0/370/Dialogue
 \\ignr\\e[5]
 "Khoan, \\.đừng nói là--
 > END STRING

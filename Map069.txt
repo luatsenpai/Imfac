@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[32]\\nm[ Bill ]
 "We're so proud of you, \\.Lyn."
-> CONTEXT: Map069/events/60/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/13/Dialogue
 \\ignr\\e[32]\\nm[ Bill ]
 "Chúng ta rất tự hào về con, \\.Lyn."
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[47]\\nm[ Naomi ]
 "We always knew you could do it!"
-> CONTEXT: Map069/events/60/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/21/Dialogue
 \\ignr\\e[47]\\nm[ Naomi ]
 "Chúng ta biết con sẽ làm được!"
 > END STRING
@@ -19,7 +19,7 @@
 \\ignr\\e[47]\\nm[ Naomi ]
 ". . . But I didn't expect you to bag yourself
 a cute one while you're at it too!"
-> CONTEXT: Map069/events/60/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/29/Dialogue
 \\ignr\\e[47]\\nm[ Naomi ]
 ". . . Nhưng cô không ngờ là cháu có thể chinh
 phục được một người dễ thương như vậy đấy!"
@@ -29,7 +29,7 @@ phục được một người dễ thương như vậy đấy!"
 \\ignr\\e[9]\\nm[ Lynri ]
 "Mom. . . \\.\\.That's not appropriate
 for a first meeting. . ."
-> CONTEXT: Map069/events/60/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/55/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 "Mẹ này. . . \\.\\.Đừng nói thế trong
 lần gặp đầu tiên chứ. . ."
@@ -38,7 +38,7 @@ lần gặp đầu tiên chứ. . ."
 > BEGIN STRING
 \\ignr\\e[47]\\nm[ Naomi ]
 "The first meeting of many, \\.I hope!"
-> CONTEXT: Map069/events/60/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/64/Dialogue
 \\ignr\\e[47]\\nm[ Naomi ]
 "Mong là \\.lần đầu tiên này sẽ dẫn
 đến những lần gặp gỡ sau này!"
@@ -48,7 +48,7 @@ lần gặp đầu tiên chứ. . ."
 \\ignr\\e[47]\\nm[ Naomi ]
 "Ohoho sorry, \\.I'm just so happy!
 \\.\\.It's been so many years. . ."
-> CONTEXT: Map069/events/60/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/91/Dialogue
 \\ignr\\e[47]\\nm[ Naomi ]
 "Ohoho xin lỗi, \\.mẹ hạnh phúc quá!
 \\.\\.Đã bao nhiêu năm rồi nhỉ. . ."
@@ -57,7 +57,7 @@ lần gặp đầu tiên chứ. . ."
 > BEGIN STRING
 \\ignr\\e[47]\\nm[ Naomi ]
 "I just can't believe how far you've come!"
-> CONTEXT: Map069/events/60/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/96/Dialogue
 \\ignr\\e[47]\\nm[ Naomi ]
 "Không thể tin là con đã trường thành thế này!"
 > END STRING
@@ -66,7 +66,7 @@ lần gặp đầu tiên chứ. . ."
 \\ignr\\e[9]\\nm[ Lynri ]
 "You just said you always
 knew I could do it. . ."
-> CONTEXT: Map069/events/60/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/108/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 "Chẳng phải mẹ vừa bảo mẹ biết
 con sẽ làm được sao. . ."
@@ -76,7 +76,7 @@ con sẽ làm được sao. . ."
 \\ignr\\e[32]\\nm[ Bill ]
 "Now now, \\.today's for celebrating
 their accomplishments."
-> CONTEXT: Map069/events/60/pages/0/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/113/Dialogue
 \\ignr\\e[32]\\nm[ Bill ]
 "Nào nào, \\.Hôm nay là ngày để
 ăn mừng thành tích của hai đứa."
@@ -86,7 +86,7 @@ their accomplishments."
 \\ignr\\e[32]\\nm[ Bill ]
 "Why don't you join us for dinner
 tonight, \\.Quincy?"
-> CONTEXT: Map069/events/60/pages/0/123/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/123/Dialogue
 \\ignr\\e[32]\\nm[ Bill ]
 "Tại sao con không cùng chúng ta
 tham gia bữa tiệc tối nay nhỉ, \\.Quincy?"
@@ -96,7 +96,7 @@ tham gia bữa tiệc tối nay nhỉ, \\.Quincy?"
 \\ignr\\e[32]\\nm[ Bill ]
 "We can talk about both of your
 post-graduation plans."
-> CONTEXT: Map069/events/60/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/151/Dialogue
 \\ignr\\e[32]\\nm[ Bill ]
 "Chúng ta có thể cùng nhau thảo luận
 kế hoạch sau khi tốt nghiệp của hai đứa."
@@ -105,7 +105,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 > BEGIN STRING
 \\ignr\\e[8]\\nm[ Quincy ]
 "O-okay. . . \\.\\.Thank you, \\.Mr.--
-> CONTEXT: Map069/events/60/pages/0/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/164/Dialogue
 \\ignr\\e[8]\\nm[ Quincy ]
 "V-vâng. . . \\.\\.Cảm ơn chú, \\.Chú --
 > END STRING
@@ -113,7 +113,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 > BEGIN STRING
 \\ignr\\e[50]
 ". . . There you are, \\.Lynri."
-> CONTEXT: Map069/events/60/pages/0/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/167/Dialogue
 \\ignr\\e[50]
 ". . . Lynri,\\. hóa ra cô ở đây."
 > END STRING
@@ -121,7 +121,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Those two. . . )
-> CONTEXT: Map069/events/60/pages/0/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/247/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Hai người đó. . . )
 > END STRING
@@ -129,7 +129,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 > BEGIN STRING
 \\ignr\\e[9]\\nm[ Lynri ]
 "You. . . \\.\\.You're from--
-> CONTEXT: Map069/events/60/pages/0/250/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/250/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 "Chị. . . \\.\\.Chị từ--
 > END STRING
@@ -137,7 +137,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 > BEGIN STRING
 \\ignr\\e[50]\\nm[ Rika ]
 "Dr. Haynes and Dr. Yu send their regards."
-> CONTEXT: Map069/events/60/pages/0/260/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/260/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 "Ts. Haynes và Ts. Yu có gửi lời hỏi thăm."
 > END STRING
@@ -145,7 +145,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 > BEGIN STRING
 \\ignr\\e[52]\\nm[ Emil ]
 ". . . And us,\\. of course, \\.in the flesh."
-> CONTEXT: Map069/events/60/pages/0/270/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/270/Dialogue
 \\ignr\\e[52]\\nm[ Emil ]
 ". . . Và tất nhiên,\\. chúng tôi \\.
 có mặt ngay lập tức."
@@ -154,7 +154,7 @@ có mặt ngay lập tức."
 > BEGIN STRING
 \\ignr\\e[50]\\nm[ Rika ]
 "Congratulations."
-> CONTEXT: Map069/events/60/pages/0/287/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/287/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 "Xin chúc mừng."
 > END STRING
@@ -162,7 +162,7 @@ có mặt ngay lập tức."
 > BEGIN STRING
 \\ignr\\e[9]\\nm[ Lynri ]
 ". . . Does this mean I passed their interview?"
-> CONTEXT: Map069/events/60/pages/0/302/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/302/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 ". . . Vậy có nghĩa là tôi đã vượt qua bài
 phòng vấn của họ?"
@@ -171,7 +171,7 @@ phòng vấn của họ?"
 > BEGIN STRING
 \\ignr\\e[52]\\nm[ Emil ]
 "The interview? \\.That was just a formality."
-> CONTEXT: Map069/events/60/pages/0/309/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/309/Dialogue
 \\ignr\\e[52]\\nm[ Emil ]
 "Bài phỏng vấn? \\.Đó chỉ là thủ tục thôi."
 > END STRING
@@ -180,7 +180,7 @@ phòng vấn của họ?"
 \\ignr\\e[50]\\nm[ Rika ]
 ". . . To confirm that you authored
 the paper,\\. mostly."
-> CONTEXT: Map069/events/60/pages/0/320/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/320/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 ". . . Để xác nhận xem cô có phải
 \\.tác giả của bài nghiên cứu không thôi."
@@ -190,7 +190,7 @@ the paper,\\. mostly."
 \\ignr\\e[50]\\nm[ Rika ]
 "Say. . . \\.\\.Would you like to attend
 a party,\\. Lynri?"
-> CONTEXT: Map069/events/60/pages/0/331/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/331/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 "Vậy. . . \\.\\.Cô có muốn tham gia
 bữa tiệc không,\\. Lynri?"
@@ -199,7 +199,7 @@ bữa tiệc không,\\. Lynri?"
 > BEGIN STRING
 \\ignr\\e[9]\\nm[ Lynri ]
 "A party. . . ?"
-> CONTEXT: Map069/events/60/pages/0/341/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/341/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 "Bữa tiệc. . . ?"
 > END STRING
@@ -207,7 +207,7 @@ bữa tiệc không,\\. Lynri?"
 > BEGIN STRING
 \\ignr\\e[52]\\nm[ Emil ]
 ". . . Of an introductory sort."
-> CONTEXT: Map069/events/60/pages/0/345/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/345/Dialogue
 \\ignr\\e[52]\\nm[ Emil ]
 ". . . Giới thiệu sơ lược."
 > END STRING
@@ -216,7 +216,7 @@ bữa tiệc không,\\. Lynri?"
 \\ignr\\e[50]\\nm[ Rika ]
 "On behalf of the Yu-Haynes Foundation,\\.
 I'd like to extend this invitation to you."
-> CONTEXT: Map069/events/60/pages/0/360/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/360/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 Thay mặt cho Cơ Sở Yu-Haynes,\\. tôi
 hân hạnh gửi cô lời mời tham dự."
@@ -225,7 +225,7 @@ hân hạnh gửi cô lời mời tham dự."
 > BEGIN STRING
 \\ignr\\e[9]\\nm[ Lynri ]
 ". . . What should I expect?"
-> CONTEXT: Map069/events/60/pages/0/400/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/400/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 ". . . Tôi nên mong đợi điều gì?"
 > END STRING
@@ -233,7 +233,7 @@ hân hạnh gửi cô lời mời tham dự."
 > BEGIN STRING
 \\ignr\\e[50]\\nm[ Rika ]
 "A professional networking event. . .\\.\\. of sorts."
-> CONTEXT: Map069/events/60/pages/0/408/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/408/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 "Một buổi giao lưu. . .\\.\\. chuyên môn."
 > END STRING
@@ -241,7 +241,7 @@ hân hạnh gửi cô lời mời tham dự."
 > BEGIN STRING
 \\ignr\\e[50]\\nm[ Rika ]
 "The details are on the card."
-> CONTEXT: Map069/events/60/pages/0/417/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/417/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 "Chi tiết trên tấm thẻ này."
 > END STRING
@@ -250,7 +250,7 @@ hân hạnh gửi cô lời mời tham dự."
 \\ignr\\e[52]\\nm[ Emil ]
 "Opportunities like this don't come often;
 \\.\\.we trust that you'll consider it."
-> CONTEXT: Map069/events/60/pages/0/436/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/436/Dialogue
 \\ignr\\e[52]\\nm[ Emil ]
 "Những cơ hội thế này rất hiếm xảy ra;
 \\.\\.chúng tôi mong cô hãy cân nhắc."
@@ -259,7 +259,7 @@ hân hạnh gửi cô lời mời tham dự."
 > BEGIN STRING
 \\ignr\\e[9]\\nm[ Lynri ]
 ". . . I will."
-> CONTEXT: Map069/events/60/pages/0/468/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/468/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 ". . . Chắc rồi."
 > END STRING
@@ -268,7 +268,7 @@ hân hạnh gửi cô lời mời tham dự."
 \\ignr\\e[50]\\nm[ Rika ]
 "By the way, \\.it's a formal party.
 \\.\\.So do dress well."
-> CONTEXT: Map069/events/60/pages/0/534/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/60/pages/0/534/Dialogue
 \\ignr\\e[50]\\nm[ Rika ]
 "Nhân tiện, \\.đây là một bữa tiệc trang trọng.
 \\.\\.Hãy ăn diện thật đẹp nhé."

@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "Wow, \\.is that a real fox. . . ?"
-> CONTEXT: Map070/events/22/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/22/pages/0/4/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Quào, \\.đó là cáo thật hả. . . ?"
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[21]\\nm[ Emil ]
 "No, \\.it's just a sentient fox tail."
-> CONTEXT: Map070/events/22/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/22/pages/0/8/Dialogue
 \\ignr\\e[21]\\nm[ Emil ]
 Không, \\.đó chỉ là chiếc đuôi cáo
 có tri giác."
@@ -19,7 +19,7 @@ có tri giác."
 > BEGIN STRING
 \\ignr\\e[21]\\nm[ Emil ]
 ". . . Of course it's a real fox."
-> CONTEXT: Map070/events/22/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/22/pages/0/14/Dialogue
 \\ignr\\e[21]\\nm[ Emil ]
 ". . . Tất nhiên đó là cáo thật."
 > END STRING
@@ -27,7 +27,7 @@ có tri giác."
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "Why won't it come out?"
-> CONTEXT: Map070/events/22/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/22/pages/0/17/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Tại sao nó không ra ngoài vậy?"
 > END STRING
@@ -35,7 +35,7 @@ có tri giác."
 > BEGIN STRING
 \\ignr\\e[21]\\nm[ Emil ]
 "It's a real shy fox."
-> CONTEXT: Map070/events/22/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/22/pages/0/21/Dialogue
 \\ignr\\e[21]\\nm[ Emil ]
 "Con cáo này rất nhát."
 > END STRING
@@ -44,7 +44,7 @@ có tri giác."
 \\ignr\\e[21]\\nm[ Emil ]
 "The others have already arrived.
 \\.\\.Rika waits for you inside."
-> CONTEXT: Map070/events/22/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/22/pages/0/25/Dialogue
 \\ignr\\e[21]\\nm[ Emil ]
 "Những người khác đã tới rồi.
 \\.\\.Rika đang đợi bên trong đó."
@@ -53,7 +53,7 @@ có tri giác."
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "I'll go find her. . .\\.\\. Thanks."
-> CONTEXT: Map070/events/22/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/22/pages/0/31/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Tôi sẽ đi gặp cô ấy. . .\\.\\. Cảm ơn."
 > END STRING

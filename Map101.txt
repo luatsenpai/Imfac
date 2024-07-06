@@ -3,8 +3,8 @@
 \\ignr\\e[20]\\nm[ Lynri ]
 "I'm surprised a state-of-the-art quantum
 computer still looks like this."
-> CONTEXT: Map101/events/19/pages/1/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map101/events/20/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/19/pages/1/6/Dialogue
+> CONTEXT: Map101/events/20/pages/1/6/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Không ngờ là máy tính lượng tự
 hiện đại lại trông thế này."
@@ -14,8 +14,8 @@ hiện đại lại trông thế này."
 \\ignr\\e[19]\\nm[ Louie ]
 "The vintage aesthetic is just an homage. . .\\.\\.
 It didn't even look like this with the glass back then."
-> CONTEXT: Map101/events/19/pages/1/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map101/events/20/pages/1/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/19/pages/1/10/Dialogue
+> CONTEXT: Map101/events/20/pages/1/10/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Vẻ ngoài cổ điển là để tôn vinh.. . .\\.\\.
 Lúc trước đâu có mặt kính thế này."
@@ -24,7 +24,7 @@ Lúc trước đâu có mặt kính thế này."
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 "So. . .\\.\\. Fresh doctorate, \\.huh?"
-> CONTEXT: Map101/events/22/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/8/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Vậy. . .\\.\\. Đây là tiến sĩ mới \\.sao?"
 > END STRING
@@ -33,7 +33,7 @@ Lúc trước đâu có mặt kính thế này."
 \\ignr\\e[19]\\nm[ Louie ]
 "To be honest, \\.I was surprised when
 I saw you at the party the other day."
-> CONTEXT: Map101/events/22/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/13/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Thú thực thì, \\.ta đã rất bất ngờ
 khi thấy cô ở bữa tiệc lần trước."
@@ -42,7 +42,7 @@ khi thấy cô ở bữa tiệc lần trước."
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 "But to actually see you here. . ."
-> CONTEXT: Map101/events/22/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/18/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Nhưng khi thực sự gặp cô ở đây. . ."
 > END STRING
@@ -51,7 +51,7 @@ khi thấy cô ở bữa tiệc lần trước."
 \\ignr\\e[20]\\nm[ Lynri ]
 "Dr. Yu said my paper has been helpful to the
 project. \\.I'll try my best to apply my findings--
-> CONTEXT: Map101/events/22/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/21/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Ts. Yu nói nghiên cứu tôi có ích cho dự án.
 \\.Tôi sẽ cố gắng áp dụng các kết quả nghiên cứu--
@@ -60,7 +60,7 @@ project. \\.I'll try my best to apply my findings--
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 "Your paper?\\.\\. I've read your paper."
-> CONTEXT: Map101/events/22/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/26/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Nghiên cứu của cô?\\.\\. Tôi đã đọc qua nó."
 > END STRING
@@ -69,7 +69,7 @@ project. \\.I'll try my best to apply my findings--
 \\ignr\\e[19]\\nm[ Louie ]
 "No offense, \\.but there's nothing there
 that she didn't know already."
-> CONTEXT: Map101/events/22/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/37/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Đáng tiếc, \\.nó chẳng có gì
 mới mẻ cả."
@@ -78,7 +78,7 @@ mới mẻ cả."
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "What do you mean. . . ?"
-> CONTEXT: Map101/events/22/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/41/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Ý ông là. . . ?"
 > END STRING
@@ -87,7 +87,7 @@ mới mẻ cả."
 \\ignr\\e[19]\\nm[ Louie ]
 "What they had done here. . .
 \\.\\.I've deconstructed it."
-> CONTEXT: Map101/events/22/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/55/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Những gì họ làm ở đây. . .
 \\.\\.Tôi đều đã giải mã được hết."
@@ -97,7 +97,7 @@ mới mẻ cả."
 \\ignr\\e[19]\\nm[ Louie ]
 "There's no way they had made all this progress
 without having already known about your findings."
-> CONTEXT: Map101/events/22/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/61/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Họ đã không thể nào đạt tới tiến độ này
 nếu không có những phát hiện từ cô."
@@ -107,7 +107,7 @@ nếu không có những phát hiện từ cô."
 \\ignr\\e[19]\\nm[ Louie ]
 ". . . Dr. Yu and her team must've already
 figured it all out years ago."
-> CONTEXT: Map101/events/22/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/66/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 ". . . Ts. Yu và đội của bà ấy chắc hẳn
 đã tìm ra nó từ nhiều năm trước rồi."
@@ -116,7 +116,7 @@ figured it all out years ago."
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Years ago. . . ?"
-> CONTEXT: Map101/events/22/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/76/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Nhiều năm trước. . . ?"
 > END STRING
@@ -125,7 +125,7 @@ figured it all out years ago."
 \\ignr\\e[20]\\nm[ Lynri ]
 "But then. . .\\.\\. Why were their
 findings not published?"
-> CONTEXT: Map101/events/22/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/86/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Nhưng mà. . .\\.\\. tại sao những phát
 hiện của họ lại không được công bố?"
@@ -134,7 +134,7 @@ hiện của họ lại không được công bố?"
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 "Are you serious?"
-> CONTEXT: Map101/events/22/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/93/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Cô nghiêm túc sao?"
 > END STRING
@@ -143,7 +143,7 @@ hiện của họ lại không được công bố?"
 \\ignr\\e[19]\\nm[ Louie ]
 "This isn't some purist academia spreading
 knowledge for the betterment of humanity."
-> CONTEXT: Map101/events/22/pages/0/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/102/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Đây không phải là một học viện thuần túy nào đó
 truyền bá kiến thức vì lợi ích của nhân loại."
@@ -153,7 +153,7 @@ truyền bá kiến thức vì lợi ích của nhân loại."
 \\ignr\\e[19]\\nm[ Louie ]
 "I'd say 'money', \\.but. . .\\. the interest groups
 involved are a lot more complicated than that."
-> CONTEXT: Map101/events/22/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/108/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Tôi muốn 'tiền', \\.nhưng. . .\\. các nhóm
 lợi ích liên quan còn phức tạp hơn nhiều."
@@ -162,7 +162,7 @@ lợi ích liên quan còn phức tạp hơn nhiều."
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 "Regardless,\\. look. . ."
-> CONTEXT: Map101/events/22/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/116/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Dù thì nào thì,\\. xem này. . ."
 > END STRING
@@ -171,7 +171,7 @@ lợi ích liên quan còn phức tạp hơn nhiều."
 \\ignr\\e[19]\\nm[ Louie ]
 ". . . If you're looking to make a difference
 in the world,\\. this \\iis\\i still the place."
-> CONTEXT: Map101/events/22/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/129/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 ". . . Nếu cô muốn tạo ra gì đó khác biệt,
 \\.thì \\iđây\\i là nơi thích hợp nhất."
@@ -181,7 +181,7 @@ in the world,\\. this \\iis\\i still the place."
 \\ignr\\e[19]\\nm[ Louie ]
 "It may be a while before the public
 gets a taste, \\.but here. . ."
-> CONTEXT: Map101/events/22/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/148/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 "Có thể sẽ mất một thời gian nữa công chúng
 mới được trải nghiệm, \\.nhưng ở đây thì. . ."
@@ -190,7 +190,7 @@ mới được trải nghiệm, \\.nhưng ở đây thì. . ."
 > BEGIN STRING
 \\ignr\\e[19]\\nm[ Louie ]
 ". . . Here is where it all starts."
-> CONTEXT: Map101/events/22/pages/0/158/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/22/pages/0/158/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
 ". . . đây sẽ là nơi mọi thứ bắt đầu."
 > END STRING

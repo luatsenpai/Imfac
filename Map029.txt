@@ -1,27 +1,27 @@
 ﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 "I may have created your world. . ."
-> CONTEXT: Map029/events/1/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/1/pages/0/11/Dialogue
 "Có thể tôi đã tạo ra thế giới của anh. . ."
 > END STRING
 
 > BEGIN STRING
 ". . . But another had created mine."
-> CONTEXT: Map029/events/1/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/1/pages/0/24/Dialogue
 ". . . Nhưng một người khác đã
 tạo ra thế giới của tôi."
 > END STRING
 
 > BEGIN STRING
 "Over and over,\\. until after however many layers. . ."
-> CONTEXT: Map029/events/1/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/1/pages/0/36/Dialogue
 "Lặp đi lặp lại,\\. tới khi nhân lên vô số lớp. . ."
 > END STRING
 
 > BEGIN STRING
 ". . . At the bottom of the stack,\\. there exists
 the world that ran the first simulation."
-> CONTEXT: Map029/events/1/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/1/pages/0/98/Dialogue
 ". . . Ở đáy của chồng lớp mô phỏng,\\. tồn
 tại thế giới đã chạy mô phỏng đầu tiên.."
 > END STRING
@@ -29,7 +29,7 @@ tại thế giới đã chạy mô phỏng đầu tiên.."
 > BEGIN STRING
 But as each simulation creates another,\\. the original
 at the bottom is weighed down more and more. . .
-> CONTEXT: Map029/events/1/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/1/pages/0/129/Dialogue
 Nhưng khi mỗi mô phỏng tạo ra một mô phỏng khác,\\. 
 thế giới gốc ở bên dưới càng ngày càng bị đè nén. . .
 > END STRING
@@ -44,7 +44,7 @@ is created, \\.no matter how abstract. . .
 > BEGIN STRING
 . . . It would be enough to overload and
 collapse the entire structure.
-> CONTEXT: Map029/events/1/pages/0/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/1/pages/0/192/Dialogue
 . . . Điều đó đủ để khiến toàn bộ
 cấu trúc bị quá tải và sụp đổ.
 > END STRING

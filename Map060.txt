@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Professor ]
 "Still a bit behind schedule, \\.isn't it?"
-> CONTEXT: Map060/events/100/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/100/pages/0/6/Dialogue
 \\ignr\\e[68]\\nm[ Giáo sư ]
 "Em vẫn chậm so với dự kiến \\.sao?"
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[82]\\nm[ Lynri ]
 "Yeah. . . \\.\\.But I'll catch up."
-> CONTEXT: Map060/events/100/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/100/pages/0/14/Dialogue
 \\ignr\\e[82]\\nm[ Lynri ]
 "Vâng. . . \\.\\.Nhưng em sẽ bắt kịp."
 > END STRING
@@ -19,7 +19,7 @@
 \\ignr\\e[82]\\nm[ Lynri ]
 "There's still a lot to analyze, \\.but
 at least I have the data now."
-> CONTEXT: Map060/events/100/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/100/pages/0/16/Dialogue
 \\ignr\\e[82]\\nm[ Lynri ]
 "Vẫn còn nhiều thứ phải phân thích, \\.nhưng
 ít ra giờ em đã có dữ liệu rồi."
@@ -28,7 +28,7 @@ at least I have the data now."
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Professor ]
 "Mmhm, \\.good."
-> CONTEXT: Map060/events/100/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/100/pages/0/19/Dialogue
 \\ignr\\e[68]\\nm[ Giáo Sư ]
 "Mmhm, \\.tốt."
 > END STRING
@@ -37,7 +37,7 @@ at least I have the data now."
 \\ignr\\e[68]\\nm[ Professor ]
 "I know it's a lot, \\.but yours is the one
 I'm looking forward to the most."
-> CONTEXT: Map060/events/100/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/100/pages/0/30/Dialogue
 \\ignr\\e[68]\\nm[ Giáo Sư ]
 "Ta quen biết rất nhiều, \\.nhưng em là người
 ta mong chờ kết quả hơn bất kỳ ai khác."
@@ -46,7 +46,7 @@ ta mong chờ kết quả hơn bất kỳ ai khác."
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Professor ]
 ". . . No pressure."
-> CONTEXT: Map060/events/100/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/100/pages/0/37/Dialogue
 \\ignr\\e[68]\\nm[ Giáo Sư ]
 ". . . Đừng áp lực nhé."
 > END STRING

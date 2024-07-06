@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Doctor ]
 "Congratulations, \\.but please rest well. . ."
-> CONTEXT: Map161/events/1/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/42/Dialogue
 \\ignr\\e[5]\\nm[ Bác Sĩ ]
 "Chúc mừng, \\.hãy nghỉ ngơi điều độ. . ."
 > END STRING
@@ -11,7 +11,7 @@
 \\ignr\\e[5]\\nm[ Doctor ]
 "You need some time to recover,\\.
 but we're quite behind already."
-> CONTEXT: Map161/events/1/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/45/Dialogue
 \\ignr\\e[5]\\nm[ Bác Sĩ ]
 "Dù cô cần thời gian hồi phục,\\.
 nhưng tình hình đang rất căng thẳng."
@@ -21,7 +21,7 @@ nhưng tình hình đang rất căng thẳng."
 \\ignr\\e[5]\\nm[ Doctor ]
 ". . . We'll be transferring you to
 surgical unit soon."
-> CONTEXT: Map161/events/1/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/48/Dialogue
 \\ignr\\e[5]\\nm[ Bác Sĩ ]
 ". . . Chúng tôi sẽ sớm đưa cô
 đến phòng phẫu thuật."
@@ -30,7 +30,7 @@ surgical unit soon."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "I understand."
-> CONTEXT: Map161/events/1/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/57/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Tôi hiểu rồi."
 > END STRING
@@ -38,7 +38,7 @@ surgical unit soon."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "How is he doing. . . ?"
-> CONTEXT: Map161/events/1/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/104/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Thằng bé thế nào rồi. . . ?"
 > END STRING
@@ -47,7 +47,7 @@ surgical unit soon."
 \\ignr\\e[4]\\nm[ Quincy ]
 "He's okay. . .\\.\\. You're the one we
 should be worrying about."
-> CONTEXT: Map161/events/1/pages/0/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/113/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Thằng bé vẫn ổn. . .\\.\\. Em hãy
 quan tâm tới bản thân mình hơn."
@@ -56,7 +56,7 @@ quan tâm tới bản thân mình hơn."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "He's tiny. . ."
-> CONTEXT: Map161/events/1/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/151/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Thằng bé thật nhỏ nhắn. . ."
 > END STRING
@@ -64,7 +64,7 @@ quan tâm tới bản thân mình hơn."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . Our little Tobi Reynard."
-> CONTEXT: Map161/events/1/pages/0/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/161/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . Tobi Reynard bé nhỏ của chúng ta."
 > END STRING
@@ -72,7 +72,7 @@ quan tâm tới bản thân mình hơn."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "Actually, \\.about that. . ."
-> CONTEXT: Map161/events/1/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/176/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Nói về chuyện đó \\.thì. . ."
 > END STRING
@@ -80,7 +80,7 @@ quan tâm tới bản thân mình hơn."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "I've been thinking, \\.well. . ."
-> CONTEXT: Map161/events/1/pages/0/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/190/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Ừm, \\.anh vẫn đang suy nghĩ. . ."
 > END STRING
@@ -89,7 +89,7 @@ quan tâm tới bản thân mình hơn."
 \\ignr\\e[4]\\nm[ Quincy ]
 "Maybe. . . \\.\\.maybe he should take
 your surname instead."
-> CONTEXT: Map161/events/1/pages/0/193/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/193/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Có lẽ. . . \\.\\.thằng bé nên
 theo họ em."
@@ -98,7 +98,7 @@ theo họ em."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "My surname. . . ?"
-> CONTEXT: Map161/events/1/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/206/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Họ em. . . ?"
 > END STRING
@@ -107,7 +107,7 @@ theo họ em."
 \\ignr\\e[4]\\nm[ Quincy ]
 "I mean. . .\\. I can't think of any
 reason why not."
-> CONTEXT: Map161/events/1/pages/0/215/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/215/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Ừm. . .\\. tại sao
 không chứ."
@@ -117,7 +117,7 @@ không chứ."
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . But after all that, \\.I can think of
 lots of reasons why he should."
-> CONTEXT: Map161/events/1/pages/0/223/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/223/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Nhưng sau tất cả, \\.thì cũng
 có nhiều lý do để thằng bé làm thế."
@@ -126,7 +126,7 @@ có nhiều lý do để thằng bé làm thế."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . I'd love that."
-> CONTEXT: Map161/events/1/pages/0/242/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/242/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . Em thích điều đó."
 > END STRING
@@ -135,7 +135,7 @@ có nhiều lý do để thằng bé làm thế."
 \\ignr\\e[2]\\nm[ Lynri ]
 "Although. . . \\.\\i'Tobi'\\i doesn't ring
 as well with \\i'Watts'\\i,\\. does it?"
-> CONTEXT: Map161/events/1/pages/0/258/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/258/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Dù thế. . . \\.\\i'Tobi'\\i nghe không
 hạp với họ \\i'Watts'\\i,\\. đúng chứ?"
@@ -145,7 +145,7 @@ hạp với họ \\i'Watts'\\i,\\. đúng chứ?"
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Do you have something
 else in mind, \\.then?"
-> CONTEXT: Map161/events/1/pages/0/268/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/268/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Em có ý tưởng\\.
 nào khác không?"
@@ -154,7 +154,7 @@ nào khác không?"
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "How about. . .\\.\\. '\\iNeil\\i'?"
-> CONTEXT: Map161/events/1/pages/0/285/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/285/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Vậy. . .\\.\\. '\\iNeil\\i' thì sao?"
 > END STRING
@@ -162,7 +162,7 @@ nào khác không?"
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Neil, \\.huh?"
-> CONTEXT: Map161/events/1/pages/0/299/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/299/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Neil \\.sao?"
 > END STRING
@@ -170,7 +170,7 @@ nào khác không?"
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "Yeah. . . \\.\\.I like it."
-> CONTEXT: Map161/events/1/pages/0/314/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/314/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Ừm. . . \\.\\.Anh thích nó."
 > END STRING
@@ -178,7 +178,7 @@ nào khác không?"
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Our little Neil Watts."
-> CONTEXT: Map161/events/1/pages/0/329/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/0/329/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Neil Watts bé nhỏ của chúng ta."
 > END STRING
@@ -186,27 +186,27 @@ nào khác không?"
 > BEGIN STRING
 In base reality, \\.your son never had the
 complications of an early birth.
-> CONTEXT: Map161/events/1/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/7/Dialogue
 Ở thực tại cơ bản, \\.con trai cô không gặp
 phải những biến chứng sinh non.
 > END STRING
 
 > BEGIN STRING
 He made it through childhood just fine. . .
-> CONTEXT: Map161/events/1/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/17/Dialogue
 Thằng bé đã trải qua tuổi thơ khá bình yên. . .
 > END STRING
 
 > BEGIN STRING
 . . . with all the love you and Quincy could give him.
-> CONTEXT: Map161/events/1/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/24/Dialogue
 . . . với tất cả tình yêu thương mà
 cô và Quincy dành cho thằng bé.
 > END STRING
 
 > BEGIN STRING
 But as for you. . .\\.\\. You never fully recovered.
-> CONTEXT: Map161/events/1/pages/1/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/27/Dialogue
 Nhưng về phần cô. . .\\.\\. Cô vẫn
 chưa khôi phục hoàn toàn.
 > END STRING
@@ -214,7 +214,7 @@ chưa khôi phục hoàn toàn.
 > BEGIN STRING
 With the delay, \\.the treatment
 couldn't revert your decline. . .
-> CONTEXT: Map161/events/1/pages/1/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/31/Dialogue
 Do sự chậm trễ, \\.việc điều trị không thể
 cứu vãn tình trạng suy giảm của cô. . .
 > END STRING
@@ -222,7 +222,7 @@ cứu vãn tình trạng suy giảm của cô. . .
 > BEGIN STRING
 . . . and you spent much of your
 remaining years bedridden.
-> CONTEXT: Map161/events/1/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/38/Dialogue
 . . . và cô đã phải nằm liệt giường
 trong phần lớn những năm tháng còn lại.
 > END STRING
@@ -230,53 +230,53 @@ trong phần lớn những năm tháng còn lại.
 > BEGIN STRING
 Still, \\.perhaps out of the will to be there for him,
 \\.you lived long past your prognosis. . .
-> CONTEXT: Map161/events/1/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/49/Dialogue
 Tuy nhiên, \\.có lẽ vì mong muốn ở bên cạnh anh ấy,
 \\.cô đã sống lâu hơn nhiều so với dự đoán của bác sĩ.
 > END STRING
 
 > BEGIN STRING
 . . . To watch him grow up, \\.even if just a little more.
-> CONTEXT: Map161/events/1/pages/1/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/56/Dialogue
 . . . Để chứng kiến thằng bé trưởng thành, \\.
 dù chỉ là một chút.
 > END STRING
 
 > BEGIN STRING
 But eventually, \\.as you felt your time coming near. . .
-> CONTEXT: Map161/events/1/pages/1/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/60/Dialogue
 Nhưng rồi, \\.cô cảm thấy thời gian của
 mình không còn nhiều thời gian nữa. . .
 > END STRING
 
 > BEGIN STRING
 You sought out some old friends. . .
-> CONTEXT: Map161/events/1/pages/1/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/65/Dialogue
 Cô đã đi tìm lại một vài người bạn cũ. . .
 > END STRING
 
 > BEGIN STRING
 . . . to leave something for him for
 when he grows up.
-> CONTEXT: Map161/events/1/pages/1/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/71/Dialogue
 . . . để lại một thứ gì đó cho
 thằng bé khi trưởng thành.
 > END STRING
 
 > BEGIN STRING
 . . . You left him a piece of your memories.
-> CONTEXT: Map161/events/1/pages/1/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/79/Dialogue
 . . . Cô đã để lại cho anh ấy một phần ký ức của cô.
 > END STRING
 
 > BEGIN STRING
 At the time, \\.there was no way to decrypt it. . .
-> CONTEXT: Map161/events/1/pages/1/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/84/Dialogue
 Lúc đó, \\.không có cách nào để giải mã nó. . .
 > END STRING
 
 > BEGIN STRING
 But still. . . \\.\\.\\i'Some day,'\\i\\. you hoped.
-> CONTEXT: Map161/events/1/pages/1/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map161/events/1/pages/1/85/Dialogue
 Nhưng. . . \\.\\. cô vẫn hy vọng \\i'một ngày nào đó'\\i\\..
 > END STRING

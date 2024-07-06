@@ -1,0 +1,275 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"windowskin_bg"
+> CONTEXT: Map058/events/5/pages/0/3/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Map058/events/5/pages/1/13/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Map058/events/5/pages/1/185/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/48/1/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Dad ]
+"Y'know what's amazing about them,\\.\\. Lyn. . . ?"
+> CONTEXT: Map058/events/5/pages/0/6/Dialogue
+\\ignr\\e[6]\\nm[ Bố ]
+"Con biết chúng có gì tuyệt vời không\\.\\. Lyn. . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+"Even though those stars all shine
+so brightly. . ."
+> CONTEXT: Map058/events/5/pages/1/16/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+"Dù toàn bộ những ngôi sao kia
+đều tỏa sáng. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+". . . Many of them have already been
+gone for a long time."
+> CONTEXT: Map058/events/5/pages/1/22/Dialogue
+\\ignr\\e[2]\\nm[ Dad ]
+". . . Nhiều ngôi sao trong sồ chúng
+đã ra đi từ rất lâu rồi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"Gone?"
+> CONTEXT: Map058/events/5/pages/1/28/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Ra đi ạ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+"Yeah. . . \\.\\.Even the stars don't last forever."
+> CONTEXT: Map058/events/5/pages/1/33/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+"Ừm. . . \\.\\.Kể cả những ngôi sao cũng không
+trường tồn mãi mãi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"But then. . . \\.why do we still see them?"
+> CONTEXT: Map058/events/5/pages/1/38/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Nhưng. . . \\.tại sao chúng ta vẫn nhìn
+thấy nó vậy ạ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+"Well, \\.that's because during the time they
+were here,\\. they shined so brightly. . ."
+> CONTEXT: Map058/events/5/pages/1/43/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+"Ờm, \\.bởi vì trong thời gian chúng còn
+tồn tại,\\. chúng đã tỏa sáng rực rỡ. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+". . . That their light travelled \\iso\\i far,
+\\.it reaches us even now."
+> CONTEXT: Map058/events/5/pages/1/48/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+". . . Ánh sáng của chúng đi xa \\itới mức\\i,
+\\.nó vẫn đến được với chúng ta."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"Wow. . ."
+> CONTEXT: Map058/events/5/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"I suppose I should thank them, \\.then."
+> CONTEXT: Map058/events/5/pages/1/58/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Con nghĩ con nên cảm ơn chúng\\.."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+". . . Without them, \\.I wouldn't be
+able to see the lavender field."
+> CONTEXT: Map058/events/5/pages/1/63/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+". . . Không có chúng, \\.con không thể
+thấy được cánh đồng hoa oải hương này."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+"Well, \\.then maybe you should thank the
+lavender too."
+> CONTEXT: Map058/events/5/pages/1/69/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+"Ừm, \\.có lẽ chúng cũng nên cảm ơn
+cánh đồng hoa oải hương."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+"Because without them, \\.there would be
+nothing \\ito\\i see, \\.right?"
+> CONTEXT: Map058/events/5/pages/1/72/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+"Bởi vì không có chúng, \\.nơi đây sẽ không
+có gì \\iđể\\i ngắm cả, \\.đúng chứ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"Yeah!"
+> CONTEXT: Map058/events/5/pages/1/77/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Vâng!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"The lavender may not be in the sky,
+\\.but. . .\\. I like them better that way."
+> CONTEXT: Map058/events/5/pages/1/80/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Hoa oải hương có thể không có trên bầu trời.
+\\.nhưng. . .\\. con vẫn thích."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"I can play in them, \\.smell them,
+\\.and see them up close!"
+> CONTEXT: Map058/events/5/pages/1/85/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Con có thể chơi với chúng, \\.ngửi chúng,
+\\.và ngắm nhìn chúng thật gần!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"The stars are all sooo far away,\\. but. . .
+\\.I guess they got their own part to do too."
+> CONTEXT: Map058/events/5/pages/1/89/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Nhưng ngôi sao kia dù xa thật xa,\\. nhưng. . .
+\\.Con đoán chúng cũng có vai trò của riêng mình."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"I wouldn't change a thing
+about either of them!"
+> CONTEXT: Map058/events/5/pages/1/93/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Con sẽ không thay đổi
+suy nghĩ về hai thứ đó!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+"Wouldn't change a thing,\\. huh?"
+> CONTEXT: Map058/events/5/pages/1/96/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+"không thay đổi suy nghĩ\\. sao?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+". . . So if you could be either,\\. which
+would you rather be?"
+> CONTEXT: Map058/events/5/pages/1/101/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+". . . Vậy nếu chỉ được chọn một trong hai,\\.
+con muốn chọn cái nào hơn?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"Hmmm. . ."
+> CONTEXT: Map058/events/5/pages/1/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"Well, \\.I still like lavender
+more, \\.sooo. . ."
+> CONTEXT: Map058/events/5/pages/1/108/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Chà, \\.con vẫn thích
+hoa oải hương \\.hơnnn. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"So I. . .\\.\\. I want to be a star!"
+> CONTEXT: Map058/events/5/pages/1/114/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Vậy nên. . .\\.\\. con muốn trở thành
+ngôi sao!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Dad ]
+"Why star, \\.if you like lavender more. . . ?"
+> CONTEXT: Map058/events/5/pages/1/119/Dialogue
+\\ignr\\e[2]\\nm[ Bố ]
+"Tại sao lại là ngôi sao, \\.trong khi con
+thích hoa oải hương hơ . . . ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"Duh, \\.dad. . ."
+> CONTEXT: Map058/events/5/pages/1/122/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Trời \\.ạ. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+". . . To make sure everyone can see
+the lavender,\\. of course!"
+> CONTEXT: Map058/events/5/pages/1/125/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+". . . Tất nhiên là để mọi người
+có thể nhìn\\. thấy hoa oải hương rồi!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"I'd shine down on this field so bright,
+\\.and make it as light as day. . ."
+> CONTEXT: Map058/events/5/pages/1/130/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Con sẽ chiếu sáng rực rỡ trên cánh đồng này
+\\.và khiến nó sáng như ban ngày. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Lynri ]
+"And then, \\.eeeverybody could always
+see just how lovely it is!"
+> CONTEXT: Map058/events/5/pages/1/134/Dialogue
+\\ignr\\e[3]\\nm[ Lynri ]
+"Và sau đó, \\.mọi người sẽ luôn
+nhìn thấy vẻ đẹp của nó!"
+> END STRING
+
+> BEGIN STRING
+". . . Sounds like you'd make a
+wonderful star,\\. Lyn."
+> CONTEXT: Map058/events/5/pages/1/173/Dialogue
+". . . Nghe có vẻ con sẽ trở thành
+một ngôi sao tuyệt vời,\\. Lyn."
+> END STRING

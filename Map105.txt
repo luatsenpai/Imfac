@@ -20,7 +20,7 @@
 > BEGIN STRING
 \\ignr\\e[8]\\nm[ Quincy ]
 "Are you alright. . . ?"
-> CONTEXT: Map105/events/31/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/31/pages/0/9/Dialogue
 \\ignr\\e[8]\\nm[ Quincy ]
 "Em không sao chứ. . . ?"
 > END STRING
@@ -29,7 +29,7 @@
 \\ignr\\e[14]\\nm[ Lynri ]
 "Yeah. . . \\.\\.Just a bit airsick from
 the bumpy flight, \\.I think."
-> CONTEXT: Map105/events/31/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/31/pages/0/19/Dialogue
 \\ignr\\e[14]\\nm[ Lynri ]
 "Ừm. . . \\.\\.em nghĩ\\. em chỉ bị
 say máy bay do máy bay hơi sóc thôi"
@@ -39,7 +39,7 @@ say máy bay do máy bay hơi sóc thôi"
 \\ignr\\e[8]\\nm[ Quincy ]
 "Are you sure? \\.\\.I've never seen
 you get airsick before. . ."
-> CONTEXT: Map105/events/31/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/31/pages/0/28/Dialogue
 \\ignr\\e[8]\\nm[ Quincy ]
 "Em chắc chứ? \\.\\.Anh chưa từng thấy
 em say máy bay bao giờ. . ."
@@ -49,7 +49,7 @@ em say máy bay bao giờ. . ."
 \\ignr\\e[8]\\nm[ Quincy ]
 "I'll give your doctor a call. . . \\.\\.
 Let's get you checked just to be sure."
-> CONTEXT: Map105/events/31/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/31/pages/0/44/Dialogue
 \\ignr\\e[8]\\nm[ Quincy ]
 "Để anh đưa em đến chỗ bác sĩ. . . \\.\\.
 Đến đó kiểm tra cho chắc."

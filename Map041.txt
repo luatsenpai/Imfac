@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Quincy ]
 ( What is. . .\\. happening to me. . . ? )
-> CONTEXT: Map041/events/57/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/57/pages/0/36/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 ( Chuyện gì. . .\\. đang xảy ra với mình vậy. . . ? )
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( What is. . .\\. happening to me. . . ? )
-> CONTEXT: Map041/events/57/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/57/pages/0/39/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 ( Chuyện gì. . .\\. đang xảy ra với mình vậy. . . ? )
 > END STRING
@@ -18,7 +18,7 @@
 > BEGIN STRING
 \\ignr\\e[58]\\nm[ Lynri ]
 "What in the-- ?!"
-> CONTEXT: Map041/events/57/pages/16/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/57/pages/16/63/Dialogue
 \\ignr\\e[58]\\nm[ Lynri ]
 "Vụ gì thế này-- ?!"
 > END STRING
@@ -34,7 +34,7 @@
 \\ignr\\e[58]\\nm[ Lynri ]
 ". . . Even just one of you was
 enough trouble as it was."
-> CONTEXT: Map041/events/57/pages/16/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/57/pages/16/140/Dialogue
 \\ignr\\e[58]\\nm[ Lynri ]
 ". . . Mỗi mình anh thôi
 là đã đủ rắc rối rồi."

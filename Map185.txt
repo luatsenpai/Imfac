@@ -1,0 +1,21 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'Wedding_night_trees'
+> CONTEXT: Map185/events/1/pages/0/6/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map185/events/1/pages/1/7/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Wedding_night_lake'
+> CONTEXT: Map185/events/1/pages/0/15/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map185/events/1/pages/1/16/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Wedding_night_sky'
+> CONTEXT: Map185/events/1/pages/0/24/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map185/events/1/pages/1/25/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING

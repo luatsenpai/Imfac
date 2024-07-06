@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "NEIL!"
-> CONTEXT: Map183/events/7/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/91/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "NEIL!"
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[8]\\nm[ Dr. Watts ]
 ". . . I don't have your stapler, \\.I swear."
-> CONTEXT: Map183/events/7/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/105/Dialogue
 \\ignr\\e[8]\\nm[ Ts. Watts ]
 ". . . Tôi thề,\\. tôi không lấy bấm kim của cô, "
 > END STRING
@@ -18,7 +18,7 @@
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "Oh don't be silly.\\.\\. We were just nearby!"
-> CONTEXT: Map183/events/7/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/122/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "Đừng lo.\\.\\. Chúng tôi chỉ tình cờ đi ngang qua thôi!"
 > END STRING
@@ -27,7 +27,7 @@
 \\ignr\\e[6]\\nm[ Dr. Lin ]
 "Nearby \\inow\\i.\\.\\. Very far an hour ago,
 \\.before deciding to be nearby."
-> CONTEXT: Map183/events/7/pages/0/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/137/Dialogue
 \\ignr\\e[6]\\nm[ Ts. Lin ]
 "Sắp đến \\igần\\i rồi.\\.\\. Một tiếng trước
 vẫn còn xa, \\.trước khi đến gần hôn."
@@ -36,7 +36,7 @@ vẫn còn xa, \\.trước khi đến gần hôn."
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "Yeah,\\. what are the chances, right?!"
-> CONTEXT: Map183/events/7/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/149/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "Ừm,\\. không thể tin được nhỉ?!"
 > END STRING
@@ -45,7 +45,7 @@ vẫn còn xa, \\.trước khi đến gần hôn."
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "So anyway, \\.we were gonna go
 somewhere rad. \\.\\.You in?"
-> CONTEXT: Map183/events/7/pages/0/187/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/187/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "Dù sao thì, \\.chúng tôi định tới
 một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
@@ -54,7 +54,7 @@ một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
 > BEGIN STRING
 \\ignr\\e[8]\\nm[ Dr. Watts ]
 "How rad?"
-> CONTEXT: Map183/events/7/pages/0/193/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/193/Dialogue
 \\ignr\\e[8]\\nm[ Ts. Watts ]
 "Đỉnh cơ nào cơ?"
 > END STRING
@@ -62,7 +62,7 @@ một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "Surprisingly rad!"
-> CONTEXT: Map183/events/7/pages/0/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/199/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "Cực kỳ đỉnh!"
 > END STRING
@@ -70,7 +70,7 @@ một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
 > BEGIN STRING
 \\ignr\\e[8]\\nm[ Dr. Watts ]
 "Hard pass."
-> CONTEXT: Map183/events/7/pages/0/205/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/205/Dialogue
 \\ignr\\e[8]\\nm[ Ts. Watts ]
 "Dẹp đi."
 > END STRING
@@ -78,7 +78,7 @@ một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "Geee,\\. \\isomebody's\\i a party pooper."
-> CONTEXT: Map183/events/7/pages/0/249/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/249/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "Hừ,\\. \\iai đó\\i đang làm mất hứng."
 > END STRING
@@ -87,7 +87,7 @@ một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "Well alright,\\. I guess no all-you-can-eat
 ice cream for Neil then!"
-> CONTEXT: Map183/events/7/pages/0/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/255/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "Ờ được thôi, \\.vậy là Neil không
 được ăn kem thả ga rồi!"
@@ -97,7 +97,7 @@ ice cream for Neil then!"
 \\ignr\\e[5]\\nm[ Dr. Winters ]
 "I said. . .\\.\\. I GUESS NO ALL-YOU-CAN-EAT
 ICE CREAM FOR NEIL THEN!!"
-> CONTEXT: Map183/events/7/pages/0/314/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/314/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
 "Thôi được. . .\\.\\. VẬY LÀ NEIL KHÔNG
 ĐƯỢC ĂN KEM THẢ GA RỒI!!"
@@ -106,7 +106,7 @@ ICE CREAM FOR NEIL THEN!!"
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Rosalene ]
 "We might as well, \\.Neil. . ."
-> CONTEXT: Map183/events/7/pages/0/387/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/387/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
 "Thôi được, \\.Neil. . ."
 > END STRING
@@ -115,7 +115,7 @@ ICE CREAM FOR NEIL THEN!!"
 \\ignr\\e[4]\\nm[ Dr. Rosalene ]
 "Who knows when will be the
 next time we'd be able to--
-> CONTEXT: Map183/events/7/pages/0/397/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/397/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
 "Ai biết được khi nào
 chúng ta lại có thể--
@@ -124,7 +124,7 @@ chúng ta lại có thể--
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Rosalene ]
 "How'd you change so fast?"
-> CONTEXT: Map183/events/7/pages/0/433/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/433/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
 "Đổi ý nhanh vậy?"
 > END STRING
@@ -132,7 +132,7 @@ chúng ta lại có thể--
 > BEGIN STRING
 \\ignr\\e[9]\\nm[ Dr. Watts ]
 "It's a coat. \\.\\.Not a cocktail dress."
-> CONTEXT: Map183/events/7/pages/0/439/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/439/Dialogue
 \\ignr\\e[9]\\nm[ Ts. Watts ]
 "Nó chỉ là áo khoác thôi mà. \\.\\.
 Có phải đầm cocktail đâu."
@@ -141,7 +141,7 @@ Có phải đầm cocktail đâu."
 > BEGIN STRING
 \\ignr\\e[9]\\nm[ Dr. Watts ]
 "I'm expecting greatness."
-> CONTEXT: Map183/events/7/pages/0/470/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/470/Dialogue
 \\ignr\\e[9]\\nm[ Ts. Watts ]
 "Tôi háo hức mong chờ
 những điều tuyệt vời."
@@ -150,7 +150,7 @@ những điều tuyệt vời."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Rosalene ]
 "Uh, \\.you forgot to close the. . ."
-> CONTEXT: Map183/events/7/pages/0/497/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/497/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
 "Uh, \\.ông quên đóng. . ."
 > END STRING
@@ -158,7 +158,7 @@ những điều tuyệt vời."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Rosalene ]
 "Is somebody in there?"
-> CONTEXT: Map183/events/7/pages/0/545/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/545/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
 "Có ai trong đó không?"
 > END STRING
@@ -166,7 +166,7 @@ những điều tuyệt vời."
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Dr. Rosalene ]
 "Hello. . . ?"
-> CONTEXT: Map183/events/7/pages/0/553/Dialogue < UNTRANSLATED
+> CONTEXT: Map183/events/7/pages/0/553/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
 "Này. . . ?"
 > END STRING

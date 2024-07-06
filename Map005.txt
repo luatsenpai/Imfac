@@ -3,7 +3,7 @@
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . Wait,\\. this is how horror stories
 begin, \\.isn't it? )
-> CONTEXT: Map005/events/16/pages/2/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/16/pages/2/144/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . Khoan,\\. trong mấy truyện kinh dị
 thường có mấy cảnh như vầy \\.nhỉ? )
@@ -12,7 +12,7 @@ thường có mấy cảnh như vầy \\.nhỉ? )
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( But. . .\\.\\. maybe also some romance stories? )
-> CONTEXT: Map005/events/16/pages/2/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/16/pages/2/161/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Nhưng. . .\\.\\. nhỡ đâu là truyện ngôn tình
 thì sao? )
@@ -21,7 +21,7 @@ thì sao? )
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . No, \\.\\.mostly just horror stories. )
-> CONTEXT: Map005/events/16/pages/2/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/16/pages/2/181/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . Không, \\.\\.giống truyện kinh dị đúng hơn. )
 > END STRING
@@ -29,7 +29,7 @@ thì sao? )
 > BEGIN STRING
 \\ignr\\e[16]
 The gate is locked.
-> CONTEXT: Map005/events/16/pages/6/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/16/pages/6/4/Dialogue
 \\ignr\\e[16]
 Cổng khóa rồi.
 > END STRING
@@ -85,7 +85,7 @@ vậy trời. . . )
 > BEGIN STRING
 \\ignr\\e[17]\\nm[ Quincy ]
 ( . . . What the pug? )
-> CONTEXT: Map005/events/17/pages/8/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/17/pages/8/43/Dialogue
 \\ignr\\e[17]\\nm[ Quincy ]
 ( . . . Cái gì thế? )
 > END STRING

@@ -7,38 +7,19 @@
 
 > BEGIN STRING
 Tornado Punch
-> CONTEXT: Items/2/name/ < UNTRANSLATED
+> CONTEXT: Items/2/name/
 Chanh Đấm
 > END STRING
 
 > BEGIN STRING
-Phục hồi HP cho một đồng minh.
-> CONTEXT: Items/2/description/ < UNTRANSLATED
-> CONTEXT: Items/3/description/ < UNTRANSLATED
-> CONTEXT: Items/21/description/ < UNTRANSLATED
-> CONTEXT: Items/22/description/ < UNTRANSLATED
-> CONTEXT: Items/23/description/ < UNTRANSLATED
-> CONTEXT: Items/24/description/ < UNTRANSLATED
-> CONTEXT: Items/25/description/ < UNTRANSLATED
-> CONTEXT: Items/26/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 Mortifying Whine
-> CONTEXT: Items/3/name/ < UNTRANSLATED
+> CONTEXT: Items/3/name/
 Khóc Lóc Thảm thiết
 > END STRING
 
 > BEGIN STRING
 shoe
 > CONTEXT: Items/4/name/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-Phục hồi SP cho một đồng minh.
-> CONTEXT: Items/4/description/ < UNTRANSLATED
 
 > END STRING
 
@@ -50,43 +31,43 @@ Phục hồi SP cho một đồng minh.
 
 > BEGIN STRING
 Whirlwind Slap
-> CONTEXT: Items/5/name/ < UNTRANSLATED
+> CONTEXT: Items/5/name/
 Tát Xoay Người
 > END STRING
 
 > BEGIN STRING
 Armageddon Kick
-> CONTEXT: Items/6/name/ < UNTRANSLATED
+> CONTEXT: Items/6/name/
 Cú Đá Hủy Diệt
 > END STRING
 
 > BEGIN STRING
 Nose Laser
-> CONTEXT: Items/7/name/ < UNTRANSLATED
+> CONTEXT: Items/7/name/
 Tia Laze Mũi
 > END STRING
 
 > BEGIN STRING
 Rocket Dog
-> CONTEXT: Items/8/name/ < UNTRANSLATED
+> CONTEXT: Items/8/name/
 Hỏa Tiễn Chó
 > END STRING
 
 > BEGIN STRING
 Compliment
-> CONTEXT: Items/9/name/ < UNTRANSLATED
+> CONTEXT: Items/9/name/
 Khen Ngợi
 > END STRING
 
 > BEGIN STRING
 R I C E B O T ( S Y S ) ?
-> CONTEXT: Items/11/name/ < UNTRANSLATED
+> CONTEXT: Items/11/name/
 R I C E B O T ( H T ) ?
 > END STRING
 
 > BEGIN STRING
 Cat (?)
-> CONTEXT: Items/12/name/ < UNTRANSLATED
+> CONTEXT: Items/12/name/
 Mèo (?)
 > END STRING
 
@@ -98,27 +79,21 @@ Rudog
 
 > BEGIN STRING
 Task-List
-> CONTEXT: Items/14/name/ < UNTRANSLATED
+> CONTEXT: Items/14/name/
 Ds. Nhiệm Vụ
 > END STRING
 
 > BEGIN STRING
-Nhấn 'Z' trong khi chơi để xem nhiệm vụ.
-> CONTEXT: Items/14/description/ < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 Head out anyway
-> CONTEXT: Items/16/name/ < UNTRANSLATED
-> CONTEXT: Items/17/name/ < UNTRANSLATED
+> CONTEXT: Items/16/name/
+> CONTEXT: Items/17/name/
 Ra ngoài luôn
 > END STRING
 
 > BEGIN STRING
 Go back upstairs
-> CONTEXT: Items/18/name/ < UNTRANSLATED
-> CONTEXT: Items/19/name/ < UNTRANSLATED
+> CONTEXT: Items/18/name/
+> CONTEXT: Items/19/name/
 Quay lại trên lầu
 > END STRING
 
@@ -136,44 +111,38 @@ v--DON'T USE; orbs
 
 > BEGIN STRING
 Thing on a Stick
-> CONTEXT: Items/28/name/ < UNTRANSLATED
+> CONTEXT: Items/28/name/
 Gậy Cá
 > END STRING
 
 > BEGIN STRING
 Door Key
-> CONTEXT: Items/29/name/ < UNTRANSLATED
+> CONTEXT: Items/29/name/
 Chìa Khóa Cửa
 > END STRING
 
 > BEGIN STRING
 A small bronze key.
-> CONTEXT: Items/29/description/ < UNTRANSLATED
+> CONTEXT: Items/29/description/
 Chìa khóa đồng nhỏ.
 > END STRING
 
 > BEGIN STRING
 Equipment
-> CONTEXT: Items/30/name/ < UNTRANSLATED
+> CONTEXT: Items/30/name/
 Trang bị
 > END STRING
 
 > BEGIN STRING
 With a box this heavy, what's inside has got to be important.
-> CONTEXT: Items/30/description/ < UNTRANSLATED
+> CONTEXT: Items/30/description/
 Chiếc hộp nặng như thế này, thứ bên trong hẳn phải rất quan trọng.
 > END STRING
 
 > BEGIN STRING
 Remote Patient Monitor
-> CONTEXT: Items/31/name/ < UNTRANSLATED
+> CONTEXT: Items/31/name/
 M.Hình Quan Sát Bệnh Nhân
-> END STRING
-
-> BEGIN STRING
-Màn hình theo dõi bệnh nhân để giám sát trực tiếp.
-> CONTEXT: Items/31/description/ < UNTRANSLATED
-
 > END STRING
 
 > BEGIN STRING
@@ -189,41 +158,41 @@ Màn hình theo dõi bệnh nhân để giám sát trực tiếp.
 
 > BEGIN STRING
 Key to the basement door. Everybody likes keys.
-> CONTEXT: Items/35/description/ < UNTRANSLATED
+> CONTEXT: Items/35/description/
 Chìa khóa cửa tầng hầm. Ai cũng thích chìa khóa.
 > END STRING
 
 > BEGIN STRING
 Permanent Marker
-> CONTEXT: Items/36/name/ < UNTRANSLATED
+> CONTEXT: Items/36/name/
 Bút Đánh Dấu
 > END STRING
 
 > BEGIN STRING
 Note: Green Book
-> CONTEXT: Items/55/name/ < UNTRANSLATED
-> CONTEXT: Items/157/name/ < UNTRANSLATED
+> CONTEXT: Items/55/name/
+> CONTEXT: Items/157/name/
 Ghi Chú: Sổ Lục
 > END STRING
 
 > BEGIN STRING
 It's filled with blank pages. . .
-> CONTEXT: Items/55/description/ < UNTRANSLATED
-> CONTEXT: Items/157/description/ < UNTRANSLATED
+> CONTEXT: Items/55/description/
+> CONTEXT: Items/157/description/
 Chỉ toàn trang trắng. . .
 > END STRING
 
 > BEGIN STRING
 Note: Rudog
-> CONTEXT: Items/62/name/ < UNTRANSLATED
-> CONTEXT: Items/150/name/ < UNTRANSLATED
+> CONTEXT: Items/62/name/
+> CONTEXT: Items/150/name/
 Ghi chú: Rudog
 > END STRING
 
 > BEGIN STRING
 Colin loved watching "Rudog, the Red-Nosed Corgi".
-> CONTEXT: Items/62/description/ < UNTRANSLATED
-> CONTEXT: Items/150/description/ < UNTRANSLATED
+> CONTEXT: Items/62/description/
+> CONTEXT: Items/150/description/
 Colin thích xem "Rudog, chú chó Corgi mũi đỏ".
 > END STRING
 
@@ -235,453 +204,484 @@ Colin thích xem "Rudog, chú chó Corgi mũi đỏ".
 
 > BEGIN STRING
 Plain White Sock
-> CONTEXT: Items/110/name/ < UNTRANSLATED
+> CONTEXT: Items/110/name/
 Tất Trắng
 > END STRING
 
 > BEGIN STRING
 How vanilla.
-> CONTEXT: Items/110/description/ < UNTRANSLATED
+> CONTEXT: Items/110/description/
 Thật cổ điển.
 > END STRING
 
 > BEGIN STRING
 Bright Teal Sock
-> CONTEXT: Items/111/name/ < UNTRANSLATED
+> CONTEXT: Items/111/name/
 Tất Xanh Ngọc
 > END STRING
 
 > BEGIN STRING
 An above-average colour.
-> CONTEXT: Items/111/description/ < UNTRANSLATED
+> CONTEXT: Items/111/description/
 Màu sắc trên mức trung bình.
 > END STRING
 
 > BEGIN STRING
 Giraffe Print Sock
-> CONTEXT: Items/112/name/ < UNTRANSLATED
+> CONTEXT: Items/112/name/
 Vớ Sọc Huơu Cao Cổ
 > END STRING
 
 > BEGIN STRING
 Giraffes don't actually have this pattern on their feet, but you're no giraffe.
-> CONTEXT: Items/112/description/ < UNTRANSLATED
+> CONTEXT: Items/112/description/
 Thực ra, chân của hươu cao cổ không có hoa văn này, nhưng bạn không phải hươu cao cổ.
 > END STRING
 
 > BEGIN STRING
 Fuzzy Sock
-> CONTEXT: Items/113/name/ < UNTRANSLATED
+> CONTEXT: Items/113/name/
 Vớ Lông
 > END STRING
 
 > BEGIN STRING
 Winter is coming, and you're ready.
-> CONTEXT: Items/113/description/ < UNTRANSLATED
+> CONTEXT: Items/113/description/
 Mùa đông sắp đến rồi, chuẩn bị đâu.
 > END STRING
 
 > BEGIN STRING
 Cucumber Pattern Sock
-> CONTEXT: Items/114/name/ < UNTRANSLATED
+> CONTEXT: Items/114/name/
 Vớ Hình Dưa Leo
 > END STRING
 
 > BEGIN STRING
 Can also be applied as face mask.
-> CONTEXT: Items/114/description/ < UNTRANSLATED
+> CONTEXT: Items/114/description/
 Có thể dùng như mặt nạ.
 > END STRING
 
 > BEGIN STRING
 'More Hole Than Sock'-Sock
-> CONTEXT: Items/115/name/ < UNTRANSLATED
+> CONTEXT: Items/115/name/
 Vớ Lỗ Chỗ
 > END STRING
 
 > BEGIN STRING
 Some say it's 60% hole, but you say it's still 40% sock.
-> CONTEXT: Items/115/description/ < UNTRANSLATED
+> CONTEXT: Items/115/description/
 Số lỗ chiếm 60% nhưng vẫn còn 40% là vớ
 > END STRING
 
 > BEGIN STRING
 Rainbow Striped Sock
-> CONTEXT: Items/116/name/ < UNTRANSLATED
+> CONTEXT: Items/116/name/
 Vớ Sọc Cầu Vòng
 > END STRING
 
 > BEGIN STRING
 Comes with Skittles. Wear it with pride.
-> CONTEXT: Items/116/description/ < UNTRANSLATED
+> CONTEXT: Items/116/description/
 Tặng kèm Skittles. Tăng tự tin khi dùng.
 > END STRING
 
 > BEGIN STRING
 Rare Silk Sock
-> CONTEXT: Items/117/name/ < UNTRANSLATED
+> CONTEXT: Items/117/name/
 Vớ Lụa Quý
 > END STRING
 
 > BEGIN STRING
 Somehow smells of rich mahogany.
-> CONTEXT: Items/117/description/ < UNTRANSLATED
+> CONTEXT: Items/117/description/
 Có mùi gỗ gụ nồng nàn.
 > END STRING
 
 > BEGIN STRING
 Blue Mushrooms
-> CONTEXT: Items/119/name/ < UNTRANSLATED
+> CONTEXT: Items/119/name/
 Nấm Lam
 > END STRING
 
 > BEGIN STRING
 They're virtual mushrooms, and they're blue.
-> CONTEXT: Items/119/description/ < UNTRANSLATED
+> CONTEXT: Items/119/description/
 Cây nấm ảo và có màu lam.
 > END STRING
 
 > BEGIN STRING
 Note: Faye
-> CONTEXT: Items/129/name/ < UNTRANSLATED
-> CONTEXT: Items/146/name/ < UNTRANSLATED
+> CONTEXT: Items/129/name/
+> CONTEXT: Items/146/name/
 Ghi chú: Faye
 > END STRING
 
 > BEGIN STRING
 Not exactly "the girl across the balcony".
-> CONTEXT: Items/129/description/ < UNTRANSLATED
+> CONTEXT: Items/129/description/
 Không hẳn là "cô gái bên kia ban công".
 > END STRING
 
 > BEGIN STRING
 Note: Lemon Juice
-> CONTEXT: Items/130/name/ < UNTRANSLATED
+> CONTEXT: Items/130/name/
 Ghi chú: Nước Chanh
 > END STRING
 
 > BEGIN STRING
 Colin kept a jar of lemon juice that could be invisible ink.
-> CONTEXT: Items/130/description/ < UNTRANSLATED
+> CONTEXT: Items/130/description/
 Colin giữ một lọ nước cốt chanh có thể dùng làm mực vô hình.
 > END STRING
 
 > BEGIN STRING
 Note: Photo Album
-> CONTEXT: Items/131/name/ < UNTRANSLATED
+> CONTEXT: Items/131/name/
 Ghi Chú: Album Ảnh
 > END STRING
 
 > BEGIN STRING
 Barely any of the happy memories captured here were seen during the memory traversal.
-> CONTEXT: Items/131/description/ < UNTRANSLATED
+> CONTEXT: Items/131/description/
 Hầu như không có bất kỳ kỷ niệm vui nào được ghi lại ở đây được nhìn thấy trong quá trình di chuyển ký ức.
 > END STRING
 
 > BEGIN STRING
 Note: Drifted Apart
-> CONTEXT: Items/132/name/ < UNTRANSLATED
+> CONTEXT: Items/132/name/
 Ghi chú: Trôi dạt xa nhau
 > END STRING
 
 > BEGIN STRING
 Colin and Faye had drifted apart.
-> CONTEXT: Items/132/description/ < UNTRANSLATED
+> CONTEXT: Items/132/description/
 Colin và Faye đã dần xa cách nhau.
 > END STRING
 
 > BEGIN STRING
 Note: Closed Airport
-> CONTEXT: Items/133/name/ < UNTRANSLATED
+> CONTEXT: Items/133/name/
 Ghi chú: Sân bay đóng cửa
 > END STRING
 
 > BEGIN STRING
 The airport Colin had trained at closed down.
-> CONTEXT: Items/133/description/ < UNTRANSLATED
+> CONTEXT: Items/133/description/
 Sân bay nơi Colin từng đào tạo đã đóng cửa.
 > END STRING
 
 > BEGIN STRING
 Note: (Regret) Ink Attack
-> CONTEXT: Items/134/name/ < UNTRANSLATED
+> CONTEXT: Items/134/name/
 Gi Chú: (Tiếc nuối) mực tấn công
 > END STRING
 
 > BEGIN STRING
 Colin took a squid to the face on the first date.
-> CONTEXT: Items/134/description/ < UNTRANSLATED
+> CONTEXT: Items/134/description/
 Colin đã bị một con mực đập vào mặt trong buổi hẹn hò đầu tiên.
 > END STRING
 
 > BEGIN STRING
 Note: Meeting Sofia
-> CONTEXT: Items/135/name/ < UNTRANSLATED
+> CONTEXT: Items/135/name/
 Ghi chú: Gặp Sofia
 > END STRING
 
 > BEGIN STRING
 Colin and Sofia met at a community band rehearsal.
-> CONTEXT: Items/135/description/ < UNTRANSLATED
+> CONTEXT: Items/135/description/
 Colin và Sofia gặp nhau tại buổi tập ban nhạc cộng đồng.
 > END STRING
 
 > BEGIN STRING
 Note: Whacky Gal
-> CONTEXT: Items/136/name/ < UNTRANSLATED
+> CONTEXT: Items/136/name/
 Ghi chú: Whacky Gal
 > END STRING
 
 > BEGIN STRING
 Someone's a little cuckoo in the head...
-> CONTEXT: Items/136/description/ < UNTRANSLATED
+> CONTEXT: Items/136/description/
 Có ai đó là con chim cu nhỏ...
 > END STRING
 
 > BEGIN STRING
 Note: (Regret) Misspelt Proposal
-> CONTEXT: Items/137/name/ < UNTRANSLATED
+> CONTEXT: Items/137/name/
 Lưu ý: (Tiếc nuối) sai chính tả
 > END STRING
 
 > BEGIN STRING
 A messed up proposal message for the whole city to see.
-> CONTEXT: Items/137/description/ < UNTRANSLATED
+> CONTEXT: Items/137/description/
 Một thông điệp đề xuất lộn xộn để cả thành phố cùng xem.
 > END STRING
 
 > BEGIN STRING
 Note: (Regret) Sloppy Start
-> CONTEXT: Items/138/name/ < UNTRANSLATED
+> CONTEXT: Items/138/name/
 Ghi chuú: (Tiếc nuối) khởi đầu cẩu thả
 > END STRING
 
 > BEGIN STRING
 A sloppy start to the long-awaited honeymoon.
-> CONTEXT: Items/138/description/ < UNTRANSLATED
+> CONTEXT: Items/138/description/
 Một khởi đầu tệ hại cho tuần trăng mật được mong đợi từ lâu.
 > END STRING
 
 > BEGIN STRING
 Note: First Job
-> CONTEXT: Items/139/name/ < UNTRANSLATED
+> CONTEXT: Items/139/name/
 Ghi chú: công việc đầu tiên
 > END STRING
 
 > BEGIN STRING
 "Practically the Underboss."
-> CONTEXT: Items/139/description/ < UNTRANSLATED
+> CONTEXT: Items/139/description/
 "Thực ra là Phó Giám Đốc."
 > END STRING
 
 > BEGIN STRING
 Note: Captain Ernst
-> CONTEXT: Items/140/name/ < UNTRANSLATED
+> CONTEXT: Items/140/name/
 Ghi chú: Đại úy Ernst
 > END STRING
 
 > BEGIN STRING
 Award-Winning Moustache.
-> CONTEXT: Items/140/description/ < UNTRANSLATED
+> CONTEXT: Items/140/description/
 Bộ ria mép đạt giải.
 > END STRING
 
 > BEGIN STRING
 Note: Flying
-> CONTEXT: Items/141/name/ < UNTRANSLATED
+> CONTEXT: Items/141/name/
 Ghi chú: Bay
 > END STRING
 
 > BEGIN STRING
 Faye suggested for Colin to find an airport and look for a way.
-> CONTEXT: Items/141/description/ < UNTRANSLATED
+> CONTEXT: Items/141/description/
 Faye gợi ý Colin tìm một sân bay và tìm đường đi.
 > END STRING
 
 > BEGIN STRING
 Note: (Regret) Absence
-> CONTEXT: Items/142/name/ < UNTRANSLATED
+> CONTEXT: Items/142/name/
 Ghi chú: (Tiếc nuối) Vắng mặt
 > END STRING
 
 > BEGIN STRING
 Colin missed the birth of Asher.
-> CONTEXT: Items/142/description/ < UNTRANSLATED
+> CONTEXT: Items/142/description/
 Colin đã bỏ lỡ ngày ra đời của Asher.
 > END STRING
 
 > BEGIN STRING
 Note: Hibiscus Everywhere
-> CONTEXT: Items/143/name/ < UNTRANSLATED
+> CONTEXT: Items/143/name/
 Ghi chú: hoa dâm bụt
 > END STRING
 
 > BEGIN STRING
 There sure are a lot where Colin lives, strangely.
-> CONTEXT: Items/143/description/ < UNTRANSLATED
+> CONTEXT: Items/143/description/
 Mọc rất nhiều nơi Colin sống.
 > END STRING
 
 > BEGIN STRING
 Note: The Scale Theme
-> CONTEXT: Items/144/name/ < UNTRANSLATED
-> CONTEXT: Items/145/name/ < UNTRANSLATED
+> CONTEXT: Items/144/name/
+> CONTEXT: Items/145/name/
 Ghi chú: chủ đề thang âm
 > END STRING
 
 > BEGIN STRING
 A thing Faye played that accompanied Colin's scales.
-> CONTEXT: Items/144/description/ < UNTRANSLATED
+> CONTEXT: Items/144/description/
 Faye chơi cùng với thang âm của Colin.
 > END STRING
 
 > BEGIN STRING
 A thing Sofia played that accompanied Colin's scales.
-> CONTEXT: Items/145/description/ < UNTRANSLATED
+> CONTEXT: Items/145/description/
 Sofia chơi cùng với thang âm của Colin
 > END STRING
 
 > BEGIN STRING
 The girl across the balcony.
-> CONTEXT: Items/146/description/ < UNTRANSLATED
+> CONTEXT: Items/146/description/
 Cô gái bên kia ban công.
 > END STRING
 
 > BEGIN STRING
 Note: Cello
-> CONTEXT: Items/147/name/ < UNTRANSLATED
-> CONTEXT: Items/148/name/ < UNTRANSLATED
+> CONTEXT: Items/147/name/
+> CONTEXT: Items/148/name/
 Ghi chú: Đàn Cello
 > END STRING
 
 > BEGIN STRING
 Colin hated playing the cello as a kid.
-> CONTEXT: Items/147/description/ < UNTRANSLATED
+> CONTEXT: Items/147/description/
 Khi còn nhỏ, Colin ghét chơi đàn cello.
 > END STRING
 
 > BEGIN STRING
 Colin loved playing the cello as a kid.
-> CONTEXT: Items/148/description/ < UNTRANSLATED
+> CONTEXT: Items/148/description/
 Colin thích chơi đàn cello khi còn nhỏ.
 > END STRING
 
 > BEGIN STRING
 Note: (Regret) Bad Landing
-> CONTEXT: Items/149/name/ < UNTRANSLATED
+> CONTEXT: Items/149/name/
 Ghi chú: (Tiếc nuối) Hạ cánh không tốt
 > END STRING
 
 > BEGIN STRING
 The last landing of Colin's career didn't quite hit the mark.
-> CONTEXT: Items/149/description/ < UNTRANSLATED
+> CONTEXT: Items/149/description/
 Lần hạ cánh cuối cùng trong sự nghiệp của Colin đã không đạt được mục tiêu.
 > END STRING
 
 > BEGIN STRING
 Note: Anomaly
-> CONTEXT: Items/151/name/ < UNTRANSLATED
+> CONTEXT: Items/151/name/
 Ghi chú: Sự bất thường
 > END STRING
 
 > BEGIN STRING
 Something is interfering with the memory traversal...
-> CONTEXT: Items/151/description/ < UNTRANSLATED
+> CONTEXT: Items/151/description/
 Có thứ gì đó đang can thiệp vào quá trình duyệt bộ nhớ...
 > END STRING
 
 > BEGIN STRING
 Note: Ducks
-> CONTEXT: Items/152/name/ < UNTRANSLATED
+> CONTEXT: Items/152/name/
 Ghi ch1u: Vịt
 > END STRING
 
 > BEGIN STRING
 They quack things up.
-> CONTEXT: Items/152/description/ < UNTRANSLATED
+> CONTEXT: Items/152/description/
 Nó quạc quạc.
 > END STRING
 
 > BEGIN STRING
 Note: (Regret) No Grandkids
-> CONTEXT: Items/153/name/ < UNTRANSLATED
+> CONTEXT: Items/153/name/
 Ghi chú: (Tiếc nuối) Không có cháu
 > END STRING
 
 > BEGIN STRING
 Colin wanted grandkids.
-> CONTEXT: Items/153/description/ < UNTRANSLATED
+> CONTEXT: Items/153/description/
 Colin muốn có cháu.
 > END STRING
 
 > BEGIN STRING
 Note: Colin's Wish
-> CONTEXT: Items/154/name/ < UNTRANSLATED
+> CONTEXT: Items/154/name/
 Ghi chú: Điều Colin Ước
 > END STRING
 
 > BEGIN STRING
 To die happy while changing as little as possible.
-> CONTEXT: Items/154/description/ < UNTRANSLATED
+> CONTEXT: Items/154/description/
 Để ra đi trong hạnh phúc mà không phải thay đổi quá nhiều.
 > END STRING
 
 > BEGIN STRING
 Note: Unstable Copy
-> CONTEXT: Items/155/name/ < UNTRANSLATED
+> CONTEXT: Items/155/name/
 Ghi chú: Bản sao không ổn định
 > END STRING
 
 > BEGIN STRING
 There is an odd instance of Colin on the most recent memory's balcony.
-> CONTEXT: Items/155/description/ < UNTRANSLATED
+> CONTEXT: Items/155/description/
 Có một trường hợp kỳ lạ về Colin trên ban công của ký ức gần đây nhất.
 > END STRING
 
 > BEGIN STRING
 Note: Old Soccer Ball
-> CONTEXT: Items/156/name/ < UNTRANSLATED
+> CONTEXT: Items/156/name/
 Ghi chú: Quả bóng đã cũ
 > END STRING
 
 > BEGIN STRING
 Asher's old soccer ball is kept in the attic.
-> CONTEXT: Items/156/description/ < UNTRANSLATED
+> CONTEXT: Items/156/description/
 Quả bóng đá cũ của Asher được cất giữ trên gác xép.
 > END STRING
 
 > BEGIN STRING
 Note: Hibiscus
-> CONTEXT: Items/158/name/ < UNTRANSLATED
+> CONTEXT: Items/158/name/
 Ghi chú: Hoa dâm bụt
 > END STRING
 
 > BEGIN STRING
 The family kept a pot of hibiscus around the house.
-> CONTEXT: Items/158/description/ < UNTRANSLATED
+> CONTEXT: Items/158/description/
 Gia đình tôi luôn để một chậu hoa dâm bụt trong nhà.
 > END STRING
 
 > BEGIN STRING
 Note: Retired Pilot
-> CONTEXT: Items/159/name/ < UNTRANSLATED
+> CONTEXT: Items/159/name/
 Ghi chú: Phi công đã nghỉ hưu
 > END STRING
 
 > BEGIN STRING
 Colin used to work for the airlines as a commercial pilot.
-> CONTEXT: Items/159/description/ < UNTRANSLATED
+> CONTEXT: Items/159/description/
 Colin từng làm phi công thương mại cho một hãng hàng không.
 > END STRING
 
 > BEGIN STRING
 Note: Aged Cello
-> CONTEXT: Items/160/name/ < UNTRANSLATED
+> CONTEXT: Items/160/name/
 Ghi chú: Đàn Cello cổ
 > END STRING
 
 > BEGIN STRING
 Colin plays the cello. Apparently not well, though.
-> CONTEXT: Items/160/description/ < UNTRANSLATED
+> CONTEXT: Items/160/description/
 Colin chơi đàn cello. Nhưng không giỏi.
+> END STRING
+
+> BEGIN STRING
+Restores HP to one ally.
+> CONTEXT: Items/2/description/ < UNTRANSLATED
+> CONTEXT: Items/3/description/ < UNTRANSLATED
+> CONTEXT: Items/21/description/ < UNTRANSLATED
+> CONTEXT: Items/22/description/ < UNTRANSLATED
+> CONTEXT: Items/23/description/ < UNTRANSLATED
+> CONTEXT: Items/24/description/ < UNTRANSLATED
+> CONTEXT: Items/25/description/ < UNTRANSLATED
+> CONTEXT: Items/26/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Restores SP to one ally.
+> CONTEXT: Items/4/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Press 'Z' during gameplay to view active duty reminder.
+> CONTEXT: Items/14/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Connects wirelessly to the patient's local monitor for live supervision.
+> CONTEXT: Items/31/description/ < UNTRANSLATED
+
 > END STRING

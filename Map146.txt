@@ -2,11 +2,11 @@
 > BEGIN STRING
 \\ignr\\e[0]
 The windows seem to block the lights from inside.
-> CONTEXT: Map146/events/109/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map146/events/110/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/109/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/110/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/109/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/110/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/109/pages/0/2/Dialogue
+> CONTEXT: Map146/events/110/pages/0/2/Dialogue
+> CONTEXT: Map071/events/109/pages/0/2/Dialogue
+> CONTEXT: Map071/events/110/pages/0/2/Dialogue
+> CONTEXT: Map005/events/109/pages/0/2/Dialogue
+> CONTEXT: Map005/events/110/pages/0/2/Dialogue
 Cửa sổ đã chắn ánh sáng bên trong phòng.
 > END STRING

@@ -1,14 +1,14 @@
 ﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 When it rains, \\.it pours.
-> CONTEXT: Map093/events/16/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/49/Dialogue
 Khi trời \\.đổ mưa.
 > END STRING
 
 > BEGIN STRING
 Soon after you passed away. . . \\.\\.Your son was
 diagnosed with the same herediatory condition.
-> CONTEXT: Map093/events/16/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/60/Dialogue
 Chẳng bao lâu sau khi cô qua đời. . . \\.\\
 con trai cô đã được chẩn đoán mắc phải
 căn bệnh di truyền giống như cô.
@@ -17,7 +17,7 @@ căn bệnh di truyền giống như cô.
 > BEGIN STRING
 But perhaps it was a reminder of his limited
 time here,\\. memento mori. . .
-> CONTEXT: Map093/events/16/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/68/Dialogue
 Nhưng có lẽ đó lại là\\. một lời nhắc nhở về
 quãng thời gian hữu hạn của thằng bé trên
 thế gian này. . .
@@ -26,7 +26,7 @@ thế gian này. . .
 > BEGIN STRING
 . . . It stirred up something within him,\\.
 pushing him further, \\.as it did for you.
-> CONTEXT: Map093/events/16/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/80/Dialogue
 . . . Nó đánh thức một điều gì đó sâu thẳm
 trong thằng bé, \\.thôi thúc anh ấy tiến về
 phía trước, \\.giống như cô vậy.
@@ -35,55 +35,55 @@ phía trước, \\.giống như cô vậy.
 > BEGIN STRING
 And although he tried distancing himself from others,
 \\.knowing what might await those who get close. . .
-> CONTEXT: Map093/events/16/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/85/Dialogue
 Và mặc dù thằng bé cố gắng tạo khoảng cách với mọi người,
 \\.biết những gì có thể xảy ra với những người thân thiết.
 > END STRING
 
 > BEGIN STRING
 . . . He wasn't successful with everyone.
-> CONTEXT: Map093/events/16/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/91/Dialogue
 . . . Nhưng không hiệu quả với tất cả mọi người.
 > END STRING
 
 > BEGIN STRING
 Slowly, \\.from the very basics, \\.he worked
 and worked. . .
-> CONTEXT: Map093/events/16/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/98/Dialogue
 Bắt đầu từ \\.những điều cơ bản nhất, \\.
 thằng bé kiên trì nỗ lực không ngừng. . .
 > END STRING
 
 > BEGIN STRING
 . . . All the way past the research you left behind.
-> CONTEXT: Map093/events/16/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/104/Dialogue
 . . . Vượt xa cả những nghiên cứu mà cô đã để lại.
 > END STRING
 
 > BEGIN STRING
 But despite it all,\\. when the time came. . .
-> CONTEXT: Map093/events/16/pages/0/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/107/Dialogue
 Nhưng dù như thế, \\.khi thời khắc đó đến. . .
 > END STRING
 
 > BEGIN STRING
 . . . Again and again,\\. he was rejected by
 the foundation over your incident.
-> CONTEXT: Map093/events/16/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/111/Dialogue
 . . . Lần này đến lần khác, thằng bé bị
 cơ sở từ chối vì sự cố của cô.
 > END STRING
 
 > BEGIN STRING
 So instead,\\. he sought an alternate route.
-> CONTEXT: Map093/events/16/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/116/Dialogue
 Vì vậy, \\.thằng bé đã tìm kiếm một con đường khác.
 > END STRING
 
 > BEGIN STRING
 He pivoted to an external company that
 licensed the imperfected technology.
-> CONTEXT: Map093/events/16/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/122/Dialogue
 Thằng bé đã chuyển hướng hợp tác với một
 công ty bên ngoài, công ty này đã mua
 bản quyền công nghệ chưa hoàn thiện.
@@ -91,21 +91,21 @@ bản quyền công nghệ chưa hoàn thiện.
 
 > BEGIN STRING
 And rather quickly, \\.he made it into the ranks. . .
-> CONTEXT: Map093/events/16/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/129/Dialogue
 Chỉ trong một thời gian ngắn, \\.
 thằng bé đã lọt vào đội ngũ. . .
 > END STRING
 
 > BEGIN STRING
 . . . With some help from a friend.
-> CONTEXT: Map093/events/16/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/134/Dialogue
 . . . Cùng với vài sự giúp đỡ từ bạn bè.
 > END STRING
 
 > BEGIN STRING
 It was a company where he could still access
 the code and hardware of the technology. . .
-> CONTEXT: Map093/events/16/pages/0/141/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/141/Dialogue
 Đó là một công ty nơi thằng bé vẫn có thể. . .
 truy cập vào mã nguồn và phần cứng của công nghệ.
 > END STRING
@@ -113,7 +113,7 @@ truy cập vào mã nguồn và phần cứng của công nghệ.
 > BEGIN STRING
 . . . A company that used it to fulfill last wishes
 by implanting the memories of a new life.
-> CONTEXT: Map093/events/16/pages/0/143/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/0/143/Dialogue
 . . . Đó là một công ty sử dụng công nghệ này để
 hoàn thành những nguyện vọng cuối cùng, bằng các
 cấy ghép ký ức về một cuộc sống mới.
@@ -121,6 +121,6 @@ cấy ghép ký ức về một cuộc sống mới.
 
 > BEGIN STRING
 . . . A company called Sigmund Corp.
-> CONTEXT: Map093/events/16/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map093/events/16/pages/1/8/Dialogue
 . . . Một công ty có tên là Sigmund Corp.
 > END STRING

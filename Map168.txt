@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . So, \\.you've reached the end."
-> CONTEXT: Map168/events/3/pages/0/271/Dialogue < UNTRANSLATED
+> CONTEXT: Map168/events/3/pages/0/271/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 ". . . Vậy là \\.anh đã đến điểm cuối."
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 "Are you actually--. . . ?"
-> CONTEXT: Map168/events/3/pages/0/281/Dialogue < UNTRANSLATED
+> CONTEXT: Map168/events/3/pages/0/281/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 "Cô thực sự là--. . . ?"
 > END STRING
@@ -18,7 +18,7 @@
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "I know you have more questions, \\.but. . ."
-> CONTEXT: Map168/events/3/pages/0/378/Dialogue < UNTRANSLATED
+> CONTEXT: Map168/events/3/pages/0/378/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Tôi biết anh có nhiều câu muốn hỏi, \\.nhưng. . ."
 > END STRING
@@ -27,7 +27,7 @@
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . I have an urgent theory that
 needs your help testing."
-> CONTEXT: Map168/events/3/pages/0/385/Dialogue < UNTRANSLATED
+> CONTEXT: Map168/events/3/pages/0/385/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 ". . . Tôi có một giả thuyết rất
 quan trọng cần anh thử nghiệm."
@@ -36,7 +36,7 @@ quan trọng cần anh thử nghiệm."
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Lynri ]
 "Would you come back to the mansion with me?"
-> CONTEXT: Map168/events/3/pages/0/401/Dialogue < UNTRANSLATED
+> CONTEXT: Map168/events/3/pages/0/401/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Anh sẽ quay lại dinh thự cùng tôi chứ?"
 > END STRING
@@ -44,7 +44,7 @@ quan trọng cần anh thử nghiệm."
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ". . . I don't really have a choice,\\. do I?"
-> CONTEXT: Map168/events/3/pages/0/410/Dialogue < UNTRANSLATED
+> CONTEXT: Map168/events/3/pages/0/410/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ". . . Tôi đâu còn lựa chọn nào khác,\\. đúng chứ?"
 > END STRING

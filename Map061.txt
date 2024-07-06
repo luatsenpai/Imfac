@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Is this how we met. . . ? )
-> CONTEXT: Map061/events/11/pages/4/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/11/pages/4/1/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Vậy đây là cách chúng ta
 đã gặp nhau. . . ? )
@@ -11,7 +11,7 @@
 > BEGIN STRING
 \\ignr\\e[13]
 "That's it."
-> CONTEXT: Map061/events/12/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/59/Dialogue
 \\ignr\\e[13]
 "Đây rồi."
 > END STRING
@@ -19,7 +19,7 @@
 > BEGIN STRING
 \\ignr\\e[13]
 "I'm dropping out."
-> CONTEXT: Map061/events/12/pages/0/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/77/Dialogue
 \\ignr\\e[13]
 "Tìm ra rồi."
 > END STRING
@@ -27,7 +27,7 @@
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( I guess this place is no joke. )
-> CONTEXT: Map061/events/12/pages/0/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/173/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Có vẻ nơi này không phải dạng vừa đâu. )
 > END STRING
@@ -35,7 +35,7 @@
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( But come to think of it. . . )
-> CONTEXT: Map061/events/12/pages/0/183/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/183/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Nhưng mà nghĩ đi nghĩ lại
 thì. . . )
@@ -44,7 +44,7 @@ thì. . . )
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( . . . Why do I feel as if. . . )
-> CONTEXT: Map061/events/12/pages/0/196/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/196/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( . . . Sao mình cứ có cảm giác
 như thể là. . . )
@@ -54,7 +54,7 @@ như thể là. . . )
 \\ignr\\e[12]\\nm[ Quincy ]
 ( . . . As if I graduated from somewhere
 \\ijust like this\\i. . . )
-> CONTEXT: Map061/events/12/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/206/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( . . . Cứ như thể mình đã tốt nghiệp từ 
 một nơi\\i y hệt như thế này vậy\\i. . . )
@@ -63,7 +63,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ". . . What the pug."
-> CONTEXT: Map061/events/12/pages/0/283/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/283/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ". . . Chuyện gì thế này."
 > END STRING
@@ -71,7 +71,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "Excuse me. . ."
-> CONTEXT: Map061/events/12/pages/0/311/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/311/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Cho hỏi. . ."
 > END STRING
@@ -79,7 +79,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Is this seat free?"
-> CONTEXT: Map061/events/12/pages/0/322/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/322/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Chỗ này có ai ngồi chưa vậy?"
 > END STRING
@@ -87,7 +87,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Seems like it."
-> CONTEXT: Map061/events/12/pages/0/325/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/325/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Có vẻ chưa."
 > END STRING
@@ -95,7 +95,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Wait, \\.if this is supposed to be the past. . . )
-> CONTEXT: Map061/events/12/pages/0/467/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/467/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Khoan, \\.nêu đây thực sự là quá khứ. . . )
 > END STRING
@@ -103,7 +103,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( And. . .\\.\\. \\iMy\\i past too. . . )
-> CONTEXT: Map061/events/12/pages/0/474/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/474/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Và. . .\\.\\. quá khứ của \\imình\\i. . . )
 > END STRING
@@ -111,7 +111,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( . . . How come I don't remember this at all? )
-> CONTEXT: Map061/events/12/pages/0/488/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/488/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( . . . Tại sao mình không nhớ gì hết vậy? )
 > END STRING
@@ -119,7 +119,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( I mean, \\.this place is familiar and all,\\. but. . . )
-> CONTEXT: Map061/events/12/pages/0/502/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/502/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Dù \\.nơi này trông quen quen,\\. nhưng. . . )
 > END STRING
@@ -127,7 +127,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Hey-- \\.\\.Why is it getting darker. . . )
-> CONTEXT: Map061/events/12/pages/0/522/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/0/522/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Ê-- \\.\\.Sao nó bắt đầu trở nên tối sầm vậy. . . )
 > END STRING
@@ -135,7 +135,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Oh no. . ."
-> CONTEXT: Map061/events/12/pages/1/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/132/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Không. . ."
 > END STRING
@@ -143,7 +143,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "Whu--\\.whaat?"
-> CONTEXT: Map061/events/12/pages/1/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/163/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Cái--\\.cáiii gìii?"
 > END STRING
@@ -151,7 +151,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Is it really nighttime already?"
-> CONTEXT: Map061/events/12/pages/1/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/185/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Ơ đã tối rồi sao?"
 > END STRING
@@ -159,7 +159,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "Aww man. . . \\.guess so."
-> CONTEXT: Map061/events/12/pages/1/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/202/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Trời đất. . . \\.chắc là vậy rồi."
 > END STRING
@@ -167,7 +167,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "You dozed off too, \\.huh?"
-> CONTEXT: Map061/events/12/pages/1/235/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/235/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Cậu cũng ngủ gật \\.sao?"
 > END STRING
@@ -175,7 +175,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Yeah. . . \\.\\.I can't believe this."
-> CONTEXT: Map061/events/12/pages/1/240/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/240/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Ừm. . . \\.\\.không thể tin được."
 > END STRING
@@ -184,7 +184,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 \\ignr\\e[11]\\nm[ Lynri ]
 "This is the second time this week. . . \\.\\.
 It's going to mess up my sleep schedule."
-> CONTEXT: Map061/events/12/pages/1/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/254/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Đây là lần thứ hai trong tuần. . . \\.\\.
 Nó sẽ xáo trộn giờ giấc của tớ mất."
@@ -193,7 +193,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "You look a little burnt out. . ."
-> CONTEXT: Map061/events/12/pages/1/264/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/264/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Trông cậu có vẻ kiệt sức. . ."
 > END STRING
@@ -201,7 +201,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Yeah, well,\\. who isn't nowadays. . ."
-> CONTEXT: Map061/events/12/pages/1/272/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/272/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Ừ thì,\\. thời buổi này ai chẳng thế. . ."
 > END STRING
@@ -209,7 +209,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Actually. . ."
-> CONTEXT: Map061/events/12/pages/1/301/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/301/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "À mà. . ."
 > END STRING
@@ -217,7 +217,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . How did \\iyou\\i fall asleep like that?"
-> CONTEXT: Map061/events/12/pages/1/310/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/310/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Sao \\icậu\\i lại ngủ gục thế?"
 > END STRING
@@ -225,7 +225,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "I,\\. uh, \\.well. . ."
-> CONTEXT: Map061/events/12/pages/1/323/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/323/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Tớ,\\. uh, \\.ờm. . ."
 > END STRING
@@ -233,7 +233,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Jetlag."
-> CONTEXT: Map061/events/12/pages/1/334/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/334/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Do lệch múi giờ."
 > END STRING
@@ -241,7 +241,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Jetlag?"
-> CONTEXT: Map061/events/12/pages/1/340/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/340/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Lệch múi giờ?"
 > END STRING
@@ -250,7 +250,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 \\ignr\\e[14]\\nm[ Quincy ]
 "Yeah. . . \\.\\.I just came back from
 backpacking around the world."
-> CONTEXT: Map061/events/12/pages/1/345/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/345/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Ờm. . . \\.\\.tớ vừa đi du lịch
 bụi vòng quanh thế giới."
@@ -259,7 +259,7 @@ bụi vòng quanh thế giới."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Wow. . .\\.\\. Lucky."
-> CONTEXT: Map061/events/12/pages/1/358/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/358/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Quào. . .\\.\\. May mắn thế."
 > END STRING
@@ -267,7 +267,7 @@ bụi vòng quanh thế giới."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "Yeah. . ."
-> CONTEXT: Map061/events/12/pages/1/367/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/367/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Ờm. . ."
 > END STRING
@@ -275,7 +275,7 @@ bụi vòng quanh thế giới."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . But now I gotta catch up."
-> CONTEXT: Map061/events/12/pages/1/382/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/382/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Nên giờ tớ phải bắt kịp
 tiến độ đây."
@@ -284,7 +284,7 @@ tiến độ đây."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Wait, \\.you mean. . ."
-> CONTEXT: Map061/events/12/pages/1/389/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/389/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Khoan, \\.ý cậu là. . ."
 > END STRING
@@ -293,7 +293,7 @@ tiến độ đây."
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . You literally just took a trip in
 the middle of a semester?"
-> CONTEXT: Map061/events/12/pages/1/395/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/395/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Cậu vừa đi du lịch
 ngay giữa học kỳ luôn á?"
@@ -302,7 +302,7 @@ ngay giữa học kỳ luôn á?"
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Yup."
-> CONTEXT: Map061/events/12/pages/1/403/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/403/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Ừm."
 > END STRING
@@ -310,7 +310,7 @@ ngay giữa học kỳ luôn á?"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Why. . . ?"
-> CONTEXT: Map061/events/12/pages/1/421/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/421/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Tại sao. . . ?"
 > END STRING
@@ -319,7 +319,7 @@ ngay giữa học kỳ luôn á?"
 \\ignr\\e[11]\\nm[ Lynri ]
 "Alright. . . \\.Maybe I should go back
 to work while I'm still sane."
-> CONTEXT: Map061/events/12/pages/1/462/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/462/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Được rồi. . . \\.Có lẽ tớ phải quay
 lại nghiên cứu trong khi còn tỉnh táo."
@@ -329,7 +329,7 @@ lại nghiên cứu trong khi còn tỉnh táo."
 \\ignr\\e[14]\\nm[ Quincy ]
 "Me too. . . \\.\\.I got a bunch of
 essays to catch up on."
-> CONTEXT: Map061/events/12/pages/1/473/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/473/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Tớ cũng thế . . \\.\\.Tớ có cả đống
 luận văn phải làm đây này."
@@ -338,7 +338,7 @@ luận văn phải làm đây này."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Rough. \\.\\.What's your major?"
-> CONTEXT: Map061/events/12/pages/1/480/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/480/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Khổ thế. \\.\\.Cậu học ngành gì vậy?"
 > END STRING
@@ -346,7 +346,7 @@ luận văn phải làm đây này."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "I'm majoring in li. . . "
-> CONTEXT: Map061/events/12/pages/1/488/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/488/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Tớ học Li. . . "
 > END STRING
@@ -354,7 +354,7 @@ luận văn phải làm đây này."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Li. . . "
-> CONTEXT: Map061/events/12/pages/1/497/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/497/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Li. . . "
 > END STRING
@@ -362,7 +362,7 @@ luận văn phải làm đây này."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Liberal arts."
-> CONTEXT: Map061/events/12/pages/1/527/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/527/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Giáo dục khai phóng."
 > END STRING
@@ -377,7 +377,7 @@ luận văn phải làm đây này."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Liberal arts can be very useful!"
-> CONTEXT: Map061/events/12/pages/1/562/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/562/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Giáo dục khai phóng chắc rất hữu ích!"
 > END STRING
@@ -386,7 +386,7 @@ luận văn phải làm đây này."
 \\ignr\\e[14]\\nm[ Quincy ]
 "I didn't even say anything!
 \\.That was unprovoked!"
-> CONTEXT: Map061/events/12/pages/1/576/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/576/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Tớ chưa nói gì mà!
 \\.Sao cậu lại khẳng định thế!"
@@ -395,7 +395,7 @@ luận văn phải làm đây này."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Look, \\.I'm being sincere. . ."
-> CONTEXT: Map061/events/12/pages/1/585/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/585/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Ừm, \\.tớ nói thật lòng mà. . ."
 > END STRING
@@ -404,7 +404,7 @@ luận văn phải làm đây này."
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . I don't know why you guys
 get so much flak around here."
-> CONTEXT: Map061/events/12/pages/1/590/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/590/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Tớ không hiệu tại sao những
 người như cậu lại bị soi mói nhiều
@@ -414,7 +414,7 @@ người như cậu lại bị soi mói nhiều
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "Psh, \\.\\.what are \\iyou\\i majoring in?"
-> CONTEXT: Map061/events/12/pages/1/600/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/600/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Xì, \\.\\.thế \\icậu\\i học ngành gì?"
 > END STRING
@@ -422,7 +422,7 @@ người như cậu lại bị soi mói nhiều
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "I'm in ne. . . "
-> CONTEXT: Map061/events/12/pages/1/607/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/607/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Tớ học kinh tế. . . "
 > END STRING
@@ -430,7 +430,7 @@ người như cậu lại bị soi mói nhiều
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . In neu. . . "
-> CONTEXT: Map061/events/12/pages/1/620/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/620/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Kinh tế Quốc dân. . . "
 > END STRING
@@ -438,7 +438,7 @@ người như cậu lại bị soi mói nhiều
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Well, \\.it's a little embarrassing. . ."
-> CONTEXT: Map061/events/12/pages/1/635/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/635/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Ừm, \\.hơi ngại một chút nhưng. . ."
 > END STRING
@@ -446,7 +446,7 @@ người như cậu lại bị soi mói nhiều
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "It's okay, \\.go on. . . \\.\\.What is it?"
-> CONTEXT: Map061/events/12/pages/1/643/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/643/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Không sao, \\.nào. . . \\.\\.Nói đi?"
 > END STRING
@@ -454,7 +454,7 @@ người như cậu lại bị soi mói nhiều
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Neuroscience. \\.\\.Doctorate, \\.technically."
-> CONTEXT: Map061/events/12/pages/1/652/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/652/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Chính xác là\\.\\.Tiến Sĩ \\.Thần Kinh Học."
 > END STRING
@@ -462,7 +462,7 @@ người như cậu lại bị soi mói nhiều
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . You bastard."
-> CONTEXT: Map061/events/12/pages/1/669/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/669/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 ". . . Ghê vậy sao."
 > END STRING
@@ -471,7 +471,7 @@ người như cậu lại bị soi mói nhiều
 \\ignr\\e[14]\\nm[ Quincy ]
 "So what, \\.are you working on
 becoming a doctor?"
-> CONTEXT: Map061/events/12/pages/1/706/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/706/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Vậy sao rồi, \\.câu đang ôn
 tập để trở thành tiến sĩ à?"
@@ -480,7 +480,7 @@ tập để trở thành tiến sĩ à?"
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Well, \\.no. . . \\.I'm more into the research side."
-> CONTEXT: Map061/events/12/pages/1/713/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/713/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Ờm, \\.không. . . \\.Tớ thích nghiên cứu hơn."
 > END STRING
@@ -489,7 +489,7 @@ tập để trở thành tiến sĩ à?"
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . My paper is on the synaptic modification
 and encoding of memories."
-> CONTEXT: Map061/events/12/pages/1/727/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/727/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Bài nghiên cứu của tớ về sự biến đổi
 synap và mã hóa ký ức."
@@ -498,7 +498,7 @@ synap và mã hóa ký ức."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . What's wrong?"
-> CONTEXT: Map061/events/12/pages/1/767/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/767/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Có gì sao?"
 > END STRING
@@ -506,7 +506,7 @@ synap và mã hóa ký ức."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "It's nothing."
-> CONTEXT: Map061/events/12/pages/1/782/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/782/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Không có gì."
 > END STRING
@@ -515,7 +515,7 @@ synap và mã hóa ký ức."
 \\ignr\\e[14]\\nm[ Quincy ]
 "Well, \\.it's gonna be a long night. . .\\.\\.
 I'm gonna grab some coffee from across the hall."
-> CONTEXT: Map061/events/12/pages/1/824/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/824/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Chà, \\.xem ra đêm nay sẽ dài đây. . .\\.\\.
 Tớ ra hành lang mua cà phê đây."
@@ -524,7 +524,7 @@ Tớ ra hành lang mua cà phê đây."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "You want one too?"
-> CONTEXT: Map061/events/12/pages/1/839/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/839/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Cậu có muốn uống luôn không?"
 > END STRING
@@ -532,7 +532,7 @@ Tớ ra hành lang mua cà phê đây."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Sure. . . \\.\\.Thanks."
-> CONTEXT: Map061/events/12/pages/1/847/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/847/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Chắc rồi. . . \\.\\.Cảm ơn nhiều."
 > END STRING
@@ -540,7 +540,7 @@ Tớ ra hành lang mua cà phê đây."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
 "My name's Quincy, \\.by the way."
-> CONTEXT: Map061/events/12/pages/1/876/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/876/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
 "Nhân tiện, \\.tớ tên Quincy."
 > END STRING
@@ -548,7 +548,7 @@ Tớ ra hành lang mua cà phê đây."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . I'm Lynri."
-> CONTEXT: Map061/events/12/pages/1/880/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/880/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Tớ là Lynri."
 > END STRING
@@ -557,7 +557,7 @@ Tớ ra hành lang mua cà phê đây."
 \\ignr\\e[12]\\nm[ Quincy ]
 ( We knew each other. . . ?\\.
 \\.But I don't recall any of it. . . )
-> CONTEXT: Map061/events/12/pages/1/971/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/971/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Chúng ta từng quen nhau ư. . . ?\\.
 \\.Nhưng sao mình không nhớ gì thế. . . )

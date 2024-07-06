@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 "Wow, \\.you sure read a lot as a kid."
-> CONTEXT: Map125/events/5/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/26/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 "Quào, \\.chắc hồi bé em đọc
 rất nhiều sách nhỉ."
@@ -11,7 +11,7 @@ rất nhiều sách nhỉ."
 > BEGIN STRING
 \\ignr\\e[13]\\nm[ Lynri ]
 "Yeah. . . \\.\\.I loved to."
-> CONTEXT: Map125/events/5/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/33/Dialogue
 \\ignr\\e[13]\\nm[ Lynri ]
 "Ừm. . . \\.\\.Em thích chúng."
 > END STRING
@@ -20,7 +20,7 @@ rất nhiều sách nhỉ."
 \\ignr\\e[13]\\nm[ Lynri ]
 ". . . It made me feel like I lived many
 different lifetimes."
-> CONTEXT: Map125/events/5/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/38/Dialogue
 \\ignr\\e[13]\\nm[ Lynri ]
 ". . . Nó khiến em cảm giác như đang
 sống nhiều cuộc đời khác nhau."
@@ -30,7 +30,7 @@ sống nhiều cuộc đời khác nhau."
 \\ignr\\e[12]\\nm[ Quincy ]
 "It's weird how I can imagine you saying
 that as a kid with a straight face."
-> CONTEXT: Map125/events/5/pages/0/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/58/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 "Anh không thể tượng tượng được gương mặt
 em khi thốt ra câu đó lúc em còn nhỏ."
@@ -46,7 +46,7 @@ em khi thốt ra câu đó lúc em còn nhỏ."
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 "\\iThe Little Prince\\i. . . ?"
-> CONTEXT: Map125/events/5/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/96/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 "\\iHoàng Tử Bé\\i. . . ?"
 > END STRING
@@ -55,7 +55,7 @@ em khi thốt ra câu đó lúc em còn nhỏ."
 \\ignr\\e[13]\\nm[ Lynri ]
 "Yeah. . .\\. My dad gave this to me
 so many years ago."
-> CONTEXT: Map125/events/5/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/104/Dialogue
 \\ignr\\e[13]\\nm[ Lynri ]
 "Ừm. . .\\. Bố em đã tặng nó
 cho em từ rất kâu rồi."
@@ -65,7 +65,7 @@ cho em từ rất kâu rồi."
 \\ignr\\e[13]\\nm[ Lynri ]
 ". . . It's strange how, \\.as the years went by,
 \\.its story meant something different to me."
-> CONTEXT: Map125/events/5/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/117/Dialogue
 \\ignr\\e[13]\\nm[ Lynri ]
 ". . . Bẵng đi một thời gian, \\.em chợt nhận ra 
 \\.câu chuyện ấy mang ý nghĩa sâu sắc hơn với mình."
@@ -75,7 +75,7 @@ cho em từ rất kâu rồi."
 \\ignr\\e[12]\\nm[ Quincy ]
 "Hey, let's bring it back. . . \\.\\.
 Maybe we can read it to Tobi one day."
-> CONTEXT: Map125/events/5/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/5/pages/0/134/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 "Này, hãy giử nó lại đi. . . \\.\\.
 Có lẽ một ngày nó đó chúng ta sẽ
@@ -106,7 +106,7 @@ Có lẽ một ngày nó đó chúng ta sẽ
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "Yeah, \\.I'm okay. . ."
-> CONTEXT: Map125/events/17/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/17/pages/0/45/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Ừm, \\.em vẫn ổn. . ."
 > END STRING
@@ -114,7 +114,7 @@ Có lẽ một ngày nó đó chúng ta sẽ
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Lynri ]
 "I'm just. . ."
-> CONTEXT: Map125/events/17/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map125/events/17/pages/0/53/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Em chỉ. . ."
 > END STRING

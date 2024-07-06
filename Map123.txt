@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[30]\\nm[ Lynri ]
 "I'm home!"
-> CONTEXT: Map123/events/41/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/41/pages/0/5/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
 "Em về rồi!"
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[31]\\nm[ Quincy ]
 "Hey!\\. How was work?"
-> CONTEXT: Map123/events/41/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/41/pages/0/14/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
 "Nè!\\. Công việc thế nào rồi?"
 > END STRING
@@ -19,7 +19,7 @@
 \\ignr\\e[30]\\nm[ Lynri ]
 "Not bad for a first week. . .\\.
 I think I'm getting a hang of it."
-> CONTEXT: Map123/events/41/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/41/pages/0/17/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
 "Tuần đầu tiên cũng không tệ. . .\\.
 Em nghĩ em sắp thích nghi rồi."
@@ -28,7 +28,7 @@ Em nghĩ em sắp thích nghi rồi."
 > BEGIN STRING
 \\ignr\\e[30]\\nm[ Lynri ]
 "What'cha making there?"
-> CONTEXT: Map123/events/41/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/41/pages/0/23/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
 "Anh đang làm gì đó?"
 > END STRING
@@ -36,7 +36,7 @@ Em nghĩ em sắp thích nghi rồi."
 > BEGIN STRING
 \\ignr\\e[31]\\nm[ Quincy ]
 "Oh, \\.just you wait. . ."
-> CONTEXT: Map123/events/41/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/41/pages/0/28/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
 "À, \\.em cứ đợi đi. . ."
 > END STRING
@@ -45,7 +45,7 @@ Em nghĩ em sắp thích nghi rồi."
 \\ignr\\e[31]\\nm[ Quincy ]
 ". . . For the most amazing
 carrot cake you'll ever eat!"
-> CONTEXT: Map123/events/41/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/41/pages/0/37/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
 ". . . Để làm món bánh cà rốt
 ngon nhất mà em từng ăn!"
@@ -55,7 +55,7 @@ ngon nhất mà em từng ăn!"
 \\ignr\\e[29]\\nm[ Lynri ]
 "Thank you again for having me here. . .
 \\.\\.I'm learning so much already."
-> CONTEXT: Map123/events/43/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/43/pages/2/12/Dialogue
 \\ignr\\e[29]\\nm[ Lynri ]
 "Cảm ơn ông đã mời tơi tới đây. . .
 \\.\\.Tôi đã học được rất nhiều thứ."
@@ -64,7 +64,7 @@ ngon nhất mà em từng ăn!"
 > BEGIN STRING
 \\ignr\\e[28]\\nm[ Dr. Yu ]
 "Fitting in well, \\.I take it?"
-> CONTEXT: Map123/events/43/pages/2/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/43/pages/2/15/Dialogue
 \\ignr\\e[28]\\nm[ Ts. Yu ]
 "Tôi đoán là \\.cô hòa nhập
 cũng tốt nhỉ?"
@@ -74,7 +74,7 @@ cũng tốt nhỉ?"
 \\ignr\\e[28]\\nm[ Dr. Yu ]
 "We'll introduce you to the main project on Monday.
 \\.\\.Do keep the confidentiality in mind."
-> CONTEXT: Map123/events/43/pages/2/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/43/pages/2/27/Dialogue
 \\ignr\\e[28]\\nm[ Ts. Yu ]
 "Thứ Hai chúng tôi sẽ giới thiệu cho cô
 dự án chính.\\.\\. Nhớ giữ bí mật nhé."
@@ -83,7 +83,7 @@ dự án chính.\\.\\. Nhớ giữ bí mật nhé."
 > BEGIN STRING
 \\ignr\\e[29]\\nm[ Lynri ]
 "I'll be ready!"
-> CONTEXT: Map123/events/43/pages/2/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/43/pages/2/33/Dialogue
 \\ignr\\e[29]\\nm[ Lynri ]
 "Tôi đã sẵn sàng!"
 > END STRING
@@ -91,7 +91,7 @@ dự án chính.\\.\\. Nhớ giữ bí mật nhé."
 > BEGIN STRING
 \\ignr\\e[60]\\nm[ Dr. Clegg ]
 "Well, \\.I'm pretty sure I found the issue. . ."
-> CONTEXT: Map123/events/63/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/63/pages/2/7/Dialogue
 \\ignr\\e[60]\\nm[ Ts. Clegg ]
 "À, \\.Tôi chắc chắn đã tìm ra vấn đề rồi. . ."
 > END STRING
@@ -99,7 +99,7 @@ dự án chính.\\.\\. Nhớ giữ bí mật nhé."
 > BEGIN STRING
 \\ignr\\e[60]\\nm[ Dr. Clegg ]
 "Mind staying a bit longer to run some tests?"
-> CONTEXT: Map123/events/63/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/63/pages/2/9/Dialogue
 \\ignr\\e[60]\\nm[ Ts. Clegg ]
 "Cô có phiền ở lại thêm một chút để chạy
 thử nghiệm không?"
@@ -108,7 +108,7 @@ thử nghiệm không?"
 > BEGIN STRING
 \\ignr\\e[59]\\nm[ Lynri ]
 "Sure, \\.I'm here to help."
-> CONTEXT: Map123/events/63/pages/2/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/63/pages/2/21/Dialogue
 \\ignr\\e[59]\\nm[ Lynri ]
 "Chắc rồi, \\.tôi đến đây để giúp."
 > END STRING
@@ -116,7 +116,7 @@ thử nghiệm không?"
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Lynri ]
 "Hey. . . \\.\\.Sorry I'm back late."
-> CONTEXT: Map123/events/69/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/69/pages/0/5/Dialogue
 \\ignr\\e[68]\\nm[ Lynri ]
 "Này. . . \\.\\.Xin lỗi vì em đã về trễ."
 > END STRING
@@ -124,7 +124,7 @@ thử nghiệm không?"
 > BEGIN STRING
 \\ignr\\e[72]\\nm[ Quincy ]
 "Everything okay?"
-> CONTEXT: Map123/events/69/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/69/pages/0/8/Dialogue
 \\ignr\\e[72]\\nm[ Quincy ]
 "Mọi thứ vẫn ổn chứ?"
 > END STRING
@@ -133,7 +133,7 @@ thử nghiệm không?"
 \\ignr\\e[68]\\nm[ Lynri ]
 "Yeah. \\.There are always issues
 to fix,\\. but. . .\\. we'll get through it."
-> CONTEXT: Map123/events/69/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/69/pages/0/12/Dialogue
 \\ignr\\e[68]\\nm[ Lynri ]
 "Ừm. \\.Luôn luôn có những vấn đề cần khắc phục,
 \\.nhưng. . .\\. chúng ta sẽ vượt qua thôi."
@@ -142,7 +142,7 @@ to fix,\\. but. . .\\. we'll get through it."
 > BEGIN STRING
 \\ignr\\e[72]\\nm[ Quincy ]
 "Of course.\\.\\. They got you!"
-> CONTEXT: Map123/events/69/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/69/pages/0/17/Dialogue
 \\ignr\\e[72]\\nm[ Quincy ]
 "Tất nhiên.\\.\\. Họ đã có em rồi mà!"
 > END STRING
@@ -150,7 +150,7 @@ to fix,\\. but. . .\\. we'll get through it."
 > BEGIN STRING
 \\ignr\\e[72]\\nm[ Quincy ]
 "I'll go heat up dinner."
-> CONTEXT: Map123/events/69/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/69/pages/0/26/Dialogue
 \\ignr\\e[72]\\nm[ Quincy ]
 "Anh đã hâm nóng đồ ăn rồi."
 > END STRING
@@ -159,7 +159,7 @@ to fix,\\. but. . .\\. we'll get through it."
 \\ignr\\e[113]\\nm[ Dr. Yu ]
 "The interface module is still behind schedule,
 \\.\\.although we are making progress."
-> CONTEXT: Map123/events/111/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/111/pages/2/10/Dialogue
 \\ignr\\e[113]\\nm[ Ts. Yu ]
 "Module chuyễn giao vẫn bị chậm tiến độ,
 \\.\\.mặc dù chúng ta đang có những tiến triển"
@@ -169,7 +169,7 @@ to fix,\\. but. . .\\. we'll get through it."
 \\ignr\\e[114]\\nm[ Dr. Haynes ]
 "But the investors are expecting a demo. . .\\.
 \\.Are you sure it'll be ready by the next visit?"
-> CONTEXT: Map123/events/111/pages/2/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/111/pages/2/18/Dialogue
 \\ignr\\e[114]\\nm[ Ts. Haynes ]
 "Nhưng các nhà đầu tư đang mong đợi một bản demo.. . .\\.
 \\.Cô chắc là nó sẽ sẵn sàng trước khi ra mắt?"
@@ -178,7 +178,7 @@ to fix,\\. but. . .\\. we'll get through it."
 > BEGIN STRING
 \\ignr\\e[112]\\nm[ Lynri ]
 "Yeah. . .\\.\\. We'll make it."
-> CONTEXT: Map123/events/111/pages/2/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/111/pages/2/25/Dialogue
 \\ignr\\e[112]\\nm[ Lynri ]
 "Ừm. . .\\.\\. Chúng ta sẽ làm được."
 > END STRING
@@ -187,7 +187,7 @@ to fix,\\. but. . .\\. we'll get through it."
 \\ignr\\e[113]\\nm[ Dr. Yu ]
 "By the way. . . \\.\\.Have you thought more
 about the residence offer,\\. Lynri?"
-> CONTEXT: Map123/events/111/pages/2/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/111/pages/2/27/Dialogue
 \\ignr\\e[113]\\nm[ Ts. Yu ]
 "À mà này. . . \\.\\.Cô đã suy nghĩ
 thêm về lời đề nghị đó chưa,\\. Lynri?"
@@ -197,7 +197,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 \\ignr\\e[113]\\nm[ Dr. Yu ]
 "We even have a vacant room ready for you. . .
 \\.Everything would surely be easier that way."
-> CONTEXT: Map123/events/111/pages/2/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/111/pages/2/30/Dialogue
 \\ignr\\e[113]\\nm[ Ts. Yu ]
 "Chúng tôi cũng đã bố trí chỗ trống cho cô. . .
 \\.Mọi chuyện sẽ ổn thôi."
@@ -206,7 +206,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 > BEGIN STRING
 \\ignr\\e[108]\\nm[ Lynri ]
 "Sorry I'm so late again, \\.I had to--. . .
-> CONTEXT: Map123/events/117/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/117/pages/0/4/Dialogue
 \\ignr\\e[108]\\nm[ Lynri ]
 "Xin lỗi em lại về trể, \\.em phải--. . .
 > END STRING
@@ -214,7 +214,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 > BEGIN STRING
 \\ignr\\e[126]\\nm[ Lynri ]
 "Shoot, \\.I forgot it was today. . ."
-> CONTEXT: Map123/events/129/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/129/pages/0/25/Dialogue
 \\ignr\\e[126]\\nm[ Lynri ]
 "Ối, \\.mình quên mất hôm nay là ngày đó. . ."
 > END STRING
@@ -223,7 +223,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 \\ignr\\e[122]\\nm[ Louie ]
 "Well, \\.regulations be damned,
 \\.\\.but progress is progress."
-> CONTEXT: Map123/events/131/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/131/pages/2/10/Dialogue
 \\ignr\\e[122]\\nm[ Louie ]
 "Ừm, \\.mấy hạn chế pháp lý chết tiệt,
 \\.\\.tiến bộ là tiến bộ."
@@ -232,7 +232,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 > BEGIN STRING
 \\ignr\\e[122]\\nm[ Louie ]
 "Still. . ."
-> CONTEXT: Map123/events/131/pages/2/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/131/pages/2/13/Dialogue
 \\ignr\\e[122]\\nm[ Louie ]
 "Chỉ là. . ."
 > END STRING
@@ -241,7 +241,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 \\ignr\\e[122]\\nm[ Louie ]
 ". . . You sure you want to
 demo this next week?"
-> CONTEXT: Map123/events/131/pages/2/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/131/pages/2/15/Dialogue
 \\ignr\\e[122]\\nm[ Louie ]
 ". . . Cô chắc cô muốn tới
 buổi demo vào tuần tới?"
@@ -250,7 +250,7 @@ buổi demo vào tuần tới?"
 > BEGIN STRING
 \\ignr\\e[121]\\nm[ Lynri ]
 "Yes. . .\\.\\. It's an honor, \\.really."
-> CONTEXT: Map123/events/131/pages/2/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/131/pages/2/20/Dialogue
 \\ignr\\e[121]\\nm[ Lynri ]
 "Vâng. . .\\.\\. Đó là vinh dự \\.của tôi."
 > END STRING
@@ -259,7 +259,7 @@ buổi demo vào tuần tới?"
 \\ignr\\e[121]\\nm[ Lynri ]
 "It's come a long way. . .\\.\\.
 I'm glad I could be a part of this."
-> CONTEXT: Map123/events/131/pages/2/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map123/events/131/pages/2/22/Dialogue
 \\ignr\\e[121]\\nm[ Lynri ]
 "Nó đã đi được một chặng đường dài rồi. . .\\.\\.
 Tôi rất vui vì đã góp phần cho dự án này."

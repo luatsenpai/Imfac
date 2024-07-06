@@ -1,0 +1,9 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'pano_eiffel'
+> CONTEXT: Map104/events/8/pages/1/19/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map078/events/2/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map078/events/2/pages/1/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map078/events/2/pages/2/1/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING

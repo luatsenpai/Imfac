@@ -1,0 +1,90 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+065-SWING04
+> CONTEXT: System/cancel_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+010-System10
+> CONTEXT: System/escape_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+001-Victory01
+> CONTEXT: System/battle_end_me/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+006-System06
+> CONTEXT: System/shop_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Item
+> CONTEXT: System/words/item/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+033-Switch02
+> CONTEXT: System/decision_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+009-System09
+> CONTEXT: System/battle_start_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+005-System05
+> CONTEXT: System/equip_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+012-System12
+> CONTEXT: System/enemy_collapse_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+032-Switch01
+> CONTEXT: System/cursor_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+quick whoosh
+> CONTEXT: System/load_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+057-Wrong01
+> CONTEXT: System/buzzer_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+011-System11
+> CONTEXT: System/actor_collapse_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+005-Defeat01
+> CONTEXT: System/gameover_me/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+046-Book01
+> CONTEXT: System/save_se/name/ < UNTRANSLATED
+
+> END STRING

@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "The good ol' mattress again. . ."
-> CONTEXT: Map075/events/6/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/6/pages/0/2/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Lại là chiếc nệm cũ quen thuộc đây. . ."
 > END STRING
@@ -11,7 +11,7 @@
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Why does it feel like going
 from one dorm to another?"
-> CONTEXT: Map075/events/6/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/6/pages/0/9/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Tại sao lại có cảm giác như
 chẳng khác gì ký túc xá cũ vậy?"
@@ -20,7 +20,7 @@ chẳng khác gì ký túc xá cũ vậy?"
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Lynri ]
 "Hm,\\. it's kind of cozy if you ask me."
-> CONTEXT: Map075/events/6/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/6/pages/0/16/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
 "Hm,\\. Tuy không sang trọng nhưng
 cũng có vẻ ấm cúng."
@@ -29,7 +29,7 @@ cũng có vẻ ấm cúng."
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Lynri ]
 "Makes me think of camping."
-> CONTEXT: Map075/events/6/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/6/pages/0/29/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
 "Nó khiến em nhớ về những
 chuyến cắm trại."
@@ -39,7 +39,7 @@ chuyến cắm trại."
 \\ignr\\e[4]\\nm[ Quincy ]
 "You've. . .\\. never really gone
 camping before, \\.have you?"
-> CONTEXT: Map075/events/6/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/6/pages/0/31/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Em. . .\\. em chưa từng cắm
 trại bao giờ, \\.đúng chứ?"
@@ -48,7 +48,7 @@ trại bao giờ, \\.đúng chứ?"
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Lynri ]
 ". . . Not exactly."
-> CONTEXT: Map075/events/6/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/6/pages/0/39/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
 ". . . Không hẳn."
 > END STRING

@@ -1,0 +1,43 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'Pr_BG1'
+> CONTEXT: Map037/events/1/pages/0/9/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map037/events/3/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Pr_Pano'
+> CONTEXT: Map037/events/1/pages/0/19/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Pr_Jelly1'
+> CONTEXT: Map037/events/2/pages/0/0/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Pr_Jelly2'
+> CONTEXT: Map037/events/2/pages/0/12/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Pr_Jelly3'
+> CONTEXT: Map037/events/2/pages/0/24/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Pr_Jelly4'
+> CONTEXT: Map037/events/2/pages/0/36/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Pr_BG2'
+> CONTEXT: Map037/events/3/pages/0/13/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING

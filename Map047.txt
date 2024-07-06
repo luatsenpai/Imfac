@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( It's that light again. . . )
-> CONTEXT: Map047/events/1/pages/1/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/1/155/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Lại là ánh sáng đó nữa. . . )
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . Lynri? \\.\\.Is that you?"
-> CONTEXT: Map047/events/1/pages/1/166/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/1/166/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . Lynri? \\.\\.Là cô sao?"
 > END STRING
@@ -18,7 +18,7 @@
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "This is nice, \\.dad. . ."
-> CONTEXT: Map047/events/1/pages/3/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/3/58/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Đẹp quá \\.bố ơi. . ."
 > END STRING
@@ -27,7 +27,7 @@
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . I wish we could stay up late
 and come here every week."
-> CONTEXT: Map047/events/1/pages/3/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/3/73/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Con ước chúng ta có thể
 thức khuya và đến đây mỗi tuần."
@@ -37,7 +37,7 @@ thức khuya và đến đây mỗi tuần."
 \\ignr\\e[67]\\nm[ Lynri ]
 "But. . . \\.dad? \\.\\.Could I ask
 you something?"
-> CONTEXT: Map047/events/1/pages/3/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/3/105/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Nhưng. . . \\.bố ơi? \\.\\.Con
 có thể hỏi bố một câu không?"
@@ -46,7 +46,7 @@ có thể hỏi bố một câu không?"
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Dad ]
 "Yes, \\.Lyn?"
-> CONTEXT: Map047/events/1/pages/3/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/3/118/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
 "Ừm, \\.Lyn?"
 > END STRING
@@ -54,7 +54,7 @@ có thể hỏi bố một câu không?"
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Why was mom crying?"
-> CONTEXT: Map047/events/1/pages/3/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/3/136/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Tại sao mẹ lại khóc ạ?"
 > END STRING
@@ -62,7 +62,7 @@ có thể hỏi bố một câu không?"
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( I don't want to go back. . . )
-> CONTEXT: Map047/events/124/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/124/pages/0/11/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Con không muốn về. . . )
 > END STRING
@@ -71,7 +71,7 @@ có thể hỏi bố một câu không?"
 \\ignr\\e[67]\\nm[ Lynri ]
 "It says here that it should be just
 a bit to the west,\\. but. . ."
-> CONTEXT: Map047/events/126/pages/1/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/28/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Trong đây chỉ nói nó hơi chếch
 về phía tây một chút,\\. nhưng. . ."
@@ -81,7 +81,7 @@ về phía tây một chút,\\. nhưng. . ."
 \\ignr\\e[67]\\nm[ Lynri ]
 "There are just so many of them. . .
 \\.\\.How can you track one down?"
-> CONTEXT: Map047/events/126/pages/1/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/42/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Chúng có nhiều như thế. . .
 \\.\\.Làm sao bố tìm ra ạ?"
@@ -90,7 +90,7 @@ về phía tây một chút,\\. nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Dad ]
 "Hmm. . . \\.I think I found it!"
-> CONTEXT: Map047/events/126/pages/1/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/48/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
 "Hmm. . . \\.bố nghĩ bố đã tìm ra nó!"
 > END STRING
@@ -98,7 +98,7 @@ về phía tây một chút,\\. nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "You did?! \\.\\.I wanna see!!"
-> CONTEXT: Map047/events/126/pages/1/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/54/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Bố tìm ra rồi ư?! \\.\\.Con muốn xem!!"
 > END STRING
@@ -106,7 +106,7 @@ về phía tây một chút,\\. nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "Wow,\\. I can't believe it. . ."
-> CONTEXT: Map047/events/126/pages/1/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/81/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Wow,\\. không thể tin được. . ."
 > END STRING
@@ -114,7 +114,7 @@ về phía tây một chút,\\. nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "It really does look like the pictures in the book. . ."
-> CONTEXT: Map047/events/126/pages/1/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/89/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Nó thục sự giống bức hình trong sách này. . ."
 > END STRING
@@ -122,7 +122,7 @@ về phía tây một chút,\\. nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Dad ]
 "Hey, \\.didn't I tell ya?"
-> CONTEXT: Map047/events/126/pages/1/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/96/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
 "Này, \\.bố vẫn chưa nói
 với con nhỉ?"
@@ -131,7 +131,7 @@ với con nhỉ?"
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Dad ]
 "You name it, \\.and I'll find it!"
-> CONTEXT: Map047/events/126/pages/1/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/109/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
 "Con đọc tên nó, \\.và bố sẽ tìm nó!"
 > END STRING
@@ -139,7 +139,7 @@ với con nhỉ?"
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . What if they don't have a name?"
-> CONTEXT: Map047/events/126/pages/1/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/114/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Vậy nếu chúng không có tên thì sao ạ?"
 > END STRING
@@ -148,7 +148,7 @@ với con nhỉ?"
 \\ignr\\e[67]\\nm[ Lynri ]
 "All those stars. . .\\.\\. They don't all have
 names yet,\\. do they?"
-> CONTEXT: Map047/events/126/pages/1/133/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/133/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Toàn bộ ngôi sao. . .\\.\\. Chúng đều chưa
 có tên,\\. đúng không ạ?"
@@ -158,7 +158,7 @@ có tên,\\. đúng không ạ?"
 \\ignr\\e[68]\\nm[ Dad ]
 "Well, \\.why don't you come up here
 and see for yourself?"
-> CONTEXT: Map047/events/126/pages/1/141/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/141/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
 "Vậy, \\.tại sao con không lại
 đây và tự mình quan sát?"
@@ -167,7 +167,7 @@ and see for yourself?"
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "Hey,\\. dad?"
-> CONTEXT: Map047/events/126/pages/1/187/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/187/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Này,\\. bố ơi?"
 > END STRING
@@ -176,7 +176,7 @@ and see for yourself?"
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Do you think there's a star up
 there with my name?"
-> CONTEXT: Map047/events/126/pages/1/198/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/198/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Bố có nghĩ nhưng ngôi sao trên
 kia có ngôi sao mang tên con không ạ?"
@@ -186,7 +186,7 @@ kia có ngôi sao mang tên con không ạ?"
 \\ignr\\e[68]\\nm[ Dad ]
 "There's already a star with
 your name, \\.Lynri. . ."
-> CONTEXT: Map047/events/126/pages/1/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/211/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
 "Đã có một ngôi sao mang
 tên con rồi, \\.Lynri. . ."
@@ -195,7 +195,7 @@ tên con rồi, \\.Lynri. . ."
 > BEGIN STRING
 \\ignr\\e[68]\\nm[ Dad ]
 ". . . It's just not up there."
-> CONTEXT: Map047/events/126/pages/1/218/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/218/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
 ". . . Chỉ là nó không có trên đó thôi."
 > END STRING
@@ -203,7 +203,7 @@ tên con rồi, \\.Lynri. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "What. . . ?"
-> CONTEXT: Map047/events/126/pages/1/228/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/228/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Sao ạ. . . ?"
 > END STRING
@@ -211,7 +211,7 @@ tên con rồi, \\.Lynri. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Oh."
-> CONTEXT: Map047/events/126/pages/1/242/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/242/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . A."
 > END STRING
@@ -219,7 +219,7 @@ tên con rồi, \\.Lynri. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "That's cheesy,\\. dad."
-> CONTEXT: Map047/events/126/pages/1/248/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/248/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Bố\\. sến súa quá."
 > END STRING
@@ -227,7 +227,7 @@ tên con rồi, \\.Lynri. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 "I still like the lavender more,\\. buuut. . ."
-> CONTEXT: Map047/events/126/pages/1/341/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/341/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Con thích hoa oải hương hơn,\\. nhưnggg. . ."
 > END STRING
@@ -235,7 +235,7 @@ tên con rồi, \\.Lynri. . ."
 > BEGIN STRING
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . I'll admit,\\. the stars are pretty cool too!"
-> CONTEXT: Map047/events/126/pages/1/343/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/126/pages/1/343/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 ". . . Con phải thừa nhận rằng,\\. những ngôi sao
 cũng rất tuyệt!"

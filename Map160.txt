@@ -2,14 +2,14 @@
 > BEGIN STRING
 \\ignr\\e[0]
 A quaint stone statue of a lady and a dove.
-> CONTEXT: Map160/events/90/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map160/events/91/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map160/events/92/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map160/events/93/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map146/events/90/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map146/events/91/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map146/events/92/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map146/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/90/pages/0/2/Dialogue
+> CONTEXT: Map160/events/91/pages/0/2/Dialogue
+> CONTEXT: Map160/events/92/pages/0/2/Dialogue
+> CONTEXT: Map160/events/93/pages/0/2/Dialogue
+> CONTEXT: Map146/events/90/pages/0/2/Dialogue
+> CONTEXT: Map146/events/91/pages/0/2/Dialogue
+> CONTEXT: Map146/events/92/pages/0/2/Dialogue
+> CONTEXT: Map146/events/93/pages/0/2/Dialogue
 \\ignr\\e[0]
 Bức tượng phụ nữ và con chim bồ câu bằng đá.
 > END STRING

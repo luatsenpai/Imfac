@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "Hey. . ."
-> CONTEXT: Map107/events/17/pages/0/180/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/180/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Ê. . ."
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "What's happened here. . . ?"
-> CONTEXT: Map107/events/17/pages/0/204/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/204/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Chuyện gì đang diễn ra ở đây vậy. . . ?"
 > END STRING
@@ -18,7 +18,7 @@
 > BEGIN STRING
 \\ignr\\e[31]\\nm[ Police ]
 "The premise is closed. \\.\\.Are you affiliated?"
-> CONTEXT: Map107/events/17/pages/0/210/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/210/Dialogue
 \\ignr\\e[31]\\nm[ Cảnh Sát ]
 "Khu này đã đóng cửa rồi. \\.\\.
 Cô là người sống ở đây sao?"
@@ -27,7 +27,7 @@ Cô là người sống ở đây sao?"
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "I work here. . ."
-> CONTEXT: Map107/events/17/pages/0/212/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/212/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Tôi làm việc ở đây. . ."
 > END STRING
@@ -35,7 +35,7 @@ Cô là người sống ở đây sao?"
 > BEGIN STRING
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "Lynri!"
-> CONTEXT: Map107/events/17/pages/0/232/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/232/Dialogue
 \\ignr\\e[25]\\nm[ Ts. Kim ]
 "Lynri!"
 > END STRING
@@ -43,7 +43,7 @@ Cô là người sống ở đây sao?"
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "Al. . .\\.\\. What's going on?!"
-> CONTEXT: Map107/events/17/pages/0/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/247/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Chuyện. . .\\.\\. gì đang diễn ra vậy?!"
 > END STRING
@@ -51,7 +51,7 @@ Cô là người sống ở đây sao?"
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "Was that. . . \\.\\.Louie. . . ?"
-> CONTEXT: Map107/events/17/pages/0/263/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/263/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Đó là. . . \\.\\.Louie. . . ?"
 > END STRING
@@ -59,7 +59,7 @@ Cô là người sống ở đây sao?"
 > BEGIN STRING
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "It didn't work. . ."
-> CONTEXT: Map107/events/17/pages/0/268/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/268/Dialogue
 \\ignr\\e[25]\\nm[ Ts. Kim ]
 "Nó không hoạt động. . ."
 > END STRING
@@ -68,7 +68,7 @@ Cô là người sống ở đây sao?"
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "The investors were already here,
 \\.and we were waiting, \\.and. . ."
-> CONTEXT: Map107/events/17/pages/0/275/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/275/Dialogue
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "Những vị khách mới đã đến,
 \\.và chúng tôi chờ đợi, \\.và. . ."
@@ -78,7 +78,7 @@ Cô là người sống ở đây sao?"
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "So Louie. . . \\.He did the demo in your
 place. . . \\.\\.but they wanted a live test. . ."
-> CONTEXT: Map107/events/17/pages/0/283/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/283/Dialogue
 \\ignr\\e[25]\\nm[ Ts. Kim ]
 "Vì thế Louie. . . \\.Anh ta đã thực hiện demo
 thay cô. . . \\.\\.nhưng họ muốn thử nghiệm sống. . ."
@@ -87,7 +87,7 @@ thay cô. . . \\.\\.nhưng họ muốn thử nghiệm sống. . ."
 > BEGIN STRING
 \\ignr\\e[22]\\nm[ Lynri ]
 "He did the demo in my place. . . ?"
-> CONTEXT: Map107/events/17/pages/0/291/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/291/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Ông ta thực hiện demo thay tôi. . . ?"
 > END STRING
@@ -96,7 +96,7 @@ thay cô. . . \\.\\.nhưng họ muốn thử nghiệm sống. . ."
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "Dr. Haynes and Dr. Yu are still inside
 talking with the others. \\.\\.They said--
-> CONTEXT: Map107/events/17/pages/0/305/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/305/Dialogue
 \\ignr\\e[25]\\nm[ Ts. Kim ]
 "Họ nói--\\.\\. Ts. Haynes và Ts. Yu vẫn ở
 trong đó và nói chuyện với những người khác.
@@ -105,7 +105,7 @@ trong đó và nói chuyện với những người khác.
 > BEGIN STRING
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "Lynri,\\. wait. . . !"
-> CONTEXT: Map107/events/17/pages/0/345/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/17/pages/0/345/Dialogue
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "Lynri,\\. Đợi đã. . . !"
 > END STRING
@@ -113,22 +113,22 @@ trong đó và nói chuyện với những người khác.
 > BEGIN STRING
 \\ignr\\e[0]
 A quaint stone statue of a lady and a bird.
-> CONTEXT: Map107/events/90/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map107/events/91/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map107/events/92/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map107/events/93/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/90/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/91/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/92/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map070/events/93/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/90/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/91/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/92/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/93/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/90/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/91/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/92/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/90/pages/0/2/Dialogue
+> CONTEXT: Map107/events/91/pages/0/2/Dialogue
+> CONTEXT: Map107/events/92/pages/0/2/Dialogue
+> CONTEXT: Map107/events/93/pages/0/2/Dialogue
+> CONTEXT: Map070/events/90/pages/0/2/Dialogue
+> CONTEXT: Map070/events/91/pages/0/2/Dialogue
+> CONTEXT: Map070/events/92/pages/0/2/Dialogue
+> CONTEXT: Map070/events/93/pages/0/2/Dialogue
+> CONTEXT: Map071/events/90/pages/0/2/Dialogue
+> CONTEXT: Map071/events/91/pages/0/2/Dialogue
+> CONTEXT: Map071/events/92/pages/0/2/Dialogue
+> CONTEXT: Map071/events/93/pages/0/2/Dialogue
+> CONTEXT: Map005/events/90/pages/0/2/Dialogue
+> CONTEXT: Map005/events/91/pages/0/2/Dialogue
+> CONTEXT: Map005/events/92/pages/0/2/Dialogue
+> CONTEXT: Map005/events/93/pages/0/2/Dialogue
 \\ignr\\e[0]
 Một bức tượng phụ nữ và con chim bằng đá.
 > END STRING

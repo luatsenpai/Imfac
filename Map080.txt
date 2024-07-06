@@ -1,0 +1,7 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'pano_henge'
+> CONTEXT: Map080/events/22/pages/0/0/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map080/events/22/pages/1/0/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING

@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "The legendary spare room!"
-> CONTEXT: Map074/events/6/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/2/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "Phòng dự phòng huyền thoại!"
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 "It could be \\ianything\\i. . ."
-> CONTEXT: Map074/events/6/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/9/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "nó có thể thành \\ibất cứ gì\\i. . ."
 > END STRING
@@ -18,7 +18,7 @@
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Lynri ]
 "It could be a study room."
-> CONTEXT: Map074/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/12/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
 "Nó sẽ trở thành phòng ngiên cứu."
 > END STRING
@@ -26,7 +26,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Or a pinball room. . ."
-> CONTEXT: Map074/events/6/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/20/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Hoặc phòng Pinball. . ."
 > END STRING
@@ -34,7 +34,7 @@
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Lynri ]
 "With book cases over there."
-> CONTEXT: Map074/events/6/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/29/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
 "Với tủ sách ở đằng kia."
 > END STRING
@@ -42,7 +42,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Or a mini-golf room. . . "
-> CONTEXT: Map074/events/6/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/37/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . hoặc là sân gôn mini. . . "
 > END STRING
@@ -50,7 +50,7 @@
 > BEGIN STRING
 \\ignr\\e[5]\\nm[ Lynri ]
 "And finally get a desktop computer over here."
-> CONTEXT: Map074/events/6/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/48/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
 "Và cuối cùng đặt chiếc laptop ở đây."
 > END STRING
@@ -58,7 +58,7 @@
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Or a throne room. . ."
-> CONTEXT: Map074/events/6/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/6/pages/0/56/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Hoặc là phòng ngai vàng.. . ."
 > END STRING

@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( It's morning already. . . )
-> CONTEXT: Map089/events/9/pages/1/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/9/pages/1/129/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Sáng rồi sao. . . )
 > END STRING
@@ -10,8 +10,8 @@
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "Okay. . .\\.\\. How do I look?"
-> CONTEXT: Map089/events/13/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map003/events/13/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/13/pages/0/2/Dialogue
+> CONTEXT: Map003/events/13/pages/0/2/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Okay. . .\\.\\. Trông em thế nào?"
 > END STRING
@@ -20,8 +20,8 @@
 \\ignr\\e[12]\\nm[ Quincy ]
 "Well, I don't mean to alarm you, but. . . \\.\\.
 There's a person attached to your hair bun."
-> CONTEXT: Map089/events/13/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map003/events/13/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/13/pages/0/21/Dialogue
+> CONTEXT: Map003/events/13/pages/0/21/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 "Ờm, không có ý dọa em sợ. . . \\.\\.
 Sẽ có người nhắm vào búi tóc em đó."
@@ -30,8 +30,8 @@ Sẽ có người nhắm vào búi tóc em đó."
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 ". . . And she looks kickass."
-> CONTEXT: Map089/events/13/pages/0/30/Dialogue < UNTRANSLATED
-> CONTEXT: Map003/events/13/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/13/pages/0/30/Dialogue
+> CONTEXT: Map003/events/13/pages/0/30/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ". . . Và đó là cô gái thật
 phong cách."
@@ -40,8 +40,8 @@ phong cách."
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Lynri ]
 "I'll be back by supper."
-> CONTEXT: Map089/events/13/pages/0/44/Dialogue < UNTRANSLATED
-> CONTEXT: Map003/events/13/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/13/pages/0/44/Dialogue
+> CONTEXT: Map003/events/13/pages/0/44/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
 "Em sẽ về trước giờ cơm tối."
 > END STRING
@@ -49,8 +49,8 @@ phong cách."
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Quincy ]
 "Go on.\\.\\. You're gonna do great!"
-> CONTEXT: Map089/events/13/pages/0/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map003/events/13/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/13/pages/0/47/Dialogue
+> CONTEXT: Map003/events/13/pages/0/47/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 "Đi thôi.\\.\\. Hãy tin tưởng vào bản thân!"
 > END STRING

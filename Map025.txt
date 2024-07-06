@@ -62,9 +62,9 @@ không biết họ như thế nào cơ mà! )
 > BEGIN STRING
 \\ignr\\e[0]
 A strange crystal that seems to glow from within.
-> CONTEXT: Map025/events/5/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/68/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map013/events/68/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/0/6/Dialogue
+> CONTEXT: Map025/events/68/pages/0/6/Dialogue
+> CONTEXT: Map013/events/68/pages/0/6/Dialogue
 \\ignr\\e[0]
 Một tinh thể kỳ lạ dường như đang phát sáng.
 > END STRING
@@ -72,35 +72,35 @@ Một tinh thể kỳ lạ dường như đang phát sáng.
 > BEGIN STRING
 \\ignr\\e[0]
 Go upstairs?
-> CONTEXT: Map025/events/27/pages/0/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/30/pages/0/37/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/34/pages/0/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/38/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/27/pages/0/38/Dialogue
+> CONTEXT: Map025/events/30/pages/0/37/Dialogue
+> CONTEXT: Map025/events/34/pages/0/32/Dialogue
+> CONTEXT: Map025/events/38/pages/0/33/Dialogue
 \\ignr\\e[0]
 Lên lầu?
 > END STRING
 
 > BEGIN STRING
 Yes
-> CONTEXT: Map025/events/27/pages/0/40/Choice/0 < UNTRANSLATED
-> CONTEXT: Map025/events/30/pages/0/39/Choice/0 < UNTRANSLATED
-> CONTEXT: Map025/events/34/pages/0/34/Choice/0 < UNTRANSLATED
-> CONTEXT: Map025/events/38/pages/0/35/Choice/0 < UNTRANSLATED
-> CONTEXT: Map018/events/29/pages/0/12/Choice/0 < UNTRANSLATED
-> CONTEXT: Map015/events/54/pages/0/15/Choice/0 < UNTRANSLATED
-> CONTEXT: Map013/events/20/pages/10/206/Choice/0 < UNTRANSLATED
-> CONTEXT: Map013/events/20/pages/10/206/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/27/pages/0/40/Choice/0
+> CONTEXT: Map025/events/30/pages/0/39/Choice/0
+> CONTEXT: Map025/events/34/pages/0/34/Choice/0
+> CONTEXT: Map025/events/38/pages/0/35/Choice/0
+> CONTEXT: Map018/events/29/pages/0/12/Choice/0
+> CONTEXT: Map015/events/54/pages/0/15/Choice/0
+> CONTEXT: Map013/events/20/pages/10/206/Choice/0
+> CONTEXT: Map013/events/20/pages/10/206/Choice/1
 Có
 > END STRING
 
 > BEGIN STRING
 No
-> CONTEXT: Map025/events/27/pages/0/40/Choice/1 < UNTRANSLATED
-> CONTEXT: Map025/events/30/pages/0/39/Choice/1 < UNTRANSLATED
-> CONTEXT: Map025/events/34/pages/0/34/Choice/1 < UNTRANSLATED
-> CONTEXT: Map025/events/38/pages/0/35/Choice/1 < UNTRANSLATED
-> CONTEXT: Map018/events/29/pages/0/12/Choice/1 < UNTRANSLATED
-> CONTEXT: Map015/events/54/pages/0/15/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/27/pages/0/40/Choice/1
+> CONTEXT: Map025/events/30/pages/0/39/Choice/1
+> CONTEXT: Map025/events/34/pages/0/34/Choice/1
+> CONTEXT: Map025/events/38/pages/0/35/Choice/1
+> CONTEXT: Map018/events/29/pages/0/12/Choice/1
+> CONTEXT: Map015/events/54/pages/0/15/Choice/1
 Không
 > END STRING
 

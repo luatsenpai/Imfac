@@ -3,7 +3,7 @@
 \\ignr\\e[14]\\nm[ Doctor ]
 "There is an experimental drug on the horizon that
 should help with these early symptoms, \\.but. . ."
-> CONTEXT: Map051/events/15/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/0/3/Dialogue
 \\ignr\\e[14]\\nm[ Bác Sĩ ]
 "Có một loại thuốc đang thử nghiệm sẽ giúp ích cho
 những chịu chứng sớm như thế này, \\.nhưng. . ."
@@ -12,7 +12,7 @@ những chịu chứng sớm như thế này, \\.nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Doctor ]
 ". . . This is the second time it happened, \\.isn't it?"
-> CONTEXT: Map051/events/15/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/0/18/Dialogue
 \\ignr\\e[14]\\nm[ Bác Sĩ ]
 ". . . Đây là lần thứ hai chuyện này diễn ra, \\.đúng chứ?"
 > END STRING
@@ -20,7 +20,7 @@ những chịu chứng sớm như thế này, \\.nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Mom ]
 "Yeah. . . \\.\\.We thought it was a one-off. . ."
-> CONTEXT: Map051/events/15/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/0/22/Dialogue
 \\ignr\\e[15]\\nm[ Mẹ ]
 "Vâng. . . \\.\\.Chúng tôi cứ nghĩ đó là lần duy nhất. . ."
 > END STRING
@@ -29,7 +29,7 @@ những chịu chứng sớm như thế này, \\.nhưng. . ."
 \\ignr\\e[15]\\nm[ Mom ]
 ". . . We really shouldn't have allowed her
 to go without close supervision."
-> CONTEXT: Map051/events/15/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/0/27/Dialogue
 \\ignr\\e[15]\\nm[ Mẹ ]
 ". . . Chúng tôi đáng ra không nên cho con
 bé đi mà không có sự giám sát chặt chẽ."
@@ -38,7 +38,7 @@ bé đi mà không có sự giám sát chặt chẽ."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Doctor ]
 "Well. . . \\.Fortunately, \\.the fall was cushioned."
-> CONTEXT: Map051/events/15/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/0/33/Dialogue
 \\ignr\\e[14]\\nm[ Bác Sĩ ]
 "Chà. . . \\.May mắn thay, \\.cũ ngã không ảnh hưởng mấy."
 > END STRING
@@ -47,7 +47,7 @@ bé đi mà không có sự giám sát chặt chẽ."
 \\ignr\\e[14]\\nm[ Doctor ]
 "These early symptoms can be dangerous,\\.\\.
 experimental drugs for them are on the horizon."
-> CONTEXT: Map051/events/15/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/0/35/Dialogue
 \\ignr\\e[14]\\nm[ Bác Sĩ ]
 "Chiệu chứng sớm này có thể sẽ nguy hiểm,\\.\\.
 thuốc thử nghiệm vẫn đang được quan sát."
@@ -56,7 +56,7 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Doctor ]
 "But in the long run. . ."
-> CONTEXT: Map051/events/15/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/0/42/Dialogue
 \\ignr\\e[14]\\nm[ Bác Sĩ ]
 "Nhưng sẽ mất rất lâu. . ."
 > END STRING
@@ -64,7 +64,7 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Mom ]
 "It's going to be okay,\\. Lynri."
-> CONTEXT: Map051/events/15/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/15/pages/1/1/Dialogue
 \\ignr\\e[15]\\nm[ Mẹ ]
 "Mọi chuyện sẽ ổn thôi,\\. Lynri."
 > END STRING
@@ -72,8 +72,8 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Dad ]
 "Just be patient, \\.and we'll try our best. . .\\. Okay?"
-> CONTEXT: Map051/events/16/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/16/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/3/Dialogue
+> CONTEXT: Map051/events/16/pages/0/75/Dialogue
 \\ignr\\e[16]\\nm[ Bố ]
 "Hãy dưỡng bệnh, \\.chúng ta sẽ cố hết mình. . .\\. được chứ?"
 > END STRING
@@ -81,8 +81,8 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "Okay!"
-> CONTEXT: Map051/events/16/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map051/events/16/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/12/Dialogue
+> CONTEXT: Map051/events/16/pages/0/86/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Vâng ạ!"
 > END STRING
@@ -90,7 +90,7 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "Sorry,\\. dad. . ."
-> CONTEXT: Map051/events/16/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/22/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Con xin lỗi\\. bố. . ."
 > END STRING
@@ -98,7 +98,7 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . This was all my fault,\\. wasn't it?"
-> CONTEXT: Map051/events/16/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/26/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . Tất cả là lỗi của con,\\. đúng không?"
 > END STRING
@@ -106,7 +106,7 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Dad ]
 "You should have been more careful, \\.Lynri."
-> CONTEXT: Map051/events/16/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/28/Dialogue
 \\ignr\\e[16]\\nm[ Bố ]
 "Con hãy nên cẩn thận hơn, \\.Lynri."
 > END STRING
@@ -114,7 +114,7 @@ thuốc thử nghiệm vẫn đang được quan sát."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Dad ]
 ". . . But no, \\.\\.this isn't all your fault."
-> CONTEXT: Map051/events/16/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/39/Dialogue
 \\ignr\\e[16]\\nm[ Bố ]
 ". . . Nhưng không, \\.\\.đây không phải lỗi của con."
 > END STRING
@@ -123,7 +123,7 @@ thuốc thử nghiệm vẫn đang được quan sát."
 \\ignr\\e[2]\\nm[ Lynri ]
 "Do you think I'll still be able to go
 on more class trips. . . ?"
-> CONTEXT: Map051/events/16/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/52/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Bố có nghĩ con còn được tham gia nhiều
 chuyến dã ngoại của lớp nửa không. . . ?"
@@ -132,7 +132,7 @@ chuyến dã ngoại của lớp nửa không. . . ?"
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Dad ]
 "Well, \\.we'll have to see what the doctor says."
-> CONTEXT: Map051/events/16/pages/0/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/58/Dialogue
 \\ignr\\e[16]\\nm[ Dad ]
 "Chà, \\.chúng ta cần xem bác sĩ nói gì đã."
 > END STRING

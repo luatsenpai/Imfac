@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[31]\\nm[ Quincy ]
 "Hey, \\.you're back early. . . "
-> CONTEXT: Map119/events/26/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/26/pages/0/18/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
 "Này, \\.sao em về sớm thế. . . "
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[31]\\nm[ Quincy ]
 ". . . What's wrong?"
-> CONTEXT: Map119/events/26/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/26/pages/0/37/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
 ". . . Có chuyện gì ư?"
 > END STRING
@@ -18,7 +18,7 @@
 > BEGIN STRING
 \\ignr\\e[30]\\nm[ Lynri ]
 "I want to go."
-> CONTEXT: Map119/events/26/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/26/pages/0/48/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
 "Em muốn đi."
 > END STRING
@@ -26,7 +26,7 @@
 > BEGIN STRING
 \\ignr\\e[31]\\nm[ Quincy ]
 ". . . You want to go live at the residence?"
-> CONTEXT: Map119/events/26/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/26/pages/0/59/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
 ". . . Em muốn đến sống tại k1y túc xá?"
 > END STRING
@@ -34,7 +34,7 @@
 > BEGIN STRING
 \\ignr\\e[30]\\nm[ Lynri ]
 "No. . ."
-> CONTEXT: Map119/events/26/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/26/pages/0/64/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
 "Không. . ."
 > END STRING
@@ -42,7 +42,7 @@
 > BEGIN STRING
 \\ignr\\e[30]\\nm[ Lynri ]
 ". . . I want to go see the world with you."
-> CONTEXT: Map119/events/26/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map119/events/26/pages/0/74/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
 ". . . Em muốn đi ngắm nhìn thế giới với anh."
 > END STRING

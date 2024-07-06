@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "Are. . . \\.\\.Are you sure?"
-> CONTEXT: Map121/events/47/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/27/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Ông. . . \\.\\.Ông chắc chứ?"
 > END STRING
@@ -10,7 +10,7 @@
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "I'm afraid so. \\.We've ran multiple scans."
-> CONTEXT: Map121/events/47/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/33/Dialogue
 \\ignr\\e[46]\\nm[ Doctor ]
 "Tôi e là vậy. \\.Tôi đã kiểm tra rất nhiều lần."
 > END STRING
@@ -19,7 +19,7 @@
 \\ignr\\e[46]\\nm[ Doctor ]
 "The development is acute, \\.and it seems
 to be worsening rapidly."
-> CONTEXT: Map121/events/47/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/49/Dialogue
 \\ignr\\e[46]\\nm[ Doctor ]
 "Tình trạng diễn biến cấp tính, \\.và
 có vẻ đang trở nặng nhanh chóng."
@@ -28,7 +28,7 @@ có vẻ đang trở nặng nhanh chóng."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "Why now, \\.of all times. . ."
-> CONTEXT: Map121/events/47/pages/0/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/58/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Tại sao lại \\.xảy ra vào lúc này chứ. . ."
 > END STRING
@@ -36,7 +36,7 @@ có vẻ đang trở nặng nhanh chóng."
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "The baby appears to be fine, \\.but. . ."
-> CONTEXT: Map121/events/47/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/80/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Em bé vẫn có vẻ bình thường, \\.nhưng. . ."
 > END STRING
@@ -44,7 +44,7 @@ có vẻ đang trở nặng nhanh chóng."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "But. . . ?"
-> CONTEXT: Map121/events/47/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/93/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Nhưng. . . ?"
 > END STRING
@@ -53,7 +53,7 @@ có vẻ đang trở nặng nhanh chóng."
 \\ignr\\e[46]\\nm[ Doctor ]
 "Well. . . \\.Because we caught this so early,
 \\.there is time to treat you, \\.Lynri."
-> CONTEXT: Map121/events/47/pages/0/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/102/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Ừm. . . \\.Vì chúng tôi đã phát hiện
 sớm \\.nên có thể điều trị, \\.Lynri."
@@ -62,7 +62,7 @@ sớm \\.nên có thể điều trị, \\.Lynri."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "That's good!"
-> CONTEXT: Map121/events/47/pages/0/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/112/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Vậy tốt quá!"
 > END STRING
@@ -71,7 +71,7 @@ sớm \\.nên có thể điều trị, \\.Lynri."
 \\ignr\\e[46]\\nm[ Doctor ]
 "It's not certain, \\.but the prognosis
 is decent if we. . ."
-> CONTEXT: Map121/events/47/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/116/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Mặc dù chưa chắc chắn, \\.nhưng cơ hội
 thành công sẽ cao nếu chúng ta. . ."
@@ -80,7 +80,7 @@ thành công sẽ cao nếu chúng ta. . ."
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 ". . . If we start treatment immediately."
-> CONTEXT: Map121/events/47/pages/0/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/137/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 ". . . Nếu chúng ta bắt đầu điều trị ngay lập tức."
 > END STRING
@@ -88,7 +88,7 @@ thành công sẽ cao nếu chúng ta. . ."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "Wait,\\. to start immediately. . ."
-> CONTEXT: Map121/events/47/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/151/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Khoan,\\. điều trị ngay lập tức. . ."
 > END STRING
@@ -96,7 +96,7 @@ thành công sẽ cao nếu chúng ta. . ."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "Is that. . . \\.\\.okay?"
-> CONTEXT: Map121/events/47/pages/0/158/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/158/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Liệu nó. . . \\.\\.sẽ ổn chứ?"
 > END STRING
@@ -104,7 +104,7 @@ thành công sẽ cao nếu chúng ta. . ."
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "For the baby?\\.\\. Unfortunately,\\. no."
-> CONTEXT: Map121/events/47/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/163/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Là đứa bé sao?\\.\\. Thật không may là\\. không."
 > END STRING
@@ -113,7 +113,7 @@ thành công sẽ cao nếu chúng ta. . ."
 \\ignr\\e[46]\\nm[ Doctor ]
 ". . . We'd need to prematurely induce birth
 before starting treatment."
-> CONTEXT: Map121/events/47/pages/0/174/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/174/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 ". . . Chúng tôi cần phải can thiệp sớm bằng cách
 cho sinh non trước khi bắt đầu điều trị."
@@ -122,7 +122,7 @@ cho sinh non trước khi bắt đầu điều trị."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "Induce birth. . . \\.\\.But it's too early!"
-> CONTEXT: Map121/events/47/pages/0/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/186/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Sinh non. . . \\.\\.Nhưng vẫn còn quá sớm mà!"
 > END STRING
@@ -130,7 +130,7 @@ cho sinh non trước khi bắt đầu điều trị."
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "I know."
-> CONTEXT: Map121/events/47/pages/0/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/188/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Tôi biết."
 > END STRING
@@ -139,7 +139,7 @@ cho sinh non trước khi bắt đầu điều trị."
 \\ignr\\e[46]\\nm[ Doctor ]
 "We have facilities to try to keep the baby
 alive in that case,\\. but. . ."
-> CONTEXT: Map121/events/47/pages/0/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/203/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Chúng tôi có trang thiết bị để cố gắng giữ cho
 em bé sống sót trong trường hợp đó,\\. nhưng. . ."
@@ -149,7 +149,7 @@ em bé sống sót trong trường hợp đó,\\. nhưng. . ."
 \\ignr\\e[46]\\nm[ Doctor ]
 ". . . A birth this early is often not without
 lasting complications."
-> CONTEXT: Map121/events/47/pages/0/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/211/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 ". . . Sinh non ở giai đoạn này
 thường sẽ để lại di chứng lâu dài."
@@ -159,7 +159,7 @@ thường sẽ để lại di chứng lâu dài."
 \\ignr\\e[2]\\nm[ Lynri ]
 "And. . .\\. if we withhold my treatment
 until he's ready. . . ?"
-> CONTEXT: Map121/events/47/pages/0/223/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/223/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Và. . .\\. Nếu chúng ta trì hoãn việc điều trị
 của tôi cho đến khi bé sẵn sàng thì sao. . . ?"
@@ -168,7 +168,7 @@ của tôi cho đến khi bé sẵn sàng thì sao. . . ?"
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "Then we'd miss the optimal window to help you."
-> CONTEXT: Map121/events/47/pages/0/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/231/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Nếu vậy, chúng ta sẽ bỏ lỡ thời
 điểm vàng để điều trị cho cô."
@@ -178,7 +178,7 @@ của tôi cho đến khi bé sẵn sàng thì sao. . . ?"
 \\ignr\\e[46]\\nm[ Doctor ]
 "There should be time for the baby to continue
 developement uninterrupted, \\.but for you. . ."
-> CONTEXT: Map121/events/47/pages/0/242/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/242/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Em bé cần đủ thời gian để phát triển
 liên tục, \\.nhưng với cô. . ."
@@ -188,7 +188,7 @@ liên tục, \\.nhưng với cô. . ."
 \\ignr\\e[46]\\nm[ Doctor ]
 ". . . Even in the best case, \\.delayed treatment
 would still result in life-altering impairment."
-> CONTEXT: Map121/events/47/pages/0/245/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/245/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 ". . . Ngay cả trong trường hợp tốt nhất, \\
 việc trì hoãn điều trị vẫn có thể dẫn đến
@@ -198,7 +198,7 @@ những di chứng ảnh hưởng đến cuộc sống."
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "And in the worst case, \\.well. . ."
-> CONTEXT: Map121/events/47/pages/0/253/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/253/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Và trong trường hợp tệ nhất\\.. . ."
 > END STRING
@@ -206,7 +206,7 @@ những di chứng ảnh hưởng đến cuộc sống."
 > BEGIN STRING
 \\ignr\\e[14]
 "Doctor, \\.we need you in room 5."
-> CONTEXT: Map121/events/47/pages/0/301/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/301/Dialogue
 \\ignr\\e[14]
 "Bác Sĩ, \\.phòng số 5 cần anh."
 > END STRING
@@ -214,7 +214,7 @@ những di chứng ảnh hưởng đến cuộc sống."
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "I'll give you two a moment to think about it."
-> CONTEXT: Map121/events/47/pages/0/347/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/347/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Tôi sẽ cho hai người vài phút để suy nghĩ."
 > END STRING
@@ -223,7 +223,7 @@ những di chứng ảnh hưởng đến cuộc sống."
 \\ignr\\e[46]\\nm[ Doctor ]
 "I know it's difficult, \\.but given its nature. . .
 \\.\\.You need to make a decision promptly."
-> CONTEXT: Map121/events/47/pages/0/381/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/381/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Tôi biết đây là một quyết định khó khăn, \\.
 nhưng vì tình hình hiện tại. . .
@@ -233,7 +233,7 @@ nhưng vì tình hình hiện tại. . .
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 ". . . I'm sorry you have to choose."
-> CONTEXT: Map121/events/47/pages/0/392/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/0/392/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 ". . . Tôi xin lỗi, anh phải quyết định rồi."
 > END STRING
@@ -241,7 +241,7 @@ nhưng vì tình hình hiện tại. . .
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "What were we even thinking. . . ?"
-> CONTEXT: Map121/events/47/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/20/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Chúng ta đang nghĩ gì vậy. . . ?"
 > END STRING
@@ -249,7 +249,7 @@ nhưng vì tình hình hiện tại. . .
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "How did we--. . ."
-> CONTEXT: Map121/events/47/pages/1/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/36/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Tại sao chúng ta--. . ."
 > END STRING
@@ -258,7 +258,7 @@ nhưng vì tình hình hiện tại. . .
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . How did I ever think this
 would be a good idea?"
-> CONTEXT: Map121/events/47/pages/1/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/42/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . Tại sao lúc đó em lại
 nghĩ đây là ý hay chứ?"
@@ -267,7 +267,7 @@ nghĩ đây là ý hay chứ?"
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "It's my fault."
-> CONTEXT: Map121/events/47/pages/1/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/57/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Đó là lỗi của anh."
 > END STRING
@@ -275,7 +275,7 @@ nghĩ đây là ý hay chứ?"
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "You wouldn't have if it weren't for me."
-> CONTEXT: Map121/events/47/pages/1/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/72/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Nếu không có anh thì em đã không làm vậy."
 > END STRING
@@ -283,7 +283,7 @@ nghĩ đây là ý hay chứ?"
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "That's not why I--. . ."
-> CONTEXT: Map121/events/47/pages/1/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/102/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Tại sao không phải là em--. . ."
 > END STRING
@@ -299,7 +299,7 @@ nghĩ đây là ý hay chứ?"
 \\ignr\\e[2]\\nm[ Lynri ]
 "Traveling the world with you,
 \\.preparing for the baby. . ."
-> CONTEXT: Map121/events/47/pages/1/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/134/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Du lịch khắp thế giới cùng anh,
 \\.chuẩn bị sinh con. . ."
@@ -309,7 +309,7 @@ nghĩ đây là ý hay chứ?"
 \\ignr\\e[2]\\nm[ Lynri ]
 "This past year. . . \\.\\.
 It was all so. . . \\.\\.normal."
-> CONTEXT: Map121/events/47/pages/1/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/147/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Cả năm qua. . . \\.\\.
 Mọi thứ vẫn. . . \\.\\.bình thường."
@@ -318,7 +318,7 @@ Mọi thứ vẫn. . . \\.\\.bình thường."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "I just. . .\\. didn't want to wake up."
-> CONTEXT: Map121/events/47/pages/1/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/157/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Em chỉ là. . .\\. không muốn phải thức dậy."
 > END STRING
@@ -326,7 +326,7 @@ Mọi thứ vẫn. . . \\.\\.bình thường."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . You should get the treatment."
-> CONTEXT: Map121/events/47/pages/1/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/173/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . Em hãy tiếp nhận điều trị đi."
 > END STRING
@@ -334,7 +334,7 @@ Mọi thứ vẫn. . . \\.\\.bình thường."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "What. . . ?"
-> CONTEXT: Map121/events/47/pages/1/182/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/182/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Sao cơ. . . ?"
 > END STRING
@@ -342,7 +342,7 @@ Mọi thứ vẫn. . . \\.\\.bình thường."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "I'm saying it so you don't have to."
-> CONTEXT: Map121/events/47/pages/1/193/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/193/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Anh đã quyết định rồi, em đừng nói gì nữa."
 > END STRING
@@ -358,7 +358,7 @@ Mọi thứ vẫn. . . \\.\\.bình thường."
 \\ignr\\e[16]\\nm[ Quincy ]
 "I'll do my best to take care
 of him regardless."
-> CONTEXT: Map121/events/47/pages/1/208/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/208/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Anh sẽ cố gắng hết sức 
 chăm sóc thằng bé."
@@ -367,7 +367,7 @@ chăm sóc thằng bé."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "But you. . ."
-> CONTEXT: Map121/events/47/pages/1/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/216/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Nhưng em. . ."
 > END STRING
@@ -376,7 +376,7 @@ chăm sóc thằng bé."
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . It's the only way that
 you'll even be \\iable\\i to."
-> CONTEXT: Map121/events/47/pages/1/226/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/226/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . chì còn cách này thì
 em mới \\icó thể\\i yên tâm được."
@@ -385,7 +385,7 @@ em mới \\icó thể\\i yên tâm được."
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Lynri ]
 "That's not fair to him."
-> CONTEXT: Map121/events/47/pages/1/235/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/235/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Thật bất công với thằng bé."
 > END STRING
@@ -394,7 +394,7 @@ em mới \\icó thể\\i yên tâm được."
 \\ignr\\e[16]\\nm[ Quincy ]
 "Neither would it be for him to
 grow up without a mom."
-> CONTEXT: Map121/events/47/pages/1/240/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/240/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Thằng bé cũng sẽ thiệt thòi
 nếu không có mẹ bên cạnh."
@@ -404,7 +404,7 @@ nếu không có mẹ bên cạnh."
 \\ignr\\e[2]\\nm[ Lynri ]
 "That's. . . \\.That's something we
 should've thought of way before--
-> CONTEXT: Map121/events/47/pages/1/249/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/249/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
 "Đáng ra. . . \\.Đáng ra chúng ta
 phải nghĩ đến điều đó sớm hơn--
@@ -413,7 +413,7 @@ phải nghĩ đến điều đó sớm hơn--
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 "We made a mistake, \\.okay?!"
-> CONTEXT: Map121/events/47/pages/1/259/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/259/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Chúng ta đều phạm sai lỗi, \\.okay?!"
 > END STRING
@@ -421,7 +421,7 @@ phải nghĩ đến điều đó sớm hơn--
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . I made a mistake."
-> CONTEXT: Map121/events/47/pages/1/271/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/271/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . Anh là người có lỗi."
 > END STRING
@@ -430,7 +430,7 @@ phải nghĩ đến điều đó sớm hơn--
 \\ignr\\e[16]\\nm[ Quincy ]
 "We can't change the past,\\. but we
 can still decide from this point on."
-> CONTEXT: Map121/events/47/pages/1/280/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/280/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 "Chúng ta không thể thay đổi quá khứ,\\. 
 nhưng chúng ta có thể quyết định từ bây giờ."
@@ -439,7 +439,7 @@ nhưng chúng ta có thể quyết định từ bây giờ."
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . We can't lose you."
-> CONTEXT: Map121/events/47/pages/1/305/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/47/pages/1/305/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
 ". . . Chúng ta không thể mất em được."
 > END STRING

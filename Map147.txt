@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Dad ]
 "What was that. . . ?"
-> CONTEXT: Map147/events/2/pages/2/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map147/events/2/pages/2/77/Dialogue
 \\ignr\\e[7]\\nm[ Bố ]
 "Có chuyện gì thế. . . ?"
 > END STRING

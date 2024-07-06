@@ -1,0 +1,14 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'great_wall_treeline'
+> CONTEXT: Map079/events/1/pages/0/3/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map079/events/1/pages/1/2/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'greatwallbg'
+> CONTEXT: Map079/events/1/pages/0/12/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map079/events/1/pages/1/11/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING

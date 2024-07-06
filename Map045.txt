@@ -1,0 +1,72 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"en-CA"
+> CONTEXT: Map045/events/11/pages/0/6/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"zh-CN"
+> CONTEXT: Map045/events/11/pages/0/11/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ko"
+> CONTEXT: Map045/events/11/pages/0/16/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"fr-FR"
+> CONTEXT: Map045/events/11/pages/0/21/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"it"
+> CONTEXT: Map045/events/11/pages/0/26/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"de"
+> CONTEXT: Map045/events/11/pages/0/31/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"es-ES"
+> CONTEXT: Map045/events/11/pages/0/36/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"pl"
+> CONTEXT: Map045/events/11/pages/0/41/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ru"
+> CONTEXT: Map045/events/11/pages/0/46/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"uk"
+> CONTEXT: Map045/events/11/pages/0/51/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"pt-PT"
+> CONTEXT: Map045/events/11/pages/0/56/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"pt-BR"
+> CONTEXT: Map045/events/11/pages/0/61/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
