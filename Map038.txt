@@ -48,7 +48,7 @@ vài thứ tôi chưa hiểu."
 ". . . Why don't you just cut the
 infinite loop from the get-go?"
 > CONTEXT: Map038/events/3/pages/2/138/Dialogue < UNTRANSLATED
-". . . Tại sao anh không ngăn cản
+". . . Tại sao cô không ngăn cản
 vòng lặp này ngay từ đầu?"
 > END STRING
 
@@ -58,7 +58,7 @@ vòng lặp này ngay từ đầu?"
 world without eliminating us?"
 > CONTEXT: Map038/events/3/pages/2/152/Dialogue < UNTRANSLATED
 \\ignr\\e[36]\\nm[ Lynri ]
-"Tại sao anh muốn bảo tồn thế giới này
+"Tại sao cô muốn bảo tồn thế giới này
 nhưng không loại bỏ chúng tôi?"
 > END STRING
 
@@ -68,7 +68,7 @@ nhưng không loại bỏ chúng tôi?"
 to talk to us about any of this?"
 > CONTEXT: Map038/events/3/pages/2/165/Dialogue < UNTRANSLATED
 \\ignr\\e[36]\\nm[ Lynri ]
-"Và tại sao anh ở đây. . . \\.còn phí thời
+"Và tại sao cô ở đây. . . \\.còn phí thời
 gian nói với chúng tôi về mấy thứ này?"
 > END STRING
 
@@ -120,7 +120,7 @@ nói chuyện với \\ianh ta\\i?"
 > CONTEXT: Map038/events/3/pages/2/256/Dialogue < UNTRANSLATED
 \\ignr\\e[36]\\nm[ Lynri ]
 "Nói tôi biết. . .\\.\\. Chúng tôi là
-\\igì\\i đối với anh?"
+\\igì\\i đối với cô?"
 > END STRING
 
 > BEGIN STRING
@@ -162,7 +162,7 @@ nói chuyện với \\ianh ta\\i?"
 "You don't \\ilook\\i like a Ricebot. . ."
 > CONTEXT: Map038/events/3/pages/3/440/Dialogue < UNTRANSLATED
 \\ignr\\e[20]\\nm[ Quincy ]
-"Anh không \\igiống\\i Ricebot. . ."
+"Cô không \\igiống\\i Ricebot. . ."
 > END STRING
 
 > BEGIN STRING
@@ -178,7 +178,7 @@ nói chuyện với \\ianh ta\\i?"
 ". . . Were you also an A.I. refit for the simulations?"
 > CONTEXT: Map038/events/3/pages/3/464/Dialogue < UNTRANSLATED
 \\ignr\\e[36]\\nm[ Lynri ]
-". . . Anh cũng là A.I. được điều
+". . . Cô cũng là A.I. được điều
 chỉnh lại cho các mô phỏng?"
 > END STRING
 
@@ -252,7 +252,7 @@ không tuân theo các định luật vật lý. . ."
 "H-hey, \\.what are you--
 > CONTEXT: Map038/events/3/pages/4/130/Dialogue < UNTRANSLATED
 \\ignr\\e[20]\\nm[ Quincy ]
-"Ê-ê, \\.anh là ai--
+"Ê-ê, \\.cô là ai--
 > END STRING
 
 > BEGIN STRING

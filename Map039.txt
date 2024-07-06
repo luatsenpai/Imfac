@@ -1,0 +1,105 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+"Well. . ."
+> CONTEXT: Map039/events/1/pages/1/21/Dialogue < UNTRANSLATED
+\\ignr\\e[13]\\nm[ Lynri ]
+"Ừm. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+". . . We had a good run, \\.huh?"
+> CONTEXT: Map039/events/1/pages/1/30/Dialogue < UNTRANSLATED
+\\ignr\\e[13]\\nm[ Lynri ]
+". . . Đó là một hành trình
+tuyệt vời, \\.nhỉ?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"The bestest."
+> CONTEXT: Map039/events/1/pages/1/41/Dialogue < UNTRANSLATED
+\\ignr\\e[12]\\nm[ Quincy ]
+"Tuyệt vời nhất."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]
+". . . It's about time."
+> CONTEXT: Map039/events/1/pages/1/183/Dialogue < UNTRANSLATED
+\\ignr\\e[15]
+". . . Đến lúc rồi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]
+". . . This is all I could manage to do."
+> CONTEXT: Map039/events/1/pages/1/255/Dialogue < UNTRANSLATED
+\\ignr\\e[27]
+". . . Tôi chỉ có thể làm được đến đây thôi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]
+"Was it enough?"
+> CONTEXT: Map039/events/1/pages/1/263/Dialogue < UNTRANSLATED
+\\ignr\\e[27]
+"Như vậy đủ chưa?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[28]\\nm[ Lynri ]
+". . . More than I could ever ask for."
+> CONTEXT: Map039/events/1/pages/1/273/Dialogue < UNTRANSLATED
+\\ignr\\e[28]\\nm[ Lynri ]
+". . . Hơn cả những gì tôi mong đợi."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[28]\\nm[ Lynri ]
+"But. . ."
+> CONTEXT: Map039/events/1/pages/1/286/Dialogue < UNTRANSLATED
+\\ignr\\e[28]\\nm[ Lynri ]
+"Nhưng. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[28]\\nm[ Lynri ]
+". . . I just wish he were actually here."
+> CONTEXT: Map039/events/1/pages/1/303/Dialogue < UNTRANSLATED
+\\ignr\\e[28]\\nm[ Lynri ]
+". . . Tôi chỉ ước rằng anh ấy thực sự ở đây."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]
+"He is here."
+> CONTEXT: Map039/events/1/pages/1/313/Dialogue < UNTRANSLATED
+\\ignr\\e[27]
+"Anh ấy đang ở đây."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]
+". . . He's been here this whole time."
+> CONTEXT: Map039/events/1/pages/1/349/Dialogue < UNTRANSLATED
+\\ignr\\e[27]
+". . . Anh ấy đã ở đây suốt thời gian qua."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]
+"And from now on, \\.he always will be."
+> CONTEXT: Map039/events/1/pages/1/358/Dialogue < UNTRANSLATED
+\\ignr\\e[27]
+"Và từ bây giờ, \\.anh ấy sẽ luôn như vậy."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]
+"From now on. . .\\.\\. Everybody will be."
+> CONTEXT: Map039/events/1/pages/1/382/Dialogue < UNTRANSLATED
+\\ignr\\e[27]
+"Từ bây giờ. . .\\.\\. Mọi người sẽ luôn như vậy."
+> END STRING
