@@ -33,7 +33,7 @@ COMMON EVENT 10 CALLED -
 > BEGIN STRING
 \\e[0]Received \\c[6]\\oi[54]
 > CONTEXT: Commonevents/20/48/Dialogue < UNTRANSLATED
-
+\\e[0]Đã nhận \\c[6]\\oi[54]
 > END STRING
 
 > BEGIN STRING
@@ -64,7 +64,8 @@ COMMON EVENT 10 CALLED -
 \\ignr\\e[40]
 Who goes to fetch the files?
 > CONTEXT: Commonevents/20/63/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]
+Ai thường xuyên đi lấy tài liệu?
 > END STRING
 
 > BEGIN STRING
@@ -99,14 +100,17 @@ R. Gao"
 "Turn off visibility and interactivity; \\.it'd
 be messy to be seen."
 > CONTEXT: Commonevents/26/85/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Ts. Rosalene ]
+"Vô hiệu hóa hiển thị và tương tác; \\.
+Để lộ ra lúc này sẽ rất rối.."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[44]\\nm[ Dr. Watts ]
 "Yeah yeah, \\.happy?"
 > CONTEXT: Commonevents/26/88/Dialogue < UNTRANSLATED
-
+\\ignr\\e[44]\\nm[ Ts. Watts ]
+"Ờ ờ, \\.vui ha?"
 > END STRING
 
 > BEGIN STRING
@@ -203,18 +207,19 @@ Cần: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
 \\ignr\\e[0]\\nm[ Dr. Watts ]
 "What?"
 > CONTEXT: Commonevents/103/116/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Ts. Watts ]
+"Cái gì?"
 > END STRING
 
 > BEGIN STRING
 \\e[0]\\iNot enough memory links established.
 > CONTEXT: Commonevents/130/5/Dialogue < UNTRANSLATED
-
+\\e[0]\\iKhông đủ bộ nhớ, không thể thực hiện thao tác.
 > END STRING
 
 > BEGIN STRING
 \\e[0]\\iRequires \\b\\v[32]\\b \\oi[26] to proceed.\\i
 > CONTEXT: Commonevents/131/8/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/131/11/Dialogue < UNTRANSLATED
-
+\\e[0]\\iCần \\b\\v[32]\\b \\oi[26] để tiến hành.\\i
 > END STRING

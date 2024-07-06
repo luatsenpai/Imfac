@@ -1,0 +1,201 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+H E L L O
+> CONTEXT: Map173/events/2/pages/0/20/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+C H À O
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hey. . . \\.\\.What is this place?"
+> CONTEXT: Map173/events/2/pages/0/25/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ê. . . \\.\\.đây là chỗ nào vậy?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+W E L C O M E   T O   T H E
+H O M E   O F   R I C E B O T
+> CONTEXT: Map173/events/2/pages/0/28/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+C H À O  M Ừ N G  Đ Ế N
+N H À  C Ủ A  R I C E B O T
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Huh, \\.so this is where you charge, \\.huh?"
+> CONTEXT: Map173/events/2/pages/0/34/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+"Huh, \\.vậy đây là nơi mi sạc điện \\.sao?"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+C O R R E C T
+> CONTEXT: Map173/events/2/pages/0/43/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+C H Í N H  X Á C
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+I T   I S   N O T   G R A N D\\.
+\\.B U T   I T   I S   H O M E
+> CONTEXT: Map173/events/2/pages/0/51/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+T U Y  N Ó  K H Ô N G  L Ớ N
+\\.N H Ư N G  V Ẫ N  L À  N H À
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+R I C E ?
+> CONTEXT: Map173/events/2/pages/0/76/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+D Ù N G  C Ơ M  K H Ô N G ?
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Not now, \\.thanks. . .\\.
+There's stuff going on outside."
+> CONTEXT: Map173/events/2/pages/0/80/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+"Bây giờ không được, \\.cảm ơn. . .\\.
+Bên ngoài đang có chuyện rắc rối
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+O K
+> CONTEXT: Map173/events/2/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+C H A R G I N G
+> CONTEXT: Map173/events/2/pages/0/143/Dialogue < UNTRANSLATED
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+X Ạ C  Đ I Ệ N
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+H N N N N N N N N N G H
+> CONTEXT: Map173/events/2/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"I don't know about you, \\.but I find it suspicious that
+a bot this advanced would be just a rice cooker. . ."
+> CONTEXT: Map173/events/2/pages/0/160/Dialogue < UNTRANSLATED
+\\ignr\\e[7]\\nm[ Lynri ]
+"I don't know about you, \\.but I find it suspicious that
+a bot this advanced would be just a rice cooker. . ."
+> END STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Ta không biết mi thế nào, nhưng ta thấy nghi ngờ về
+việc một con bot tiên tiến như thế này lại chỉ là. . ."
+một nồi cơm điện.
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"I know, \\.right?!"
+> CONTEXT: Map173/events/2/pages/0/170/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi nói \\.đúng chứ?!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"I got my eyes on it. . ."
+> CONTEXT: Map173/events/2/pages/0/179/Dialogue < UNTRANSLATED
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi đã nhắm vào nó. . ."
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+Rice.
+> CONTEXT: Map173/events/5/pages/0/3/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Cơm.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+More rice.
+> CONTEXT: Map173/events/5/pages/0/9/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Thêm cơm.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+Even more rice.
+> CONTEXT: Map173/events/5/pages/0/15/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Thêm cơm nữa.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+So much rice.
+> CONTEXT: Map173/events/5/pages/0/21/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Thật nhiều cơm.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+All the rice.
+> CONTEXT: Map173/events/5/pages/0/26/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Toàn là cơm.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]
+Rice.
+> CONTEXT: Map173/events/6/pages/0/3/Dialogue < UNTRANSLATED
+\\ignr\\e[6]
+Cơm.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]
+More rice.
+> CONTEXT: Map173/events/6/pages/0/9/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Thêm cơm.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]
+Even more rice.
+> CONTEXT: Map173/events/6/pages/0/15/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Thêm cơm nữa.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]
+So much rice.
+> CONTEXT: Map173/events/6/pages/0/21/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Thật nhiều cơm.
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]
+All the rice.
+> CONTEXT: Map173/events/6/pages/0/26/Dialogue < UNTRANSLATED
+\\ignr\\e[5]
+Toàn là cơm.
+> END STRING

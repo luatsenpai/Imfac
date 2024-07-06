@@ -73,7 +73,7 @@ có thể hỏi bố một câu không?"
 a bit to the west,\\. but. . ."
 > CONTEXT: Map047/events/126/pages/1/28/Dialogue < UNTRANSLATED
 \\ignr\\e[67]\\nm[ Lynri ]
-"trong đây chỉ nói nó hơi chếch
+"Trong đây chỉ nói nó hơi chếch
 về phía tây một chút,\\. nhưng. . ."
 > END STRING
 

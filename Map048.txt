@@ -1,0 +1,10 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]
+A working vintage record player.
+> CONTEXT: Map048/events/16/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/40/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/47/pages/1/6/Dialogue < UNTRANSLATED
+\\ignr\\e[0]
+Máy hát đĩa cổ đang chạy.
+> END STRING
