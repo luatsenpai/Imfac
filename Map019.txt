@@ -98,7 +98,7 @@ Một chiếc chìa khóa đồng nhỏ.
 ( Uhhh, \\.I should probably get that back. . . )
 > CONTEXT: Map019/events/12/pages/0/197/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Uhhh, \\.Có lẽ mình nên lấy nó ở lại . . )
+( Uhhh, \\.Có lẽ mình nên lấy nó ra . . )
 > END STRING
 
 > BEGIN STRING
@@ -126,7 +126,7 @@ dụ nó ra. . . )
 ( Here goes something. . . \\.\\.on a stick. . . )
 > CONTEXT: Map019/events/12/pages/2/70/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Đây, lấy thứ đó. . . \\.\\.trên cây gậy đi. . . )
+( Đây, lấy thứ này. . . \\.\\.trên cây gậy đi. . . )
 > END STRING
 
 > BEGIN STRING
@@ -140,7 +140,8 @@ dụ nó ra. . . )
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Looks like it wants to be left alone. . . )
 > CONTEXT: Map019/events/12/pages/4/55/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có vẻ như nó muốn được yên tĩnh. . . )
 > END STRING
 
 > BEGIN STRING
@@ -148,7 +149,7 @@ dụ nó ra. . . )
 The hole is empty.
 > CONTEXT: Map019/events/12/pages/5/56/Dialogue
 \\ignr\\e[0]
-Trong hố không có gì.
+Trong lỗ không có gì.
 > END STRING
 
 > BEGIN STRING
@@ -171,7 +172,8 @@ Trong hố không có gì.
 \\ignr\\e[17]
 Received \\oi[28].
 > CONTEXT: Map019/events/17/pages/1/18/Dialogue < UNTRANSLATED
-
+\\ignr\\e[17]
+Đã nhận \\oi[28].
 > END STRING
 
 > BEGIN STRING

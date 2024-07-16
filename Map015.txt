@@ -41,7 +41,7 @@ Stay a while longer
 > CONTEXT: Map015/events/2/pages/8/11/Dialogue
 > CONTEXT: Map015/events/3/pages/2/12/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Cái còn lại hình như vẫn mở . . )
+( Cửa còn lại hình như vẫn mở . . )
 > END STRING
 
 > BEGIN STRING
@@ -99,7 +99,7 @@ P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 "What the--. . .
 > CONTEXT: Map015/events/24/pages/1/96/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Cái gì--. . .
+"Cái gì--. . ."
 > END STRING
 
 > BEGIN STRING
@@ -115,7 +115,7 @@ P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 "The main attraction is off limits 'til then. \\.Sorry!"
 > CONTEXT: Map015/events/24/pages/1/299/Dialogue
 \\ignr\\e[35]\\nm[ Rika ]
-"Sảnh chính sẽ không mở của cho tới khi kết thúc tiệc. \\.Xin lỗi!"
+"Phần chính sẽ không mở cửa cho tới khi kết thúc tiệc. \\.Xin lỗi!"
 > END STRING
 
 > BEGIN STRING
@@ -123,14 +123,15 @@ P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 "The main attraction. . . ?"
 > CONTEXT: Map015/events/24/pages/1/341/Dialogue
 \\ignr\\e[24]\\nm[ Quincy ]
-"Sảnh chính. . . ?"
+"Phần chính. . . ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( The "main attraction". . . ? )
 > CONTEXT: Map015/events/28/pages/1/9/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( "Phần chính". . . ? )
 > END STRING
 
 > BEGIN STRING
@@ -715,7 +716,7 @@ T A K E   T H I S
 ( There are buttons on here. . . )
 > CONTEXT: Map015/events/39/pages/2/2/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Có vài cái nút trên này. . . )
+( Ở đây có vài cái nút. . . )
 > END STRING
 
 > BEGIN STRING
@@ -814,7 +815,7 @@ X I N  H Ã Y  N Ó I  C Ụ  T H Ể
 cook the \\ibest\\i rice?\\. Who's to say?"
 > CONTEXT: Map015/events/39/pages/2/112/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ý ta là, \\.làm sao ngươi biết mi
+"Ý ta là, \\.làm sao mi biết mi
 nấu cơm \\ingon\\i?\\. Ai làm chứng?"
 > END STRING
 
@@ -1047,7 +1048,7 @@ N G À I  M U Ố N  Ă N  C H Ứ?
 "Yeah, \\.it was good. . . \\.Thanks."
 > CONTEXT: Map015/events/39/pages/3/37/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ừm, \\.nó ngon đấy . . \\.Cảm ơn."
+"Ừm, \\.ngon đấy . . \\.Cảm ơn."
 > END STRING
 
 > BEGIN STRING
@@ -1056,8 +1057,8 @@ J U S T   G O O D ?   \\.\\.
 T H E Y   A R E   T O   D I E   F O R
 > CONTEXT: Map015/events/39/pages/3/41/Dialogue
 \\ignr\\e[39]\\nm[ R I C E B O T ]
-C H Ỉ  N G O N  T H Ô I  S A O?   \\.\\.
-P H Ả I  L À  N G O N  T U Y Ệ T
+C H Ỉ  N G O N  T H Ô I  S A O ?   \\.\\.
+P H Ả I  L À  N G O N  T U Y Ệ T !
 > END STRING
 
 > BEGIN STRING
@@ -1084,8 +1085,8 @@ E M I L   Đ Ã  T H Ử  S U S H I  C Á H Ồ I\\.
 troubling given the circumstances."
 > CONTEXT: Map015/events/39/pages/3/58/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Oookay. . . \\.Cách mi nói mới
-là đáng lo ngại trong hoàn cảnh này."
+"Đ-Được rồi... \\.Cách mi nói trong tình
+huống như vầy thật là đáng lo ngại."
 > END STRING
 
 > BEGIN STRING
@@ -1171,8 +1172,8 @@ phần trăm giá trị của căn phòng này."
 > CONTEXT: Map015/events/49/pages/0/58/Dialogue
 > CONTEXT: Map015/events/49/pages/0/282/Dialogue
 \\ignr\\e[49]\\nm[ Viktor ]
-"Anh không thể nào là
-\\inhà đầu tư\\i. \\.. \\.. \\.\\.đúng chứ?"
+"Anh chắc không phải là 
+\\inhà đầu tư\\i đâu. \\.. \\.. \\.\\.đúng chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -1302,7 +1303,7 @@ are we talking about?"
 > CONTEXT: Map015/events/50/pages/0/44/Dialogue
 \\ignr\\e[51]\\nm[ Lynri ]
 "Xin lỗi, nhưng chúng ta
-đang nói về nghành nào vậy?"
+đang nói về ngành nào vậy?"
 > END STRING
 
 > BEGIN STRING
@@ -1323,7 +1324,7 @@ I must forever be slowing down."
 > CONTEXT: Map015/events/50/pages/0/18/Dialogue
 > CONTEXT: Map015/events/50/pages/0/50/Dialogue
 \\ignr\\e[50]\\nm[ Louie ]
-"Đó là lời nguyền của thiên tài:
+"Đó là lời nguyền của thiên tài.
 Tôi sẽ mãi tuột hậu mất."
 > END STRING
 
@@ -1368,7 +1369,7 @@ vậy, chúng ta cần quay lại với vật lý cơ bản. . . !"
 "Um. . . \\.\\.excuse me. . ."
 > CONTEXT: Map015/events/51/pages/0/9/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Um. . . \\.\\cho hỏi. . ."
+"Um. . . \\.\\.cho hỏi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1384,7 +1385,7 @@ vậy, chúng ta cần quay lại với vật lý cơ bản. . . !"
 "\\i'Again'\\i--. . .\\. So you remember?!"
 > CONTEXT: Map015/events/51/pages/0/25/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"\\i'Lại'\\i--. . .\\. Cô đã nhớ ra rồi sao?!"
+"\\i'Lại '\\i--. . .\\. Cô đã nhớ ra rồi sao?!"
 > END STRING
 
 > BEGIN STRING
@@ -1411,8 +1412,8 @@ nó \\irất\\i ấn tượng đấy. . . !"
 we talking about again?"
 > CONTEXT: Map015/events/51/pages/0/38/Dialogue
 \\ignr\\e[51]\\nm[ Lynri ]
-"À. . . ừm, \\.tất nhiên rồi. \\.\\.Hay
-chúng ta thỏa luận về nó nữa đi?"
+"À. . . ừm, \\.tất nhiên rồi. \\.\\.
+Chúng ta đang bàn về chuyện gì ấy nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -1421,7 +1422,7 @@ chúng ta thỏa luận về nó nữa đi?"
 \\isecond\\i \\.most common place to find ice. . ."
 > CONTEXT: Map015/events/51/pages/0/41/Dialogue
 \\ignr\\e[50]\\nm[ Louie ]
-"Vậy, \\.bởi thế nên bên dưới tủ lạnh chính là
+"Thì là, \\.bởi thế nên bên dưới tủ lạnh chính là
 \\inơi thứ hai\\i \\.có thể tìm thấy đá. . ."
 > END STRING
 
@@ -1429,7 +1430,8 @@ chúng ta thỏa luận về nó nữa đi?"
 \\ignr\\e[51]\\nm[ Lynri ]
 "Uh huh. . . "
 > CONTEXT: Map015/events/51/pages/0/52/Dialogue < UNTRANSLATED
-
+\\ignr\\e[51]\\nm[ Lynri ]
+"Ừ hứ. . . "
 > END STRING
 
 > BEGIN STRING
@@ -1440,7 +1442,7 @@ chúng ta thỏa luận về nó nữa đi?"
 > CONTEXT: Map015/events/51/pages/1/12/Dialogue
 \\ignr\\e[50]\\nm[ Louie ]
 "Và nó chỉ mới là khởi đầu thôi!\\.
-\\.Hãy kiên nhẫn nghe hết!"
+\\.Cô hãy kiên nhẫn nghe cho hết!"
 > END STRING
 
 > BEGIN STRING
@@ -1514,8 +1516,8 @@ sẽ thấy điều này \\icực kỳ\\i hấp dẫn. . . !"
 we talking about again?"
 > CONTEXT: Map015/events/51/pages/1/46/Dialogue
 \\ignr\\e[51]\\nm[ Lynri ]
-"À. . . ừm, \\.tất nhiên rồi. \\.\\.Hay
-chúng ta thỏa luận về nó nữa đi?"
+"À. . . ừm, \\.tất nhiên rồi. \\.\\.
+Chúng ta đang bàn về chuyện gì ấy nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -1544,7 +1546,7 @@ bỏ vào thùng rác công cộng. . ."
 to spend money for once!"
 > CONTEXT: Map015/events/52/pages/0/4/Dialogue
 \\ignr\\e[52]\\nm[ Idina ]
-"Tôi rất vui khi thấy anh tôi biết
+"Tôi rất vui khi thấy anh của tôi biết
 cách chi tiền hợp lý!"
 > END STRING
 
@@ -1555,7 +1557,7 @@ cách chi tiền hợp lý!"
 > CONTEXT: Map015/events/52/pages/0/7/Dialogue
 \\ignr\\e[52]\\nm[ Idina ]
 "Chẳng vì gì cả, mới hôm qua thôi, anh ta nhìn vào đôi
-giày nạm hồng ngọc \\ixinh xắn\\i của tôi rồi nói. . ."
+giày đính hồng ngọc \\ixinh xắn\\i của tôi rồi nói. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1564,7 +1566,7 @@ giày nạm hồng ngọc \\ixinh xắn\\i của tôi rồi nói. . ."
 inheriting our father's fortune \\.\\.just to spend it all!' "
 > CONTEXT: Map015/events/52/pages/0/10/Dialogue
 \\ignr\\e[52]\\nm[ Idina ]
-" Em gái à, anh đâu có nai lưng ra \\ilàm việc khổ sở\\i để
+" 'Em gái à, anh đâu có nai lưng ra \\ilàm việc khổ sở\\i để
 kế thừa gia sản của cha \\.\\.chỉ để tiêu xài hoang phí đâu!' "
 > END STRING
 
@@ -1575,8 +1577,8 @@ better now than they've done at home. . . "
 > CONTEXT: Map015/events/52/pages/0/17/Dialogue
 > CONTEXT: Map015/events/52/pages/0/50/Dialogue
 \\ignr\\e[53]\\nm[ Prisha ]
-"Anh đã nói em là số tiền chung của anh em mình
-đem phục vụ nhân loại tốt hơn xài riêng. . . "
+"Số tiền chung của hai người đem phục vụ
+nhân loại còn tốt hơn đem đi xài riêng. . . "
 > END STRING
 
 > BEGIN STRING
@@ -1613,7 +1615,7 @@ chờ bao lâu nữa đây?"
 "I'm happy to see my brother so eager
 to spend money for once!"
 > CONTEXT: Map015/events/52/pages/0/37/Dialogue
-"Tôi rất vui khi thấy anh tôi biết
+"Tôi rất vui khi thấy anh của tôi biết
 cách chi tiền hợp lý!"
 > END STRING
 
@@ -1623,7 +1625,7 @@ cách chi tiền hợp lý!"
 \\icute\\i emerald-encrusted shoehorn and said. . ."
 > CONTEXT: Map015/events/52/pages/0/40/Dialogue
 "Chẳng vì gì cả, mới hôm qua thôi, anh ta nhìn vào đôi
-giày nạm emerald \\ixinh xắn\\i của tôi rồi nói. . ."
+giày đính emerald \\ixinh xắn\\i của tôi rồi nói. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1631,7 +1633,7 @@ giày nạm emerald \\ixinh xắn\\i của tôi rồi nói. . ."
 " 'Sister, I didn't slave my life away with \\ihard work\\i
 inheriting our mother's fortune \\.\\.just to spend it all!' "
 > CONTEXT: Map015/events/52/pages/0/43/Dialogue
-" Em gái à, anh đâu có nai lưng ra \\ilàm việc khổ sở\\i để
+" 'Em gái à, anh đâu có nai lưng ra \\ilàm việc khổ sở\\i để
 kế thừa gia sản của mẹ \\.\\.chỉ để tiêu xài hoang phí đâu!' "
 > END STRING
 
@@ -1793,7 +1795,7 @@ I mean, \\.am I going crazy??"
 > CONTEXT: Map015/events/54/pages/0/45/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Tôi không có hứng--\\.\\.
-Tôi\\. có bị làm sao không vậy??"
+Chẳng lẽ \\.tôi đang bị hâm sao??"
 > END STRING
 
 > BEGIN STRING
@@ -1833,7 +1835,7 @@ và rôi tôi. . . \\.vào phòng vệ sinh. . ."
 They were standing there. . ."
 > CONTEXT: Map015/events/54/pages/0/74/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Nhưgn sau đó. . . \\.\\.
+"Nhưng sau đó. . . \\.\\.
 Họ lại đứng ở đây. . ."
 > END STRING
 

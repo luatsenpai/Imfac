@@ -6,7 +6,7 @@ my hands while I'm here. . . )
 > CONTEXT: Map017/events/2/pages/0/7/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Thôi thì nhân tiện ở đây,
-mình cũng rửa tay luôn vậy. . . )
+mình đi rửa tay luôn vậy. . . )
 > END STRING
 
 > BEGIN STRING
@@ -791,7 +791,7 @@ Bồn cầu bằng vàng.
 > CONTEXT: Map017/events/13/pages/0/16/Dialogue
 > CONTEXT: Map017/events/14/pages/0/16/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Giờ không có như cầu lắm, \\.nhưng nếu có như cầu. . . )
+( Giờ không có nhu cầu lắm, \\.nhưng nếu có nhu cầu. . . )
 > END STRING
 
 > BEGIN STRING

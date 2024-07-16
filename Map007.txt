@@ -277,7 +277,9 @@ Cửa khóa.
 A fancy painting of a lady whose eyes
 always seem to follow you.
 > CONTEXT: Map007/events/23/pages/0/3/Dialogue < UNTRANSLATED
-
+\\ignr\\e[28]
+Bức tranh kiệt tác vẽ một quý cô có
+đôi mắt luôn dõi theo bạn.
 > END STRING
 
 > BEGIN STRING

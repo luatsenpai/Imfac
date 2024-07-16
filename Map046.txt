@@ -27,7 +27,7 @@ Cửa khóa.
 > CONTEXT: Map013/events/20/pages/8/13/Dialogue
 > CONTEXT: Commonevents/62/5/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ê. . ."
+"Này. . ."
 > END STRING
 
 > BEGIN STRING

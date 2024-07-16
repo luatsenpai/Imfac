@@ -45,7 +45,7 @@
 > CONTEXT: Map018/events/4/pages/1/136/Dialogue
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
 "Bắt quân vua bằng chính quân tốt của ta. . .
-\\.\\.Đúng là nước đi không thể lường trước."
+\\.\\.Đúng là nước đi không thể lường trước được."
 > END STRING
 
 > BEGIN STRING
@@ -53,7 +53,7 @@
 "Okay, \\.look. . ."
 > CONTEXT: Map018/events/4/pages/1/148/Dialogue
 \\ignr\\e[16]\\nm[ Ts. Yu ]
-"Okay, \\.này. . ."
+"Được rồi, \\.này. . ."
 > END STRING
 
 > BEGIN STRING
@@ -63,7 +63,7 @@
 > CONTEXT: Map018/events/4/pages/1/173/Dialogue
 \\ignr\\e[16]\\nm[ Ts. Yu ]
 "Trò \\i'cờ vua'\\i cũng dễ thương đấy,
-\\.nhưng chúng ta vào thằng vấn đề chứ?"
+\\.nhưng chúng ta vào thẳng vấn đề được chưa?"
 > END STRING
 
 > BEGIN STRING
@@ -87,7 +87,7 @@
 ". . . Well, \\.I see the others are arriving."
 > CONTEXT: Map018/events/4/pages/1/239/Dialogue
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
-". . . Chà, \\.người khác đến rồi kìa."
+". . . Chà, \\.vị khách khác đến rồi kìa."
 > END STRING
 
 > BEGIN STRING
@@ -95,7 +95,7 @@
 "Not leaving because you're losing, \\.for once."
 > CONTEXT: Map018/events/4/pages/1/272/Dialogue
 \\ignr\\e[16]\\nm[ Ts. Yu ]
-"Đừng rời đi, vì ông sẽ \\.phải thua thôi."
+"Đừng có mà bỏ đi \\.chỉ vì ông đang thua."
 > END STRING
 
 > BEGIN STRING
@@ -103,7 +103,7 @@
 "I don't lose.\\.\\. I get generous."
 > CONTEXT: Map018/events/4/pages/1/286/Dialogue
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
-"Tôi không thua.\\.\\. là tôi hào phóng thôi."
+"Tôi không thua.\\.\\. Là tôi hào phóng thôi."
 > END STRING
 
 > BEGIN STRING
@@ -455,7 +455,8 @@ Lửa. Nóng.
 ( That lady. . . \\.\\.She looks familiar. )
 > CONTEXT: Map018/events/7/pages/1/26/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/8/pages/1/29/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Cô gái đó. . . \\.\\.trông quen quá. )
 > END STRING
 
 > BEGIN STRING
@@ -463,7 +464,8 @@ Lửa. Nóng.
 ( Was she the one who invited me. . . ? )
 > CONTEXT: Map018/events/7/pages/1/35/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/8/pages/1/41/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Cô ấy là người đã mời mình ư. . . ? )
 > END STRING
 
 > BEGIN STRING
@@ -471,7 +473,7 @@ Lửa. Nóng.
 "Hey. . . \\.\\.The door's locked."
 > CONTEXT: Map018/events/7/pages/2/79/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ê. . . \\.\\.Cánh cửa khóa mất rồi."
+"Này. . . \\.\\.Cánh cửa khóa mất rồi."
 > END STRING
 
 > BEGIN STRING
@@ -703,7 +705,7 @@ Cửa khóa.
 "No. . . \\.\\.I'm a guest."
 > CONTEXT: Map018/events/18/pages/3/83/Dialogue
 \\ignr\\e[18]\\nm[ Lynri ]
-"Không. . . \\.\\.rôi chỉ là khách thôi."
+"Không. . . \\.\\.tôi chỉ là khách thôi."
 > END STRING
 
 > BEGIN STRING
@@ -711,7 +713,7 @@ Cửa khóa.
 "A guest. . . ? \\.\\.But--
 > CONTEXT: Map018/events/18/pages/3/88/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Khách sao. . . ? \\.\\.Nhưng--
+"Khách sao. . . ? \\.\\.Nhưng--"
 > END STRING
 
 > BEGIN STRING
@@ -745,7 +747,7 @@ Cửa khóa.
 "Er. . . \\.\\.Excuse me?"
 > CONTEXT: Map018/events/18/pages/3/109/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Er. . . \\.\\.Xin lỗi?"
+"Hở. . . \\.\\.Xin lỗi?"
 > END STRING
 
 > BEGIN STRING
@@ -760,7 +762,8 @@ Cửa khóa.
 \\ignr\\e[0]\\nm[ Quincy ]
 "Uhh. . ."
 > CONTEXT: Map018/events/18/pages/3/127/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -784,7 +787,7 @@ Cửa khóa.
 "Okay, fine. . . \\.\\.It's avocado salad."
 > CONTEXT: Map018/events/18/pages/3/177/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Okay, được thôi. . . \\.\\.Là salad bơ."
+"Thôi được rồi. . . \\.\\.Là salad bơ."
 > END STRING
 
 > BEGIN STRING
@@ -808,7 +811,7 @@ Cửa khóa.
 "Hey. . . \\.You never told me your name."
 > CONTEXT: Map018/events/18/pages/3/242/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Mà. . . \\.cô chưa nói tên mình."
+"Mà. . . \\.cô chưa nói tên của mình."
 > END STRING
 
 > BEGIN STRING
@@ -880,7 +883,7 @@ Cửa khóa.
 ". . . Never mind that. \\.Maybe I'll ask later."
 > CONTEXT: Map018/events/19/pages/1/74/Dialogue
 \\ignr\\e[21]\\nm[ Lynri ]
-". . . Cứ kệ đi. \\.Có lẽ tôi sẽ hỏi sau vậy."
+". . . Thôi kệ đi. \\.Có lẽ tôi sẽ hỏi sau vậy."
 > END STRING
 
 > BEGIN STRING
@@ -898,7 +901,7 @@ I just need a moment to myself."
 > CONTEXT: Map018/events/19/pages/3/9/Dialogue
 \\ignr\\e[21]\\nm[ Lynri ]
 "Đừng bận tâm đến tôi . . \\.\\.
-Tôi cần yên tĩnh một chút."
+Tôi cần một chút yên tĩnh."
 > END STRING
 
 > BEGIN STRING
@@ -984,8 +987,8 @@ Tôi cần yên tĩnh một chút."
 moment to myself, \\.please?"
 > CONTEXT: Map018/events/19/pages/3/148/Dialogue
 \\ignr\\e[21]\\nm[ Lynri ]
-"Xin lỗi,\\. nhưng. . .\\.\\. tôi cần
-yên tĩnh một lát, \\.được chứ?"
+"Xin lỗi,\\. nhưng. . .\\.\\. Cho tôi
+xin chút yên tĩnh, \\.được chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -1046,7 +1049,7 @@ cùng hai cái ly.
 Pour a glass and drink?
 > CONTEXT: Map018/events/29/pages/0/10/Dialogue
 \\ignr\\e[29]
-Đổ ra cốc bà uống?
+Đổ ra cốc và uống?
 > END STRING
 
 > BEGIN STRING
@@ -1054,7 +1057,9 @@ Pour a glass and drink?
 ( It's not \\ithat\\i inviting. . . \\|I shouldn't
 just drink others' stuff. )
 > CONTEXT: Map018/events/29/pages/0/15/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Chẳng \\ihấp dẫn\\i chút nào. . . \\|Mình
+không nên uống đồ uống của người khác. )
 > END STRING
 
 > BEGIN STRING
@@ -1088,7 +1093,7 @@ Ván cờ đang dang dở.
 A collection of awards and accolades.
 > CONTEXT: Map018/events/31/pages/0/3/Dialogue
 \\ignr\\e[0]
-Bộ sưu tập giải thường và danh hiệu.
+Bộ sưu tập giải thưởng và danh hiệu.
 > END STRING
 
 > BEGIN STRING
@@ -1097,14 +1102,16 @@ Server-like equipment with lights
 in the ON position.
 > CONTEXT: Map018/events/32/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/32/pages/1/3/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]
+Thiết bị máy chủ đang sáng đèn.
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[43]\\nm[ Prisha ]
 "These wounds are really something. . ."
 > CONTEXT: Map018/events/38/pages/1/1/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Prisha ]
+"Vết thương này thật kinh khủng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1112,7 +1119,9 @@ in the ON position.
 ". . . These aren't bullet wounds,\\.
 nor are they knife wounds. . ."
 > CONTEXT: Map018/events/38/pages/1/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Prisha ]
+". . . Không phải do đạn bắn,\\.
+cũng không phải vết dao. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1122,7 +1131,7 @@ We don't know if the bodies are dangerous."
 > CONTEXT: Map018/events/38/pages/1/11/Dialogue
 \\ignr\\e[38]\\nm[ Emil ]
 "Hãy lùi lại, \\.Bà Ahuja. \\.
-Chúng tôi không biết thi thể có nguy hiềm không."
+Chúng tôi không biết thi thể có nguy hiểm không."
 > END STRING
 
 > BEGIN STRING

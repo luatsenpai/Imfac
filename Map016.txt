@@ -52,8 +52,8 @@ P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 I'm actually saving time. . .\\.\\. \\iand\\i freshness."
 > CONTEXT: Map016/events/8/pages/0/3/Dialogue
 \\ignr\\e[8]\\nm[ Đầu Bếp Tóc Lam ]
-"Thay vì xếp hàng dài cổ cở siêu thị,\\. mình sẽ
-tiết khiệm khối thời gian. . .\\.\\. \\ivà\\i độ tươi."
+"Thay vì xếp hàng dài cổ ở siêu thị,\\. mình sẽ
+tiết kiệm khối thời gian. . .\\.\\. \\ivà\\i độ tươi."
 > END STRING
 
 > BEGIN STRING
@@ -206,7 +206,7 @@ thêm đầu bếp. . ."
 "Need an extra pair of hands. . . ?"
 > CONTEXT: Map016/events/12/pages/0/10/Dialogue
 \\ignr\\e[24]\\nm[ Lynri ]
-"Có vần phụ một tay không. . . ?"
+"Cần tôi phụ một tay không. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -214,7 +214,7 @@ thêm đầu bếp. . ."
 "No. . . \\.\\.Just save yourselves. . ."
 > CONTEXT: Map016/events/12/pages/0/12/Dialogue
 \\ignr\\e[12]\\nm[ Đầu Bếp Tóc Đỏ ]
-"Không. . . \\.\\.Tự lo thân mình đi. . ."
+"Không. . . \\.\\.Cô tự lo thân mình đi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -267,7 +267,7 @@ A silver samovar.
 The pot's a maniac.
 > CONTEXT: Map016/events/21/pages/0/3/Dialogue
 \\ignr\\e[0]
-Chiếc nồi đầy vung.
+Chiếc nồi đầy vun.
 > END STRING
 
 > BEGIN STRING
