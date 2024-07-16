@@ -326,7 +326,8 @@ T H I S   I S   T H E   F U R T H E S T   P O I N T
 > CONTEXT: Map015/events/37/pages/4/105/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/19/pages/3/136/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/41/pages/0/47/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hở?"
 > END STRING
 
 > BEGIN STRING

@@ -40,7 +40,7 @@ Cổng khóa rồi.
 > CONTEXT: Map005/events/17/pages/3/178/Dialogue
 > CONTEXT: Map005/events/17/pages/4/166/Dialogue
 \\ignr\\e[5]
-"Đường cụt rồi. . ."
+"Tới cuối con đường rồi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -60,8 +60,8 @@ in the first place. . . )
 > CONTEXT: Map005/events/17/pages/3/213/Dialogue
 > CONTEXT: Map005/events/17/pages/4/201/Dialogue
 \\ignr\\e[5]\\nm[ Quincy ]
-( Tại sao mình lại nhận lời
-vậy trời. . . )
+( Tại sao mình lại nhận
+lời mời này nhỉ. . . )
 > END STRING
 
 > BEGIN STRING
@@ -70,7 +70,7 @@ vậy trời. . . )
 > CONTEXT: Map005/events/17/pages/3/230/Dialogue
 > CONTEXT: Map005/events/17/pages/4/218/Dialogue
 \\ignr\\e[5]\\nm[ Quincy ]
-( Ờ, \\. đúng rồi. . . )
+( Hừm, \\. nói đúng hơn thì. . . )
 > END STRING
 
 > BEGIN STRING
@@ -79,7 +79,7 @@ vậy trời. . . )
 > CONTEXT: Map005/events/17/pages/3/249/Dialogue
 > CONTEXT: Map005/events/17/pages/4/237/Dialogue
 \\ignr\\e[5]\\nm[ Quincy ]
-( . . . Tại sao mình \\ilại\\i nhận lời vậy? )
+( . . . Tại sao mình \\ilại\\i nhận lời mời cơ chứ? )
 > END STRING
 
 > BEGIN STRING
@@ -198,5 +198,5 @@ Cửa khóa.
 ( It's empty. . .\\.\\. and damp. )
 > CONTEXT: Map005/events/88/pages/0/2/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Nó trống rỗng . .\\.\\. và ẩm ướt. )
+( Nó trống không . .\\.\\. và ẩm ướt. )
 > END STRING

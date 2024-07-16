@@ -20,7 +20,7 @@
 "Hi. . . \\.\\.I was invited to the,\\. uh. . ."
 > CONTEXT: Map013/events/4/pages/1/115/Dialogue
 \\ignr\\e[33]\\nm[ Quincy ]
-"Chào. . . \\.\\.tôi được mời đến,\\. uh. . ."
+"Chào. . . \\.\\.tôi được mời đến,\\. ừm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -36,7 +36,8 @@
 "Yes. \\.\\.You're the first guest to arrive,\\. in fact."
 > CONTEXT: Map013/events/4/pages/1/135/Dialogue
 \\ignr\\e[28]\\nm[ Emil ]
-"Đúng. \\.\\.Thực ra, ngài là vị khách đến đây\\. đầu tiên."
+"Đúng rồi đó ạ. \\.\\.Thực ra, ngài là
+vị khách đến đây\\. đầu tiên."
 > END STRING
 
 > BEGIN STRING
@@ -44,7 +45,7 @@
 "You aren't early; \\.the other guests are just late."
 > CONTEXT: Map013/events/4/pages/1/148/Dialogue
 \\ignr\\e[29]\\nm[ Rika ]
-"Ngài không đến sớm; \\.chỉ là những người khác đến trễ thôi."
+"Ngài không đến sớm, \\.chỉ là những người khác đến trễ thôi."
 > END STRING
 
 > BEGIN STRING
@@ -52,7 +53,7 @@
 "Huh. . . \\.\\.must be the rain."
 > CONTEXT: Map013/events/4/pages/1/164/Dialogue
 \\ignr\\e[33]\\nm[ Quincy ]
-"Hừm. . . \\.\\.chắc là do trời mưa đấy."
+"Hừm. . . \\.\\.chắc hẳn là do trời mưa rồi."
 > END STRING
 
 > BEGIN STRING
@@ -68,7 +69,8 @@
 "That's fine. \\.\\.Just stand still for a moment."
 > CONTEXT: Map013/events/4/pages/1/217/Dialogue
 \\ignr\\e[29]\\nm[ Rika ]
-"Không sao. \\.\\.Chỉ cần đứng đó một chút thôi."
+"Không sao đâu ạ. \\.\\.Ngài chỉ cần cần
+đứng đó một chút thôi."
 > END STRING
 
 > BEGIN STRING
@@ -2828,7 +2830,7 @@ thật. . . \\.nhưng nếu vì thế thì hơi quá!"
 > CONTEXT: Map013/events/40/pages/1/12/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Ờm, \\.tôi chỉ mới đến, nhưng. . .
-\\.\\.sao nó sang trọng thế?"
+\\.\\.sao nó lại sang trọng đến vậy?"
 > END STRING
 
 > BEGIN STRING
@@ -2836,7 +2838,7 @@ thật. . . \\.nhưng nếu vì thế thì hơi quá!"
 "Although, \\.if you don't mind me asking. . ."
 > CONTEXT: Map013/events/40/pages/1/16/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Tuy nhiên, \\.nếu cô không phiền, tôi muốn hỏi. . ."
+"Nếu anh \\.không phiền, tôi muốn hỏi một câu. . ."
 > END STRING
 
 > BEGIN STRING
@@ -2855,7 +2857,7 @@ so với trong này,\\. chẳng khác gì ngày và đêm cả."
 The endless rain has halted my efforts."
 > CONTEXT: Map013/events/40/pages/1/27/Dialogue
 \\ignr\\e[40]\\nm[ Emil ]
-"À, \\.xin lỗi vì bộ dạng đó. . . \\.
+"À, \\.xin lỗi vì khung cảnh đó. . . \\.
 Mưa gió suốt đã cản trở công việc của tôi."
 > END STRING
 
@@ -2870,7 +2872,7 @@ Mưa gió suốt đã cản trở công việc của tôi."
 > BEGIN STRING
 A literal fox?
 > CONTEXT: Map013/events/40/pages/1/36/Choice/0
-Đây là cáo thật?
+Là cáo thật sao?
 > END STRING
 
 > BEGIN STRING
@@ -2926,7 +2928,7 @@ của chú tôi và xơi sạch đám gà."
 "Uh, \\.I don't think so. . ."
 > CONTEXT: Map013/events/40/pages/1/69/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Uh, \\.tôi nghĩ là chưa. . ."
+"Ừm, \\.tôi nghĩ là chưa. . ."
 > END STRING
 
 > BEGIN STRING
@@ -3014,7 +3016,7 @@ Ngài đã dọa tôi chết khiếp."
 "Huh, \\.I didn't see a thing. . ."
 > CONTEXT: Map013/events/40/pages/3/14/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Huh, \\.Tôi không chứng kiến gì cả. . ."
+"Hở, \\.Tôi không chứng kiến gì cả. . ."
 > END STRING
 
 > BEGIN STRING
@@ -3200,7 +3202,7 @@ Có nhiều thứ vẫn đang đợi họ phía trước. . ."
 "Right. . ."
 > CONTEXT: Map013/events/41/pages/0/72/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Rồi. . ."
+"Được rồi. . ."
 > END STRING
 
 > BEGIN STRING

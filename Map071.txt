@@ -43,8 +43,8 @@ DO NOT ENTER"
 > CONTEXT: Map071/events/75/pages/1/1/Dialogue
 > CONTEXT: Map005/events/75/pages/1/1/Dialogue
 \\ignr\\e[0]
-". . . Ngài Floofox . . .
-ĐỪNG VÀO ĐẤY"
+". . . Floofox . . .
+CẤM VÀO"
 > END STRING
 
 > BEGIN STRING
@@ -53,5 +53,5 @@ A drinking pool.
 > CONTEXT: Map071/events/89/pages/0/2/Dialogue
 > CONTEXT: Map005/events/89/pages/0/2/Dialogue
 \\ignr\\e[0]
-Bể bơi.
+Chậu nước.
 > END STRING
