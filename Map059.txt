@@ -46,7 +46,7 @@ survive and reproduce;\\. thus filtering itself out."
 > CONTEXT: Map059/events/56/pages/0/44/Dialogue
 \\ignr\\e[19]\\nm[ Giáo Viên ]
 ". . . Và nếu đột biến có hại,\\. nó ít có khả năng sống sót
-và sinh sản;\\. do đó tự loại bỏ chính nó khỏi quần thể."
+và sinh sản,\\. do đó nó sẽ tự loại bỏ khỏi quần thể."
 > END STRING
 
 > BEGIN STRING
@@ -125,7 +125,7 @@ cái môn phải học rồi."
 "What even \\iis\\i that?"
 > CONTEXT: Map059/events/77/pages/0/73/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
-"Vậy là có \\iý\\i gì hả?"
+"Cậu đang đọc \\igì\\i vậy?"
 > END STRING
 
 > BEGIN STRING
@@ -142,7 +142,7 @@ cái môn phải học rồi."
 but have time for freakin' micro-blah-bluh?!"
 > CONTEXT: Map059/events/77/pages/0/88/Dialogue
 \\ignr\\e[11]\\nm[ Emily ]
-"Hả, \\ithôi nào\\i. . . \\.\\.Cậu cúp tiết Stacy.
+"Hả, \\ithôi nào\\i. . . \\.\\.Cậu cúp tiết thầy Stacy.
 Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
 > END STRING
 
@@ -159,7 +159,7 @@ Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
 "Huh. . . \\.\\.You got an interesting point."
 > CONTEXT: Map059/events/77/pages/0/110/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
-"Huh. . . \\.\\.Cậu có quan điểm thú vị đấy."
+"Hờ. . . \\.\\.Cậu có quan điểm thú vị đấy."
 > END STRING
 
 > BEGIN STRING

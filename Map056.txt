@@ -23,7 +23,7 @@ con thấy cách nó hoạt động."
 "I'm gonna put it in the car,\\. okay?"
 > CONTEXT: Map056/events/1/pages/1/49/Dialogue
 \\ignr\\e[31]\\nm[ Bố ]
-"Bố sẽ đi để nó vào xe,\\. okay?"
+"Giờ bố ra\\. cất nó vào trong xe nhé?"
 > END STRING
 
 > BEGIN STRING
@@ -31,7 +31,7 @@ con thấy cách nó hoạt động."
 "Okay, \\.I'm gonna go say bye to mom!"
 > CONTEXT: Map056/events/1/pages/1/57/Dialogue
 \\ignr\\e[32]\\nm[ Lynri ]
-"Dạ, \\.con sẽ tạm biệt mẹ!"
+"Dạ, \\.con đi chào mẹ đây ạ!"
 > END STRING
 
 > BEGIN STRING
@@ -112,7 +112,7 @@ worsens -- \\.then we have another chance,\\. right?"
 left to mere chance. . ."
 > CONTEXT: Map056/events/18/pages/0/242/Dialogue
 \\ignr\\e[24]\\nm[ Mẹ ]
-". . . Cứ có cảm giác như còn
+". . . Chỉ là, cảm giác như còn
 quá nhiều thứ may rủi. . ."
 > END STRING
 
@@ -154,8 +154,8 @@ quá nhiều thứ may rủi. . ."
 we can't get through together."
 > CONTEXT: Map056/events/18/pages/0/429/Dialogue
 \\ignr\\e[25]\\nm[ Bố ]
-"Đừng lo,\\. Lyn. . . \\.Không có gì
-chúng ta không thể cùng nhau vượt qua."
+"Đừng lo,\\. Lyn. . . \\.Không có gì mà
+chúng ta không thể cùng nhau vượt qua cả."
 > END STRING
 
 > BEGIN STRING
@@ -163,8 +163,8 @@ chúng ta không thể cùng nhau vượt qua."
 "Is that what's keeping you up?"
 > CONTEXT: Map056/events/18/pages/0/449/Dialogue
 \\ignr\\e[25]\\nm[ Bố ]
-"Đó có phải là chuyện khiến con
-không ngủ được?"
+"Có phải đó là chuyện khiến con
+không ngủ được không?"
 > END STRING
 
 > BEGIN STRING
@@ -180,7 +180,7 @@ không ngủ được?"
 "Oh?\\. Then, \\.what's the matter?"
 > CONTEXT: Map056/events/18/pages/0/462/Dialogue
 \\ignr\\e[25]\\nm[ Bố ]
-"Hở?\\. Vậy, \\.đó là gì nào?"
+"Hở?\\. Vậy \\.thì là chuyện gì nào?"
 > END STRING
 
 > BEGIN STRING
@@ -190,7 +190,7 @@ field trips anymore,\\. didn't he?"
 > CONTEXT: Map056/events/18/pages/0/472/Dialogue
 \\ignr\\e[19]\\nm[ Lynri ]
 ". . . Bác sĩ nói là con không thể
-đi giã ngoại nữa,\\. có đúng không ạ?"
+đi dã ngoại nữa,\\. có đúng không ạ?"
 > END STRING
 
 > BEGIN STRING
@@ -243,7 +243,7 @@ Mọi người phải vui chơi cả ngày."
 ". . . Let's go back, \\.then."
 > CONTEXT: Map056/events/18/pages/0/513/Dialogue
 \\ignr\\e[25]\\nm[ Bố ]
-". . . Vậy, \\.hãy quay lại nào."
+". . . Vậy, \\.hãy quay lại đó nào."
 > END STRING
 
 > BEGIN STRING
@@ -259,8 +259,8 @@ Mọi người phải vui chơi cả ngày."
 "Why not now?"
 > CONTEXT: Map056/events/18/pages/0/527/Dialogue
 \\ignr\\e[25]\\nm[ Bố ]
-"Tại sao không phải
-ngay bây giờ nhỉ?"
+"Ngay bây giờ
+luôn đi nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -294,8 +294,8 @@ không ảnh hưởng gì đâu em!"
 "Besides, \\.I've got just the thing for it!"
 > CONTEXT: Map056/events/18/pages/0/554/Dialogue
 \\ignr\\e[25]\\nm[ Bố ]
-"Bên cạnh đó, \\.anh đã có thứ phù hợp với
-việc này rồi!"
+"Bên cạnh đó, \\.anh có một thứ phù hợp với
+dịp này rồi!"
 > END STRING
 
 > BEGIN STRING
@@ -319,7 +319,7 @@ việc này rồi!"
 "It's okay, \\.I'll stay. . ."
 > CONTEXT: Map056/events/18/pages/0/606/Dialogue
 \\ignr\\e[24]\\nm[ Mẹ ]
-"Không sao, \\.mẹ sẽ ở nhà. . ."
+"Mẹ không, \\.mẹ sẽ ở nhà. . ."
 > END STRING
 
 > BEGIN STRING

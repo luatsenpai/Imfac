@@ -2622,7 +2622,7 @@ Cửa khóa.
 "Hey, \\.are you alright in there?"
 > CONTEXT: Map013/events/21/pages/8/53/Dialogue
 \\ignr\\e[94]\\nm[ Lynri ]
-"Này, \\.cô vẫn ổn đó chứ?"
+"Này, \\.cô vẫn ổn chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -2685,7 +2685,7 @@ năm phút một lần không?"
 \\.Those singled out are easy targets, \\.after all."
 > CONTEXT: Map013/events/21/pages/8/108/Dialogue
 \\ignr\\e[94]\\nm[ Lynri ]
-"Và ai biết được lỡ như có lỗi vào khác thì sao. . .
+"Và ai biết được lỡ như có lối vào khác thì sao. . .
 \\.Và rồi,\\. chúng sẽ chọn mục tiêu dễ tiếp cận nhất."
 > END STRING
 
@@ -2696,7 +2696,7 @@ listening to the other day said--
 > CONTEXT: Map013/events/21/pages/8/115/Dialogue
 \\ignr\\e[94]\\nm[ Lynri ]
 "Thực ra, \\.hôm qua tôi vừa nghe podcast
-về sát nhân nói là--
+về sát nhân nói là--"
 > END STRING
 
 > BEGIN STRING
@@ -2712,7 +2712,7 @@ về sát nhân nói là--
 ". . . Why do you listen to murder podcasts?"
 > CONTEXT: Map013/events/21/pages/8/169/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Cô không nghe podcasts sát nhân sao?"
+". . . Cô có nghe podcasts sát nhân không?"
 > END STRING
 
 > BEGIN STRING
@@ -2720,7 +2720,7 @@ về sát nhân nói là--
 "It's complicated."
 > CONTEXT: Map013/events/21/pages/8/177/Dialogue
 \\ignr\\e[94]\\nm[ Lynri ]
-"Nó không đơn giản đâu."
+"Nó phức tạp lắm."
 > END STRING
 
 > BEGIN STRING
@@ -2763,7 +2763,7 @@ Cửa khóa.
 > CONTEXT: Map013/events/26/pages/11/14/Dialogue
 > CONTEXT: Map013/events/31/pages/11/14/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Khoan. . . \\.Nếu một mình mình lại phát hiện thi thể,
+( Khoan. . . \\.Nếu một mình mình lại phát hiện thi thể
 trên lầu \\.thì sẽ lại vướng vào rắc rối mất. . . )
 > END STRING
 
@@ -3365,8 +3365,8 @@ anh có thể rửa tay trước chứ?"
 about these folks?" )
 > CONTEXT: Map013/events/54/pages/10/2/Dialogue
 \\ignr\\e[94]\\nm[ Lynri ]
-( ". . . Suỵt, \\.bà có thấy người này có
-chút vấn đề không?" )
+( ". . . Suỵt, \\.anh có thấy những người này
+có chút vấn đề không?" )
 > END STRING
 
 > BEGIN STRING
@@ -3375,7 +3375,7 @@ chút vấn đề không?" )
 full of themselves!" )
 > CONTEXT: Map013/events/54/pages/10/6/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( "Biết ngay mà?! \\.những người này có vẻ
+( "Đúng rồi ha?! \\.những người này có vẻ
 hơi quá đề cao bản thân!" )
 > END STRING
 
@@ -3384,7 +3384,7 @@ hơi quá đề cao bản thân!" )
 ( "No, \\.I mean. . . \\.they are just \\bso\\b out there." )
 > CONTEXT: Map013/events/54/pages/10/9/Dialogue
 \\ignr\\e[94]\\nm[ Lynri ]
-( "Không\\.. . . \\.họ \\bthật\\b khác biệt." )
+( "Không\\., ý tôi là. . . \\.họ \\bthật\\b khác biệt." )
 > END STRING
 
 > BEGIN STRING
@@ -3419,7 +3419,7 @@ duy nhất có thể dùng được bồn rửa. )
 \\.They should still be at the party room. )
 > CONTEXT: Map013/events/54/pages/13/38/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Ít ta thì bây giờ nói chuyện với Lynri dễ hơn rồi. . .
+( Ít ra thì bây giờ nói chuyện với Lynri dễ hơn rồi. . .
 \\.Họ chắc vẫn đang ở phòng tổ chức tiệc. )
 > END STRING
 
@@ -3600,7 +3600,7 @@ embarrasing yourself."
 "Oh, \\.pull yourself together, \\.lad."
 > CONTEXT: Map013/events/61/pages/0/7/Dialogue
 \\ignr\\e[61]\\nm[ Prisha ]
-"Này, \\.cậu \\.hãy bình tĩnh."
+"Này, \\.cậu \\.hãy bình tĩnh lại đi."
 > END STRING
 
 > BEGIN STRING
@@ -3722,7 +3722,7 @@ in sight. . .\\.\\. Nuh uh, \\.not me."
 > CONTEXT: Map013/events/75/pages/2/12/Dialogue
 \\ignr\\e[75]\\nm[ Đầu Bếp Tóc Vàng ]
 "Và tôi sẽ không dại gì để lại tang chứng
-đâu. . .\\.\\. Nuh uh, \\.không phải tôi đâu."
+đâu. . .\\.\\. Nên \\.không phải tôi đâu."
 > END STRING
 
 > BEGIN STRING
@@ -3775,8 +3775,8 @@ hữu ích liên quan tới vụ án này chứ?"
 \\.a theoretical criminal mastermind."
 > CONTEXT: Map013/events/75/pages/2/50/Dialogue
 \\ignr\\e[75]\\nm[ Đầu Bếp Tóc Vàng ]
-"Anh vừa nghe giả thuyết từ \\itôi\\i, một
-\\.bậc thầy tôi phạm chỉ trên lý thuyết."
+"Anh vừa nghe giả thuyết từ \\itôi\\i rồi đó,
+một \\.bậc thầy tội phạm chỉ trên lý thuyết."
 > END STRING
 
 > BEGIN STRING
@@ -3833,7 +3833,7 @@ nhất có thể. . ."
 "Okay, \\.you two are gonna
 have to slow down a bit. . ."
 > CONTEXT: Map013/events/81/pages/1/14/Dialogue
-\\ignr\\e[81]\\nm[ Officer ]
+\\ignr\\e[81]\\nm[ Cán Bộ ]
 "Rồi, \\.hai người hãy
 bình tĩnh chút nào. . ."
 > END STRING
@@ -3842,7 +3842,7 @@ bình tĩnh chút nào. . ."
 \\ignr\\e[81]\\nm[ Officer ]
 "Especially you."
 > CONTEXT: Map013/events/81/pages/1/19/Dialogue
-\\ignr\\e[81]\\nm[ Officer ]
+\\ignr\\e[81]\\nm[ Cán Bộ ]
 "Đặc biệt là anh đấy."
 > END STRING
 
@@ -3946,7 +3946,7 @@ us from getting close. . ."
 > CONTEXT: Map013/events/92/pages/0/11/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Dù anh nói thế, \\.nhưng chẳng ai ngăn
-chúng tôi lại cả. . ."
+chúng tôi lại gần cả. . ."
 > END STRING
 
 > BEGIN STRING

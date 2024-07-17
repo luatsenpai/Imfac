@@ -25,7 +25,7 @@ structures nowadays, but. . ."
 > CONTEXT: Map011/events/18/pages/0/70/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
 "Ý tớ là, \\.dù ngày nay có những
-công trình cao hơn, những. . ."
+công trình cao hơn, nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +128,7 @@ cũng nhiệt huyết như cậu vậy."
 > CONTEXT: Map062/events/18/pages/0/215/Dialogue
 > CONTEXT: Map011/events/18/pages/0/215/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Ý tớ là, \\.nếu tớ để dành tiền để du lịch được,
+"Ý tớ là, \\.nếu tớ để dành được tiền để đi du lịch,
 \\.tớ chắc cậu cũng sẽ làm được."
 > END STRING
 
@@ -147,7 +147,7 @@ cũng nhiệt huyết như cậu vậy."
 > CONTEXT: Map062/events/18/pages/0/231/Dialogue
 > CONTEXT: Map011/events/18/pages/0/231/Dialogue
 \\ignr\\e[42]\\nm[ Lynri ]
-". . . Tố không có thời gian."
+". . . Tớ không có thời gian."
 > END STRING
 
 > BEGIN STRING
@@ -227,8 +227,8 @@ all is, \\.and just. . .\\.\\. stay."
 > CONTEXT: Map062/events/18/pages/0/315/Dialogue
 > CONTEXT: Map011/events/18/pages/0/315/Dialogue
 \\ignr\\e[42]\\nm[ Lynri ]
-". . . Tớ sợ rằng tớ sẽ nhận ra chúng sẽ tuyệt
-thế nào, \\.và rồi. . .\\.\\. sẽ mãi ở lại."
+". . . Tớ sợ rằng tớ sẽ nhận ra chúng tuyệt đến
+thế nào, \\.và rồi. . .\\.\\. tớ sẽ ở lại đó mãi."
 > END STRING
 
 > BEGIN STRING
@@ -264,7 +264,8 @@ thế nào, \\.và rồi. . .\\.\\. sẽ mãi ở lại."
 > CONTEXT: Map062/events/18/pages/0/378/Dialogue
 > CONTEXT: Map011/events/18/pages/0/378/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-". . . Nhắc tớ nhớ về những ngôi sao trên trời."
+". . . Cậu nhắc khiến tớ nhớ tới
+những ngôi sao trên kia."
 > END STRING
 
 > BEGIN STRING
@@ -375,8 +376,8 @@ tớ thường nói."
 > CONTEXT: Map062/events/18/pages/0/520/Dialogue
 > CONTEXT: Map011/events/18/pages/0/520/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Uhh, \\.ý tớ là theo cách nhẹ nhàng nhất
-có thể,\\. tất nhiên rồi."
+"Uhh, \\.ý tớ là bằng những lời nói
+nhẹ nhàng nhất,\\. tất nhiên rồi."
 > END STRING
 
 > BEGIN STRING
@@ -406,8 +407,8 @@ when I was young, \\.so she brought me up."
 > CONTEXT: Map062/events/18/pages/0/558/Dialogue
 > CONTEXT: Map011/events/18/pages/0/558/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Tất nhiên rồi. \\.\\.Bố mẹ tớ đã qua đoi do tai nạn
-kể từ khi tớ rất nhỏ, \\.bà đã nuôi nấng tớ."
+"Tất nhiên rồi. \\.\\.Bố mẹ tớ đã qua đời do tai nạn
+kể từ khi tớ còn rất nhỏ, \\.bà đã nuôi nấng tớ."
 > END STRING
 
 > BEGIN STRING
@@ -487,7 +488,7 @@ blissful with the tragic. . . \\.to be reborn each day."
 > CONTEXT: Map011/events/18/pages/0/637/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
 ". . . Bà chỉ đơn giản biết ơn vì được ở đây, \\.đón nhận
-cả niềm vui lẫn nỗi buồn. . . \\.để được tái sinh mỗi ngày."
+cả niềm vui lẫn nỗi buồn. . . \\.như được tái sinh mỗi ngày."
 > END STRING
 
 > BEGIN STRING
@@ -528,8 +529,8 @@ on me a bit through the years."
 > CONTEXT: Map062/events/18/pages/0/676/Dialogue
 > CONTEXT: Map011/events/18/pages/0/676/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Tớ cũng thế, \\.nhưng chắc là nó
-đã ngấm dần vào tớ theo thời gian."
+"Tớ cũng thế, \\.nhưng có vẻ nó đã
+ngấm dần vào tớ theo thời gian rồi."
 > END STRING
 
 > BEGIN STRING
@@ -550,7 +551,7 @@ rất lâu trước khi ta gặp nhau."
 > CONTEXT: Map062/events/18/pages/0/707/Dialogue
 > CONTEXT: Map011/events/18/pages/0/707/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-". . . "Bệnh Alzheimer đã đến vào những năm tháng
+". . . Bệnh Alzheimer đã đến vào những năm tháng
 cuối đời, \\.và những biến chứng của nó đã cướp bà đi."
 > END STRING
 

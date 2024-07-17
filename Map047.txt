@@ -40,7 +40,7 @@ you something?"
 > CONTEXT: Map047/events/1/pages/3/105/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Nhưng. . . \\.bố ơi? \\.\\.Con
-có thể hỏi bố một câu không?"
+có thể hỏi bố một câu được không?"
 > END STRING
 
 > BEGIN STRING
@@ -48,7 +48,7 @@ có thể hỏi bố một câu không?"
 "Yes, \\.Lyn?"
 > CONTEXT: Map047/events/1/pages/3/118/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
-"Ừm, \\.Lyn?"
+"Con muốn hỏi gì, \\.Lyn?"
 > END STRING
 
 > BEGIN STRING
@@ -73,7 +73,7 @@ có thể hỏi bố một câu không?"
 a bit to the west,\\. but. . ."
 > CONTEXT: Map047/events/126/pages/1/28/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-"Trong đây chỉ nói nó hơi chếch
+"Trong đây chỉ nói là nó hơi chếch
 về phía tây một chút,\\. nhưng. . ."
 > END STRING
 
@@ -84,7 +84,7 @@ về phía tây một chút,\\. nhưng. . ."
 > CONTEXT: Map047/events/126/pages/1/42/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
 "Chúng có nhiều như thế. . .
-\\.\\.Làm sao bố tìm ra ạ?"
+\\.\\.Làm sao bố tìm ra được ạ?"
 > END STRING
 
 > BEGIN STRING
@@ -92,7 +92,8 @@ về phía tây một chút,\\. nhưng. . ."
 "Hmm. . . \\.I think I found it!"
 > CONTEXT: Map047/events/126/pages/1/48/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
-"Hmm. . . \\.bố nghĩ bố đã tìm ra nó!"
+"Hmm. . . \\.bố nghĩ bố tìm ra
+được nó rồi!"
 > END STRING
 
 > BEGIN STRING
@@ -108,7 +109,7 @@ về phía tây một chút,\\. nhưng. . ."
 "Wow,\\. I can't believe it. . ."
 > CONTEXT: Map047/events/126/pages/1/81/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-"Wow,\\. không thể tin được. . ."
+"Woa,\\. không thể tin được. . ."
 > END STRING
 
 > BEGIN STRING
@@ -116,7 +117,7 @@ về phía tây một chút,\\. nhưng. . ."
 "It really does look like the pictures in the book. . ."
 > CONTEXT: Map047/events/126/pages/1/89/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-"Nó thục sự giống bức hình trong sách này. . ."
+"Nó thực sự giống bức hình trong sách này. . ."
 > END STRING
 
 > BEGIN STRING
@@ -124,8 +125,8 @@ về phía tây một chút,\\. nhưng. . ."
 "Hey, \\.didn't I tell ya?"
 > CONTEXT: Map047/events/126/pages/1/96/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
-"Này, \\.bố vẫn chưa nói
-với con nhỉ?"
+"Này con, \\.bố đã nói
+với con rồi mà nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -133,7 +134,7 @@ với con nhỉ?"
 "You name it, \\.and I'll find it!"
 > CONTEXT: Map047/events/126/pages/1/109/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
-"Con đọc tên nó, \\.và bố sẽ tìm nó!"
+"Chỉ cần con đọc tên, \\.và bố sẽ tìm ra nó!"
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +151,8 @@ với con nhỉ?"
 names yet,\\. do they?"
 > CONTEXT: Map047/events/126/pages/1/133/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-"Toàn bộ ngôi sao. . .\\.\\. Chúng đều chưa
-có tên,\\. đúng không ạ?"
+"Tất cả những ngôi sao đó. . .\\.\\. không phải
+ngôi sao nào cũng có tên\\. mà phải không?"
 > END STRING
 
 > BEGIN STRING
@@ -160,8 +161,8 @@ có tên,\\. đúng không ạ?"
 and see for yourself?"
 > CONTEXT: Map047/events/126/pages/1/141/Dialogue
 \\ignr\\e[68]\\nm[ Bố ]
-"Vậy, \\.tại sao con không lại
-đây và tự mình quan sát?"
+"Vậy, \\.sao con không lại đây
+và tự mình quan sát đi nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -178,7 +179,7 @@ and see for yourself?"
 there with my name?"
 > CONTEXT: Map047/events/126/pages/1/198/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-". . . Bố có nghĩ nhưng ngôi sao trên
+". . . Bố có nghĩ những ngôi sao trên
 kia có ngôi sao mang tên con không ạ?"
 > END STRING
 

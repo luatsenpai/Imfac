@@ -57,7 +57,7 @@ như thể là. . . )
 > CONTEXT: Map061/events/12/pages/0/206/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( . . . Cứ như thể mình đã tốt nghiệp từ 
-một nơi\\i y hệt như thế này vậy\\i. . . )
+một nơi\\i y hệt như thế này  vậy\\i. . . )
 > END STRING
 
 > BEGIN STRING
@@ -97,7 +97,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 ( Wait, \\.if this is supposed to be the past. . . )
 > CONTEXT: Map061/events/12/pages/0/467/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
-( Khoan, \\.nêu đây thực sự là quá khứ. . . )
+( Khoan, \\.nếu đây thực sự là quá khứ. . . )
 > END STRING
 
 > BEGIN STRING
@@ -145,7 +145,7 @@ một nơi\\i y hệt như thế này vậy\\i. . . )
 "Whu--\\.whaat?"
 > CONTEXT: Map061/events/12/pages/1/163/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-"Cái--\\.cáiii gìii?"
+"Cái--\\.cáiii gììì?"
 > END STRING
 
 > BEGIN STRING
@@ -227,7 +227,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 "I,\\. uh, \\.well. . ."
 > CONTEXT: Map061/events/12/pages/1/323/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-"Tớ,\\. uh, \\.ờm. . ."
+"Tớ,\\. ơ, \\.ừm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -252,7 +252,7 @@ Nó sẽ xáo trộn giờ giấc của tớ mất."
 backpacking around the world."
 > CONTEXT: Map061/events/12/pages/1/345/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-"Ờm. . . \\.\\.tớ vừa đi du lịch
+"Ừm. . . \\.\\.tớ vừa đi du lịch
 bụi vòng quanh thế giới."
 > END STRING
 
@@ -269,7 +269,7 @@ bụi vòng quanh thế giới."
 "Yeah. . ."
 > CONTEXT: Map061/events/12/pages/1/367/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-"Ờm. . ."
+"Ừm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -331,7 +331,7 @@ lại nghiên cứu trong khi còn tỉnh táo."
 essays to catch up on."
 > CONTEXT: Map061/events/12/pages/1/473/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-"Tớ cũng thế . . \\.\\.Tớ có cả đống
+"Tớ cũng thế. . . \\.\\.Tớ có cả đống
 luận văn phải làm đây này."
 > END STRING
 
@@ -348,7 +348,7 @@ luận văn phải làm đây này."
 "I'm majoring in li. . . "
 > CONTEXT: Map061/events/12/pages/1/488/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-"Tớ học Li. . . "
+"Tớ học GDKP. . . "
 > END STRING
 
 > BEGIN STRING
@@ -356,7 +356,7 @@ luận văn phải làm đây này."
 ". . . Li. . . "
 > CONTEXT: Map061/events/12/pages/1/497/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-". . . Li. . . "
+". . . GDKP. . . "
 > END STRING
 
 > BEGIN STRING
@@ -379,7 +379,7 @@ luận văn phải làm đây này."
 ". . . Liberal arts can be very useful!"
 > CONTEXT: Map061/events/12/pages/1/562/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
-". . . Giáo dục khai phóng chắc rất hữu ích!"
+". . . Giáo dục khai phóng sẽ rất hữu ích!"
 > END STRING
 
 > BEGIN STRING
@@ -406,7 +406,7 @@ luận văn phải làm đây này."
 get so much flak around here."
 > CONTEXT: Map061/events/12/pages/1/590/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
-". . . Tớ không hiệu tại sao những
+". . . Tớ không hiểu tại sao những
 người như cậu lại bị soi mói nhiều
 đến thế."
 > END STRING
@@ -456,7 +456,7 @@ người như cậu lại bị soi mói nhiều
 ". . . Neuroscience. \\.\\.Doctorate, \\.technically."
 > CONTEXT: Map061/events/12/pages/1/652/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
-". . . Chính xác là\\.\\.Tiến Sĩ \\.Thần Kinh Học."
+". . . Chính xác là. \\.\\.Tiến Sĩ \\.Thần Kinh Học."
 > END STRING
 
 > BEGIN STRING
@@ -473,7 +473,7 @@ người như cậu lại bị soi mói nhiều
 becoming a doctor?"
 > CONTEXT: Map061/events/12/pages/1/706/Dialogue
 \\ignr\\e[14]\\nm[ Quincy ]
-"Vậy sao rồi, \\.câu đang ôn
+"Vậy sao rồi, \\.cậu đang ôn
 tập để trở thành tiến sĩ à?"
 > END STRING
 
@@ -560,5 +560,5 @@ Tớ ra hành lang mua cà phê đây."
 > CONTEXT: Map061/events/12/pages/1/971/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
 ( Chúng ta từng quen nhau ư. . . ?\\.
-\\.Nhưng sao mình không nhớ gì thế. . . )
+\\.Nhưng sao mình không nhớ gì cả. . . )
 > END STRING

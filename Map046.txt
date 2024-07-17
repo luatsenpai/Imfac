@@ -124,7 +124,7 @@ lại như \\.những người khác. . ."
 show me what you saw."
 > CONTEXT: Map046/events/43/pages/0/184/Dialogue
 \\ignr\\e[43]\\nm[ Lynri ]
-". . . Nhưng cũng tốt thôi; \\.có lẽ anh
+". . . Nhưng cũng tốt thôi, \\.có lẽ anh
 có thể cho tôi biết anh đã thấy gì."
 > END STRING
 
@@ -170,7 +170,7 @@ tôi vào phòng vệ sinh,\\. sau đó--. . ."
 did make the sink seem like a time machine."
 > CONTEXT: Map046/events/43/pages/0/329/Dialogue
 \\ignr\\e[43]\\nm[ Lynri ]
-"Thật là sự trùng hợp ngờ ngẩn \\.. . .\\.\\. Nó khiến
+"Thật là sự trùng hợp ngớ ngẩn \\.. . .\\.\\. Nó khiến
 bồn rửa tay trở thành cỗ máy thời gian."
 > END STRING
 
@@ -189,7 +189,8 @@ với bồn rửa. . . \\.là chuyện không thể xảy ra."
 "Are you even talking to me. . . ?!"
 > CONTEXT: Map046/events/43/pages/0/350/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Cô đang nói chuyện với tôi sao. . . ?!"
+"Cô có đang nói chuyện với tôi
+không đấy. . . ?!"
 > END STRING
 
 > BEGIN STRING
@@ -206,7 +207,7 @@ với bồn rửa. . . \\.là chuyện không thể xảy ra."
 preoccupied right now."
 > CONTEXT: Map046/events/43/pages/0/369/Dialogue
 \\ignr\\e[43]\\nm[ Lynri ]
-"Xin lỗi. . . \\.như tôi đả nói, \\.tôi
+"Xin lỗi. . . \\.như tôi đã nói, \\.tôi
 đang hơi phân tâm một chút."
 > END STRING
 

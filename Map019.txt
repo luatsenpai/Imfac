@@ -246,7 +246,7 @@ dưới lầu có thể \\iđảo ngược thời gian\\i."
 there's something bonkers goin' on. . ."
 > CONTEXT: Map019/events/17/pages/7/69/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Tôi không nói về bộ phim \\i'Ngày Chuột Chuỗi'\\i,\\.
+"Tôi không nói về bộ phim \\i'Ngày Chuột Chuỗi '\\i,\\.
 nhưng có thứ gì đó điên rồ đang diễn ra. . ."
 > END STRING
 
@@ -256,8 +256,8 @@ nhưng có thứ gì đó điên rồ đang diễn ra. . ."
 sound, \\.right?"
 > CONTEXT: Map019/events/17/pages/7/80/Dialogue
 \\ignr\\e[17]\\nm[ Lynri ]
-". . . Anh có biết anh đang nói về
-mấy chuyện không thể xảy ra\\.?"
+". . . Anh có biết anh đang lảm nhảm về mấy
+chuyện không thể nào xảy ra được không\\.?"
 > END STRING
 
 > BEGIN STRING
@@ -281,7 +281,7 @@ mấy chuyện không thể xảy ra\\.?"
 "But \\iis this\\i crazy?\\. Definitely!"
 > CONTEXT: Map019/events/17/pages/7/112/Dialogue
 "Tôi chắc chắn luôn đấy!
-Nhưng \\ichuyện này\\i thật điên rồ\\.nhỉ?"
+Nhưng \\ichuyện này\\i kỳ lạ \\.lắm sao?"
 > END STRING
 
 > BEGIN STRING
@@ -290,7 +290,7 @@ Nhưng \\ichuyện này\\i thật điên rồ\\.nhỉ?"
 > CONTEXT: Map019/events/17/pages/7/134/Dialogue
 \\ignr\\e[17]\\nm[ Lynri ]
 ". . . Tôi không biết anh đang mong chờ
-thứ gì từ tôi."
+điều gì từ tôi."
 > END STRING
 
 > BEGIN STRING
@@ -299,7 +299,7 @@ thứ gì từ tôi."
 any clue what I'm talking about?"
 > CONTEXT: Map019/events/17/pages/7/144/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Chỉ cần trả lời tôi là: \\.Cô có
+"Chỉ cần trả lời tôi: \\.Cô có
 hiểu tôi đang nói gì không?"
 > END STRING
 
@@ -341,8 +341,8 @@ hiểu tôi đang nói gì không?"
 \\.and a stranger approaches with crazy tales. . ."
 > CONTEXT: Map019/events/17/pages/7/194/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Tầng dưới thì có thi thể.\\. cô chỉ một mình,
-\\.và một người lạ tiết cận cô với mấy
+"Tầng dưới thì có thi thể.\\. Cô chỉ đang ở một mình,
+\\.và một người lạ tiếp cận cô với mấy
 câu chuyện điên rồ. . ."
 > END STRING
 
@@ -361,7 +361,7 @@ câu chuyện điên rồ. . ."
 "And where would I run to?"
 > CONTEXT: Map019/events/17/pages/7/213/Dialogue
 \\ignr\\e[17]\\nm[ Lynri ]
-"Và tôi sẽ phải chạy đi đâu?"
+"Thế tôi sẽ phải chạy đi đâu?"
 > END STRING
 
 > BEGIN STRING
@@ -378,7 +378,7 @@ tránh xa tôi ra?"
 "Look. . . \\.To be honest, \\.you \\iare\\i freaking me out."
 > CONTEXT: Map019/events/17/pages/7/241/Dialogue
 \\ignr\\e[17]\\nm[ Lynri ]
-"Trời. . . \\.Nói thật thì, \\.anh \\iđang\\i khiến tôi sợ đấy."
+"Trời. . . \\.Nói thật thì, \\.anh \\iđang\\i khiến tôi sợ quá đấy."
 > END STRING
 
 > BEGIN STRING
@@ -423,8 +423,8 @@ Tôi chỉ cảm thấy thế thôi."
 I just feel like you \\ican't\\i be the killer."
 > CONTEXT: Map019/events/17/pages/7/294/Dialogue
 \\ignr\\e[17]\\nm[ Lynri ]
-"Có gì đó ở anh. . .\\.\\. Chỉ là tôi
-cảm thấy anh\\ikhông thể\\i là hung thủ."
+"Có gì đó ở anh. . .\\.\\. Khiến tôi
+cảm thấy anh \\ikhông thể\\i là hung thủ."
 > END STRING
 
 > BEGIN STRING
@@ -433,8 +433,8 @@ cảm thấy anh\\ikhông thể\\i là hung thủ."
 \\.but why does it feel a bit emasculating. . ."
 > CONTEXT: Map019/events/17/pages/7/303/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Rồi, \\.Dù biết đây là điều tốt, \\.nhưng tự dưng
-\\.tôi cảm thấy bản thân mình bị hạ thấp ấy. . ."
+"Được rồi, \\.Dù biết đây là điều tốt, \\.nhưng sao tự dưng
+\\.tôi cảm thấy bản thân mình như bị hạ thấp ấy. . ."
 > END STRING
 
 > BEGIN STRING
@@ -466,7 +466,7 @@ cảm thấy anh\\ikhông thể\\i là hung thủ."
 "Why uh. . .\\. why would I be running from you?"
 > CONTEXT: Map019/events/17/pages/7/355/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Tại sao uh. . .\\. sao tôi phải chạy trốn cô?"
+"Tại sao ờ. . .\\. sao tôi lại phải chạy trốn cô?"
 > END STRING
 
 > BEGIN STRING
@@ -494,7 +494,7 @@ có vẻ như \\itôi\\i là kẻ đáng ngờ rồi."
 "Uhh. . . \\.\\.Can't argue with you there."
 > CONTEXT: Map019/events/17/pages/7/394/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Uhh. . . \\.\\.Đúng là như vậy."
+"Ừm. . . \\.\\.Đúng là như vậy."
 > END STRING
 
 > BEGIN STRING
@@ -504,7 +504,7 @@ something about you,\\. too?"
 > CONTEXT: Map019/events/17/pages/7/407/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Nhưng tôi đoán. . . \\.\\.tôi cũng có
-cảm giác gống cô\\. chăng?"
+cảm giác giống cô\\. chăng?"
 > END STRING
 
 > BEGIN STRING
@@ -524,7 +524,7 @@ me feel like you can't be the killer either."
 > CONTEXT: Map019/events/17/pages/7/426/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . Có gì đó ở cô khiến tôi không
-cô không thể là hung thủ."
+cảm thấy cô là hung thủ."
 > END STRING
 
 > BEGIN STRING
@@ -575,7 +575,7 @@ cô không thể là hung thủ."
 to see what's making you act this way."
 > CONTEXT: Map019/events/17/pages/7/484/Dialogue
 \\ignr\\e[17]\\nm[ Lynri ]
-"Nhưng trong tình huốn này. . . \\.tôi muốn biết
+"Nhưng trong tình huống này. . . \\.tôi muốn biết
 điều gì đã khiến anh có những hành động như vậy."
 > END STRING
 
@@ -640,21 +640,24 @@ A shiny new play tunnel.
 \\ignr\\e[0]\\nm[ Quincy ]
 "You know this cat?"
 > CONTEXT: Map019/events/23/pages/8/19/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô quen con mèo này à?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[38]\\nm[ Lynri ]
 "We met five minutes ago, \\.if that counts."
 > CONTEXT: Map019/events/23/pages/8/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[38]\\nm[ Lynri ]
+"Tôi mới gặp nó \\.năm phút trước thôi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Yeah? \\.Think he's the culprit?"
 > CONTEXT: Map019/events/23/pages/8/25/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Vậy sao? \\.Cô có nghĩ nó là hung thủ?"
 > END STRING
 
 > BEGIN STRING
@@ -662,7 +665,9 @@ A shiny new play tunnel.
 "Well, \\.there's a red herring on the
 carpet over there,\\. so probably not."
 > CONTEXT: Map019/events/23/pages/8/32/Dialogue < UNTRANSLATED
-
+\\ignr\\e[38]\\nm[ Lynri ]
+"Chà, \\.nhìn con cá trích đỏ trên tấm
+thảm kia,\\. thì có lẽ là không."
 > END STRING
 
 > BEGIN STRING
@@ -676,7 +681,8 @@ carpet over there,\\. so probably not."
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . Oh wait, \\.there actually is."
 > CONTEXT: Map019/events/23/pages/8/45/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Khoan, \\.là thật kìa."
 > END STRING
 
 > BEGIN STRING
@@ -736,5 +742,7 @@ A red herring-shaped plush toy. . . ?
 ". . . I don't know, \\.but I just don't think
 you're the killer or anything."
 > CONTEXT: Map019/events/17/pages/7/253/Dialogue < UNTRANSLATED
-
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Tôi không biết nữa, \\.nhưng tôi cảm thấy
+anh không phải là hung thủ hay đại loại thế."
 > END STRING

@@ -31,8 +31,8 @@ so brightly. . ."
 ". . . Many of them have already been
 gone for a long time."
 > CONTEXT: Map058/events/5/pages/1/22/Dialogue
-\\ignr\\e[2]\\nm[ Dad ]
-". . . Nhiều ngôi sao trong sồ chúng
+\\ignr\\e[2]\\nm[ Bố ]
+". . . Nhiều ngôi sao trong số chúng
 đã ra đi từ rất lâu rồi."
 > END STRING
 
@@ -86,7 +86,8 @@ tồn tại,\\. chúng đã tỏa sáng rực rỡ. . ."
 \\ignr\\e[3]\\nm[ Lynri ]
 "Wow. . ."
 > CONTEXT: Map058/events/5/pages/1/53/Dialogue < UNTRANSLATED
-
+\\ignr\\e[3]\\nm[ Lynri ]
+"Woa. . ."
 > END STRING
 
 > BEGIN STRING
@@ -142,7 +143,7 @@ có gì \\iđể\\i ngắm cả, \\.đúng chứ?"
 > CONTEXT: Map058/events/5/pages/1/80/Dialogue
 \\ignr\\e[3]\\nm[ Lynri ]
 "Hoa oải hương có thể không có trên bầu trời.
-\\.nhưng. . .\\. con vẫn thích."
+\\.Nhưng. . .\\. con thích chúng như vậy hơn."
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +162,7 @@ có gì \\iđể\\i ngắm cả, \\.đúng chứ?"
 \\.I guess they got their own part to do too."
 > CONTEXT: Map058/events/5/pages/1/89/Dialogue
 \\ignr\\e[3]\\nm[ Lynri ]
-"Nhưng ngôi sao kia dù xa thật xa,\\. nhưng. . .
+"Dù ngôi sao kia xa thật xa,\\. nhưng. . .
 \\.Con đoán chúng cũng có vai trò của riêng mình."
 > END STRING
 
@@ -180,7 +181,7 @@ suy nghĩ về hai thứ đó!"
 "Wouldn't change a thing,\\. huh?"
 > CONTEXT: Map058/events/5/pages/1/96/Dialogue
 \\ignr\\e[2]\\nm[ Bố ]
-"không thay đổi suy nghĩ\\. sao?"
+"Không thay đổi suy nghĩ\\. sao?"
 > END STRING
 
 > BEGIN STRING
@@ -225,7 +226,7 @@ ngôi sao!"
 > CONTEXT: Map058/events/5/pages/1/119/Dialogue
 \\ignr\\e[2]\\nm[ Bố ]
 "Tại sao lại là ngôi sao, \\.trong khi con
-thích hoa oải hương hơ . . . ?"
+thích hoa oải hương hơn. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -252,8 +253,8 @@ có thể nhìn\\. thấy hoa oải hương rồi!"
 \\.and make it as light as day. . ."
 > CONTEXT: Map058/events/5/pages/1/130/Dialogue
 \\ignr\\e[3]\\nm[ Lynri ]
-"Con sẽ chiếu sáng rực rỡ trên cánh đồng này
-\\.và khiến nó sáng như ban ngày. . ."
+"Con sẽ chiếu sáng lên cánh đồng này và
+\\.khiến nó sáng rực rỡ như ban ngày. . ."
 > END STRING
 
 > BEGIN STRING
@@ -270,6 +271,6 @@ nhìn thấy vẻ đẹp của nó!"
 ". . . Sounds like you'd make a
 wonderful star,\\. Lyn."
 > CONTEXT: Map058/events/5/pages/1/173/Dialogue
-". . . Nghe có vẻ con sẽ trở thành
-một ngôi sao tuyệt vời,\\. Lyn."
+". . . Nghe có vẻ như con sẽ trở thành
+một ngôi sao tuyệt vời đó,\\. Lyn."
 > END STRING

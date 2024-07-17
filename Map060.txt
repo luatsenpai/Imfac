@@ -4,7 +4,7 @@
 "Still a bit behind schedule, \\.isn't it?"
 > CONTEXT: Map060/events/100/pages/0/6/Dialogue
 \\ignr\\e[68]\\nm[ Giáo sư ]
-"Em vẫn chậm so với dự kiến \\.sao?"
+"Em vẫn còn hơi chậm so với dự kiến \\.sao?"
 > END STRING
 
 > BEGIN STRING
@@ -21,7 +21,7 @@
 at least I have the data now."
 > CONTEXT: Map060/events/100/pages/0/16/Dialogue
 \\ignr\\e[82]\\nm[ Lynri ]
-"Vẫn còn nhiều thứ phải phân thích, \\.nhưng
+"Vẫn còn nhiều thứ phải phân tích, \\.nhưng
 ít ra giờ em đã có dữ liệu rồi."
 > END STRING
 
@@ -39,8 +39,8 @@ at least I have the data now."
 I'm looking forward to the most."
 > CONTEXT: Map060/events/100/pages/0/30/Dialogue
 \\ignr\\e[68]\\nm[ Giáo Sư ]
-"Ta quen biết rất nhiều, \\.nhưng em là người
-ta mong chờ kết quả hơn bất kỳ ai khác."
+"Ta quen biết rất nhiều người, \\.nhưng ta
+mong chờ kết quả của em hơn bất kỳ ai khác."
 > END STRING
 
 > BEGIN STRING

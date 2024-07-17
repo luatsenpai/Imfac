@@ -1914,7 +1914,7 @@ answers than questions."
 > CONTEXT: Map015/events/61/pages/1/1/Dialogue
 \\ignr\\e[61]\\nm[ Louie ]
 "Hãy nói chuyện với tôi nếu
-cô muốn giải đáp thắc mắc."
+muốn giải đáp thắc mắc."
 > END STRING
 
 > BEGIN STRING

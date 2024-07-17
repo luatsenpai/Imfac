@@ -27,7 +27,7 @@
 \\ignr\\e[58]\\nm[ Lynri ]
 "Erm. . ."
 > CONTEXT: Map041/events/57/pages/16/106/Dialogue < UNTRANSLATED
-
+"Ởm. . ."
 > END STRING
 
 > BEGIN STRING

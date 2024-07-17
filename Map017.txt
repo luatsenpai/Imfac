@@ -464,7 +464,7 @@ thi thể và tôi không có tâm trạng đó."
 ". . . Well? \\.\\.C'mon."
 > CONTEXT: Map017/events/11/pages/7/299/Dialogue
 \\ignr\\e[28]\\nm[ Lynri ]
-". . . Vậy sao? \\.\\.Nào."
+". . . Được chưa? \\.\\.Nào."
 > END STRING
 
 > BEGIN STRING
@@ -663,7 +663,7 @@ và muốn cho tôi xem thứ gì đó?"
 "Okay, \\.let's get this over with."
 > CONTEXT: Map017/events/11/pages/7/625/Dialogue
 \\ignr\\e[28]\\nm[ Lynri ]
-"Rồi, \\.hãy kết thúc thôi."
+"Rồi, \\.làm cho xong nào."
 > END STRING
 
 > BEGIN STRING
@@ -747,7 +747,7 @@ nước và rửa tay như thế này. . ."
 ". . . Then I opened my eyes and walked outside. . ."
 > CONTEXT: Map017/events/11/pages/7/868/Dialogue
 \\ignr\\e[27]\\nm[ Quincy ]
-". . . Và tôi mở mắt ra và buốc ra ngoài. . ."
+". . . Và tôi mở mắt ra và bước ra ngoài. . ."
 > END STRING
 
 > BEGIN STRING

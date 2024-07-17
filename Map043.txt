@@ -32,7 +32,7 @@ from your parents that--. . .
 > CONTEXT: Map043/events/78/pages/0/15/Dialogue
 \\ignr\\e[210]\\nm[ Bà Jones ]
 "Nào, Lynri,\\. ta đã được cha mẹ
-con dặn dò là--. . .
+con dặn dò là--. . ."
 > END STRING
 
 > BEGIN STRING
@@ -138,7 +138,7 @@ Các con tập trung lại đây,\\. được không?"
 "Lynri, \\.if you don't watch it. . ."
 > CONTEXT: Map043/events/184/pages/0/8/Dialogue
 \\ignr\\e[205]\\nm[ Bà Jones ]
-"Lynri, \\.nếu con không quan sát. . ."
+"Lynri, \\.nếu con không quan sát thì. . ."
 > END STRING
 
 > BEGIN STRING
@@ -169,7 +169,7 @@ Các con tập trung lại đây,\\. được không?"
 ( Does that mean this place is. . .\\. all based on her? )
 > CONTEXT: Map043/events/213/pages/0/24/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Vậy có nghĩa toàn bộ nơi này. . .\\. là do cô ấy tạo? )
+( Vậy có nghĩa toàn bộ nơi này. . .\\. là do cô ấy tạo ra? )
 > END STRING
 
 > BEGIN STRING
@@ -177,7 +177,7 @@ Các con tập trung lại đây,\\. được không?"
 "Okay, \\.if you do that again--
 > CONTEXT: Map043/events/215/pages/0/13/Dialogue
 \\ignr\\e[214]\\nm[ Bà Jones ]
-"Okay, \\.nếu con làm thế nữa--
+"Được rồi, \\.nếu con làm thế nữa--"
 > END STRING
 
 > BEGIN STRING

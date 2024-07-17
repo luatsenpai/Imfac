@@ -48,5 +48,5 @@ Cửa khóa.
 ( Was that the door. . . ? )
 > CONTEXT: Map044/events/24/pages/4/24/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Đó có phải là cánh cửa không. . . ? )
+( Tiếng mở khóa cửa. . . ? )
 > END STRING

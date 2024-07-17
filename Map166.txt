@@ -7,7 +7,6 @@
 > CONTEXT: Map064/events/1/pages/1/33/InlineScript/2:8
 > CONTEXT: Map064/events/1/pages/2/36/InlineScript/2:8
 > CONTEXT: Map064/events/1/pages/3/37/InlineScript/2:8
-'hàng cây'
 > END STRING
 
 > BEGIN STRING

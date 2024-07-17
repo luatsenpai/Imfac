@@ -244,6 +244,7 @@ quan tâm tới suy nghĩ của tôi làm gì?"
 The door's locked.
 There is a small opening at the bottom.
 > CONTEXT: Map007/events/18/pages/0/4/Dialogue
+\\ignr\\e[18]
 Cửa khóa.
 Có một khe hở ở bên dưới.
 > END STRING
@@ -414,7 +415,9 @@ look like a Quincy to me?"
 "This wasn't something I wanted to
 show you \\ithis\\i iteration, \\.but. . ."
 > CONTEXT: Map007/events/45/pages/0/44/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Tôi không muốn cho anh thấy
+\\iphần này\\i, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -424,7 +427,7 @@ show you \\ithis\\i iteration, \\.but. . ."
 > CONTEXT: Map007/events/45/pages/0/55/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
 ". . . Vì tôi cần giữ anh để tham khảo,
-\\.anh cun4g có thể đi theo và quan sát."
+\\.anh cũng có thể đi theo và quan sát."
 > END STRING
 
 > BEGIN STRING
@@ -432,7 +435,7 @@ show you \\ithis\\i iteration, \\.but. . ."
 "Hold on, \\.just back up a minute. . ."
 > CONTEXT: Map007/events/45/pages/0/70/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Khoan đã, \\.hãy đợi ở đây một chút . ."
+"Khoan đã, \\.đợi một chút . ."
 > END STRING
 
 > BEGIN STRING
@@ -456,7 +459,7 @@ show you \\ithis\\i iteration, \\.but. . ."
 "I think you'll find the answers inside here."
 > CONTEXT: Map007/events/45/pages/0/100/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"Tôi nghĩ anh sẽ tìm ra câu trả lời ở đây."
+"Tôi nghĩ anh sẽ tìm ra câu trả lời ở trong đây."
 > END STRING
 
 > BEGIN STRING
@@ -474,7 +477,7 @@ show you \\ithis\\i iteration, \\.but. . ."
 "But just. . . \\.\\.try not to worry about it."
 > CONTEXT: Map007/events/45/pages/0/162/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"Nhưng. . . \\.\\.đừng lo nghĩ gì về chuyện đó"
+"Nhưng. . . \\.\\.đừng lo nghĩ gì về chuyện đó."
 > END STRING
 
 > BEGIN STRING
@@ -498,7 +501,7 @@ show you \\ithis\\i iteration, \\.but. . ."
 "Go on, \\.I'll meet you in there."
 > CONTEXT: Map007/events/45/pages/0/220/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"Đi thôi, \\.tôi sẽ gắp anh ở trong kia."
+"Đi thôi, \\.tôi sẽ gặp anh ở trong kia."
 > END STRING
 
 > BEGIN STRING
@@ -506,7 +509,7 @@ show you \\ithis\\i iteration, \\.but. . ."
 "But--
 > CONTEXT: Map007/events/45/pages/0/223/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Nhưng--
+"Nhưng--"
 > END STRING
 
 > BEGIN STRING
@@ -514,7 +517,7 @@ show you \\ithis\\i iteration, \\.but. . ."
 "\\i'But but but--'\\i get your butt in there--
 > CONTEXT: Map007/events/45/pages/0/242/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"\\i'Nhưng nhị cái gì--'\\i vào lẹ lẹ đi--
+"\\i'Nhưng nhị cái gì--'\\i vào lẹ lẹ đi--"
 > END STRING
 
 > BEGIN STRING
@@ -540,7 +543,7 @@ tiến trình của nó."
 but to happen \\ievery\\i time. . ."
 > CONTEXT: Map007/events/45/pages/0/343/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"Chắc sự kiện đầu tiên này không may chút nào,\\.
+"Sự kiện đầu tiên này không may chút nào,\\.
 nhưng nó sẽ xảy ra \\imọi\\i lúc. . ."
 > END STRING
 
@@ -549,7 +552,7 @@ nhưng nó sẽ xảy ra \\imọi\\i lúc. . ."
 "Every time. . .\\. when. . . "
 > CONTEXT: Map007/events/45/pages/0/353/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"Mọi lúc. . .\\. khi. . . "
+"Mọi lúc. . .\\. khi mà. . . "
 > END STRING
 
 > BEGIN STRING
