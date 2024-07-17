@@ -13,7 +13,7 @@
 > CONTEXT: Map089/events/13/pages/0/2/Dialogue
 > CONTEXT: Map003/events/13/pages/0/2/Dialogue
 \\ignr\\e[11]\\nm[ Lynri ]
-"Okay. . .\\.\\. Trông em thế nào?"
+"Được rồi. . .\\.\\. Trông em thế nào?"
 > END STRING
 
 > BEGIN STRING
@@ -52,5 +52,5 @@ phong cách."
 > CONTEXT: Map089/events/13/pages/0/47/Dialogue
 > CONTEXT: Map003/events/13/pages/0/47/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
-"Đi thôi.\\.\\. Hãy tin tưởng vào bản thân!"
+"Cố lên.\\.\\. Hãy tin tưởng vào bản thân!"
 > END STRING

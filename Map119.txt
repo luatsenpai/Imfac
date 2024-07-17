@@ -28,7 +28,7 @@
 ". . . You want to go live at the residence?"
 > CONTEXT: Map119/events/26/pages/0/59/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
-". . . Em muốn đến sống tại k1y túc xá?"
+". . . Em muốn đến sống tại ký túc xá?"
 > END STRING
 
 > BEGIN STRING

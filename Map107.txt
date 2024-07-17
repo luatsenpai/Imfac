@@ -4,7 +4,7 @@
 "Hey. . ."
 > CONTEXT: Map107/events/17/pages/0/180/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
-"Ê. . ."
+"Này. . ."
 > END STRING
 
 > BEGIN STRING
@@ -71,7 +71,7 @@ Cô là người sống ở đây sao?"
 > CONTEXT: Map107/events/17/pages/0/275/Dialogue
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "Những vị khách mới đã đến,
-\\.và chúng tôi chờ đợi, \\.và. . ."
+\\.và chúng tôi chờ đợi\\.. . ."
 > END STRING
 
 > BEGIN STRING
@@ -80,8 +80,8 @@ Cô là người sống ở đây sao?"
 place. . . \\.\\.but they wanted a live test. . ."
 > CONTEXT: Map107/events/17/pages/0/283/Dialogue
 \\ignr\\e[25]\\nm[ Ts. Kim ]
-"Vì thế Louie. . . \\.Anh ta đã thực hiện demo
-thay cô. . . \\.\\.nhưng họ muốn thử nghiệm sống. . ."
+"Nhưng họ muốn thử nghiệm trực tiếp. . .\\.Vì thế
+Louie. . . \\.Ông ta đã thực hiện demo thay cô. . ."
 > END STRING
 
 > BEGIN STRING
@@ -98,8 +98,8 @@ thay cô. . . \\.\\.nhưng họ muốn thử nghiệm sống. . ."
 talking with the others. \\.\\.They said--
 > CONTEXT: Map107/events/17/pages/0/305/Dialogue
 \\ignr\\e[25]\\nm[ Ts. Kim ]
-"Họ nói--\\.\\. Ts. Haynes và Ts. Yu vẫn ở
-trong đó và nói chuyện với những người khác.
+"Họ nói vậy--\\.\\. Ts. Haynes và Ts. Yu vẫn ở
+trong đó và nói chuyện với những người khác."
 > END STRING
 
 > BEGIN STRING

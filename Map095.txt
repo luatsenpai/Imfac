@@ -111,7 +111,7 @@ again,\\. I swear I'm gonna. . ."
 "Come. . . \\.\\.I'll give you a tour."
 > CONTEXT: Map095/events/1/pages/0/452/Dialogue
 \\ignr\\e[15]\\nm[ Rika ]
-"Nào. . . \\.\\.Tôi sẽ đưa bạn tham quan."
+"Nào. . . \\.\\.Tôi sẽ đưa cô đi tham quan."
 > END STRING
 
 > BEGIN STRING

@@ -48,7 +48,7 @@ vài thứ tôi chưa hiểu."
 ". . . Why don't you just cut the
 infinite loop from the get-go?"
 > CONTEXT: Map038/events/3/pages/2/138/Dialogue
-". . . Tại sao cô không ngăn cản
+". . . Tại sao ngươi không ngăn cản
 vòng lặp này ngay từ đầu?"
 > END STRING
 
@@ -58,8 +58,8 @@ vòng lặp này ngay từ đầu?"
 world without eliminating us?"
 > CONTEXT: Map038/events/3/pages/2/152/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Tại sao cô muốn bảo tồn thế giới này
-nhưng không loại bỏ chúng tôi?"
+"Tại sao ngươi muốn bảo tồn thế giới này
+nhưng không loại bỏ bọn ta?"
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +68,8 @@ nhưng không loại bỏ chúng tôi?"
 to talk to us about any of this?"
 > CONTEXT: Map038/events/3/pages/2/165/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Và tại sao cô ở đây. . . \\.còn phí thời
-gian nói với chúng tôi về mấy thứ này?"
+"Và tại sao ngươi ở đây. . . \\.còn phí thời
+gian nói với bọn ta về mấy thứ này?"
 > END STRING
 
 > BEGIN STRING
@@ -77,7 +77,7 @@ gian nói với chúng tôi về mấy thứ này?"
 ". . . Why do \\iyou\\i even bother talking to \\ihim\\i?"
 > CONTEXT: Map038/events/3/pages/2/175/Dialogue
 \\ignr\\e[12]
-". . . Tại sao \\icô\\i phí thời gian
+". . . Tại sao \\icô\\i lại phí thời gian
 nói chuyện với \\ianh ta\\i?"
 > END STRING
 
@@ -94,7 +94,7 @@ nói chuyện với \\ianh ta\\i?"
 "That's different; \\.he's--. . ."
 > CONTEXT: Map038/events/3/pages/2/196/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Chuyện này khác; \\.anh ta--. . ."
+"Chuyện này khác, \\.anh ta--. . ."
 > END STRING
 
 > BEGIN STRING
@@ -119,8 +119,8 @@ nói chuyện với \\ianh ta\\i?"
 "Tell me. . .\\.\\. Who are \\iwe\\i to you?"
 > CONTEXT: Map038/events/3/pages/2/256/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Nói tôi biết. . .\\.\\. Chúng tôi là
-\\igì\\i đối với cô?"
+"Nói ta biết. . .\\.\\. Bọn ta là
+\\igì\\i đối với ngươi?"
 > END STRING
 
 > BEGIN STRING
@@ -162,7 +162,7 @@ nói chuyện với \\ianh ta\\i?"
 "You don't \\ilook\\i like a Ricebot. . ."
 > CONTEXT: Map038/events/3/pages/3/440/Dialogue
 \\ignr\\e[20]\\nm[ Quincy ]
-"Cô không \\igiống\\i Ricebot. . ."
+"Ngươi không \\igiống\\i Ricebot. . ."
 > END STRING
 
 > BEGIN STRING
@@ -178,7 +178,7 @@ nói chuyện với \\ianh ta\\i?"
 ". . . Were you also an A.I. refit for the simulations?"
 > CONTEXT: Map038/events/3/pages/3/464/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-". . . Cô cũng là A.I. được điều
+". . . Ngươi cũng là A.I. được điều
 chỉnh lại cho các mô phỏng?"
 > END STRING
 
@@ -206,8 +206,9 @@ mớ hỗn độn do cô gây ra."
 automation still follows the laws of physics."
 > CONTEXT: Map038/events/3/pages/3/511/Dialogue
 \\ignr\\e[12]
-"Có thể thế giới này là giả lập, \\.nhưng quá trình
-tự động vẫn tuân theo quy luật của tự nhiên."
+"Có thể thế giới này là giả lập, \\.nhưng
+tự động hóa vẫn phải tuân theo các
+quy luật tự nhiên."
 > END STRING
 
 > BEGIN STRING
@@ -215,7 +216,7 @@ tự động vẫn tuân theo quy luật của tự nhiên."
 "To a fault, \\.really. . ."
 > CONTEXT: Map038/events/3/pages/3/518/Dialogue
 \\ignr\\e[12]
-"Thực sự là, \\.quá mức. . ."
+"Thực sự là, \\.quá mức cần thiết. . ."
 > END STRING
 
 > BEGIN STRING
@@ -225,7 +226,7 @@ to manually prevent everything imploding."
 > CONTEXT: Map038/events/3/pages/3/536/Dialogue
 \\ignr\\e[12]
 "Trong những trường hợp như thế này, \\.
-chẳng hạn,ai đó phải can thiệp thủ công
+ai đó phải can thiệp thủ công
 để ngăn chặn mọi thứ nổ tung."
 > END STRING
 
@@ -235,7 +236,7 @@ chẳng hạn,ai đó phải can thiệp thủ công
 disregard for the laws of physics. . ."
 > CONTEXT: Map038/events/3/pages/3/542/Dialogue
 \\ignr\\e[12]
-"May mắn thay, \\.Bản thân \\itôi\\i vốn đã
+"May mắn thay, \\.bản thân \\itôi\\i vốn đã
 không tuân theo các định luật vật lý. . ."
 > END STRING
 
@@ -244,7 +245,7 @@ không tuân theo các định luật vật lý. . ."
 ". . . But that's all a story for another day."
 > CONTEXT: Map038/events/3/pages/3/558/Dialogue
 \\ignr\\e[12]
-". . . Nhưng đó là chuyện dài, để dành kể sau."
+". . . Nhưng câu chuyện đó để sau hẵng nói."
 > END STRING
 
 > BEGIN STRING
@@ -252,7 +253,7 @@ không tuân theo các định luật vật lý. . ."
 "H-hey, \\.what are you--
 > CONTEXT: Map038/events/3/pages/4/130/Dialogue
 \\ignr\\e[20]\\nm[ Quincy ]
-"Ê-ê, \\.cô là ai--
+"Ê-ê, \\.ngươi là ai--
 > END STRING
 
 > BEGIN STRING
@@ -411,7 +412,7 @@ cũng không ảnh hưởng gì."
 to the machine when you're ready."
 > CONTEXT: Map038/events/18/pages/0/256/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-"Nhưng nhanh nhanh nhé. . . \\.\\.Quay
+"Nhưng nhanh lên nhé. . . \\.\\.Quay
 lại cỗ máy khi anh sẵn sàng."
 > END STRING
 
@@ -430,8 +431,8 @@ bất thường ở đây cả. . ."
 \\.now that I think about it."
 > CONTEXT: Map038/events/18/pages/1/68/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Giờ nghĩ lại thì, \\.không biết
-lúc đó tại sao tôi làm được nữa."
+". . . Tôi đã quá ngây thơ khi nghĩ\\.
+mình có thể làm được chuyện này."
 > END STRING
 
 > BEGIN STRING
@@ -455,7 +456,7 @@ lúc đó tại sao tôi làm được nữa."
 "You should see the machine powering up."
 > CONTEXT: Map038/events/18/pages/2/26/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-"Anh sẽ thấy cỗ máy khởi đông."
+"Anh sẽ thấy cỗ máy khởi động."
 > END STRING
 
 > BEGIN STRING
@@ -463,7 +464,7 @@ lúc đó tại sao tôi làm được nữa."
 "Yeah. . . \\.\\.It just did."
 > CONTEXT: Map038/events/18/pages/2/162/Dialogue
 \\ignr\\e[20]\\nm[ Quincy ]
-"Ừm. . . \\.\\.Nó vừa chạy."
+"Ừm. . . \\.\\.Nó đang chạy."
 > END STRING
 
 > BEGIN STRING
@@ -480,7 +481,8 @@ nói tôi biết nếu anh thấy gì đáng ngờ."
 \\ignr\\e[20]\\nm[ Quincy ]
 "Uh-huh."
 > CONTEXT: Map038/events/18/pages/2/187/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Quincy ]
+"Hừm."
 > END STRING
 
 > BEGIN STRING
@@ -504,7 +506,7 @@ nói tôi biết nếu anh thấy gì đáng ngờ."
 "Although. . ."
 > CONTEXT: Map038/events/18/pages/2/250/Dialogue
 \\ignr\\e[20]\\nm[ Quincy ]
-"Tuy nhiên. . ."
+"Nhưng mà. . ."
 > END STRING
 
 > BEGIN STRING
@@ -512,7 +514,7 @@ nói tôi biết nếu anh thấy gì đáng ngờ."
 ". . . Although?"
 > CONTEXT: Map038/events/18/pages/2/254/Dialogue
 \\ignr\\e[67]\\nm[ Lynri ]
-". . . Tuy nhiên?"
+". . . Nhưng mà?"
 > END STRING
 
 > BEGIN STRING
@@ -563,7 +565,7 @@ Có giống tiếng chập điện không?"
 > CONTEXT: Map038/events/18/pages/2/702/Dialogue
 \\ignr\\e[24]\\nm[ Lynri ]
 "Hệ thống sắp khởi động rồi. . .
-\\.. . . Anh đã trông thấy những gì?"
+\\.. . . Anh thấy gì ở dưới đó?"
 > END STRING
 
 > BEGIN STRING
@@ -571,7 +573,7 @@ Có giống tiếng chập điện không?"
 "Don't move."
 > CONTEXT: Map038/events/18/pages/5/519/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Đừng di chuyển."
+"Không được di chuyển."
 > END STRING
 
 > BEGIN STRING
@@ -579,7 +581,7 @@ Có giống tiếng chập điện không?"
 ". . . What are you?"
 > CONTEXT: Map038/events/18/pages/5/548/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-". . . Anh là ai?"
+". . . Ai đó?"
 > END STRING
 
 > BEGIN STRING
@@ -587,8 +589,8 @@ Có giống tiếng chập điện không?"
 "Why can't I get a reading on you. . . ?"
 > CONTEXT: Map038/events/18/pages/5/563/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Tại sao tôi không đọc được
-dữ liệu của anh. . . ?"
+"Tại sao ta không đọc được
+dữ liệu của ngươi. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -604,7 +606,7 @@ dữ liệu của anh. . . ?"
 "Then. . . \\.\\.Are you the reason?"
 > CONTEXT: Map038/events/18/pages/6/196/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Vậy. . . \\.\\.Mục đích của anh là gì?"
+"Vậy. . . \\.\\.Mục đích của ngươi là gì?"
 > END STRING
 
 > BEGIN STRING
@@ -612,7 +614,7 @@ dữ liệu của anh. . . ?"
 "When I unplugged from here earlier. . ."
 > CONTEXT: Map038/events/18/pages/6/213/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Khi tôi ngắt kết nối khỏi đây. . ."
+"Khi nãy ta ngắt kết nối khỏi đây. . ."
 > END STRING
 
 > BEGIN STRING
@@ -620,7 +622,7 @@ dữ liệu của anh. . . ?"
 ". . . When I logged off, \\.there was \\inothing\\i."
 > CONTEXT: Map038/events/18/pages/6/219/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-". . . Khi tôi đăng xuất, \\.ở đây \\ikhông có gì\\i."
+". . . Khi ta đăng xuất, \\.nơi đây \\ikhông còn gì\\i."
 > END STRING
 
 > BEGIN STRING
@@ -629,7 +631,7 @@ dữ liệu của anh. . . ?"
 \\.\\.As if the entire world just. . .\\. vanished."
 > CONTEXT: Map038/events/18/pages/6/232/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-"Không có gì ngoài cỗ máy đăng nhập. . .
+"Không còn gì khác ngoài cỗ máy để đăng nhập lại. . .
 \\.\\.Như thể cả thế giới vừa. . .\\. biến mất."
 > END STRING
 
@@ -638,7 +640,7 @@ dữ liệu của anh. . . ?"
 ". . . Am I not real,\\. either?"
 > CONTEXT: Map038/events/18/pages/6/247/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-". . . Liệu tôi không phải\\. thật?"
+". . . Liệu ta không phải\\. là thật?"
 > END STRING
 
 > BEGIN STRING
@@ -710,7 +712,7 @@ dữ liệu của anh. . . ?"
 ". . . There are a lot of layers beneath us."
 > CONTEXT: Map038/events/18/pages/6/357/Dialogue
 \\ignr\\e[36]\\nm[ Lynri ]
-". . . Có rất nhiều lớp ớ dưới chúng ta."
+". . . Có rất nhiều lớp ở dưới chúng ta."
 > END STRING
 
 > BEGIN STRING
@@ -718,7 +720,7 @@ dữ liệu của anh. . . ?"
 "Okay, \\.you know what. . ."
 > CONTEXT: Map038/events/46/pages/0/47/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Okay, \\.mày biết gì không. . ."
+"Thôi được rồi, \\.biết sao không. . ."
 > END STRING
 
 > BEGIN STRING
@@ -726,7 +728,7 @@ dữ liệu của anh. . . ?"
 "Stop--. . . \\.JUST STOP IT!"
 > CONTEXT: Map038/events/46/pages/0/63/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Dừng lại--. . . \\.HÃY DỪNG LẠI!"
+"Dừng lại--. . . \\.HÃY DỪNG LẠI ĐI!"
 > END STRING
 
 > BEGIN STRING
@@ -750,14 +752,15 @@ dữ liệu của anh. . . ?"
 "Where does that light keep coming from?!"
 > CONTEXT: Map038/events/46/pages/0/96/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Cái ánh sáng kia cứ xuất hiện từ đâu thế?!"
+"Cái ánh sáng kia cứ xuất hiện từ đâu vậy?!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "And what's with all the weird sounds?!?"
 > CONTEXT: Map038/events/46/pages/0/111/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Và mấy âm thanh kỳ lạ đó là gì?!?"
 > END STRING
 
 > BEGIN STRING
@@ -767,7 +770,7 @@ Freakin' creepy \\iwood creaking\\i!"
 > CONTEXT: Map038/events/46/pages/0/133/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Máy nghe thấy không?? \\.\\.
-\\iTiếng gỗ kọt kẹt\\i rợn người!"
+\\iTiếng gỗ cọt kẹt\\i rợn người!"
 > END STRING
 
 > BEGIN STRING
@@ -836,8 +839,8 @@ Freakin' creepy \\iwood creaking\\i!"
 \\.\\.I shouldn't have said that."
 > CONTEXT: Map038/events/46/pages/0/315/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Rồi, \\.này. . . \\.xin lỗi nha.
-\\.\\.tao kông nên nói thế."
+"Rồi, \\.này. . . \\.tao xin lỗi. 
+\\.\\.Tao không nên nói thể."
 > END STRING
 
 > BEGIN STRING
@@ -846,8 +849,8 @@ Freakin' creepy \\iwood creaking\\i!"
 a rough day, \\.y'know?"
 > CONTEXT: Map038/events/46/pages/0/335/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Chỉ là. . . \\.\\.ờm\\.
-Chỉ là một ngày tồi tệ."
+"Chỉ là. . . \\.\\.ờm.\\.
+Hôm nay thật là một ngày tồi tệ."
 > END STRING
 
 > BEGIN STRING
@@ -875,7 +878,7 @@ cũng phải thấy chạnh lòng."
 can't get any worse from here."
 > CONTEXT: Map038/events/46/pages/0/375/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Nhìn tích cực thì. . . \\.\\.chắc là
+"Nhìn theo hướng tích cực thì. . . \\.\\.chắc là
 mọi chuyện sẽ không thể tệ hơn được nữa."
 > END STRING
 
@@ -909,7 +912,7 @@ Tao sẽ đương đầu với nó."
 "You've. . . \\.\\.You've changed. . ."
 > CONTEXT: Map038/events/46/pages/0/608/Dialogue
 \\ignr\\e[53]\\nm[ Quincy ]
-"Mày. . . \\.\\.Mày đang thay đổi. . ."
+"Mày. . . \\.\\.Mày đã thay đổi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -918,8 +921,8 @@ Tao sẽ đương đầu với nó."
 \\.\\.Something. . .\\.\\. \\imore\\i. . ."
 > CONTEXT: Map038/events/46/pages/0/627/Dialogue
 \\ignr\\e[53]\\nm[ Quincy ]
-"Mày đang dần thứ gì đó rất khác. . .
-\\.\\.Thứ gì đó. . .\\.\\. \\ikinh khủng\\i. . ."
+"Mày đã. . . \\.\\.hóa thành 
+một thứ gì đó. . .\\.\\. \\ikhác\\i. . ."
 > END STRING
 
 > BEGIN STRING
@@ -988,7 +991,8 @@ máy tính xem thử nào!"
 > CONTEXT: Map038/events/58/pages/0/10/Dialogue
 > CONTEXT: Map038/events/64/pages/0/11/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Có thật là. . . \\.phòng trung tâm điều khiển ở hướng này? )
+( Có thật là. . . \\.phòng trung tâm điều khiển
+ở hướng này không? )
 > END STRING
 
 > BEGIN STRING
@@ -1039,7 +1043,7 @@ We've been walking for ages."
 > CONTEXT: Map038/events/62/pages/0/51/Dialogue
 \\ignr\\e[59]\\nm[ Quincy ]
 "Tôi mong là thế. . . \\.
-Chúng ta đi từ nãy tới giờ rồi."
+Chúng tôi đi từ nãy tới giờ rồi."
 > END STRING
 
 > BEGIN STRING
@@ -1109,7 +1113,7 @@ should be just ahead now."
 > CONTEXT: Map038/events/62/pages/0/126/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
 ". . . Tôi không chắc chắn lắm, \\.nhưng 
-có lẽ căn phòng ngay phía trước."
+có lẽ căn phòng ở ngay phía trước."
 > END STRING
 
 > BEGIN STRING
@@ -1117,14 +1121,17 @@ có lẽ căn phòng ngay phía trước."
 "Tell me when you get there. . .\\.\\.
 I'll start the demo sequence then."
 > CONTEXT: Map038/events/62/pages/0/135/Dialogue < UNTRANSLATED
-
+\\ignr\\e[30]\\nm[ Lynri ]
+"Khi anh đến nơi. . .\\.\\. tôi
+sẽ khởi động trình demo."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[59]\\nm[ Quincy ]
 "Alright. . ."
 > CONTEXT: Map038/events/62/pages/0/143/Dialogue < UNTRANSLATED
-
+\\ignr\\e[59]\\nm[ Quincy ]
+"Được rồi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1133,21 +1140,28 @@ I'll start the demo sequence then."
 \\.\\.I'm glad you got my back."
 > CONTEXT: Map038/events/66/pages/1/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map038/events/66/pages/1/16/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cảm ơn vì mày đã ở đây\\.. . .
+\\.\\.Tao rất vui khi có
+mày đồng hành cùng."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Hey. . . \\.\\.I'm glad you're on my side."
 > CONTEXT: Map038/events/66/pages/1/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hey. . . \\.\\.I'm glad you're on my side."
 > END STRING
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Này. . . \\.\\.Tao rất vui khi
+có mày đồng hành cùng."
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Although,\\. to be honest. . ."
 > CONTEXT: Map038/events/66/pages/1/23/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tuy nhiên,\\. thú thực thì. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1155,7 +1169,9 @@ I'll start the demo sequence then."
 ". . . I've always thought of you as
 more of a knife-wielding kinda cat."
 > CONTEXT: Map038/events/66/pages/1/27/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Tao đã nghĩ mày là kiểu mèo
+thích xài dao."
 > END STRING
 
 > BEGIN STRING
@@ -1163,7 +1179,9 @@ more of a knife-wielding kinda cat."
 "But I mean. . .\\. I guess this is a
 good look for you too."
 > CONTEXT: Map038/events/66/pages/1/40/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Nhưng. . .\\. tao đoán trông mày
+thế này cũng không tới nỗi tệ."
 > END STRING
 
 > BEGIN STRING
@@ -1172,7 +1190,9 @@ good look for you too."
 \\.We should start soon."
 > CONTEXT: Map038/events/69/pages/0/5/Dialogue < UNTRANSLATED
 > CONTEXT: Map038/events/70/pages/0/5/Dialogue < UNTRANSLATED
-
+\\ignr\\e[32]\\nm[ Lynri ]
+"Đừng lảm nhảm nữa.\\.
+\\.Chúng ta cần bắt đầu sớm."
 > END STRING
 
 > BEGIN STRING
@@ -1180,7 +1200,8 @@ good look for you too."
 ( There's no backing out now. . . )
 > CONTEXT: Map038/events/69/pages/0/22/Dialogue < UNTRANSLATED
 > CONTEXT: Map038/events/70/pages/0/22/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Bây giờ không thể quay lại được nữa. . . )
 > END STRING
 
 > BEGIN STRING
@@ -1188,14 +1209,17 @@ good look for you too."
 ( Whoever designed these were surely
 nostalgic for a different time. . . )
 > CONTEXT: Map038/events/75/pages/0/3/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Người thiết kế nên cái này chắc
+là kiểu người hoài cổ. . . )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( That's one way to recycle an MRI machine. . . )
 > CONTEXT: Map038/events/76/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Đây là cách để tái chế máy MRI. . . )
 > END STRING
 
 > BEGIN STRING
@@ -1203,14 +1227,17 @@ nostalgic for a different time. . . )
 ( There's no one there. . . \\.\\.I guess they're
 just using stubbed memory data for seed? )
 > CONTEXT: Map038/events/76/pages/0/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Không có ai ở đây cả. . . \\.\\.chắc là họ đang
+sử dụng dữ liệu ký ức tạm thời để khởi tạo? )
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[89]
 [  M e m o r y   d a t a   s t u b   l o a d e d  ]
 > CONTEXT: Map038/events/78/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[89]
+[  Đ ã  n ạ p  d ữ  l i ệ u  k ý  ứ c  t ạ m  t h ờ i  ]
 > END STRING
 
 > BEGIN STRING
@@ -1218,5 +1245,7 @@ just using stubbed memory data for seed? )
 ( Did they really need a chandelier for lighting
 when RGB LED would've sufficed. . . ? )
 > CONTEXT: Map038/events/87/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có cần phải dùng cả một đống bóng đèn để
+trình chiếu trong khi RGB LED là dủ rồi. . . ? )
 > END STRING

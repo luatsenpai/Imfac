@@ -30,7 +30,7 @@
 "It's a \\ilittle\\i funny. . ."
 > CONTEXT: Map181/events/2/pages/0/119/Dialogue
 \\ignr\\e[5]
-"Đùa \\ichút\\i thôi. . ."
+"Đùa \\ichút\\i thôi mà. . ."
 > END STRING
 
 > BEGIN STRING
@@ -56,7 +56,7 @@ the 'perfect' timeline,\\. though. . ."
 > CONTEXT: Map181/events/2/pages/0/163/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Nghe thì 'hoàn hảo' đấy,\\. nhưng
-kỳ lạ thật sự. . ."
+thật kỳ lạ. . ."
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +101,8 @@ học. . .\\.\\.hay kỷ niệm nào đáng nhớ."
 the encyclopedia on it?"
 > CONTEXT: Map181/events/2/pages/0/222/Dialogue
 \\ignr\\e[5]
-"Thư viện Babylon khá thú vị đấy.\\.\\. Tôi
-có nên tìm tài liệu về nó không?"
+"Thư viện Babylon... nghe khá thú vị đấy.\\.\\.
+Tôi có nên tìm tài liệu về nó không?"
 > END STRING
 
 > BEGIN STRING
@@ -120,7 +120,7 @@ possible combination of letters and punctuation."
 > CONTEXT: Map181/events/2/pages/0/233/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 "Đó là một Thư viện giả thuyết chứa đựng mọi
-tổ hợp có thể của các chữ cái và dấu câu."
+tổ hợp có thể có của các chữ cái và dấu câu."
 > END STRING
 
 > BEGIN STRING
@@ -130,7 +130,7 @@ will be, \\.can be found there."
 > CONTEXT: Map181/events/2/pages/0/238/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 ". . . Mọi kiến thức, từ quá khứ đến tương lai,\\.
-đều nằm trong\\. Thư viện Babylon"
+đều nằm trong\\. Thư viện Babylon."
 > END STRING
 
 > BEGIN STRING
@@ -148,7 +148,7 @@ it just happens to be exactly what you need."
 > CONTEXT: Map181/events/2/pages/0/251/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Watts ]
 ". . . Đôi khi, cô với lấy một quyển sách,\\.
-và nó tình cờ là thứ cô cần."
+và nó tình cờ lại là thứ cô cần."
 > END STRING
 
 > BEGIN STRING

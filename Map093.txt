@@ -9,7 +9,7 @@ Khi trời \\.đổ mưa.
 Soon after you passed away. . . \\.\\.Your son was
 diagnosed with the same herediatory condition.
 > CONTEXT: Map093/events/16/pages/0/60/Dialogue
-Chẳng bao lâu sau khi cô qua đời. . . \\.\\
+Chẳng bao lâu sau khi cô qua đời. . . \\.\\.
 con trai cô đã được chẩn đoán mắc phải
 căn bệnh di truyền giống như cô.
 > END STRING

@@ -41,7 +41,7 @@ tới ba đầu bếp ở đây. . ."
 "Huh. \\.For some reason, I've never noticed him."
 > CONTEXT: Map097/events/17/pages/0/3/Dialogue
 \\ignr\\e[16]
-"Huh. \\.không hiểu sao tôi không để ý luôn đấy."
+"Hở. \\.không hiểu sao tôi không để ý luôn đấy."
 > END STRING
 
 > BEGIN STRING

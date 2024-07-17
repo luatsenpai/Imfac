@@ -44,7 +44,7 @@
 "The procedure went smoothly, \\.Lynri."
 > CONTEXT: Map127/events/1/pages/0/111/Dialogue
 \\ignr\\e[5]\\nm[ Bác Sĩ ]
-"Quá trình đã diễn ra suôn sẻ, \\.Lynri."
+"Quá trình đã diễn ra suôn sẻ, \\.cô Lynri."
 > END STRING
 
 > BEGIN STRING

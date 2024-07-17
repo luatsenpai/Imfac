@@ -32,7 +32,7 @@ sống nhiều cuộc đời khác nhau."
 that as a kid with a straight face."
 > CONTEXT: Map125/events/5/pages/0/58/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
-"Anh không thể tượng tượng được gương mặt
+"Anh không thể tưởng tượng được gương mặt
 em khi thốt ra câu đó lúc em còn nhỏ."
 > END STRING
 
@@ -58,7 +58,7 @@ so many years ago."
 > CONTEXT: Map125/events/5/pages/0/104/Dialogue
 \\ignr\\e[13]\\nm[ Lynri ]
 "Ừm. . .\\. Bố em đã tặng nó
-cho em từ rất kâu rồi."
+cho em từ rất lâu rồi."
 > END STRING
 
 > BEGIN STRING
@@ -68,7 +68,7 @@ cho em từ rất kâu rồi."
 > CONTEXT: Map125/events/5/pages/0/117/Dialogue
 \\ignr\\e[13]\\nm[ Lynri ]
 ". . . Bẵng đi một thời gian, \\.em chợt nhận ra 
-\\.câu chuyện ấy mang ý nghĩa sâu sắc hơn với mình."
+\\.câu chuyện ấy lại mang ý nghĩa khác hẳn trong em."
 > END STRING
 
 > BEGIN STRING
@@ -77,9 +77,9 @@ cho em từ rất kâu rồi."
 Maybe we can read it to Tobi one day."
 > CONTEXT: Map125/events/5/pages/0/134/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
-"Này, hãy giử nó lại đi. . . \\.\\.
+"Này, hãy giữ nó lại đi. . . \\.\\.
 Có lẽ một ngày nó đó chúng ta sẽ
-đọc nó cho Toby nghe."
+đọc nó cho Tobi nghe."
 > END STRING
 
 > BEGIN STRING

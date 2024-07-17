@@ -89,7 +89,7 @@ Nó sẽ thay đổi cả thế giới."
 as much as I should. \\.I'm sorry about that."
 > CONTEXT: Map109/events/12/pages/0/120/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
-"Nghe này, wm biết em đã không dành nhiều thời
+"Nghe này, em biết em đã không dành nhiều thời
 gian cho chúng ta. \\.Em xin lỗi."
 > END STRING
 
@@ -99,8 +99,8 @@ gian cho chúng ta. \\.Em xin lỗi."
 to do from the start. . .\\.\\. Didn't you?"
 > CONTEXT: Map109/events/12/pages/0/128/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
-"Nhưng em nghĩ ngay từ đầu chúng ta đã biết
-em đang làm gì. . .\\.\\. Phải không anh?"
+"Nhưng em nghĩ cả hai chúng ta đều biết em
+phải làm gì ngay từ đầu mà. . .\\.\\. Phải không anh?"
 > END STRING
 
 > BEGIN STRING
@@ -158,7 +158,10 @@ Nếu không thì anh đã không ở đây."
 "I meant what I said, \\.and I've been
 trying so hard to do just that."
 > CONTEXT: Map109/events/12/pages/0/183/Dialogue < UNTRANSLATED
-
+\\ignr\\e[6]\\nm[ Quincy ]
+"Anh hoàn toàn nghiêm túc với những gì
+anh đã nói, \\.và anh đã cố gắng hết sức
+để làm điều đó."
 > END STRING
 
 > BEGIN STRING
@@ -175,7 +178,7 @@ trying so hard to do just that."
 have more than just. . . \\.\\.this."
 > CONTEXT: Map109/events/12/pages/0/201/Dialogue
 \\ignr\\e[6]\\nm[ Quincy ]
-"anh chỉ nghĩ chúng ta sẽ có
+"Anh chỉ nghĩ chúng ta sẽ có
 nhiều hơn. . . \\.\\.thế này."
 > END STRING
 
@@ -186,7 +189,7 @@ the world, \\.but. . ."
 > CONTEXT: Map109/events/12/pages/0/209/Dialogue
 \\ignr\\e[6]\\nm[ Quincy ]
 "Anh biết anh nói sẽ mang thế giới
-vể bên em, \\.nhưng. . ."
+về bên em, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -206,7 +209,7 @@ and farther away."
 > CONTEXT: Map109/events/12/pages/0/229/Dialogue
 \\ignr\\e[6]\\nm[ Quincy ]
 "Và bây giờ, \\.cứ có cảm giác như
-mọi thư đang dần xa thật xa."
+mọi thứ đang dần xa thật xa."
 > END STRING
 
 > BEGIN STRING

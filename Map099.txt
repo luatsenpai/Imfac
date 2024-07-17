@@ -14,7 +14,7 @@ for a room here."
 > CONTEXT: Map099/events/6/pages/0/7/Dialogue
 \\ignr\\e[8]\\nm[ Rika ]
 "Nếu mọi thứ tiến triển tốt, chúng tôi
-sắp xếp phòng cho cô ở đây."
+sẽ sắp xếp phòng cho cô ở đây."
 > END STRING
 
 > BEGIN STRING

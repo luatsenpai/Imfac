@@ -53,7 +53,7 @@ khi thấy cô ở bữa tiệc lần trước."
 project. \\.I'll try my best to apply my findings--
 > CONTEXT: Map101/events/22/pages/0/21/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Ts. Yu nói nghiên cứu tôi có ích cho dự án.
+"Ts. Yu nói nghiên cứu của tôi có ích cho dự án.
 \\.Tôi sẽ cố gắng áp dụng các kết quả nghiên cứu--
 > END STRING
 
@@ -164,7 +164,7 @@ lợi ích liên quan còn phức tạp hơn nhiều."
 "Regardless,\\. look. . ."
 > CONTEXT: Map101/events/22/pages/0/116/Dialogue
 \\ignr\\e[19]\\nm[ Louie ]
-"Dù thì nào thì,\\. xem này. . ."
+"Dù thế nào thì,\\. nghe đây này. . ."
 > END STRING
 
 > BEGIN STRING

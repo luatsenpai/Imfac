@@ -4,14 +4,14 @@
 "Are. . . \\.\\.Are you sure?"
 > CONTEXT: Map121/events/47/pages/0/27/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
-"Ông. . . \\.\\.Ông chắc chứ?"
+"Bà. . . \\.\\.Bà chắc chứ?"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[46]\\nm[ Doctor ]
 "I'm afraid so. \\.We've ran multiple scans."
 > CONTEXT: Map121/events/47/pages/0/33/Dialogue
-\\ignr\\e[46]\\nm[ Doctor ]
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Tôi e là vậy. \\.Tôi đã kiểm tra rất nhiều lần."
 > END STRING
 
@@ -20,7 +20,7 @@
 "The development is acute, \\.and it seems
 to be worsening rapidly."
 > CONTEXT: Map121/events/47/pages/0/49/Dialogue
-\\ignr\\e[46]\\nm[ Doctor ]
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
 "Tình trạng diễn biến cấp tính, \\.và
 có vẻ đang trở nặng nhanh chóng."
 > END STRING
@@ -190,7 +190,7 @@ liên tục, \\.nhưng với cô. . ."
 would still result in life-altering impairment."
 > CONTEXT: Map121/events/47/pages/0/245/Dialogue
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
-". . . Ngay cả trong trường hợp tốt nhất, \\
+". . . Ngay cả trong trường hợp tốt nhất, \\.
 việc trì hoãn điều trị vẫn có thể dẫn đến
 những di chứng ảnh hưởng đến cuộc sống."
 > END STRING
@@ -208,7 +208,7 @@ những di chứng ảnh hưởng đến cuộc sống."
 "Doctor, \\.we need you in room 5."
 > CONTEXT: Map121/events/47/pages/0/301/Dialogue
 \\ignr\\e[14]
-"Bác Sĩ, \\.phòng số 5 cần anh."
+"Bác Sĩ, \\.phòng số 5 cần bà."
 > END STRING
 
 > BEGIN STRING
@@ -292,7 +292,8 @@ nghĩ đây là ý hay chứ?"
 \\ignr\\e[2]\\nm[ Lynri ]
 ". . . It was all like a hazy dream,\\. y'know?"
 > CONTEXT: Map121/events/47/pages/1/116/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Mọi thứ cứ như \\.một giấc mơ vậy."
 > END STRING
 
 > BEGIN STRING
@@ -378,7 +379,7 @@ chăm sóc thằng bé."
 you'll even be \\iable\\i to."
 > CONTEXT: Map121/events/47/pages/1/226/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
-". . . chì còn cách này thì
+". . . chỉ còn cách này thì
 em mới \\icó thể\\i yên tâm được."
 > END STRING
 
@@ -415,7 +416,7 @@ phải nghĩ đến điều đó sớm hơn--
 "We made a mistake, \\.okay?!"
 > CONTEXT: Map121/events/47/pages/1/259/Dialogue
 \\ignr\\e[16]\\nm[ Quincy ]
-"Chúng ta đều phạm sai lỗi, \\.okay?!"
+"Chúng ta đều phạm sai lầm, \\.được chứ?!"
 > END STRING
 
 > BEGIN STRING

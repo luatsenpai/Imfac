@@ -31,7 +31,7 @@ cho bài thuyết trình ngày mai."
 \\.\\.They'll be here early tomorrow."
 > CONTEXT: Map163/events/1/pages/0/144/Dialogue
 \\ignr\\e[16]\\nm[ Lynri ]
-"Ông nên đi nghỉ ngơi đi. . .
+"Ông nên nghỉ ngơi đi. . .
 \\.\\.Họ sẽ đến đây vào ngày mai"
 > END STRING
 

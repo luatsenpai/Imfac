@@ -4,7 +4,7 @@
 "Congratulations, \\.but please rest well. . ."
 > CONTEXT: Map161/events/1/pages/0/42/Dialogue
 \\ignr\\e[5]\\nm[ Bác Sĩ ]
-"Chúc mừng, \\.hãy nghỉ ngơi điều độ. . ."
+"Chúc mừng, \\.hãy nghỉ ngơi thật điều độ. . ."
 > END STRING
 
 > BEGIN STRING
@@ -120,7 +120,7 @@ lots of reasons why he should."
 > CONTEXT: Map161/events/1/pages/0/223/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 ". . . Nhưng sau tất cả, \\.thì cũng
-có nhiều lý do để thằng bé làm thế."
+có nhiều lý do nên làm như vậy."
 > END STRING
 
 > BEGIN STRING
@@ -137,8 +137,8 @@ có nhiều lý do để thằng bé làm thế."
 as well with \\i'Watts'\\i,\\. does it?"
 > CONTEXT: Map161/events/1/pages/0/258/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
-"Dù thế. . . \\.\\i'Tobi'\\i nghe không
-hạp với họ \\i'Watts'\\i,\\. đúng chứ?"
+"Dù thế. . . \\.\\i'Tobi'\\i nghe cũng không
+hợp với họ \\i'Watts'\\i,\\. đúng chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -246,7 +246,7 @@ dù chỉ là một chút.
 But eventually, \\.as you felt your time coming near. . .
 > CONTEXT: Map161/events/1/pages/1/60/Dialogue
 Nhưng rồi, \\.cô cảm thấy thời gian của
-mình không còn nhiều thời gian nữa. . .
+mình không còn nhiều. . .
 > END STRING
 
 > BEGIN STRING
@@ -266,7 +266,7 @@ thằng bé khi trưởng thành.
 > BEGIN STRING
 . . . You left him a piece of your memories.
 > CONTEXT: Map161/events/1/pages/1/79/Dialogue
-. . . Cô đã để lại cho anh ấy một phần ký ức của cô.
+. . . Cô đã để lại cho thằng bé một phần ký ức của cô.
 > END STRING
 
 > BEGIN STRING

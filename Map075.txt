@@ -22,7 +22,7 @@ chẳng khác gì ký túc xá cũ vậy?"
 "Hm,\\. it's kind of cozy if you ask me."
 > CONTEXT: Map075/events/6/pages/0/16/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
-"Hm,\\. Tuy không sang trọng nhưng
+"Hm,\\. tuy không sang trọng nhưng
 cũng có vẻ ấm cúng."
 > END STRING
 

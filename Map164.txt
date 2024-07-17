@@ -4,7 +4,7 @@
 "Initialize."
 > CONTEXT: Map164/events/1/pages/0/68/Dialogue
 \\ignr\\e[2]\\nm[ Lynri ]
-"Khời động."
+"Khởi động."
 > END STRING
 
 > BEGIN STRING
@@ -154,7 +154,7 @@ F O R   A R T I F I C I A L   I N S E R T I O N
 > CONTEXT: Map164/events/1/pages/1/92/Dialogue
 \\ignr\\e[4]
 H Ã Y  C H Ọ N  T H I Ế T  L Ậ P  K Ý  Ứ C
-Đ Ể  C H È N  V À O  N H Â N  T Ạ O
+Đ Ể  T R Ì N H  D I Ễ N  T H Ự C  N G H I Ệ M
 > END STRING
 
 > BEGIN STRING

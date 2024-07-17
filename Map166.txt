@@ -33,7 +33,7 @@ I N I T I A T I N G   F O R E I G N   E N T I T Y
 T O   M E M O R Y   S E T T I N G
 > CONTEXT: Map166/events/17/pages/0/331/Dialogue
 \\ignr\\e[17]
-K H Ở I  T Ạ O  T H Ự C  T H Ể  N G O À I
+K H Ở I  T Ạ O  T H Ự C  T H Ể  B Ê N  N G O À I
 V Ớ I  T H I Ế T  L Ậ P  K Ý  Ứ C
 > END STRING
 

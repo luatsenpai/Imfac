@@ -33,7 +33,7 @@ chỉnh,\\. vì vậy bé cần phải thở máy."
 grows up. . . \\.but it won't be easy."
 > CONTEXT: Map128/events/3/pages/0/106/Dialogue
 \\ignr\\e[2]\\nm[ Bác Sĩ ]
-Tôi không chắc bé sẽ phát triển ra sao. . .
+"Tôi không chắc bé sẽ phát triển ra sao. . .
 \\.nhưng sẽ không dễ dàng đâu."
 > END STRING
 
@@ -42,5 +42,5 @@ Tôi không chắc bé sẽ phát triển ra sao. . .
 ". . . Do your best to take care of him, okay?"
 > CONTEXT: Map128/events/3/pages/0/123/Dialogue
 \\ignr\\e[2]\\nm[ Bác Sĩ ]
-". . . Nhớ chăm sóc bé cẩn thận nha?"
+". . . Hãy chăm sóc bé cẩn thận nhé?"
 > END STRING

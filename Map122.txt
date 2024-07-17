@@ -35,7 +35,7 @@
 \\ignr\\e[45]\\nm[ Doctor ]
 "And over here is the arm. . ."
 > CONTEXT: Map122/events/1/pages/0/99/Dialogue
-\\ignr\\e[45]\\nm[ Doctor ]
+\\ignr\\e[45]\\nm[ Bác Sĩ ]
 "Và bên đây là cánh tay. . ."
 > END STRING
 
@@ -51,7 +51,7 @@
 \\ignr\\e[45]\\nm[ Doctor ]
 "And the other arm. . ."
 > CONTEXT: Map122/events/1/pages/0/122/Dialogue
-\\ignr\\e[45]\\nm[ Doctor ]
+\\ignr\\e[45]\\nm[ Bác Sĩ ]
 "Và cánh tay còn lại. . ."
 > END STRING
 
@@ -69,7 +69,7 @@
 And don't forget your prenatal vitamin!"
 > CONTEXT: Map122/events/50/pages/0/14/Dialogue
 \\ignr\\e[16]
-". . . Hảy mang giày\\. thật thoải mái.\\.\\.
+". . . Hãy mang giày\\. thật thoải mái.\\.\\.
 Và đừng quên vitamin cho thai phụ nhé!"
 > END STRING
 
@@ -87,8 +87,8 @@ Và đừng quên vitamin cho thai phụ nhé!"
 something to reminisce about."
 > CONTEXT: Map122/events/50/pages/0/20/Dialogue
 \\ignr\\e[16]
-"Hãy ngủ đi. . . \\.\\.Để sau này 
-còn có gì đó để mà hoài niệm chứ."
+"Ngủ đủ giấc. . . \\.\\.để thức dậy
+với một tâm hồn tươi mới."
 > END STRING
 
 > BEGIN STRING
@@ -113,7 +113,7 @@ nếu là con trai. . ."
 "Oh, \\.those are both lovely names!"
 > CONTEXT: Map122/events/51/pages/0/24/Dialogue
 \\ignr\\e[22]\\nm[ Mẹ ]
-"Oh, \\.cả hai đếu là những cái tên
+"Ôi, \\.cả hai đều là những cái tên
 rất đáng yêu!"
 > END STRING
 
@@ -155,8 +155,8 @@ rất đáng yêu!"
 already find out, \\.right?"
 > CONTEXT: Map122/events/51/pages/0/85/Dialogue
 \\ignr\\e[22]\\nm[ Mẹ ]
-"Nhân tiện, \\.con đã biết
-rồi nhỉ, \\.đúng chứ?"
+"Nhân tiện, \\.chắc hẳn
+con đã biết \\.rồi nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -180,7 +180,7 @@ rồi nhỉ, \\.đúng chứ?"
 "What is it. . . ??"
 > CONTEXT: Map122/events/54/pages/0/33/Dialogue
 \\ignr\\e[23]\\nm[ Quincy ]
-"Đó là. . . ??"
+"Như. . . ??"
 > END STRING
 
 > BEGIN STRING
@@ -188,7 +188,7 @@ rồi nhỉ, \\.đúng chứ?"
 "Oh, \\.and this one!"
 > CONTEXT: Map122/events/56/pages/0/15/Dialogue
 \\ignr\\e[27]\\nm[ mẹ ]
-"A, \\.và cả điều này nữa!"
+"A, \\.và cả cái này nữa!"
 > END STRING
 
 > BEGIN STRING
@@ -196,7 +196,7 @@ rồi nhỉ, \\.đúng chứ?"
 ". . . This'll look adoooorable on little Tobi!"
 > CONTEXT: Map122/events/56/pages/0/24/Dialogue
 \\ignr\\e[27]\\nm[ Mẹ ]
-". . . Hãy xem Tobi bé nhỏ đáng yêuuu nàooo!"
+". . . Bé Tobi mặc cái này vào sẽ đáng yêuuu lắm đâyy!"
 > END STRING
 
 > BEGIN STRING
@@ -204,7 +204,7 @@ rồi nhỉ, \\.đúng chứ?"
 "That looks a little big for a newborn, \\.mom."
 > CONTEXT: Map122/events/56/pages/0/29/Dialogue
 \\ignr\\e[26]\\nm[ Lynri ]
-"Mẹ.\\.Trông nó bụ bẫm so với những đứa trẻ khác."
+"Cái này trông hơi to so với\\. trẻ sơ sinh đó mẹ."
 > END STRING
 
 > BEGIN STRING
@@ -213,8 +213,9 @@ rồi nhỉ, \\.đúng chứ?"
 like this when the time comes!"
 > CONTEXT: Map122/events/56/pages/0/38/Dialogue
 \\ignr\\e[27]\\nm[ Mẹ ]
-"Oh Lyn. . . \\.Chúng ta không có thời
-gian sắm sửa cho con đầu lòng mất!"
+"Thôi nào Lyn. . . \\.Đến lúc đó chúng ta
+sẽ không có thời gian để sắm sửa như
+thế này đâu!"
 > END STRING
 
 > BEGIN STRING
@@ -278,7 +279,7 @@ dọa con đó!"
 "Ready? \\.\\.Here we go. . . !"
 > CONTEXT: Map122/events/60/pages/0/16/Dialogue
 \\ignr\\e[29]\\nm[ Quincy ]
-"Thật á? \\.\\.Đây đây. . . !"
+"Sẵn sàng chưa? \\.\\.Đón lấy đi này. . . !"
 > END STRING
 
 > BEGIN STRING
@@ -287,8 +288,8 @@ dọa con đó!"
 we all got spoiled already. . ."
 > CONTEXT: Map122/events/60/pages/0/57/Dialogue
 \\ignr\\e[30]\\nm[ Lynri ]
-"Có hơi chút hụt hẫng khi
-chúng ta đã biết từ trước. . ."
+"Có hơi hụt hẫng khi tất cả
+đã biết từ trước rồi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -297,7 +298,7 @@ chúng ta đã biết từ trước. . ."
 the chance for a reveal party!"
 > CONTEXT: Map122/events/60/pages/0/65/Dialogue
 \\ignr\\e[29]\\nm[ Quincy ]
-"Xì, \\.Anh sẽ không bò lỡ cơ
+"Xì, \\.anh sẽ không bỏ lỡ cơ
 hội làm tiệc công khai đâu!"
 > END STRING
 
@@ -420,7 +421,7 @@ máy tạo khói. . ."
 "No, \\.the baby seems fine. \\.\\.It's just. . ."
 > CONTEXT: Map122/events/63/pages/0/97/Dialogue
 \\ignr\\e[63]\\nm[ Bác Sĩ ]
-"Không, \\.đứa bé vẫn ổn \\.\\.Chỉ là. . ."
+"Không, \\.đứa bé vẫn ổn. \\.\\.Chỉ là. . ."
 > END STRING
 
 > BEGIN STRING
@@ -455,7 +456,7 @@ here for a long time now."
 > CONTEXT: Map122/events/66/pages/0/25/Dialogue
 \\ignr\\e[37]\\nm[ Lynri ]
 "Ừm. . . \\.\\.Em muốn đưa
-anh tới đó từ rất lâu rồi."
+anh tới đây từ rất lâu rồi."
 > END STRING
 
 > BEGIN STRING
@@ -463,7 +464,7 @@ anh tới đó từ rất lâu rồi."
 ". . . If only we lived closer to it."
 > CONTEXT: Map122/events/66/pages/0/35/Dialogue
 \\ignr\\e[37]\\nm[ Lynri ]
-". . . Giá mà chúng ta sống cạnh nó."
+". . . Giá mà chúng ta có thể sống gần nó."
 > END STRING
 
 > BEGIN STRING
@@ -480,7 +481,7 @@ anh tới đó từ rất lâu rồi."
 your nostalgic treasure?"
 > CONTEXT: Map122/events/66/pages/0/73/Dialogue
 \\ignr\\e[38]\\nm[ Quincy ]
-"Vậy, \\.đó là nơi em cất giữ
+"Vậy, \\.đây là nơi em cất giữ
 những kỷ niệm quý giá à?"
 > END STRING
 
@@ -496,5 +497,6 @@ những kỷ niệm quý giá à?"
 \\ignr\\e[45]\\nm[ Doctor ]
 ". . . Yup, \\.it's a boy."
 > CONTEXT: Map122/events/54/pages/0/39/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Bác Sĩ ]
+". . . Đúng, \\.là bé trai."
 > END STRING

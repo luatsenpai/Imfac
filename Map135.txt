@@ -23,7 +23,7 @@
 > CONTEXT: Map135/events/12/pages/1/15/Dialogue
 > CONTEXT: Map135/events/18/pages/1/14/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
-"Chúng ta sắp có gì đó cực kỳ thú vị rồi đấy. . .
+"Họ đang đi lấy một thứ gì đó cực kỳ thú vị đấy. . .
 . . . Hãy ráng chờ thêm một chút \\.nhé?"
 > END STRING
 
@@ -75,5 +75,5 @@ tại của thằng bé?"
 "Yeah. . .\\.\\. Okay."
 > CONTEXT: Map135/events/32/pages/0/51/Dialogue
 \\ignr\\e[32]\\nm[ Lynri ]
-"Vâng. . .\\.\\. Được rồi."
+"Vâng. . .\\.\\. Con hiểu rồi."
 > END STRING

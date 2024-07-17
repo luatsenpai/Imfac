@@ -59,7 +59,7 @@ tiếp theo và những hạn chế pháp lý mà nó gây ra."
 > CONTEXT: Map117/events/7/pages/0/104/Dialogue
 \\ignr\\e[14]\\nm[ Idina ]
 "Đúng,\\. và bây giờ mọi thứ\\.
-đang \\ivượt\\itầm kiểm soát rồi!"
+đang \\ivượt\\i tầm kiểm soát rồi!"
 > END STRING
 
 > BEGIN STRING
@@ -96,7 +96,7 @@ for the core of the project."
 Let's not lose our heads over a little setback."
 > CONTEXT: Map117/events/7/pages/0/150/Dialogue
 \\ignr\\e[11]\\nm[ Prisha ]
-"Biết đâu mọi thj17 xoay chuyển thì sao?\\.\\.
+"Biết đâu mọi thứ xoay chuyển thì sao?\\.\\.
 Đừng đánh mất lý trí chỉ vì một chút trở ngại chứ."
 > END STRING
 

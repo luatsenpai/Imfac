@@ -176,7 +176,7 @@ làm ơn hãy là ảo giác. . ."
 "Downstairs."
 > CONTEXT: Map007/events/4/pages/14/79/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"Xuống lầu."
+"Xuống lầu nào."
 > END STRING
 
 > BEGIN STRING
@@ -184,7 +184,7 @@ làm ơn hãy là ảo giác. . ."
 "What is it?"
 > CONTEXT: Map007/events/4/pages/14/124/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-"Có chuyện gì?"
+"Có chuyện gì sao?"
 > END STRING
 
 > BEGIN STRING
@@ -192,7 +192,7 @@ làm ơn hãy là ảo giác. . ."
 "I mean. . . \\.\\.What \\iisn't\\i 'it'?"
 > CONTEXT: Map007/events/4/pages/14/144/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
-"Ừm. . . \\.\\.Có \\ichuyện\\i 'gì'?"
+"Ừm. . . \\.\\.Có \\ichuyện\\i 'gì' ấy hả?"
 > END STRING
 
 > BEGIN STRING
@@ -218,7 +218,7 @@ với việc đây chính là cô thật."
 "Hey-- \\.I didn't mean that in a bad way."
 > CONTEXT: Map007/events/4/pages/14/203/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
-"Ê-- \\.Tôi không định nói đó là ý tồi."
+"Ê-- \\.Ý của tôi không phải như vậy."
 > END STRING
 
 > BEGIN STRING
@@ -227,8 +227,8 @@ với việc đây chính là cô thật."
 care about what I think anyway?"
 > CONTEXT: Map007/events/4/pages/14/230/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
-"Và cho dù thế. . . \\.\\.Tại sao cô
-quan tâm tới suy nghĩ của tôi làm gì?"
+"Và cho dù thế. . . \\.\\.Cô đâu cần
+phải để ý lời tôi nói làm gì cơ chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -236,7 +236,7 @@ quan tâm tới suy nghĩ của tôi làm gì?"
 ". . . Downstairs."
 > CONTEXT: Map007/events/4/pages/14/241/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
-". . . Xuống lầu."
+". . . Xuống lầu nào."
 > END STRING
 
 > BEGIN STRING
@@ -289,7 +289,7 @@ The door's locked.
 > CONTEXT: Map007/events/27/pages/0/3/Dialogue
 > CONTEXT: Map007/events/27/pages/1/3/Dialogue
 > CONTEXT: Map007/events/27/pages/2/3/Dialogue
-\\ignr\\e[18]
+\\ignr\\e[27]
 Cửa khóa.
 > END STRING
 

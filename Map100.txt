@@ -38,7 +38,7 @@ trong số dự án mà chúng tôi theo đuổi."
 "Except for you, \\.Ricebot."
 > CONTEXT: Map100/events/19/pages/0/36/Dialogue
 \\ignr\\e[10]\\nm[ Ts. Yu ]
-"Ngoại trừ nguơi, \\.Ricebot."
+"Ngoại trừ mi, \\.Ricebot."
 > END STRING
 
 > BEGIN STRING
@@ -67,7 +67,7 @@ upstairs,\\. will you?"
 > CONTEXT: Map100/events/19/pages/0/56/Dialogue
 \\ignr\\e[10]\\nm[ Ts. Yu ]
 "Nhân tiện, cô đem Ricebot
-lân cầu thang,\\. được chứ?"
+lên cầu thang\\. được không?"
 > END STRING
 
 > BEGIN STRING

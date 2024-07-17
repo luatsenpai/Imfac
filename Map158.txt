@@ -14,7 +14,7 @@
 \\ignr\\e[40]
 "Trong khoảng thời gian đó,\\. thằng bé đã giúp
 đỡ vô số bệnh nhân, \\.và chứng kiến biết bao
-cuộc đời trôi qua. . ."
+nhiêu cuộc đời trôi qua. . ."
 > END STRING
 
 > BEGIN STRING
@@ -34,7 +34,7 @@ hoàn thiện công nghệ."
 > CONTEXT: Map158/events/1/pages/0/134/Dialogue
 \\ignr\\e[40]
 "Và hôm nay, trong thế giới đó. . .\\.\\.
-Thẳng bé đã thành công."
+Thằng bé đã thành công."
 > END STRING
 
 > BEGIN STRING
@@ -53,11 +53,10 @@ các thế giới khác chồng chất lên nó. . ."
 stress test from the machine he perfected."
 > CONTEXT: Map158/events/1/pages/0/163/Dialogue
 \\ignr\\e[40]
-". . . They're the result of the first functional
-stress test from the machine he perfected."
-> END STRING
 ". . . Đây là kết quả của lần kiểm tra chức năng
 đầu tiên từ cỗ máy mà thằng bé đã hoàn thiện."
+> END STRING
+
 
 > BEGIN STRING
 \\ignr\\e[42]\\nm[ Quincy ]
@@ -82,13 +81,11 @@ nó dùng cho mục đích gì. . . ?"
 leave a part of themselves after they're gone."
 > CONTEXT: Map158/events/1/pages/0/186/Dialogue
 \\ignr\\e[41]\\nm[ Lynri ]
-". . . A window to a world where everyone could
-leave a part of themselves after they're gone."
-> END STRING
-\\ignr\\e[41]\\nm[ Lynri ]
 ". . . Một cánh cửa sổ đến một thế giới nơi
 mọi người có thể để lại một phần của mình
 sau khi họ ra đi."
+> END STRING
+
 > BEGIN STRING
 \\ignr\\e[41]\\nm[ Lynri ]
 "So that everyone who ever existed,
@@ -144,7 +141,7 @@ khả năng mà cuộc sống này mang lại."
 > CONTEXT: Map158/events/1/pages/0/273/Dialogue
 \\ignr\\e[41]\\nm[ Lynri ]
 "Tôi thật mừng vì ở đâu đó ngoài kia, \\.
-tôi đã có lựa chọn khác . . ."
+tôi đã chọn một lựa chọn khác . . ."
 > END STRING
 
 > BEGIN STRING
@@ -170,7 +167,7 @@ events, \\.this tangent needs to be terminated."
 > CONTEXT: Map158/events/1/pages/0/513/Dialogue
 \\ignr\\e[40]
 "Giờ chúng ta đã vượt quá ranh giới của các sự kiện
-đã định,\\.nhánh rẽ này cần phải được kết thúc."
+đã định,\\. nhánh rẽ này cần phải được kết thúc."
 > END STRING
 
 > BEGIN STRING
@@ -266,7 +263,7 @@ a way to give \\iyou\\i more time."
 > CONTEXT: Map158/events/1/pages/0/617/Dialogue
 \\ignr\\e[40]
 "Gạt những thế giới khác sang một bên. . .\\.\\.
-tôi có thể có cách cho anh thêm thời gian."
+có thể tôi có cách cho anh thêm thời gian."
 > END STRING
 
 > BEGIN STRING
@@ -289,7 +286,7 @@ tôi có thể có cách cho anh thêm thời gian."
 \\ignr\\e[22]
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map158/events/1/pages/0/682/Dialogue
-\\ignr\\e[81]
+\\ignr\\e[22]
 P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 > END STRING
 
@@ -347,7 +344,7 @@ quy tắc nào dành cho chúng."
 ( The groundskeeper would be livid. . . )
 > CONTEXT: Map158/events/17/pages/0/48/Dialogue
 \\ignr\\e[17]\\nm[ Quincy ]
-( Người trông coi sẽ nổi trận lôi đình. . . )
+( Người trông coi sẽ nổi giận lôi đình cho coi. . . )
 > END STRING
 
 > BEGIN STRING
@@ -363,7 +360,7 @@ quy tắc nào dành cho chúng."
 ( Was that fountain always like that. . . ? )
 > CONTEXT: Map158/events/20/pages/0/76/Dialogue
 \\ignr\\e[20]\\nm[ Quincy ]
-( Cái đài phun nước luôn thế này sao. . . ? )
+( Đài phun nước đó lúc nào cũng như vậy à. . . ? )
 > END STRING
 
 > BEGIN STRING
@@ -437,9 +434,8 @@ mày như thế nào, \\.nhưng. . ."
 one day and find out,\\. yeah?"
 > CONTEXT: Map158/events/21/pages/1/142/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Có lẽ tạo sẽ gặp lại mày
-trong lần khởi động lại nào đó
-và sẽ tìm hiểu\\. chăng?"
+". . . Có lẽ tạo sẽ gặp lại mày trong
+lần khởi động lại nào đó\\. chăng?"
 > END STRING
 
 > BEGIN STRING
@@ -448,7 +444,7 @@ và sẽ tìm hiểu\\. chăng?"
 > CONTEXT: Map158/events/21/pages/1/164/Dialogue
 > CONTEXT: Map158/events/21/pages/1/188/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Bảo trong nhé, \\.anh bạn nhỏ."
+". . . Bảo trọng nhé, \\.anh bạn nhỏ."
 > END STRING
 
 > BEGIN STRING
@@ -519,12 +515,10 @@ M Ỗ I  N G À Y
 \\.\\.. . . But let's hope so."
 > CONTEXT: Map158/events/23/pages/0/67/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"I'm not sure if this is the same thing. . .
-\\.\\.. . . But let's hope so."
-> END STRING
-\\ignr\\e[0]\\nm[ Quincy ]
-"Ta không chắc đây có phải cùng một thứ không. . .
+"Ta không chắc đây có phải cùng một kiểu không. . .
 \\.\\.. . . Nhưng hy vọng là vậy.
+> END STRING
+
 > BEGIN STRING
 \\ignr\\e[47]\\nm[ R I C E B O T ]
 T H E R E   C A N   B E   N O   D I F F E R E N C E
@@ -540,7 +534,7 @@ K H Ô N G  C Ò N  G Ì  V À  K H Ô N G  C Ó  G Ì
 ". . . Farewell, \\.Ricebot."
 > CONTEXT: Map158/events/23/pages/0/105/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Hãy bảo trọng, \\.Ricebot."
+". . . Bảo trọng nhé, \\.Ricebot."
 > END STRING
 
 > BEGIN STRING
@@ -548,7 +542,7 @@ K H Ô N G  C Ò N  G Ì  V À  K H Ô N G  C Ó  G Ì
 "Shall we go?"
 > CONTEXT: Map158/events/40/pages/2/4/Dialogue
 \\ignr\\e[40]
-"Chúng ta đi chứ?"
+"Chúng ta đi được chưa?"
 > END STRING
 
 > BEGIN STRING
@@ -556,7 +550,7 @@ K H Ô N G  C Ò N  G Ì  V À  K H Ô N G  C Ó  G Ì
 "Well. . . \\.\\.Shall we go?"
 > CONTEXT: Map158/events/40/pages/2/8/Dialogue
 \\ignr\\e[40]
-"Chà. . . \\.\\.Chúng ta đi chứ?"
+"Chà. . . \\.\\.Chúng ta đi được chưa?"
 > END STRING
 
 > BEGIN STRING
@@ -603,7 +597,7 @@ Chưa vội
 ". . . I'm ready."
 > CONTEXT: Map158/events/40/pages/2/49/Dialogue
 \\ignr\\e[41]\\nm[ Lynri ]
-". . . Tôi sẵn sàng."
+". . . Tôi sẵn sàng rồi."
 > END STRING
 
 > BEGIN STRING

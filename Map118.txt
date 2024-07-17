@@ -3,7 +3,8 @@
 \\ignr\\e[21]\\nm[ Quincy ]
 "What are you thinking. . . ?"
 > CONTEXT: Map118/events/23/pages/0/25/Dialogue < UNTRANSLATED
-
+\\ignr\\e[21]\\nm[ Quincy ]
+"Em đang nghĩ gì đó. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -19,7 +20,8 @@ cân nhắc việc này chứ?"
 \\ignr\\e[21]\\nm[ Quincy ]
 "I don't know, \\.but. . ."
 > CONTEXT: Map118/events/23/pages/0/59/Dialogue
-\\Anh không biết nữa, \\.nhưng. . ."
+\\ignr\\e[21]\\nm[ Quincy ]
+"Anh không biết nữa, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -46,8 +48,8 @@ một gia đình, \\.đúng không. . . ?"
 than just what I want."
 > CONTEXT: Map118/events/23/pages/0/85/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
-"Ửm, \\.nhưng chuyện này không
-chỉ là những gì em muốm."
+"Ừm, \\.nhưng chuyện này không
+chỉ là những gì em muốn."
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +59,7 @@ preoccupied about \\imy own\\i livelihood."
 > CONTEXT: Map118/events/23/pages/0/96/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Ý em là, \\.không lâu trước đây\\. em vẫn
-con đang bận tâm về cuộc sống \\icủa mình\\i."
+còn đang bận tâm về cuộc sống \\icủa mình\\i."
 > END STRING
 
 > BEGIN STRING
@@ -65,7 +67,7 @@ con đang bận tâm về cuộc sống \\icủa mình\\i."
 "I suppose I've been doing well lately, \\.but still. . ."
 > CONTEXT: Map118/events/23/pages/0/106/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
-"Em nghĩ em đã làm tốt nó, \\.nhưng. . ."
+"Em nghĩ em đang làm rất tốt, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -74,7 +76,7 @@ con đang bận tâm về cuộc sống \\icủa mình\\i."
 Medical advances have come a long way."
 > CONTEXT: Map118/events/23/pages/0/114/Dialogue
 \\ignr\\e[21]\\nm[ Quincy ]
-"Có lẽ chúng ta có thể đặt lịch khám? \\.\\.
+"Có lẽ chúng ta nên đặt lịch đi khám? \\.\\.
 Y học đã có những bước tiến rất xa rồi."
 > END STRING
 
@@ -113,7 +115,7 @@ to start a family?"
 > CONTEXT: Map118/events/23/pages/0/152/Dialogue
 \\ignr\\e[22]\\nm[ Lynri ]
 "Ý em là, \\.anh có \\imuốn\\i
-bắt đầu một gia đình?"
+có con không?"
 > END STRING
 
 > BEGIN STRING
@@ -121,7 +123,7 @@ bắt đầu một gia đình?"
 "Honestly. . . ?"
 > CONTEXT: Map118/events/23/pages/0/162/Dialogue
 \\ignr\\e[21]\\nm[ Quincy ]
-"Thật ư. . . ?"
+"Nói thật thì. . ."
 > END STRING
 
 > BEGIN STRING
@@ -140,7 +142,7 @@ Bà là gia đình duy nhất anh có."
 parents, \\.but. . .\\.\\. I still remember the feeling."
 > CONTEXT: Map118/events/23/pages/0/188/Dialogue
 \\ignr\\e[21]\\nm[ Quincy ]
-"Anh hầu như không nhớ những khoảng khắc bên bố mẹ,
+"Anh hầu như không nhớ những khoẳng khắc bên bố mẹ,
 \\.nhưng. . .\\.\\. Anh vẫn nhớ cảm giác đó."
 > END STRING
 
@@ -203,7 +205,7 @@ dù cho chúng ta chọn gì đi nữa. . ."
 ". . . I'll see it through with you 'til the end."
 > CONTEXT: Map118/events/23/pages/0/268/Dialogue
 \\ignr\\e[21]\\nm[ Quincy ]
-". . . Anh sẽ cùng em đi tới cuối con đường này."
+". . . Anh vẫn sẽ cùng em đi tới cuối con đường này."
 > END STRING
 
 > BEGIN STRING
@@ -316,8 +318,8 @@ Huntington's, \\.deterrence might be called. . ."
 > CONTEXT: Map118/events/25/pages/0/178/Dialogue
 > CONTEXT: Map023/events/25/pages/0/178/Dialogue
 \\ignr\\e[12]\\nm[ Bác Sĩ ]
-"Giờ,\\. nếu đó là một căn bệnh có nguy cơ cực kỳ 
-cao như Huntington, \\.có thể ngăn cản nó . ."
+"Giờ,\\. nếu đó là một căn bệnh có nguy cơ cao 
+như Huntington, \\.thì có thể ngăn chặn được. . ."
 > END STRING
 
 > BEGIN STRING
@@ -358,7 +360,7 @@ encouraging it,\\. and there are other issues. . ."
 > CONTEXT: Map118/events/25/pages/0/217/Dialogue
 > CONTEXT: Map023/events/25/pages/0/217/Dialogue
 \\ignr\\e[12]\\nm[ Bác Sĩ ]
-"Bây giờ, đừng hiểu lầm tôi;\\. Tôi không hẳn
+"Giờ thì đừng hiểu lầm ý tôi.\\. Đây không hẳn
 là khuyến khích,\\. nhưng còn vài vấn đề nữa. . ."
 > END STRING
 

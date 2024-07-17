@@ -57,7 +57,7 @@ ngon nhất mà em từng ăn!"
 \\.\\.I'm learning so much already."
 > CONTEXT: Map123/events/43/pages/2/12/Dialogue
 \\ignr\\e[29]\\nm[ Lynri ]
-"Cảm ơn ông đã mời tơi tới đây. . .
+"Cảm ơn ông đã mời tôi tới đây. . .
 \\.\\.Tôi đã học được rất nhiều thứ."
 > END STRING
 
@@ -93,7 +93,7 @@ dự án chính.\\.\\. Nhớ giữ bí mật nhé."
 "Well, \\.I'm pretty sure I found the issue. . ."
 > CONTEXT: Map123/events/63/pages/2/7/Dialogue
 \\ignr\\e[60]\\nm[ Ts. Clegg ]
-"À, \\.Tôi chắc chắn đã tìm ra vấn đề rồi. . ."
+"À, \\.tôi chắc chắn đã tìm ra vấn đề rồi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -110,7 +110,7 @@ thử nghiệm không?"
 "Sure, \\.I'm here to help."
 > CONTEXT: Map123/events/63/pages/2/21/Dialogue
 \\ignr\\e[59]\\nm[ Lynri ]
-"Chắc rồi, \\.tôi đến đây để giúp."
+"Chắc rồi, \\.tôi đến đây để giúp mà."
 > END STRING
 
 > BEGIN STRING
@@ -162,7 +162,7 @@ to fix,\\. but. . .\\. we'll get through it."
 > CONTEXT: Map123/events/111/pages/2/10/Dialogue
 \\ignr\\e[113]\\nm[ Ts. Yu ]
 "Module chuyển giao vẫn bị chậm tiến độ,
-\\.\\.mặc dù chúng ta đang có những tiến triển"
+\\.\\.mặc dù chúng ta đang có những tiến triển."
 > END STRING
 
 > BEGIN STRING
@@ -172,7 +172,7 @@ to fix,\\. but. . .\\. we'll get through it."
 > CONTEXT: Map123/events/111/pages/2/18/Dialogue
 \\ignr\\e[114]\\nm[ Ts. Haynes ]
 "Nhưng các nhà đầu tư đang mong đợi một bản demo.. . .\\.
-\\.Cô chắc là nó sẽ sẵn sàng trước khi ra mắt?"
+\\.Cô chắc là nó sẽ sẵn sàng trước khi ra mắt không?"
 > END STRING
 
 > BEGIN STRING
@@ -208,7 +208,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 "Sorry I'm so late again, \\.I had to--. . .
 > CONTEXT: Map123/events/117/pages/0/4/Dialogue
 \\ignr\\e[108]\\nm[ Lynri ]
-"Xin lỗi em lại về trể, \\.em phải--. . .
+"Xin lỗi em lại về trễ, \\.em phải--. . .
 > END STRING
 
 > BEGIN STRING
@@ -216,7 +216,7 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 "Shoot, \\.I forgot it was today. . ."
 > CONTEXT: Map123/events/129/pages/0/25/Dialogue
 \\ignr\\e[126]\\nm[ Lynri ]
-"Ối, \\.mình quên mất hôm nay là ngày đó. . ."
+"Ôi, \\.mình quên mất hôm nay là ngày đó. . ."
 > END STRING
 
 > BEGIN STRING

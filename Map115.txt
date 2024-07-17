@@ -116,7 +116,8 @@ bất hợp lệ, nhưng vẫn giữ được \\i'anh'\\i
 ". . . I think everyone's here."
 > CONTEXT: Map115/events/1/pages/0/262/Dialogue
 \\ignr\\e[1]
-". . . Tôi nghĩ mọi người ở đây."
+". . . Tôi nghĩ mọi người
+đã có mặt đầy đủ rồ."
 > END STRING
 
 > BEGIN STRING
@@ -133,7 +134,7 @@ bất hợp lệ, nhưng vẫn giữ được \\i'anh'\\i
 \\.but I'll try to be quick."
 > CONTEXT: Map115/events/1/pages/2/36/Dialogue
 \\ignr\\e[1]
-"Xin lỗi vì khiến anh phải chứng kiến,
+"Xin lỗi vì để anh phải chứng kiến,
 \\.nhưng tôi sẽ cố gắng làm thật nhanh."
 > END STRING
 
@@ -239,7 +240,7 @@ resource required to maintain. . ."
 a lifetime as real as your own."
 > CONTEXT: Map115/events/1/pages/10/218/Dialogue
 \\ignr\\e[1]
-". . . Những với anh,\\. nó giống như
+". . . Nhưng với anh,\\. nó giống như
 cuộc sống thật của anh vậy."
 > END STRING
 
@@ -309,8 +310,9 @@ ngoài kia đã được an bài."
 matter when not even our own did?"
 > CONTEXT: Map115/events/1/pages/10/344/Dialogue
 \\ignr\\e[1]\\nm[ Lynri ]
-". . . Sao phải đi thực tế ảo nữa khi
-chuyến đi của bản thân còn chẳng vui?"
+". . . Sao lại phải đi thực tế ảo khác
+trong khi chuyến đi của chính chúng ta
+không còn ý nghĩa gì nữa?"
 > END STRING
 
 > BEGIN STRING
@@ -318,7 +320,7 @@ chuyến đi của bản thân còn chẳng vui?"
 "I've already seen all there is to see. . ."
 > CONTEXT: Map115/events/1/pages/10/358/Dialogue
 \\ignr\\e[1]\\nm[ Lynri ]
-"Tôi đã trải nghiệm tất cả rồi. . ."
+"Tôi đã trải nghiệm hết tất cả rồi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -342,7 +344,7 @@ chuyến đi của bản thân còn chẳng vui?"
 ". . . But what if you haven't?"
 > CONTEXT: Map115/events/1/pages/10/421/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
-". . . Nếu cô chưa từng?"
+". . . Nhưng nếu cô chưa từng thì sao?"
 > END STRING
 
 > BEGIN STRING
@@ -362,7 +364,7 @@ the possibilities, \\.not narrow it?"
 > CONTEXT: Map115/events/1/pages/10/462/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
 ". . . Nhưng dù sao đi nữa, \\.điều này không phải
-mở ra nhiều khả năng hơn sao, \\.thay vì hạn chế chúng"
+mở ra nhiều khả năng hơn sao, \\.thay vì hạn chế chúng."
 > END STRING
 
 > BEGIN STRING
@@ -372,8 +374,8 @@ matter if our reality isn't '\\ibase reality\\i'?"
 > CONTEXT: Map115/events/1/pages/10/477/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
 "Nếu như thế giới của chúng ta không phải là
-'\\ithế giới gốc thì sao\\i'?\\. Điều đó có thực sự
-quan trọng không'?"
+'\\ithế giới gốc\\i' thì sao?\\. Điều đó có thực sự
+quan trọng không?"
 > END STRING
 
 > BEGIN STRING
@@ -404,7 +406,7 @@ relative to her,\\. but it's just as real relative to \\ius\\i."
 > CONTEXT: Map115/events/1/pages/10/538/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
 "Bên kia cánh cổng kia là gì. . . \\.\\.Có thể nó không
-phải thật đối với cô ấy,\\. nhưng nó là thật đối với \\ichúng ta\\i."
+phải là thật đối với cô ấy,\\. nhưng nó là thật đối với \\ichúng ta\\i."
 > END STRING
 
 > BEGIN STRING
@@ -413,7 +415,7 @@ phải thật đối với cô ấy,\\. nhưng nó là thật đối với \\ich
 a reality that is truly out there somewhere."
 > CONTEXT: Map115/events/1/pages/10/559/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
-"Biết đâu. . . \\.vượt qua cánh cổng này, chúng ta
+"Biết đâu. . . \\.bước qua cánh cổng này, chúng ta
 sẽ thấy được một mảnh vỡ của thực tại đích thực
 đang tồn tại ở đâu đó ngoài kia."
 > END STRING
@@ -423,6 +425,9 @@ sẽ thấy được một mảnh vỡ của thực tại đích thực
 "A reality that we can visit, \\.and
 time to grow old together. . ."
 > CONTEXT: Map115/events/1/pages/10/578/Dialogue < UNTRANSLATED
+\\ignr\\e[1]\\nm[ Quincy ]
+"Một thực tại, \\.nơi chúng ta có thể
+ở lại và cùng nhau già đi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -438,7 +443,7 @@ time to grow old together. . ."
 ". . . Wanna go on one last trip together?"
 > CONTEXT: Map115/events/1/pages/10/603/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
-". . . Muốn đi cùng một chuyến cuối cùng không?"
+". . . Muốn cùng tôi đi một chuyến cuối cùng không?"
 > END STRING
 
 > BEGIN STRING
@@ -479,5 +484,5 @@ là một thực tại."
 ". . . Your new life is waiting."
 > CONTEXT: Map115/events/1/pages/10/761/Dialogue
 \\ignr\\e[1]
-". . . Cuộc sống mới của cô đang chờ."
+". . . Cuộc sống mới của hai người đang chờ đấy."
 > END STRING

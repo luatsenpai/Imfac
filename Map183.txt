@@ -12,7 +12,7 @@
 ". . . I don't have your stapler, \\.I swear."
 > CONTEXT: Map183/events/7/pages/0/105/Dialogue
 \\ignr\\e[8]\\nm[ Ts. Watts ]
-". . . Tôi thề,\\. tôi không lấy bấm kim của cô, "
+". . . Tôi thề,\\. tôi không lấy cái kẹp giấy của cô."
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +29,8 @@
 \\.before deciding to be nearby."
 > CONTEXT: Map183/events/7/pages/0/137/Dialogue
 \\ignr\\e[6]\\nm[ Ts. Lin ]
-"Sắp đến \\igần\\i rồi.\\.\\. Một tiếng trước
-vẫn còn xa, \\.trước khi đến gần hôn."
+"Sắp tới \\igiờ\\i rồi.\\.\\. Hồi nãy còn
+một tiếng, \\.giờ thì sắp rồi."
 > END STRING
 
 > BEGIN STRING
@@ -38,7 +38,7 @@ vẫn còn xa, \\.trước khi đến gần hôn."
 "Yeah,\\. what are the chances, right?!"
 > CONTEXT: Map183/events/7/pages/0/149/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
-"Ừm,\\. không thể tin được nhỉ?!"
+"Ừm,\\. trùng hợp ghê ha?!"
 > END STRING
 
 > BEGIN STRING
@@ -56,7 +56,7 @@ một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
 "How rad?"
 > CONTEXT: Map183/events/7/pages/0/193/Dialogue
 \\ignr\\e[8]\\nm[ Ts. Watts ]
-"Đỉnh cơ nào cơ?"
+"Đỉnh cỡ nào cơ?"
 > END STRING
 
 > BEGIN STRING
@@ -80,7 +80,7 @@ một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
 "Geee,\\. \\isomebody's\\i a party pooper."
 > CONTEXT: Map183/events/7/pages/0/249/Dialogue
 \\ignr\\e[5]\\nm[ Ts. Winters ]
-"Hừ,\\. \\iai đó\\i đang làm mất hứng."
+"Hừ,\\. \\iai đó\\i làm cụt hứng quá đê."
 > END STRING
 
 > BEGIN STRING
@@ -143,8 +143,7 @@ Có phải đầm cocktail đâu."
 "I'm expecting greatness."
 > CONTEXT: Map183/events/7/pages/0/470/Dialogue
 \\ignr\\e[9]\\nm[ Ts. Watts ]
-"Tôi háo hức mong chờ
-những điều tuyệt vời."
+"Tôi đang háo hức đây."
 > END STRING
 
 > BEGIN STRING
@@ -152,7 +151,7 @@ những điều tuyệt vời."
 "Uh, \\.you forgot to close the. . ."
 > CONTEXT: Map183/events/7/pages/0/497/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
-"Uh, \\.ông quên đóng. . ."
+"Ê, \\.ông quên đóng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -160,7 +159,7 @@ những điều tuyệt vời."
 "Is somebody in there?"
 > CONTEXT: Map183/events/7/pages/0/545/Dialogue
 \\ignr\\e[4]\\nm[ Ts. Rosalene ]
-"Có ai trong đó không?"
+"Có ai trong đó sao?"
 > END STRING
 
 > BEGIN STRING

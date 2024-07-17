@@ -800,7 +800,7 @@ Ts. Kim tới giúp."
 while I'm gone, \\.alright?"
 > CONTEXT: Map013/events/4/pages/30/180/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Hãy đi khiểm tra những căn phòng khác
+"Hãy đi kiểm tra những căn phòng khác
 trong lúc tôi rời đi, \\.được chứ?"
 > END STRING
 
@@ -811,7 +811,7 @@ to check for more bodies?!"
 > CONTEXT: Map013/events/4/pages/30/374/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Khoan, \\.cô định bỏ tôi ở đây một
-mình để xem có thêm thi thể không?!"
+mình để xem có thêm thi thể đấy à?!"
 > END STRING
 
 > BEGIN STRING
@@ -829,7 +829,7 @@ những chuyện còn tệ hơn thế rồi mà."
 "Besides, \\.you know they're not real."
 > CONTEXT: Map013/events/4/pages/30/401/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Hơn nữa, \\.anh đã biết họ không phải thật."
+"Hơn nữa, \\.anh biết họ không phải là thật mà."
 > END STRING
 
 > BEGIN STRING
@@ -863,7 +863,7 @@ những chuyện còn tệ hơn thế rồi mà."
 "Okay, \\.then. . . \\.\\.here."
 > CONTEXT: Map013/events/4/pages/30/457/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Rồi, \\.được thôi. . . \\.\\.đây."
+"Rồi, \\.được rồi. . . \\.\\.đây."
 > END STRING
 
 > BEGIN STRING
@@ -904,7 +904,7 @@ những chuyện còn tệ hơn thế rồi mà."
 > CONTEXT: Map013/events/4/pages/30/617/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Rồi,\\. tôi sẽ quay lại sớm thôi.
-Ch1uc may mắn!"
+Chúc may mắn!"
 > END STRING
 
 > BEGIN STRING
@@ -1144,7 +1144,7 @@ N H I Ề U  C Ơ M  H Ơ N  N Ữ A
 "What are we waiting for, \\.then?!"
 > CONTEXT: Map013/events/4/pages/31/878/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Vậy, \\.chúng ta còn chần chờ làm gì?!"
+"Vậy, \\.chúng ta còn chần chứ gì nữa?!"
 > END STRING
 
 > BEGIN STRING
@@ -1160,7 +1160,7 @@ N H I Ề U  C Ơ M  H Ơ N  N Ữ A
 \\c[6]\\oi[11]\\c[0]  joined the party.
 > CONTEXT: Map013/events/4/pages/31/960/Dialogue
 \\ignr\\e[20]
-\\c[6]\\oi[11]\\c[0]  đã đi cùng.
+\\c[6]\\oi[11]\\c[0]  đã gia nhập đội.
 > END STRING
 
 > BEGIN STRING
@@ -1176,7 +1176,7 @@ N H I Ề U  C Ơ M  H Ơ N  N Ữ A
 \\c[6]\\oi[12]\\c[0]  joined the party.
 > CONTEXT: Map013/events/4/pages/31/1013/Dialogue
 \\ignr\\e[79]
-\\c[6]\\oi[12]\\c[0]  đã đi cùng.
+\\c[6]\\oi[12]\\c[0]  đã gia nhập đội.
 > END STRING
 
 > BEGIN STRING
@@ -1233,7 +1233,7 @@ The large amethyst display seems
 to glow from within.
 > CONTEXT: Map013/events/5/pages/0/6/Dialogue
 \\ignr\\e[0]
-Khối thạch anh tím khổng lồ tỏ
+Khối thạch anh tím khổng lồ tỏa
 ra ánh sáng kỳ bí từ bên trong.
 > END STRING
 
@@ -1244,7 +1244,7 @@ ra ánh sáng kỳ bí từ bên trong.
 > CONTEXT: Map013/events/20/pages/7/6/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Cô ấy trông có vẻ bận tâm. . . \\.
-\\.Hay là mình đi vòng vòng xem sao? )
+\\.Có lẽ mình nên thử điều tra xung quanh xem? )
 > END STRING
 
 > BEGIN STRING
@@ -1296,7 +1296,7 @@ were out too soon."
 > CONTEXT: Map013/events/20/pages/8/92/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Nó gần xong rồi,\\. nhưng
-anh ra ngoài sớm quá."
+anh tới đây sớm quá."
 > END STRING
 
 > BEGIN STRING
@@ -1306,7 +1306,7 @@ in there for quite a while. . ."
 > CONTEXT: Map013/events/20/pages/8/103/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Sớm quá? \\.\\.Tôi cứ có cảm giác
-như ở trong đó rất lâu. . ."
+như rất kâu rồi ấy. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1378,7 +1378,7 @@ K H Ô I  P H Ụ C  B I Ê N  D Ị C H  :  6 7 %
 \\ignr\\e[20]\\nm[ Lynri ]
 "Theo những gì anh đã thấy. . . \\.\\.
 . . . Tôi có phải là một người 
-ích kỷ, \\.tồi tệ?"
+ích kỷ, \\.tồi tệ hay không?"
 > END STRING
 
 > BEGIN STRING
@@ -1589,7 +1589,7 @@ testing your believability, \\.that's all."
 > CONTEXT: Map013/events/20/pages/8/499/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 ". . . Vì mục đích của tôi là kiểm tra
-anh có tin\\.những gì tôi nói không."
+anh có tin \\.những gì tôi nói không."
 > END STRING
 
 > BEGIN STRING
@@ -1638,7 +1638,7 @@ Hỏi
 of a difference at this point anyhow."
 > CONTEXT: Map013/events/20/pages/8/562/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Thôi không sao. . . \\.\\.giờ thì 
+"Có lẽ là không. . . \\.\\.giờ thì 
 cũng chẳng quan trọng lắm."
 > END STRING
 
@@ -1789,8 +1789,7 @@ Thiếu tượng đài phun nước
 > CONTEXT: Map013/events/20/pages/9/115/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Hay đúng hơn, \\.một loạt trùng hợp
-ngẫu nhiên. . .\\.\\.. . . lặp đi
-lặp lại."
+ngẫu nhiên. . .\\.\\. lặp đi lặp lại."
 > END STRING
 
 > BEGIN STRING
@@ -1821,7 +1820,7 @@ that sink every time you did a reset?"
 > CONTEXT: Map013/events/20/pages/9/142/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Và tôi chỉ. . . \\.\\.tình cờ sử dụng bồn rửa
-đó mỗi lần anh thiết lập lại chăng?"
+đó mỗi lần cô thiết lập lại chăng?"
 > END STRING
 
 > BEGIN STRING
@@ -1848,8 +1847,8 @@ nhưng vẫn cao hơn 0%."
 \\.actually. . .\\. but we'll test that soon."
 > CONTEXT: Map013/events/20/pages/9/171/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Thực ra. . .\\.Đó cũng là lý do khiến tôi
-nghi ngờ\\. nhưng chúng tôi sẽ kiểm tra ngay."
+"Thực ra. . .\\. Đó cũng là lý do khiến tôi
+nghi ngờ\\. nhưng chúng ta sẽ kiểm tra nó sớm thôi."
 > END STRING
 
 > BEGIN STRING
@@ -1875,7 +1874,7 @@ right? \\.\\.How come I didn't see it in the flashbacks?"
 "Because the murders never happened."
 > CONTEXT: Map013/events/20/pages/9/225/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Bợi vì vụ án mạng chưa từng diễn ra."
+"Bởi vì vụ án mạng chưa từng diễn ra."
 > END STRING
 
 > BEGIN STRING
@@ -1937,7 +1936,7 @@ my 'self' in this memory, \\.so there was only one."
 > CONTEXT: Map013/events/20/pages/9/303/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Chà, \\.trong lần chạy đầu tiên, \\.tôi nghĩ mình có thể
-khiểm soát 'chính mình' trong ký ức này, \\.vậy nên
+kiểm soát 'chính mình' trong ký ức này, \\.vậy nên
 chỉ có một mà thôi."
 > END STRING
 
@@ -1947,7 +1946,7 @@ chỉ có một mà thôi."
 and debug, \\.so I spawned another token 'me'."
 > CONTEXT: Map013/events/20/pages/9/308/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Nhưng trong lần thiết lậpo lại vụ án mạng, \\.tôi phải
+"Nhưng trong lần thiết lập lại vụ án mạng, \\.tôi phải
 do thám và gỡ lỗi, \\.vậy nên tôi đã gọi ra 'tôi' khác."
 > END STRING
 
@@ -1957,7 +1956,7 @@ do thám và gỡ lỗi, \\.vậy nên tôi đã gọi ra 'tôi' khác."
 were both from the first spawn before a reset."
 > CONTEXT: Map013/events/20/pages/9/318/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Anh chỉ có thể nhìn thấy tôi bởi vì chúng tôi
+"Anh chỉ có thể nhìn thấy tôi bởi vì chúng ta
 được tạo ra từ đầu trước khi thiết lập lại."
 > END STRING
 
@@ -1975,7 +1974,7 @@ were both from the first spawn before a reset."
 \\.\\.What's so special about it?"
 > CONTEXT: Map013/events/20/pages/9/351/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Căn phòng trên tần mà cô đưa tôi vào. . .
+"Căn phòng trên tầng mà cô đưa tôi vào. . .
 \\.\\.Nó có gì đặc biệt sao?"
 > END STRING
 
@@ -1996,7 +1995,7 @@ it's just a void space in there; \\.so I used it."
 > CONTEXT: Map013/events/20/pages/9/370/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
 "Bởi vì nơi này dựa theo ký ức của tôi,\\. ở đó
-chỉ có một khoảng không; \\.và tôi tận dụng nó."
+chỉ có một khoảng không \\.và tôi tận dụng nó."
 > END STRING
 
 > BEGIN STRING
@@ -2129,7 +2128,7 @@ Vẫn còn thời gian cho một vài câu hỏi nữa."
 "One last question, \\.and we're starting."
 > CONTEXT: Map013/events/20/pages/9/608/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Một câu hỏi cuối cúng, \\.và nó sẽ khởi động."
+"Một câu hỏi cuối cùng, \\.và nó sẽ khởi động."
 > END STRING
 
 > BEGIN STRING
@@ -2223,7 +2222,7 @@ văn phòng và quan sát họ."
 "Oh, \\.then uh. . . \\.\\.Yay?"
 > CONTEXT: Map013/events/20/pages/10/191/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"À, \\.vậy. . . \\.\\.Được chưa?"
+"Ồ, \\.vậy thì. . . \\.\\.Tốt quá nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -2231,7 +2230,7 @@ văn phòng và quan sát họ."
 "Indeed. \\.\\.You ready?"
 > CONTEXT: Map013/events/20/pages/10/204/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Được rồi. \\.\\.Sẵn sáng chưa?"
+"Được rồi. \\.\\.Sẵn sàng chưa?"
 > END STRING
 
 > BEGIN STRING
@@ -2261,7 +2260,7 @@ Chắc chắn là có
 "Yup. \\.\\.I stuffed them there first."
 > CONTEXT: Map013/events/20/pages/10/231/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Ừm. \\.\\.xử lý nó trước."
+"Ừm. \\.\\.Xử lý nó trước."
 > END STRING
 
 > BEGIN STRING
@@ -2319,7 +2318,7 @@ chúng ta đã đi xa quá rồi."
 "Go on. \\.\\.They're waiting for you by the toilet."
 > CONTEXT: Map013/events/20/pages/11/9/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Đi thôi. \\.\\.Họ đang đợi anh trong toilet."
+"Đi đi. \\.\\.Họ đang đợi anh trong toilet."
 > END STRING
 
 > BEGIN STRING
@@ -2403,7 +2402,7 @@ It's not like I'm gonna run with it."
 > CONTEXT: Map013/events/20/pages/16/228/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Này, \\.cô kể tôi nghe đi. . . \\.\\.
-Tôi sẽ không tiết lộ với ai đi."
+Tôi không tiết lộ với ai đâu."
 > END STRING
 
 > BEGIN STRING
@@ -2483,7 +2482,7 @@ H Ã Y  T I Ế N  Đ Ế N
 "What the, \\.she's gone. . ."
 > CONTEXT: Map013/events/20/pages/18/21/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Cài gì, \\.cô ấy biến mất rồi. . ."
+"Cái gì, \\.cô ấy biến mất rồi. . ."
 > END STRING
 
 > BEGIN STRING
@@ -2538,7 +2537,7 @@ L Ạ I  Đ Ạ I  S Ả N H  B Ữ A  T I Ệ C
 The door's locked.
 > CONTEXT: Map013/events/21/pages/7/3/Dialogue
 > CONTEXT: Map013/events/21/pages/8/4/Dialogue
-\\ignr\\e[22]
+\\ignr\\e[21]
 Cửa khóa.
 > END STRING
 
@@ -3468,7 +3467,7 @@ D Ừ N G
 "Wow, \\.so powerful. . ."
 > CONTEXT: Map013/events/54/pages/18/53/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Quào, \\.mạnh thế. . ."
+"Quào, \\.đỉnh thế. . ."
 > END STRING
 
 > BEGIN STRING
@@ -3486,7 +3485,7 @@ or responsive, \\.though."
 > CONTEXT: Map013/events/55/pages/3/25/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 "Còn sống. . . \\.chắc thế? \\.\\.Tuy nhiên,\\.
-họ không cử động hay phản hồi"
+họ không cử động hay phản hồi."
 > END STRING
 
 > BEGIN STRING
@@ -3520,7 +3519,7 @@ lần nữa và báo cáo tình trạng của họ."
 "Now?"
 > CONTEXT: Map013/events/55/pages/5/16/Dialogue
 \\ignr\\e[20]\\nm[ Lynri ]
-"Vậy bây giờ?"
+"Sao rồi?"
 > END STRING
 
 > BEGIN STRING
@@ -3996,12 +3995,12 @@ Bức tranh vẽ thiên thần.
 > BEGIN STRING
 Decline
 > CONTEXT: Map013/events/20/pages/8/540/Choice/1 < UNTRANSLATED
-
+Không hỏi
 > END STRING
 
 > BEGIN STRING
 The real Quincy
 > CONTEXT: Map013/events/20/pages/9/24/Choice/2 < UNTRANSLATED
 > CONTEXT: Map013/events/20/pages/9/44/Choice/2 < UNTRANSLATED
-
+Quincy thật
 > END STRING

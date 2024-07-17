@@ -133,7 +133,7 @@ Cơm.
 More rice.
 > CONTEXT: Map173/events/5/pages/0/9/Dialogue
 \\ignr\\e[5]
-Thêm cơm.
+Nhiều bao gạo.
 > END STRING
 
 > BEGIN STRING
@@ -141,7 +141,7 @@ Thêm cơm.
 Even more rice.
 > CONTEXT: Map173/events/5/pages/0/15/Dialogue
 \\ignr\\e[5]
-Thêm cơm nữa.
+Nhiều bao gạo hơn.
 > END STRING
 
 > BEGIN STRING
@@ -149,7 +149,7 @@ Thêm cơm nữa.
 So much rice.
 > CONTEXT: Map173/events/5/pages/0/21/Dialogue
 \\ignr\\e[5]
-Thật nhiều cơm.
+Thật nhiều bao gạo.
 > END STRING
 
 > BEGIN STRING
@@ -157,7 +157,7 @@ Thật nhiều cơm.
 All the rice.
 > CONTEXT: Map173/events/5/pages/0/26/Dialogue
 \\ignr\\e[5]
-Toàn là cơm.
+Toàn là bao gạo.
 > END STRING
 
 > BEGIN STRING
@@ -165,7 +165,7 @@ Toàn là cơm.
 Rice.
 > CONTEXT: Map173/events/6/pages/0/3/Dialogue
 \\ignr\\e[6]
-Cơm.
+Bao gạo.
 > END STRING
 
 > BEGIN STRING
@@ -173,7 +173,7 @@ Cơm.
 More rice.
 > CONTEXT: Map173/events/6/pages/0/9/Dialogue
 \\ignr\\e[5]
-Thêm cơm.
+Nhiều bao gạo.
 > END STRING
 
 > BEGIN STRING
@@ -181,7 +181,7 @@ Thêm cơm.
 Even more rice.
 > CONTEXT: Map173/events/6/pages/0/15/Dialogue
 \\ignr\\e[5]
-Thêm cơm nữa.
+Nhiều bao gạo hơn.
 > END STRING
 
 > BEGIN STRING
@@ -189,7 +189,7 @@ Thêm cơm nữa.
 So much rice.
 > CONTEXT: Map173/events/6/pages/0/21/Dialogue
 \\ignr\\e[5]
-Thật nhiều cơm.
+Thật nhiều bao gạo.
 > END STRING
 
 > BEGIN STRING
@@ -197,5 +197,5 @@ Thật nhiều cơm.
 All the rice.
 > CONTEXT: Map173/events/6/pages/0/26/Dialogue
 \\ignr\\e[5]
-Toàn là cơm.
+Toàn là bao gạo.
 > END STRING

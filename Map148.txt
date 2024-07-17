@@ -87,7 +87,7 @@ and you said you wanted to be a star,\\. so that--
 > CONTEXT: Map148/events/9/pages/0/158/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Bố đã hỏi rằng con muốn trở thành ngôi sao hay
-hoa oải hương;\\. và con nói con muốn trở thành
+hoa oải hương\\. và con nói con muốn trở thành
 ngôi sao\\. và--
 > END STRING
 
@@ -115,7 +115,7 @@ hoa oải hương xinh đẹp đến nhường nào."
 \\.\\.I just wanted to make you proud."
 > CONTEXT: Map148/events/9/pages/0/201/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
-"Con biết, \\.lúc đó \\.còn ngây ngô. . .
+"Con biết, \\.lúc đó con\\.còn ngây ngô. . .
 \\.\\.con chỉ muốn bố hài lòng."
 > END STRING
 
@@ -144,7 +144,7 @@ missing my one chance to shine."
 > CONTEXT: Map148/events/9/pages/0/220/Dialogue
 \\ignr\\e[7]\\nm[ Lynri ]
 "Chỉ vì con đã sợ rằng con sẽ
-bỏ lỡ cơ hôi duy nhất để tỏa sáng."
+bỏ lỡ cơ hội duy nhất để tỏa sáng."
 > END STRING
 
 > BEGIN STRING
@@ -214,7 +214,7 @@ to the whole world, \\.but. . ."
 > CONTEXT: Map148/events/9/pages/0/317/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Ý bố là,\\. ừm, \\.có thể điều đó không mang
-nhiều ý nghĩa với cả thế giớ, \\.nhưng. . ."
+nhiều ý nghĩa với cả thế giới, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -234,7 +234,7 @@ nào đó vẫn có giá trị mà,\\. phải không?"
 > CONTEXT: Map148/events/9/pages/0/349/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Như con đã mang lại cho bố, \\.và. . .\\.
-\\.Bố chắc chắn Tobi đã mang lại cho."
+\\.Bố chắc chắn Tobi cũng sẽ mang lại cho con."
 > END STRING
 
 > BEGIN STRING
@@ -244,7 +244,7 @@ nào đó vẫn có giá trị mà,\\. phải không?"
 > CONTEXT: Map148/events/9/pages/0/364/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
 "Bố biết con vẫn đang tự trách mình, \\.Lynri. . .
-\\.\\.Nhưng điều đó chẳng giúp ích gì."
+\\.\\.Nhưng điều đó chẳng giúp ích gì cả."
 > END STRING
 
 > BEGIN STRING
@@ -253,7 +253,7 @@ nào đó vẫn có giá trị mà,\\. phải không?"
 is to make the most of what we're given."
 > CONTEXT: Map148/events/9/pages/0/385/Dialogue
 \\ignr\\e[6]\\nm[ Bill ]
-"Cuộc đời ngắn ngủi,\\. nên chúng ta chỉ
+"Đời người thật ngắn ngủi,\\. nên chúng ta chỉ
 có thể trân trọng những gì đang có và
 sống một cách trọn vẹn nhất."
 > END STRING

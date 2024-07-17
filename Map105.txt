@@ -32,7 +32,7 @@ the bumpy flight, \\.I think."
 > CONTEXT: Map105/events/31/pages/0/19/Dialogue
 \\ignr\\e[14]\\nm[ Lynri ]
 "Ừm. . . \\.\\.em nghĩ\\. em chỉ bị
-say máy bay do máy bay hơi sóc thôi"
+say máy bay do máy bay hơi sóc thôi."
 > END STRING
 
 > BEGIN STRING

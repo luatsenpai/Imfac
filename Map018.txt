@@ -414,7 +414,7 @@ Chuyển giao ký ức từ người sang máy móc\\.. . . )
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map018/events/4/pages/13/161/Dialogue
 \\ignr\\e[53]
-P H Á T  H I Ệ N  S Ự  B Ấ T  T H Ư Ờ N G
+P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 > END STRING
 
 > BEGIN STRING
@@ -1027,29 +1027,29 @@ Chiếc laptop trang bị khóa vật lý.
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[29]
+\\ignr\\e[53]
 A somewhat inviting bottle of single-malt
 and two glasses.
 > CONTEXT: Map018/events/29/pages/0/3/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 Chai rượu mạch nha đơn cất hấp dẫn
 cùng hai cái ly.
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[29]
+\\ignr\\e[53]
 An inviting bottle of single-malt and two glasses.
 > CONTEXT: Map018/events/29/pages/0/8/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 Chai rượu mạch nha đơn cất hấp dẫn
 cùng hai cái ly.
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[29]
+\\ignr\\e[53]
 Pour a glass and drink?
 > CONTEXT: Map018/events/29/pages/0/10/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 Đổ ra cốc và uống?
 > END STRING
 
@@ -1597,7 +1597,7 @@ It's 3:21.
 \\ignr\\e[53]
 I T   W O U L D   N O T
 > CONTEXT: Map018/events/62/pages/0/43/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 K H Ô N G  P H Ả I
 > END STRING
 
@@ -1614,7 +1614,7 @@ M È O  T R O N G  H Ộ P  ?
 \\ignr\\e[53]
 I T   D O E S   N O T
 > CONTEXT: Map018/events/62/pages/0/112/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 K H Ô N G  P H Ả I
 > END STRING
 
@@ -1623,7 +1623,7 @@ K H Ô N G  P H Ả I
 A L L   C U R R E N T   A N O M A L I E S   N O T E D
 A W A I T I N G   L Y N R I    F O R   R E P O R T
 > CONTEXT: Map018/events/62/pages/1/13/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 Đ Ã  G H I  C H É P  B Ấ T  T H Ư Ờ N G
 C H Ờ  B Á O  C Á O  C H O  L Y N R I
 > END STRING
@@ -1633,7 +1633,7 @@ C H Ờ  B Á O  C Á O  C H O  L Y N R I
 D E A T H   A N O M A L Y   O B S E R V E D
 P L E A S E   P R O C E E D   T O   N E X T   R O O M
 > CONTEXT: Map018/events/62/pages/1/22/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 P H Á T  H I Ệ N  C Á I  C H Ế T  B Ấ T  T H Ư Ờ N G
 H Ã Y  S A N G  P H Ò N G  T I Ế P  T H E O
 > END STRING
@@ -1643,7 +1643,7 @@ H Ã Y  S A N G  P H Ò N G  T I Ế P  T H E O
 P L E A S E   E X I T   R O O M   T O   R E S E T
 A N D   T H E N   E N T E R   A G A I N
 > CONTEXT: Map018/events/62/pages/1/30/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 H Ã Y  R A  K H Ỏ I  C Ă N  P H Ò N G  N À Y
 Đ Ể  T H I Ế T  L Ậ P  L Ạ I  V À  V À O
 L Ạ I  L Ầ N  N Ữ A
@@ -1654,7 +1654,7 @@ L Ạ I  L Ầ N  N Ữ A
 Q U I N C Y   I S   N O T   T H E   O N E
 D O I N G   T H E   R E S E T
 > CONTEXT: Map018/events/62/pages/1/59/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 Q U I N C Y  K H Ô N G  P H Ả I  L À 
 N G Ư Ờ I  D U Y  N H Ấ T  T H Ự C 
 H I Ệ N  T H I Ế T  L Ậ P  L Ạ I
@@ -1665,7 +1665,7 @@ H I Ệ N  T H I Ế T  L Ậ P  L Ạ I
 H O W E V E R ,  \\.Q U I N C Y   I S   C A U S E
 O F   D E A T H   B Y   O B S E R V A T I O N
 > CONTEXT: Map018/events/62/pages/1/68/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 T U Y  N H I Ê N , \\.T H E O  Q U A N  S Á T  T H Ì
 Q U I N C Y  L À  N G U Y Ê N  N H Â N  G Â Y  R A
 C Á I  C H Ế T
@@ -1676,7 +1676,7 @@ C Á I  C H Ế T
 P R O F E S S O R S   S T A T U S   O N L Y
 C A L C U L A T E D   U P O N   O B S E R V A T I O N
 > CONTEXT: Map018/events/62/pages/1/86/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 T R Ạ N G  T H Á I  C Ủ A  G I Á O  S Ư  C H Ỉ  Đ Ư Ợ C
 T Í N H  T O Á N  D Ự A  T R Ê N  Q U A N  S Á T
 > END STRING
@@ -1686,7 +1686,7 @@ T Í N H  T O Á N  D Ự A  T R Ê N  Q U A N  S Á T
 Q U I N C Y   O B S E R V A T I O N
 C A U S E S   S T A T U S
 > CONTEXT: Map018/events/62/pages/1/90/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 Q U I N C Y  L À  N G U Y Ê N  N H Â N
 G Â Y  R A  T Ì N H  T R Ạ N G  N À Y
 > END STRING
@@ -1695,7 +1695,7 @@ G Â Y  R A  T Ì N H  T R Ạ N G  N À Y
 \\ignr\\e[53]
 S T A T U S   I S   D E A T H
 > CONTEXT: Map018/events/62/pages/1/94/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 T Ì N H  T R Ạ N G  D Ẫ N
 Đ Ế N  C Á I  C H Ế T
 > END STRING
@@ -1705,7 +1705,7 @@ T Ì N H  T R Ạ N G  D Ẫ N
 T H E R E F O R E   Q U I N C Y
 C A U S E S   D E A T H
 > CONTEXT: Map018/events/62/pages/1/97/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 V Ậ Y  N Ê N , Q U I N C Y  C H Í N H  L À 
 N G U Y Ê N  N H Â N  G Â Y  R A  C Á I  C H Ế T
 > END STRING
@@ -1715,7 +1715,7 @@ N G U Y Ê N  N H Â N  G Â Y  R A  C Á I  C H Ế T
 B E C A U S E   Q U I N C Y   I S   A L S O
 T E S T   S U B J E C T
 > CONTEXT: Map018/events/62/pages/1/133/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 B Ở I  V Ì  Q U I N C Y  C Ũ N G  L À
 Đ Ố I  T Ư Ợ N G  T H Ử  N G H I Ệ M
 > END STRING
@@ -1725,7 +1725,7 @@ B Ở I  V Ì  Q U I N C Y  C Ũ N G  L À
 I N   A D D I T I O N ,  D A T A   S H O W S   Q U I N C Y
 P R E S E N C E   A L T E R S   R E S U L T S
 > CONTEXT: Map018/events/62/pages/1/140/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 T H A Y  V À O  Đ Ó ,  D Ữ  L I Ệ U  C H O  T H Ấ Y
 S Ự  C Ó  M Ặ T  C Ủ A  Q U I N C Y  Đ Ã  L À M
 T H A Y  Đ Ổ I  K Ế T  Q U Ả
@@ -1736,7 +1736,7 @@ T H A Y  Đ Ổ I  K Ế T  Q U Ả
 I N C O N C L U S I V E \\.
 M O R E   D A T A   N E E D E D
 > CONTEXT: Map018/events/62/pages/1/149/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 C H Ư A  T H Ể  K Ế T  L U Ậ N,\\.
 C Ầ N  T H Ê M  D Ữ  L I Ệ U
 > END STRING
@@ -1746,7 +1746,7 @@ C Ầ N  T H Ê M  D Ữ  L I Ệ U
 I T   I S   N O T   A B O U T   T H E M   D Y I N G
 \\.\\.B U T   \\BW H E N\\B   T H E Y   D I E
 > CONTEXT: Map018/events/62/pages/1/175/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 V Ấ N  Đ Ề  K H Ô N G  P H Ả I  L À  C H Ế T
 \\.\\.M À  L À  \\BT H Ờ I  Đ I Ể M\\B  C H Ế T
 > END STRING
@@ -1756,7 +1756,7 @@ V Ấ N  Đ Ề  K H Ô N G  P H Ả I  L À  C H Ế T
 E A C H   R E S E T   I S   C O N F I G U R E D
 W I T H   S P E C I F I C   C O N D I T I O N S
 > CONTEXT: Map018/events/62/pages/1/184/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 M Ỗ I  L Ầ N  K H Ở I  Đ Ộ N G  L Ạ I
 Đ Ề U  Đ Ư Ợ C  C À I  Đ Ặ T  V Ớ I
 C Á C  Đ I Ề U  K I Ệ N  C Ụ  T H Ể
@@ -1767,7 +1767,7 @@ C Á C  Đ I Ề U  K I Ệ N  C Ụ  T H Ể
 P A T T E R N S   W I L L   B E   D E R I V E D
 F R O M   E X P E R I M E N T   D A T A
 > CONTEXT: Map018/events/62/pages/1/188/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 C Á C  S Ơ  Đ Ồ  S Ẽ  Đ Ư Ợ C  R Ú T  R A
 T Ừ  D Ữ  L I Ệ U  T H Í  N G H I Ệ M
 > END STRING
@@ -1777,7 +1777,7 @@ T Ừ  D Ữ  L I Ệ U  T H Í  N G H I Ệ M
 H Y P O T H E S I S   W I L L   B E   T E S T E D
 \\.C A U S E   W I L L   B E   D E T E R M I N E D
 > CONTEXT: Map018/events/62/pages/1/192/Dialogue
-\\ignr\\e[29]
+\\ignr\\e[53]
 G I Ả  T H U Y Ế T  S Ẽ  Đ Ư Ợ C  K I Ể M  T R A.
 \\.N G U Y Ê N  N H Â N  S Ẽ  Đ Ư Ợ C  X Á C  Đ Ị N H
 > END STRING

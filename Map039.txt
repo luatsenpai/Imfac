@@ -12,8 +12,8 @@
 ". . . We had a good run, \\.huh?"
 > CONTEXT: Map039/events/1/pages/1/30/Dialogue
 \\ignr\\e[13]\\nm[ Lynri ]
-". . . Đó là một hành trình
-tuyệt vời, \\.nhỉ?"
+". . . Thật là một hành trình
+đáng nhớ \\.nhỉ?"
 > END STRING
 
 > BEGIN STRING
@@ -21,7 +21,7 @@ tuyệt vời, \\.nhỉ?"
 "The bestest."
 > CONTEXT: Map039/events/1/pages/1/41/Dialogue
 \\ignr\\e[12]\\nm[ Quincy ]
-"Tuyệt vời nhất."
+"Đáng nhớ nhất."
 > END STRING
 
 > BEGIN STRING

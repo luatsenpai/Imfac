@@ -12,7 +12,7 @@
 "It could be \\ianything\\i. . ."
 > CONTEXT: Map074/events/6/pages/0/9/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
-"nó có thể thành \\ibất cứ gì\\i. . ."
+"Nó có thể trở thành \\ibất cứ gì\\i. . ."
 > END STRING
 
 > BEGIN STRING
@@ -20,7 +20,7 @@
 "It could be a study room."
 > CONTEXT: Map074/events/6/pages/0/12/Dialogue
 \\ignr\\e[5]\\nm[ Lynri ]
-"Nó sẽ trở thành phòng ngiên cứu."
+"Nó sẽ trở thành phòng nghiên cứu."
 > END STRING
 
 > BEGIN STRING

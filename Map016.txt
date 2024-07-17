@@ -42,7 +42,7 @@
 \\ignr\\e[29]
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map016/events/4/pages/11/133/Dialogue
-\\ignr\\e[81]
+\\ignr\\e[29]
 P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 > END STRING
 
@@ -380,7 +380,8 @@ me a minute, please?"
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Huh. . . \\.There's another room here. )
 > CONTEXT: Map016/events/26/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hở. . . \\.Ở đây còn căn phòng nữa nè. )
 > END STRING
 
 > BEGIN STRING
@@ -774,8 +775,8 @@ Why not just make them dead?"
 > CONTEXT: Map018/events/62/pages/1/170/Dialogue
 > CONTEXT: Map015/events/63/pages/4/170/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ý ta là, \\chúng ta chỉ thiết lập lại tới khi họ
-chết. . . Tại sao cứ không để cho họ chết đi?"
+"Ý ta là, \\.chúng ta chỉ thiết lập lại tới khi họ
+chết. . . Sao cứ không để cho họ chết luôn đi?"
 > END STRING
 
 > BEGIN STRING
@@ -843,5 +844,6 @@ TRANSLATION NOTE [Convo Code: A3IB] ENDS
 > CONTEXT: Map016/events/33/pages/0/91/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/0/91/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/3/91/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Mèo Trong Hầm?"
 > END STRING
