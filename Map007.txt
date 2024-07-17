@@ -1,4 +1,4 @@
-﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Huh, \\.that's new. . . )
@@ -63,6 +63,15 @@ tự tiên đi ra đi vào thế?"
 > CONTEXT: Map007/events/4/pages/3/84/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
 "C-\\.CỨU--. . . \\.\\.AI ĐÓ GIÚP TÔI VỚI!!"
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Lynri. . . ?"
+> CONTEXT: Map007/events/4/pages/4/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/20/pages/8/392/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/20/pages/16/240/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -277,7 +286,7 @@ Cửa khóa.
 \\ignr\\e[28]
 A fancy painting of a lady whose eyes
 always seem to follow you.
-> CONTEXT: Map007/events/23/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/23/pages/0/3/Dialogue
 \\ignr\\e[28]
 Bức tranh kiệt tác vẽ một quý cô có
 đôi mắt luôn dõi theo bạn.
@@ -400,21 +409,24 @@ tôi chưa nói với cô nhỉ."
 "I don't know. . . \\.I guess you just
 look like a Quincy to me?"
 > CONTEXT: Map007/events/44/pages/0/29/Dialogue < UNTRANSLATED
-
+\\ignr\\e[43]\\nm[ Lynri ]
+"Tôi không biết nữa. . . \\.anh cứ cho tôi
+cảm giác như đang nhìn thấy Quincy chăng?
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Alright then. . ."
 > CONTEXT: Map007/events/44/pages/0/37/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Sao cũng được. . ."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
 "This wasn't something I wanted to
 show you \\ithis\\i iteration, \\.but. . ."
-> CONTEXT: Map007/events/45/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/45/pages/0/44/Dialogue
 \\ignr\\e[45]\\nm[ Lynri ]
 "Tôi không muốn cho anh thấy
 \\iphần này\\i, \\.nhưng. . ."
