@@ -158,7 +158,7 @@ chuyện này. )
 memory interfacing. . . ?"
 > CONTEXT: Map018/events/4/pages/10/78/Dialogue
 \\ignr\\e[14]\\nm[ Lynri ]
-". . . Chuyễn giao ký ức từ
+". . . Chuyển giao ký ức từ
 người sang máy móc. . . ?"
 > END STRING
 
@@ -175,7 +175,7 @@ người sang máy móc. . . ?"
 "Well, \\.interfacing,\\. and. . . \\.permuting."
 > CONTEXT: Map018/events/4/pages/10/94/Dialogue
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
-"Ừm, \\.kết nối,\\. và. . . \\.chuyển đổi."
+"Đúng vậy, \\.kết nối,\\. và. . . \\.chuyển đổi."
 > END STRING
 
 > BEGIN STRING
@@ -228,8 +228,8 @@ giống với nội dung đăng tuyển. . ."
 beyond the scope of any other on your list."
 > CONTEXT: Map018/events/4/pages/10/160/Dialogue
 \\ignr\\e[16]\\nm[ Ts. Yu ]
-"Nghiên cứu cô sẽ thực hiện ở đây sẽ có tầm quan trọng
-vượt trội so với bất kỳ nghiên cứu nào cô từng làm."
+"Nghiên cứu cô thực hiện ở đây sẽ có quy mô vượt trội
+hơn so với những nghiên cứu khác mà cô từng làm."
 > END STRING
 
 > BEGIN STRING
@@ -238,8 +238,8 @@ vượt trội so với bất kỳ nghiên cứu nào cô từng làm."
 public posting, \\.don't you?"
 > CONTEXT: Map018/events/4/pages/10/173/Dialogue
 \\ignr\\e[16]\\nm[ Ts. Yu ]
-"Cô đã hiểu tại sao điều này không có trong
-nội dung đăng tuyển công khai, \\.đúng chứ?"
+"Giờ cô đã hiểu tại sao điều này không
+được đăng tuyển công khai, \\.đúng không?"
 > END STRING
 
 > BEGIN STRING
@@ -263,7 +263,7 @@ nội dung đăng tuyển công khai, \\.đúng chứ?"
 "Surely there are more experienced candidates. . ."
 > CONTEXT: Map018/events/4/pages/10/203/Dialogue
 \\ignr\\e[14]\\nm[ Lynri ]
-"Chắc chắn là có những ứng viên nhiều
+"Chắc chắn là phải có những ứng viên nhiều
 kinh nghiệm hơn. . ."
 > END STRING
 
@@ -273,7 +273,7 @@ kinh nghiệm hơn. . ."
 check,\\. and your particular situa--
 > CONTEXT: Map018/events/4/pages/10/216/Dialogue
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
-"Được rồi, \\.chúng tôi đã kiểm tra lý lịch
+"Ừm, \\.chúng tôi đã kiểm tra lý lịch
 của cô \\. và tình hình đặc biệt của cô---
 > END STRING
 
@@ -338,8 +338,8 @@ người tài năng; \\.đừng để nó ảnh hưởng tới cô."
 some miracles firsthand?"
 > CONTEXT: Map018/events/4/pages/10/294/Dialogue
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
-"Chúng ta sẽ ký TTBMTT và
-chứng kiến những ký tích chứ?"
+"Chúng ta hãy ký TTBMTT và trực tiếp
+chứng kiến những ký tích thôi nào?"
 > END STRING
 
 > BEGIN STRING
@@ -358,7 +358,7 @@ khi vào đây rồi mà. . . ?"
 \\.\\.NDA and waivers."
 > CONTEXT: Map018/events/4/pages/10/317/Dialogue
 \\ignr\\e[15]\\nm[ Dr. Haynes ]
-"À, \\.còn nhiều TTBMTT.
+"À, \\.còn nhiều TTBMTT lắm.
 \\.\\.TTBMTT và giấy
 miễn trừ trách nhiệm."
 > END STRING
@@ -406,7 +406,7 @@ Human-machine memory interfacing, \\.huh. . . )
 > CONTEXT: Map018/events/4/pages/10/490/Dialogue
 \\ignr\\e[13]\\nm[ Quincy ]
 ( Phải chăng đây lại là một dạng lặp lại?\\.
-Chuyển giao ký ức từ người và máy móc\\.. . . )
+Chuyển giao ký ức từ người sang máy móc\\.. . . )
 > END STRING
 
 > BEGIN STRING
@@ -414,9 +414,9 @@ Chuyển giao ký ức từ người và máy móc\\.. . . )
 A N O M A L Y   D E T E C T E D
 > CONTEXT: Map018/events/4/pages/13/161/Dialogue
 \\ignr\\e[53]
-A N O M A L Y   D E T E C T E D
-> END STRING
 P H Á T  H I Ệ N  S Ự  B Ấ T  T H Ư Ờ N G
+> END STRING
+
 > BEGIN STRING
 \\ignr\\e[0]
 The bloodstained body appears stiff.
@@ -681,7 +681,8 @@ Cửa khóa.
 \\ignr\\e[0]\\nm[ Quincy ]
 ( . . . Hope that bastard is doing alright. )
 > CONTEXT: Map018/events/8/pages/5/20/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( . . . Mong là nó vẫn ổn. )
 > END STRING
 
 > BEGIN STRING

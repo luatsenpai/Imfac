@@ -229,7 +229,7 @@ on cooling;\\. but to practically eliminate it. . . ?"
 > CONTEXT: Map015/events/37/pages/2/224/Dialogue
 \\ignr\\e[37]\\nm[ Louie ]
 "Tôi biết chúng ta đã đạt được tiến bộ đáng kể trong 
-việc tản nhiệt;\\. nhưng để loại bỏ hoàn toàn nó lại
+việc tản nhiệt,\\. nhưng để loại bỏ hoàn toàn thì nó lại
 là một thách thức hoàn toàn khác. . . ?"
 > END STRING
 

@@ -601,8 +601,8 @@ work could make a difference. . ."
 > CONTEXT: Map062/events/18/pages/0/765/Dialogue
 > CONTEXT: Map011/events/18/pages/0/765/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Tớ đã suy nghĩ. . . \\iSẽ trở thành\\i một cá nhân với
-công việc của có thể tạo ra tác động tích cực. . ."
+"Tớ nghĩ rằng. . . \\iSẽ có ai đó\\i có thể
+giúp đỡ tớ vượt qua giai đoạn khó khăn này. . ."
 > END STRING
 
 > BEGIN STRING
@@ -612,7 +612,7 @@ through life for myself."
 > CONTEXT: Map062/events/18/pages/0/770/Dialogue
 > CONTEXT: Map011/events/18/pages/0/770/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-". . . Thế rồi giờ đây \\.tớ cứ thế mà
+". . . Và rồi giờ đây, \\.tớ cứ thế mà
 tung tăng hưởng thụ cuộc sống."
 > END STRING
 
@@ -697,7 +697,7 @@ now and then already, \\.but. . ."
 > CONTEXT: Map011/events/18/pages/0/889/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
 "Nếu như. . . \\.\\.Ý tớ là, \\.tớ biết lâu lâu
-chúng ta cũng đi chơi với nhau, \\.nhưng. . ."
+chúng ta cũng có đi chơi với nhau, \\.nhưng. . ."
 > END STRING
 
 > BEGIN STRING
@@ -706,8 +706,8 @@ chúng ta cũng đi chơi với nhau, \\.nhưng. . ."
 > CONTEXT: Map062/events/18/pages/0/904/Dialogue
 > CONTEXT: Map011/events/18/pages/0/904/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Nếu chúng ta tiếp tục, \\.nhưng. . .
-\\.\\.tiến xa hơn?"
+"Nếu chúng ta đi chơi, \\.nhưng. . .
+\\.\\.nhiều hơn nữa thì sao?"
 > END STRING
 
 > BEGIN STRING
@@ -745,7 +745,7 @@ trường có thể làm món salad bơ ngon lắm. . ."
 > CONTEXT: Map062/events/18/pages/0/947/Dialogue
 > CONTEXT: Map011/events/18/pages/0/947/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-". . . Ừm,\\. đúng thế"
+". . . Ừm,\\. đúng thế."
 > END STRING
 
 > BEGIN STRING
@@ -791,7 +791,7 @@ trường có thể làm món salad bơ ngon lắm. . ."
 > CONTEXT: Map062/events/18/pages/0/1049/Dialogue
 > CONTEXT: Map011/events/18/pages/0/1049/Dialogue
 \\ignr\\e[41]\\nm[ Quincy ]
-"Đừng gượng ép quá. \\.\\.Chỉ cần--
+"Đừng gượng ép quá. \\.\\.Chỉ cần--"
 > END STRING
 
 > BEGIN STRING
@@ -820,7 +820,7 @@ sure if it'll take a turn for the worse."
 > CONTEXT: Map011/events/18/pages/0/1096/Dialogue
 \\ignr\\e[42]\\nm[ Lynri ]
 "Cứ mỗi buổi sáng thức dậy. . .\\.\\. tớ không
-chắc rằng liệu nó có chuyển bién xấu đi không."
+chắc rằng liệu nó có chuyển biến xấu đi không."
 > END STRING
 
 > BEGIN STRING

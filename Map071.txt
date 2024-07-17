@@ -14,7 +14,7 @@ and broken down,\\. but. . . )
 > CONTEXT: Map071/events/19/pages/0/8/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
 ( Đài phun nước này trông vẫn
-vũ kỹ và hỏng hóc,\\. nhưng. . . )
+cũ kỹ và hỏng hóc,\\. nhưng. . . )
 > END STRING
 
 > BEGIN STRING

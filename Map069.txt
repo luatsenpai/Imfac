@@ -59,7 +59,7 @@ lần gặp đầu tiên chứ. . ."
 "I just can't believe how far you've come!"
 > CONTEXT: Map069/events/60/pages/0/96/Dialogue
 \\ignr\\e[47]\\nm[ Naomi ]
-"Không thể tin là con đã trường thành thế này!"
+"Không thể tin là con đã trưởng thành thế này!"
 > END STRING
 
 > BEGIN STRING
@@ -78,7 +78,7 @@ con sẽ làm được sao. . ."
 their accomplishments."
 > CONTEXT: Map069/events/60/pages/0/113/Dialogue
 \\ignr\\e[32]\\nm[ Bill ]
-"Nào nào, \\.Hôm nay là ngày để
+"Nào nào, \\.hôm nay là ngày để
 ăn mừng thành tích của hai đứa."
 > END STRING
 
@@ -88,7 +88,7 @@ their accomplishments."
 tonight, \\.Quincy?"
 > CONTEXT: Map069/events/60/pages/0/123/Dialogue
 \\ignr\\e[32]\\nm[ Bill ]
-"Tại sao con không cùng chúng ta
+"Sao con không cùng chúng ta
 tham gia bữa tiệc tối nay nhỉ, \\.Quincy?"
 > END STRING
 
@@ -107,7 +107,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 "O-okay. . . \\.\\.Thank you, \\.Mr.--
 > CONTEXT: Map069/events/60/pages/0/164/Dialogue
 \\ignr\\e[8]\\nm[ Quincy ]
-"V-vâng. . . \\.\\.Cảm ơn chú, \\.Chú --
+"V-vâng. . . \\.\\.Cảm ơn \\.chú --"
 > END STRING
 
 > BEGIN STRING
@@ -131,7 +131,7 @@ kế hoạch sau khi tốt nghiệp của hai đứa."
 "You. . . \\.\\.You're from--
 > CONTEXT: Map069/events/60/pages/0/250/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
-"Chị. . . \\.\\.Chị từ--
+"Chị. . . \\.\\.Chị từ--"
 > END STRING
 
 > BEGIN STRING
@@ -165,7 +165,7 @@ có mặt ngay lập tức."
 > CONTEXT: Map069/events/60/pages/0/302/Dialogue
 \\ignr\\e[9]\\nm[ Lynri ]
 ". . . Vậy có nghĩa là tôi đã vượt qua bài
-phòng vấn của họ?"
+phỏng vấn của họ?"
 > END STRING
 
 > BEGIN STRING
@@ -173,7 +173,7 @@ phòng vấn của họ?"
 "The interview? \\.That was just a formality."
 > CONTEXT: Map069/events/60/pages/0/309/Dialogue
 \\ignr\\e[52]\\nm[ Emil ]
-"Bài phỏng vấn? \\.Đó chỉ là thủ tục thôi."
+"Bài phỏng vấn? \\.Đó chỉ là thủ tục."
 > END STRING
 
 > BEGIN STRING

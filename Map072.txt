@@ -12,7 +12,7 @@
 "Told you we'd get everything here by tonight!"
 > CONTEXT: Map072/events/20/pages/0/31/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
-"Anh đã bảo là chúng ta sẽ có xong xuôi
+"Anh đã bảo là chúng ta sẽ xong xuôi
 mọi thứ ngay đêm nay thôi!"
 > END STRING
 
@@ -49,7 +49,7 @@ home too, \\.didn't you?"
 > CONTEXT: Map072/events/20/pages/0/78/Dialogue
 \\ignr\\e[10]\\nm[ Lynri ]
 "Anh cũng bận giải quyết chút
-việc ở nhà mà, \\.đúng không"
+việc ở nhà mà, \\.đúng không?"
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +99,8 @@ chắc chắn nó sẽ đi trước thời đại!"
 ". . . I know how much this means to you."
 > CONTEXT: Map072/events/20/pages/0/138/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
-". . . Anh biết việc này có ý nghĩ như
-thế nào với em mà."
+". . . Anh biết việc này có ý nghĩa như
+thế nào đối với em mà."
 > END STRING
 
 > BEGIN STRING
@@ -109,8 +109,8 @@ thế nào với em mà."
 something out for myself here too."
 > CONTEXT: Map072/events/20/pages/0/150/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
-"Và yên tâm đi, \\.anh chắc chắn
-sẽ xử lý hết mấy việc ở đây."
+"Và yên tâm đi, \\.chắc chắn anh sẽ
+tự xoay sở được ở đây thôi."
 > END STRING
 
 > BEGIN STRING
@@ -145,7 +145,7 @@ and let you get some rest."
 > CONTEXT: Map072/events/20/pages/0/185/Dialogue
 \\ignr\\e[11]\\nm[ Quincy ]
 "Nào. . .\\. Hãy nằm xuống
-và nghỉ ngơi đi nào."
+và nghỉ ngơi đi."
 > END STRING
 
 > BEGIN STRING

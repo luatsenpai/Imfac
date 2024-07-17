@@ -161,7 +161,7 @@ to fix,\\. but. . .\\. we'll get through it."
 \\.\\.although we are making progress."
 > CONTEXT: Map123/events/111/pages/2/10/Dialogue
 \\ignr\\e[113]\\nm[ Ts. Yu ]
-"Module chuyễn giao vẫn bị chậm tiến độ,
+"Module chuyển giao vẫn bị chậm tiến độ,
 \\.\\.mặc dù chúng ta đang có những tiến triển"
 > END STRING
 

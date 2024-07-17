@@ -142,7 +142,7 @@ be messy to be seen."
 "OooOo. . .\\.\\. I'm a ghoOoOost. . . . ."
 > CONTEXT: Commonevents/62/31/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"OooOo. . .\\.\\. Mình là maaaaa. . . . ."
+"OooOo. . .\\.\\. Tôi là maaaaa đâyyy. . . . ."
 > END STRING
 
 > BEGIN STRING

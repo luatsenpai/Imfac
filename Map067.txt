@@ -107,5 +107,6 @@ này mà những cái kia thì không. . . ? )
 \\ignr\\e[17]
 "Excuse me, \\.is this seat free?"
 > CONTEXT: Map067/events/34/pages/1/1/Dialogue < UNTRANSLATED
-
+"Cho tớ hỏi, \\.chỗ này
+có ai ngồi chưa vậy?"
 > END STRING

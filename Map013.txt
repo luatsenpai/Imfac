@@ -728,7 +728,7 @@ sẽ đi hỏi thẳng cô ấy. )
 I last washed my hands here. . . )
 > CONTEXT: Map013/events/4/pages/26/125/Dialogue
 \\ignr\\e[4]\\nm[ Quincy ]
-( Quào, \\.cứ như nó đã trải qua nhiều
+( Quào, \\.cứ như mình đã trải qua nhiều
 năm kể từ lúc mình rửa tay. . . )
 > END STRING
 
@@ -3654,7 +3654,7 @@ mọi nơi chỉ trừ nhà bếp vậy. . . ? )
 No one's asking for rice."
 > CONTEXT: Map013/events/66/pages/5/50/Dialogue
 \\ignr\\e[40]\\nm[ Rika ]
-"Thôi đi, \\.Ricebot. \\.\\.
+"Thôi đi, \\.Ricebot, \\.\\.
 không ai yêu cầu cơm cả."
 > END STRING
 

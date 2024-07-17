@@ -28,7 +28,7 @@
 "Wow, \\.that's a lovely dress."
 > CONTEXT: Map064/events/1/pages/0/171/Dialogue
 \\ignr\\e[25]\\nm[ Quincy ]
-"Quào, \\.bộ đồ đẹp thế."
+"Quào, \\.bộ đồ đẹp quá."
 > END STRING
 
 > BEGIN STRING
@@ -82,7 +82,7 @@ khí lạnh bất thường. . ."
 "Oh! \\.\\.I get it!"
 > CONTEXT: Map064/events/1/pages/0/289/Dialogue
 \\ignr\\e[25]\\nm[ Quincy ]
-"A! \\.\\.Tớ biết rồi!"
+"A! \\.\\.Anh biết rồi!"
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +125,8 @@ này với em \\.sao?"
 honest mistake!"
 > CONTEXT: Map064/events/1/pages/0/421/Dialogue
 \\ignr\\e[24]\\nm[ Lynri ]
-"Này--. . . \\.\\.đừng giận mà,\\.
-em không cố ý đâu!"
+"Này--. . . \\.\\.Thực ra,\\.
+ý em không phải thế"
 > END STRING
 
 > BEGIN STRING
@@ -187,7 +187,8 @@ bước lên cầu thang là ý hay."
 \\ignr\\e[25]\\nm[ Quincy ]
 "Ta-dah!"
 > CONTEXT: Map064/events/59/pages/0/50/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Quincy ]
+"Ta-da!"
 > END STRING
 
 > BEGIN STRING
@@ -306,7 +307,7 @@ I had to eat to get all the props."
 distracted from your goals, \\.but. . ."
 > CONTEXT: Map064/events/62/pages/0/142/Dialogue
 \\ignr\\e[58]\\nm[ Quincy ]
-"Anh biết em đang bẫn rộn với
+"Anh biết em đang bận rộn với
 mục tiêu của mình, \\.nhưng. . ."
 > END STRING
 
@@ -336,7 +337,7 @@ to be like that."
 > CONTEXT: Map064/events/62/pages/0/176/Dialogue
 \\ignr\\e[58]\\nm[ Quincy ]
 "Nhưng biết đâu. . .\\.\\. mọi chuyện
-sẽ khác đi nhỉ."
+sẽ có thể khác đi nhỉ."
 > END STRING
 
 > BEGIN STRING
@@ -365,7 +366,7 @@ going,\\. I'll remind you."
 \\.then maybe. . ."
 > CONTEXT: Map064/events/62/pages/0/228/Dialogue
 \\ignr\\e[58]\\nm[ Quincy ]
-"Cứ bay cao bay xa đi,
+"Hãy cứ bay thật cao và thật xa,
 \\.nếu đó là điều em muốn. . ."
 > END STRING
 
@@ -409,7 +410,7 @@ going, \\.then how far can I really go?"
 > CONTEXT: Map064/events/62/pages/0/323/Dialogue
 \\ignr\\e[60]\\nm[ Lynri ]
 ". . . Nếu cứ phải nhắm mắt làm ngơ để tiến lên,
-\\.thị liệu em có thể tiến được bao xa?"
+\\.thì liệu em có thể tiến được bao xa?"
 > END STRING
 
 > BEGIN STRING
@@ -478,7 +479,7 @@ diện chiếc váy này tối nay."
 \\.\\.. . . You don't have to."
 > CONTEXT: Map064/events/62/pages/0/418/Dialogue
 \\ignr\\e[58]\\nm[ Quincy ]
-"Nếm em đang lo lắng cho anh. . .
+"Nếu em đang lo lắng cho anh. . .
 \\.\\.. . . Thì em không cần phải thế đâu."
 > END STRING
 
@@ -522,7 +523,7 @@ thành con người thế này,\\. em vẫn nhớ chứ?"
 "\\i'Even if the world ends tomorrow'\\i, \\.huh. . . ?"
 > CONTEXT: Map064/events/62/pages/0/503/Dialogue
 \\ignr\\e[60]\\nm[ Lynri ]
-"\\i'Kể cả khi ngày mai tận thế đi nữa'\\i, \\.sao. . . ?"
+"\\i'Kể cả khi ngày mai tận thế đi nữa'\\i \\.sao. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -555,7 +556,7 @@ thành con người thế này,\\. em vẫn nhớ chứ?"
 \\.but this is actually kinda clever."
 > CONTEXT: Map064/events/63/pages/0/5/Dialogue
 \\ignr\\e[32]\\nm[ Lynri ]
-"Huh. . . \\.\\.Em không có ý so sánh với bản gốc,
+"Hở. . . \\.\\.Em không có ý so sánh với bản gốc,
 \\.nhưng cái này cũng có những điểm rất sáng tạo."
 > END STRING
 
@@ -574,7 +575,7 @@ thành con người thế này,\\. em vẫn nhớ chứ?"
 > CONTEXT: Map064/events/63/pages/0/22/Dialogue
 \\ignr\\e[31]\\nm[ Quincy ]
 ". . . Khoan, \\.em nói 'không muốn
-so sánh vơu1 bản gốc' là sao hả. . ."
+so sánh với bản gốc' là sao hả. . ."
 > END STRING
 
 > BEGIN STRING
@@ -755,7 +756,7 @@ bao nhiêu viên bi để làm Taj Mahal đâu."
 "Uh yeah, \\.that's. . . \\.\\.that's right."
 > CONTEXT: Map064/events/63/pages/7/23/Dialogue
 \\ignr\\e[45]\\nm[ Quincy ]
-"À ừm, \\.đúng. . . \\.\\.đúng vậy."
+"À ừm, \\.đúng. . . \\.\\.đúng là vậy."
 > END STRING
 
 > BEGIN STRING

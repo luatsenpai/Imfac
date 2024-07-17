@@ -35,7 +35,7 @@
 ( Why do I actually miss these guys. . . )
 > CONTEXT: Map016/events/4/pages/9/49/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Tại sao mình lại nhớ những người này nhỉ. . . )
+( Tự dưng lại thấy nhớ mấy người này ghê. . . )
 > END STRING
 
 > BEGIN STRING
