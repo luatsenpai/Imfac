@@ -546,7 +546,7 @@ Lửa. Nóng.
 \\.What were you doing here?"
 > CONTEXT: Map018/events/7/pages/5/111/Dialogue
 \\ignr\\e[38]\\nm[ Emil ]
-". . . Đ1ng chứ, \\.Ngài Reynard?\\.
+". . . Đúng chứ, \\.Ngài Reynard?\\.
 \\.Ngài làm gì ở đây?"
 > END STRING
 
@@ -555,7 +555,7 @@ Lửa. Nóng.
 "Hey now--\\. I was also just uh. . .\\.\\. wandering. . ."
 > CONTEXT: Map018/events/7/pages/5/137/Dialogue
 \\ignr\\e[18]\\nm[ Quincy ]
-"Này--\\. Tôi chỉ đang. . .\\.\\. đi loanh quanh thôi. . ."
+"Này--\\. Tôi chỉ ờ. . .\\.\\. đi loanh quanh thôi mà. . ."
 > END STRING
 
 > BEGIN STRING
@@ -563,7 +563,7 @@ Lửa. Nóng.
 "Wait, \\.actually, no-- \\.\\.I followed \\iher\\i!"
 > CONTEXT: Map018/events/7/pages/5/160/Dialogue
 \\ignr\\e[18]\\nm[ Quincy ]
-"không, \\.thực ra, không-- \\.\\.tôi đi theo \\icô ấy\\i!"
+"Khoan, \\.thực ra, không-- \\.\\.tôi đi theo \\icô ấy\\i!"
 > END STRING
 
 > BEGIN STRING
@@ -591,7 +591,7 @@ in the kitchen with us."
 "Y-yeah. . . \\.We came up together just now!"
 > CONTEXT: Map018/events/7/pages/5/234/Dialogue
 \\ignr\\e[37]\\nm[ Đầu Bếp Tóc Đỏ ]
-"Ờm. . . \\.Chúng tôi vừa cùng nhau lên đây!"
+"Ờm. . . \\.Chúng tôi vừa mới lên đây cùng cô ấy!"
 > END STRING
 
 > BEGIN STRING
@@ -607,7 +607,7 @@ in the kitchen with us."
 "Is there something you'd like to tell us. . . ?"
 > CONTEXT: Map018/events/7/pages/5/284/Dialogue
 \\ignr\\e[39]\\nm[ Rika ]
-"Ngài có lời gì muốn nói với chúng tôi chứ. . . ?"
+"Ngài còn điều gì muốn nói không. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -632,7 +632,7 @@ là chính mắt tôi nhìn thấy!"
 "Maybe you should have a seat,\\. Mr. Reynard. . ."
 > CONTEXT: Map018/events/7/pages/5/315/Dialogue
 \\ignr\\e[38]\\nm[ Emil ]
-"Có lẽ ngài nên ngồi xuống một chút,\\. Ngài Reynard. . ."
+"Có lẽ ngài nên ngồi lại đây một chút,\\. Ngài Reynard. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1158,7 +1158,7 @@ giữ khoảng cách an toàn."
 share of corpses back in the day."
 > CONTEXT: Map018/events/38/pages/1/37/Dialogue
 \\ignr\\e[43]\\nm[ Prisha ]
-"Không sao mà\\.; \\.Ta từng chứng kiến
+"Không sao mà.\\. \\.Ta từng chứng kiến
 nhiều thi thể trước kia rồi."
 > END STRING
 
@@ -1168,7 +1168,7 @@ nhiều thi thể trước kia rồi."
 I've never seen wounds like \\ithese\\i."
 > CONTEXT: Map018/events/38/pages/1/45/Dialogue
 \\ignr\\e[43]\\nm[ Prisha ]
-"Nhưgn có biết có gì lạ không. . . \\.\\.
+"Nhưng có điều gì đó thật kỳ lạ. . . \\.\\.
 Ta chưa từng thấy vết thương \\inhư vậy\\i."
 > END STRING
 
@@ -1188,7 +1188,7 @@ chứng kiến thứ gì đó khủng khiếp vậy."
 Dr. Warden Haynes. . ."
 > CONTEXT: Map018/events/39/pages/0/2/Dialogue
 \\ignr\\e[39]\\nm[ Rika ]
-"Ừm,\\. họ là Ts. Alise Yu và
+"Vâng,\\. họ là Ts. Alise Yu và
 Ts. Warden Haynes. . ."
 > END STRING
 
@@ -1215,7 +1215,7 @@ không nghĩ họ vẫn còn thở. . ."
 "Bring \\iEVERYONE\\i!!"
 > CONTEXT: Map018/events/39/pages/0/21/Dialogue
 \\ignr\\e[41]\\nm[ Viktor ]
-"Đem \\iAI CŨNG ĐƯỢC\\i!!"
+"Đem \\iAI TỚI CŨNG ĐƯỢC\\i!!"
 > END STRING
 
 > BEGIN STRING
@@ -1283,7 +1283,9 @@ secluded party without our bodyguards. . ."
 "Coming here was literally the worst investment
 I've ever made. . . \\.\\.and it was free!!"
 > CONTEXT: Map018/events/41/pages/0/25/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Viktor ]
+"Chuyến đi lần này dù có miễn phí đi chăng
+nữa. . . \\.\\.thì cũng cảm thấy thật tốn kém!!"
 > END STRING
 
 > BEGIN STRING
@@ -1379,7 +1381,7 @@ Có chuyện không hay rồi . ."
 "What \\iwould\\i I have done?\\.\\. Hmmm. . ."
 > CONTEXT: Map018/events/44/pages/0/18/Dialogue
 \\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
-"Tôi \\ivừa\\i làm gì thế này\\.\\. Hmmm. . ."
+"Tôi \\inên\\i làm gì đây?\\.\\. Hmmm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1408,7 +1410,7 @@ một vụ án mạng do chính tôi gây ra."
 I'd say one of you guests did it."
 > CONTEXT: Map018/events/44/pages/0/49/Dialogue
 \\ignr\\e[44]\\nm[ Đầu Bếp Tóc Vàng ]
-"Tôi nói thẳng. . . \\.nếu anh hỏi tôi,\\. tôi sẽ
+"Để tôi nói thẳng. . . \\.nếu anh hỏi tôi,\\. tôi sẽ
 nói là do một trong số khách mời làm."
 > END STRING
 
@@ -1471,7 +1473,8 @@ dạy tôi xử lý chuyện này."
 \\ignr\\e[46]\\nm[ Lynri ]
 "Something just isn't adding up here. . ."
 > CONTEXT: Map018/events/46/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Lynri ]
+"Có gì đó mờ ám lắm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -1479,7 +1482,7 @@ dạy tôi xử lý chuyện này."
 "\\iPssst\\i, \\.you know what's strange?"
 > CONTEXT: Map018/events/46/pages/0/12/Dialogue
 \\ignr\\e[46]\\nm[ Lynri ]
-"\\iSuỵt\\i, \\.anh biết điều gì lạ không?"
+"\\iSuỵt\\i, \\.anh thấy có gì đó kỳ lạ không?"
 > END STRING
 
 > BEGIN STRING
@@ -1537,7 +1540,7 @@ trước khi tôi tìm thấy thi thể. . ."
 "Well, yeah,\\. okay. . .\\.\\. I saw that too."
 > CONTEXT: Map018/events/46/pages/0/66/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ừm, đúng,\\. okay. . .\\.\\. tôi cũng thấy vậy."
+"Ừm, phải\\.. . .\\.\\. đúng là thế."
 > END STRING
 
 > BEGIN STRING
@@ -1563,7 +1566,7 @@ trước khi tôi tìm thấy thi thể. . ."
 > CONTEXT: Map018/events/46/pages/0/90/Dialogue
 \\ignr\\e[46]\\nm[ Lynri ]
 "Này, \\.chúng ta cần bình tĩnh lại.
-\\.\\.Có quá nhiều chuyện diễn ra rồi."
+\\.\\.Đã có quá nhiều chuyện diễn ra rồi."
 > END STRING
 
 > BEGIN STRING

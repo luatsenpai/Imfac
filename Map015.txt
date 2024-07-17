@@ -1949,8 +1949,8 @@ phòng bên thật ghê rợn, \\.nhưng. . ."
 seemed like a fascinating start."
 > CONTEXT: Map015/events/61/pages/1/25/Dialogue
 \\ignr\\e[61]\\nm[ Louie ]
-"Thật đáng tiếc vì nó có thể làm gián đoạn
-buỗi trình diễn một thứ đầy hứa hẹn."
+"Thật đáng tiếc vì nó đãlàm gián đoạn
+buổi trình diễn một thứ đầy hứa hẹn."
 > END STRING
 
 > BEGIN STRING
@@ -2236,7 +2236,9 @@ P T N  D Ư Ớ I  T Ầ N G  H Ầ M
 I N   C A S E   O F   A N O M A L Y ,
 \\.H E   W I L L   P R O T E C C
 > CONTEXT: Map015/events/84/pages/1/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[84]
+T R O N G  T R Ư Ờ N G  H Ợ P  B Ấ T  T R Ắ C ,
+N Ó  S Ẽ  B Ả O  V Ệ  A N H .
 > END STRING
 
 > BEGIN STRING
@@ -2244,7 +2246,9 @@ I N   C A S E   O F   A N O M A L Y ,
 "You guys keep on saying that,\\.\\.
 but I just don't see it happening. . ."
 > CONTEXT: Map015/events/84/pages/1/16/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Mấy người cứ lo xa,\\.\\. tôi
+nghĩ không có gì xảy ra đâu. . ."
 > END STRING
 
 > BEGIN STRING
@@ -2252,12 +2256,15 @@ but I just don't see it happening. . ."
 W H E N E V E R   W E   L O O K ,
 \\.T H E Y   D O   N O T   D I E
 > CONTEXT: Map015/events/37/pages/6/314/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+K H I  C H Ú N G  T A  Q U A N  S Á T ,
+\\.H Ọ  S Ẽ  K H Ô N G  C H Ế T
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "NDA?"
 > CONTEXT: Map015/events/61/pages/1/69/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"TTBMTT?"
 > END STRING

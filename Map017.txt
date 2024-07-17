@@ -22,8 +22,8 @@ mình đi rửa tay luôn vậy. . . )
 "H-hey listen, \\.this is a misunderstanding,\\. okay?"
 > CONTEXT: Map017/events/2/pages/2/22/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
-"Ê-ê nghe tôi giải thích, \\.đây chỉ
-là hiểu lầm thôi,\\. okay?"
+"N-này nghe tôi giải thích, \\.đây chỉ
+là hiểu lầm thôi,\\. được chưa?"
 > END STRING
 
 > BEGIN STRING
@@ -32,9 +32,8 @@ là hiểu lầm thôi,\\. okay?"
 \\.I swear I didn't do anything!"
 > CONTEXT: Map017/events/2/pages/2/30/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
-"Ý tôi là, \\.chuyện gì đang xảy ra
-thế này. . .\\. \\.nhưng tôi thề
-tôi chưa làm gì ca3!"
+"Ý tôi là, \\.thật là ngớ ngẩn. . .\\.
+\\.Tôi thề tôi chưa làm gì cả!"
 > END STRING
 
 > BEGIN STRING
@@ -42,7 +41,7 @@ tôi chưa làm gì ca3!"
 "And I uh. . . \\.\\.I think I just hallucinated?"
 > CONTEXT: Map017/events/2/pages/2/42/Dialogue
 \\ignr\\e[1]\\nm[ Quincy ]
-"Và ừm. . . \\.\\.hình như tôi vừa bị ảo giác thì phải?"
+"Và ừm. . . \\.\\.hình như do tôi bị ảo giác thì phải?"
 > END STRING
 
 > BEGIN STRING
@@ -50,7 +49,8 @@ tôi chưa làm gì ca3!"
 "Oh, \\.I see.\\.\\. Why didn't you just say so?"
 > CONTEXT: Map017/events/2/pages/2/46/Dialogue
 \\ignr\\e[10]\\nm[ Rika ]
-"À, \\.vậy sao.\\.\\. Tại sao ngài lại nói thế?"
+"Ồ, \\.vậy sao.\\.\\. Sao khi nãy
+ngài không nói vậy luôn đi?"
 > END STRING
 
 > BEGIN STRING
@@ -75,8 +75,8 @@ tôi chưa làm gì ca3!"
 talk it out in the next room."
 > CONTEXT: Map017/events/2/pages/2/64/Dialogue
 \\ignr\\e[10]\\nm[ Rika ]
-"Ừm. \\.\\.Bây giờ chỉ cần bình tĩnh
-và đưa nó sang phòng khác."
+"Vâng. \\.\\.Bây giờ chỉ hãy bình tĩnh lại
+và qua phòng bên cạnh nói chuyện thôi nào."
 > END STRING
 
 > BEGIN STRING
@@ -140,7 +140,7 @@ CHÚNG TÔI PHÁ CỬA!"
 ( The door is unlocked. . . )
 > CONTEXT: Map017/events/2/pages/3/4/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Đã mở khóa cửa. . . )
+( Cửa không còn khóa. . . )
 > END STRING
 
 > BEGIN STRING
@@ -317,7 +317,7 @@ Chỉ là bồn rửa thông thường
 ( The knocking. . . \\.\\.It stopped? )
 > CONTEXT: Map017/events/11/pages/4/173/Dialogue
 \\ignr\\e[6]\\nm[ Quincy ]
-( Tiếng gõ cửa. . . \\.\\.Đã dừng lại rồi? )
+( Tiếng đâ cửa. . . \\.\\.dừng lại rồi? )
 > END STRING
 
 > BEGIN STRING

@@ -42,7 +42,7 @@ Mở khóa cửa với \\oi[29].
 ( Huh, \\.I thought I left the key on the door earlier. . . )
 > CONTEXT: Map019/events/3/pages/2/8/Dialogue
 \\ignr\\e[0]\\nm[ Quincy ]
-( Hử, \\.mình nhớ vừa này còn cắm chìa khóa trên cửa mà. . . )
+( Hử, \\.mình nhớ vừa nãy còn cắm chìa khóa trên cửa mà. . . )
 > END STRING
 
 > BEGIN STRING
