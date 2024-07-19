@@ -1,0 +1,35 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[1]
+X Á C   N H Ậ N  L Ự A  C H Ọ N  T H Ự C  T H Ể
+> CONTEXT: Map165/events/1/pages/0/427/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+G I Ữ  L Ạ I  C Á  T Í N H  V À  P H Ẩ M  C H ẤT ?
+> CONTEXT: Map165/events/1/pages/0/436/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[23]\\nm[ Lynri ]
+"Có."
+> CONTEXT: Map165/events/1/pages/0/440/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+G I Ữ  L Ạ I  K Ý  Ứ C  N G O Ạ I  L Ệ ?
+> CONTEXT: Map165/events/1/pages/0/449/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[23]\\nm[ Lynri ]
+". . . Không. \\.\\.Dùng ký ức chung."
+> CONTEXT: Map165/events/1/pages/0/463/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,69 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'bridge-treeline'
+> CONTEXT: Map166/events/17/pages/0/27/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map165/events/1/pages/0/39/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/0/17/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/1/33/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/2/36/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map064/events/1/pages/3/37/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+Đ Ã  T Ả I  K Ý  Ứ C  :  G H É  T H Ă M
+D I N H  T H Ự  Y U - H A Y N E S
+> CONTEXT: Map166/events/17/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[117]\\nm[ Lynri ]
+". . . Được rồi."
+> CONTEXT: Map166/events/17/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+K H Ở I  T Ạ O  T H Ự C  T H Ể  B Ê N  N G O À I
+V Ớ I  T H I Ế T  L Ậ P  K Ý  Ứ C
+> CONTEXT: Map166/events/17/pages/0/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+T H Ự C  T H Ể  S Ẽ  H O Ạ T  Đ Ộ N G  S A U   3  .  .  .
+> CONTEXT: Map166/events/17/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+2  .  .  .
+> CONTEXT: Map166/events/17/pages/0/348/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+1  .  .  .
+> CONTEXT: Map166/events/17/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Cây cối phát triển um tùm.
+> CONTEXT: Map166/events/94/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map166/events/95/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map166/events/96/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map166/events/97/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/94/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/95/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/96/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/97/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

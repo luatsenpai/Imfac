@@ -1,0 +1,93 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Lynri! \\.\\.Mọi thứ đã sẵn sàng
+cho bài thuyết trình ngày mai."
+> CONTEXT: Map163/events/1/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Mọi thứ đều ổn trong quá trình thử nghiệm."
+> CONTEXT: Map163/events/1/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Lynri ]
+"Làm tốt lắm, \\.Al."
+> CONTEXT: Map163/events/1/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Lynri ]
+"Ông nên nghỉ ngơi đi. . .
+\\.\\.Họ sẽ đến đây vào ngày mai"
+> CONTEXT: Map163/events/1/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Cô vẫn làm việc ư?"
+> CONTEXT: Map163/events/1/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Lynri ]
+"Ừm. . .\\.\\. Thêm một lần thử nghiệm
+nữa sẽ không có vấn đề gì đâu."
+> CONTEXT: Map163/events/1/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Ts. Kim ]
+"Heh, \\.đúng là vậy."
+> CONTEXT: Map163/events/1/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"Được rồi."
+> CONTEXT: Map163/events/28/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"Ts. Louie Clegg đang ở trong đấy. \\.\\.
+Ông ấy đã đến đây vài ngày trước."
+> CONTEXT: Map163/events/28/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"Tôi nghĩ cô đã gặp ở bữa tiệc nhỉ."
+> CONTEXT: Map163/events/28/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[27]\\nm[ Lynri ]
+"Tôi nhớ mà."
+> CONTEXT: Map163/events/28/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Rika ]
+"Đi thôi, \\.Ricebot."
+> CONTEXT: Map163/events/28/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map095/events/28/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING

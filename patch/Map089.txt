@@ -1,0 +1,49 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Sáng rồi sao. . . )
+> CONTEXT: Map089/events/9/pages/1/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Lynri ]
+"Được rồi. . .\\.\\. Trông em thế nào?"
+> CONTEXT: Map089/events/13/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/13/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Ờm, không có ý dọa em sợ. . . \\.\\.
+Sẽ có người nhắm vào búi tóc em đó."
+> CONTEXT: Map089/events/13/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/13/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+". . . Và đó là cô gái thật
+phong cách."
+> CONTEXT: Map089/events/13/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/13/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Lynri ]
+"Em sẽ về trước giờ cơm tối."
+> CONTEXT: Map089/events/13/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/13/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Cố lên.\\.\\. Hãy tin tưởng vào bản thân!"
+> CONTEXT: Map089/events/13/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/13/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING

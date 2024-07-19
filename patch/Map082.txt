@@ -1,0 +1,23 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Lynri ]
+"Nè, \\.Quince. . ." \\w[30]
+> CONTEXT: Map082/events/22/pages/1/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Lynri ]
+"Em vui vì chúng ta đã đi
+chuyến đi này." \\w[45]
+> CONTEXT: Map082/events/22/pages/1/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Chúng ta sẽ quay lại vào
+một ngày nào đó." \\w[50]
+> CONTEXT: Map082/events/22/pages/1/186/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,39 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[40]
+"Còn rất nhiều nhánh rẽ khác
+\\.ngoài vấn kia. . ."
+> CONTEXT: Map030/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[40]
+". . . Mỗi khoảnh khắc đều nở rộ
+thành vô vàn nhánh riêng biệt."
+> CONTEXT: Map030/events/1/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[40]
+"Tuy nhiên, nhánh rẽ đặc biệt này đang
+\\.được quan sát, bởi vì nó đặc biệt."
+> CONTEXT: Map030/events/1/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[40]
+"Nó đặc biệt,\\. bởi vì nó đang
+nằm trên tầng cao nhất. . ."
+> CONTEXT: Map030/events/1/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[40]
+". . . Nó gần như giống hệt với thực tại cơ bản."
+> CONTEXT: Map030/events/1/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING

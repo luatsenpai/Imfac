@@ -1,0 +1,38 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+"Hiện tại tình trạng của bé đã ổn định,\\. nhưng
+chúng tôi cần theo dõi thêm vài tháng nữa."
+> CONTEXT: Map128/events/3/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+"Các cơ quan của bé chưa phát triển hoàn
+chỉnh,\\. vì vậy bé cần phải thở máy."
+> CONTEXT: Map128/events/3/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+"Tuy nhiên,\\. khả năng của chúng tôi có hạn."
+> CONTEXT: Map128/events/3/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+"Tôi không chắc bé sẽ phát triển ra sao. . .
+\\.nhưng sẽ không dễ dàng đâu."
+> CONTEXT: Map128/events/3/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Bác Sĩ ]
+". . . Hãy chăm sóc bé cẩn thận nhé?"
+> CONTEXT: Map128/events/3/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING

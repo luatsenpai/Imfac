@@ -1,0 +1,291 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+"Quào, \\.đây có phải kính thiên văn
+không ạ?!"
+> CONTEXT: Map056/events/1/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Bố ]
+"Đúng rồi! \\.Và bố sẽ cho
+con thấy cách nó hoạt động."
+> CONTEXT: Map056/events/1/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Bố ]
+"Giờ bố ra\\. cất nó vào trong xe nhé?"
+> CONTEXT: Map056/events/1/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+"Dạ, \\.con đi chào mẹ đây ạ!"
+> CONTEXT: Map056/events/1/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]
+Cửa khóa.
+> CONTEXT: Map056/events/6/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map056/events/6/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+"Nhưng khi nào mới được. . . ? \\.\\.
+Ngày mai? \\.Hay nhiều năm nữa?"
+> CONTEXT: Map056/events/18/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Này, \\.vẫn chưa chắc chắn nó sẽ trở
+nên trầm trọng hơn,\\. đúng chứ?"
+> CONTEXT: Map056/events/18/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Có khả năng nó sẽ không bao giờ xảy ra."
+> CONTEXT: Map056/events/18/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+". . . Nhưng cũng có khả năng mà."
+> CONTEXT: Map056/events/18/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Lúc đó chúng ta sẽ
+đối mặt với nó."
+> CONTEXT: Map056/events/18/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Nếu chúng ta bắt đầu điều trị ngay khi bệnh trở nặng --
+\\.\\ibiết đâu\\i -- \\.chúng ta sẽ có cơ hội,\\. đúng chứ?"
+> CONTEXT: Map056/events/18/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+"Nhưng, \\.đó chỉ là có thể. . ."
+> CONTEXT: Map056/events/18/pages/0/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+". . . Chỉ là, cảm giác như còn
+quá nhiều thứ may rủi. . ."
+> CONTEXT: Map056/events/18/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+"Lynri. . . ?"
+> CONTEXT: Map056/events/18/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Con làm gì ở đây thế,\\. Lyn?"
+> CONTEXT: Map056/events/18/pages/0/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+"Con không ngủ được. . ."
+> CONTEXT: Map056/events/18/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+". . . Có chuyện gì xảy ra với con vậy ạ?"
+> CONTEXT: Map056/events/18/pages/0/369/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Đừng lo,\\. Lyn. . . \\.Không có gì mà
+chúng ta không thể cùng nhau vượt qua cả."
+> CONTEXT: Map056/events/18/pages/0/430/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Có phải đó là chuyện khiến con
+không ngủ được không?"
+> CONTEXT: Map056/events/18/pages/0/450/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+"Không ạ. . . \\.\\."
+> CONTEXT: Map056/events/18/pages/0/453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Hở?\\. Vậy \\.thì là chuyện gì nào?"
+> CONTEXT: Map056/events/18/pages/0/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+". . . Bác sĩ nói là con không thể
+đi dã ngoại nữa,\\. có đúng không ạ?"
+> CONTEXT: Map056/events/18/pages/0/474/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Không phải lúc này . . \\.\\.Nhưng họ đang
+nghiên cứu thứ gì đó sẽ giúp chúng ta."
+> CONTEXT: Map056/events/18/pages/0/482/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+"Oh."
+> CONTEXT: Map056/events/18/pages/0/485/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Con cảm thấy buồn vì chuyến dã ngoại
+hôm nay phải kết thúc sớm sao?"
+> CONTEXT: Map056/events/18/pages/0/494/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+"Vâng. . ."
+> CONTEXT: Map056/events/18/pages/0/502/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+"Con không muốn phải về sớm. . . \\.\\.
+Mọi người phải vui chơi cả ngày."
+> CONTEXT: Map056/events/18/pages/0/508/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+". . . Vậy, \\.hãy quay lại đó nào."
+> CONTEXT: Map056/events/18/pages/0/515/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+"Quay lại? \\.Khi nào ạ. . . ?"
+> CONTEXT: Map056/events/18/pages/0/525/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Ngay bây giờ
+luôn đi nhỉ?"
+> CONTEXT: Map056/events/18/pages/0/529/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Lynri ]
+"Thật ạ?!"
+> CONTEXT: Map056/events/18/pages/0/537/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+"Muộn rồi đó,\\. Bill. . ."
+> CONTEXT: Map056/events/18/pages/0/543/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Oh, \\.thỉnh thoảng đi chơi đêm cũng
+không ảnh hưởng gì đâu em!"
+> CONTEXT: Map056/events/18/pages/0/551/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Bố ]
+"Bên cạnh đó, \\.anh có một thứ phù hợp với
+dịp này rồi!"
+> CONTEXT: Map056/events/18/pages/0/557/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Lynri ]
+"Hoan hô!"
+> CONTEXT: Map056/events/18/pages/0/591/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Lynri ]
+"Mẹ sẽ đi cùng chứ\\.?"
+> CONTEXT: Map056/events/18/pages/0/602/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+"Mẹ không, \\.mẹ sẽ ở nhà. . ."
+> CONTEXT: Map056/events/18/pages/0/610/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Mẹ ]
+". . . Mẹ sẽ nấu món súp nóng hổi
+khi hai cha con trở về."
+> CONTEXT: Map056/events/18/pages/0/616/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Lynri ]
+"Vâng ạ!"
+> CONTEXT: Map056/events/18/pages/0/624/Dialogue < UNTRANSLATED
+
+> END STRING

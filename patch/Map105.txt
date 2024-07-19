@@ -1,0 +1,38 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"Lynri. . . ?"
+> CONTEXT: Map105/events/7/pages/0/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"Em không sao chứ. . . ?"
+> CONTEXT: Map105/events/31/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Lynri ]
+"Ừm. . . \\.\\.em nghĩ\\. em chỉ bị
+say máy bay do máy bay hơi sóc thôi."
+> CONTEXT: Map105/events/31/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"Em chắc chứ? \\.\\.Anh chưa từng thấy
+em say máy bay bao giờ. . ."
+> CONTEXT: Map105/events/31/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"Để anh đưa em đến chỗ bác sĩ. . . \\.\\.
+Đến đó kiểm tra cho chắc."
+> CONTEXT: Map105/events/31/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING

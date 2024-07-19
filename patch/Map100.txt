@@ -1,0 +1,137 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[17]
+"Giá như tôi có thể dùng CTRL-F để tìm kiếm
+trong số bản in này. . ."
+> CONTEXT: Map100/events/17/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Dr. Yu ]
+". . . Không, \\.dự án cô tham gia chỉ là một
+trong số dự án mà chúng tôi theo đuổi."
+> CONTEXT: Map100/events/19/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Dr. Yu ]
+"Nhưng suỵttt. . . \\.\\.\\iĐây là cái tôi thích nhấr!\\i"
+> CONTEXT: Map100/events/19/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ R I C E B O T ]
+"R I C E B O T ?"
+> CONTEXT: Map100/events/19/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+"Ngoại trừ mi, \\.Ricebot."
+> CONTEXT: Map100/events/19/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Rika ]
+"Chúng ta hãy dẫn Lynri tới chỗ
+làm việc của cô ấy thôi nhỉ?"
+> CONTEXT: Map100/events/19/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+"Chắc rồi. \\.Hiện tại khu vực này đang được bảo trì,
+\\.nhưng Ts. Clegg vẫn đang có mặt ở đây."
+> CONTEXT: Map100/events/19/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+"Nhân tiện, cô đem Ricebot
+lên cầu thang\\. được không?"
+> CONTEXT: Map100/events/19/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Rika ]
+"Vâng."
+> CONTEXT: Map100/events/19/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ R I C E B O T ]
+B À  M U Ố N  T H Ư Ở N G
+T H Ứ C  C Ơ M  K H Ô N G ?
+> CONTEXT: Map100/events/20/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ R I C E B O T ]
+B À  C Ó  M U Ố N  D Ù N G  C Ơ M ?
+> CONTEXT: Map100/events/20/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Dr. Yu ]
+"Không phải\\. lúc này.\\.\\.
+Nhưng ta cảm ơn."
+> CONTEXT: Map100/events/20/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ R I C E B O T ]
+O K
+> CONTEXT: Map100/events/20/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Ta muốn dùng cơm,\\. Ricebot. . .
+\\.Ta muốn dùng cơm. )
+> CONTEXT: Map100/events/20/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Ts. Kim ]
+"Giá mà chúng ta được sớm thử nghiệm
+chuyển giao dữ liệu ký ức. . ."
+> CONTEXT: Map100/events/21/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Ts. Kim ]
+". . . và chuyển giao người và máy nhỉ?"
+> CONTEXT: Map100/events/21/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]
+"Vẫn chưa có tiến triển gì nhiều. . . \\.\\.
+Chúng tôi vẫn đang tập trung vào dữ liệu mẫu."
+> CONTEXT: Map100/events/21/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Ts. Kim ]
+"Chúng ta đã có thêm nhân sự mới cho mảng đó. . .
+\\.\\.Hi vọng mọi việc sẽ sớm suôn sẻ hơn."
+> CONTEXT: Map100/events/21/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING

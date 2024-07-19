@@ -1,0 +1,201 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Cô ấy ở kia. . . )
+> CONTEXT: Map046/events/21/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/36/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/37/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/38/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/39/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[23]
+Cửa khóa.
+> CONTEXT: Map046/events/23/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Này. . ."
+> CONTEXT: Map046/events/43/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/18/pages/3/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/20/pages/8/13/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/62/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Chuyện. . . \\.Chuyện gì đang diễn ra thế. . . ?"
+> CONTEXT: Map046/events/43/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Tôi xin lỗi. . ."
+> CONTEXT: Map046/events/43/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Việc này có liên quan tới anh . .
+\\.\\.. . . nhưng rồi chuyện này xảy ra."
+> CONTEXT: Map046/events/43/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Tôi đã thử nhiều vòng lặp, \\.nhưng không dừng nó được. . .
+\\.\\.Nó cứ tiếp tục diễn ra, \\.và nó không nên diễn ra."
+> CONTEXT: Map046/events/43/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan, \\.cô không thể rời đi như vậy được-- !"
+> CONTEXT: Map046/events/43/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Làm ơn, \\.hãy nói chuyện gì đang diễn ra. . ."
+> CONTEXT: Map046/events/43/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+". . . Đó là những gì tôi đang
+cố gắng tìm hiểu đây."
+> CONTEXT: Map046/events/43/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Có vẻ như anh không bị thiết lập
+lại như \\.những người khác. . ."
+> CONTEXT: Map046/events/43/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+". . . Tôi đoán tôi sẽ phải sửa nó."
+> CONTEXT: Map046/events/43/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Thiết lập lại. . . ?"
+> CONTEXT: Map046/events/43/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+". . . Nhưng cũng tốt thôi, \\.có lẽ anh
+có thể cho tôi biết anh đã thấy gì."
+> CONTEXT: Map046/events/43/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi đã thấy gì. . ."
+> CONTEXT: Map046/events/43/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ờm, \\.mọi chuyện bắt đầu từ khi
+tôi vào phòng vệ sinh,\\. sau đó--. . ."
+> CONTEXT: Map046/events/43/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Hm, \\.anh thấy vài thứ kỳ quái. . .
+\\.\\.Thông tin này sẽ hữu ích đây."
+> CONTEXT: Map046/events/43/pages/0/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cái quái gì thế?!"
+> CONTEXT: Map046/events/43/pages/0/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Thật là sự trùng hợp ngớ ngẩn \\.. . .\\.\\. Nó khiến
+bồn rửa tay trở thành cỗ máy thời gian."
+> CONTEXT: Map046/events/43/pages/0/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Nhưng khả năng thiết lập lại của tôi trùng khớp
+với bồn rửa. . . \\.là chuyện không thể xảy ra."
+> CONTEXT: Map046/events/43/pages/0/339/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô có đang nói chuyện với tôi
+không đấy. . . ?!"
+> CONTEXT: Map046/events/43/pages/0/350/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Chờ đã. . .\\. không lẽ tôi là robot?!"
+> CONTEXT: Map046/events/43/pages/0/362/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Xin lỗi. . . \\.như tôi đã nói, \\.tôi
+đang hơi phân tâm một chút."
+> CONTEXT: Map046/events/43/pages/0/370/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+"Nhưng cơ bản là. . ."
+> CONTEXT: Map046/events/43/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[43]\\nm[ Lynri ]
+". . . Tôi tạo ra thế giới này, \\.và tạo ra anh."
+> CONTEXT: Map046/events/43/pages/0/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Đã 3:26 rồi.
+> CONTEXT: Map046/events/46/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/49/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/67/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING

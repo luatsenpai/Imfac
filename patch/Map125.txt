@@ -1,0 +1,105 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Quào, \\.chắc hồi bé em đọc
+rất nhiều sách nhỉ."
+> CONTEXT: Map125/events/5/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+"Ừm. . . \\.\\.Em thích chúng."
+> CONTEXT: Map125/events/5/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+". . . Nó khiến em cảm giác như đang
+sống nhiều cuộc đời khác nhau."
+> CONTEXT: Map125/events/5/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Anh không thể tưởng tượng được gương mặt
+em khi thốt ra câu đó lúc em còn nhỏ."
+> CONTEXT: Map125/events/5/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+"Huh. . ."
+> CONTEXT: Map125/events/5/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"\\iHoàng Tử Bé\\i. . . ?"
+> CONTEXT: Map125/events/5/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+"Ừm. . .\\. Bố em đã tặng nó
+cho em từ rất lâu rồi."
+> CONTEXT: Map125/events/5/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+". . . Bẵng đi một thời gian, \\.em chợt nhận ra
+\\.câu chuyện ấy lại mang ý nghĩa khác hẳn trong em."
+> CONTEXT: Map125/events/5/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Này, hãy giữ nó lại đi. . . \\.\\.
+Có lẽ một ngày nó đó chúng ta sẽ
+đọc nó cho Tobi nghe."
+> CONTEXT: Map125/events/5/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Lynri ]
+"Mm-hm."
+> CONTEXT: Map125/events/5/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Tobi. . . )
+> CONTEXT: Map125/events/5/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Quincy ]
+"Lynri. . . ?"
+> CONTEXT: Map125/events/17/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Ừm, \\.em vẫn ổn. . ."
+> CONTEXT: Map125/events/17/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Em chỉ. . ."
+> CONTEXT: Map125/events/17/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING

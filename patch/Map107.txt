@@ -1,0 +1,95 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Này. . ."
+> CONTEXT: Map107/events/17/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Chuyện gì đang diễn ra ở đây vậy. . . ?"
+> CONTEXT: Map107/events/17/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Cảnh Sát ]
+"Khu này đã đóng cửa rồi. \\.\\.
+Cô là người sống ở đây sao?"
+> CONTEXT: Map107/events/17/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Tôi làm việc ở đây. . ."
+> CONTEXT: Map107/events/17/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Ts. Kim ]
+"Lynri!"
+> CONTEXT: Map107/events/17/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Chuyện. . .\\.\\. gì đang diễn ra vậy?!"
+> CONTEXT: Map107/events/17/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Đó là. . . \\.\\.Louie. . . ?"
+> CONTEXT: Map107/events/17/pages/0/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Ts. Kim ]
+"Nó không hoạt động. . ."
+> CONTEXT: Map107/events/17/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Dr. Kim ]
+"Những vị khách mới đã đến,
+\\.và chúng tôi chờ đợi\\.. . ."
+> CONTEXT: Map107/events/17/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Ts. Kim ]
+"Nhưng họ muốn thử nghiệm trực tiếp. . .\\.Vì thế
+Louie. . . \\.Ông ta đã thực hiện demo thay cô. . ."
+> CONTEXT: Map107/events/17/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Ông ta thực hiện demo thay tôi. . . ?"
+> CONTEXT: Map107/events/17/pages/0/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Ts. Kim ]
+"Họ nói vậy--\\.\\. Ts. Haynes và Ts. Yu vẫn ở
+trong đó và nói chuyện với những người khác."
+> CONTEXT: Map107/events/17/pages/0/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[25]\\nm[ Dr. Kim ]
+"Lynri,\\. Đợi đã. . . !"
+> CONTEXT: Map107/events/17/pages/0/346/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,23 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Rika ]
+"Đây là khu ký túc xá dành cho cộng tác viên tại chỗ."
+> CONTEXT: Map099/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Rika ]
+"Nếu mọi thứ tiến triển tốt, chúng tôi
+sẽ sắp xếp phòng cho cô ở đây."
+> CONTEXT: Map099/events/6/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+". . . Cảm ơn, \\.nhưng tôi đã
+có chỗ ở rồi."
+> CONTEXT: Map099/events/6/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING

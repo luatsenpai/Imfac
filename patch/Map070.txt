@@ -1,0 +1,51 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Quào, \\.đó là cáo thật hả. . . ?"
+> CONTEXT: Map070/events/22/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Emil ]
+Không, \\.đó chỉ là chiếc đuôi cáo
+có tri giác."
+> CONTEXT: Map070/events/22/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Emil ]
+". . . Tất nhiên đó là cáo thật."
+> CONTEXT: Map070/events/22/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Tại sao nó không ra ngoài vậy?"
+> CONTEXT: Map070/events/22/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Emil ]
+"Con cáo này rất nhát."
+> CONTEXT: Map070/events/22/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Emil ]
+"Những người khác đã tới rồi.
+\\.\\.Rika đang đợi bên trong đó."
+> CONTEXT: Map070/events/22/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Tôi sẽ đi gặp cô ấy. . .\\.\\. Cảm ơn."
+> CONTEXT: Map070/events/22/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,56 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Phòng dự phòng huyền thoại!"
+> CONTEXT: Map074/events/6/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Nó có thể trở thành \\ibất cứ gì\\i. . ."
+> CONTEXT: Map074/events/6/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"Nó sẽ trở thành phòng nghiên cứu."
+> CONTEXT: Map074/events/6/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Hoặc phòng Pinball. . ."
+> CONTEXT: Map074/events/6/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"Với tủ sách ở đằng kia."
+> CONTEXT: Map074/events/6/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . hoặc là sân gôn mini. . . "
+> CONTEXT: Map074/events/6/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"Và cuối cùng đặt chiếc laptop ở đây."
+> CONTEXT: Map074/events/6/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Hoặc là phòng ngai vàng.. . ."
+> CONTEXT: Map074/events/6/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING

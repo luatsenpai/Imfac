@@ -1,0 +1,10 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+(TRANSLATION TEAM: PLEASE IGNORE c:
+error -\> crew pic 11/12 = var==0 ? )
+> CONTEXT: Map156/events/10/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map156/events/10/pages/0/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map156/events/10/pages/1/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map156/events/10/pages/1/154/Dialogue < UNTRANSLATED
+
+> END STRING

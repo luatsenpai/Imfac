@@ -1,0 +1,7 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[11]
+\\i<Hoàng Tử Bé\>\\i bởi Antoine de Saint-Exupéry.
+> CONTEXT: Map057/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING

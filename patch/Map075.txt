@@ -1,0 +1,46 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Lại là chiếc nệm cũ quen thuộc đây. . ."
+> CONTEXT: Map075/events/6/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Tại sao lại có cảm giác như
+chẳng khác gì ký túc xá cũ vậy?"
+> CONTEXT: Map075/events/6/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"Hm,\\. tuy không sang trọng nhưng
+cũng có vẻ ấm cúng."
+> CONTEXT: Map075/events/6/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+"Nó khiến em nhớ về những
+chuyến cắm trại."
+> CONTEXT: Map075/events/6/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Em. . .\\. em chưa từng cắm
+trại bao giờ, \\.đúng chứ?"
+> CONTEXT: Map075/events/6/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Lynri ]
+". . . Không hẳn."
+> CONTEXT: Map075/events/6/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING

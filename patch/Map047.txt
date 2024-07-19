@@ -1,0 +1,207 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Lại là ánh sáng đó nữa. . . )
+> CONTEXT: Map047/events/1/pages/1/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Lynri? \\.\\.Là cô sao?"
+> CONTEXT: Map047/events/1/pages/1/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Đẹp quá \\.bố ơi. . ."
+> CONTEXT: Map047/events/1/pages/3/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+". . . Con ước chúng ta có thể
+thức khuya và đến đây mỗi tuần."
+> CONTEXT: Map047/events/1/pages/3/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Nhưng. . . \\.bố ơi? \\.\\.Con
+có thể hỏi bố một câu được không?"
+> CONTEXT: Map047/events/1/pages/3/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Bố ]
+"Con muốn hỏi gì, \\.Lyn?"
+> CONTEXT: Map047/events/1/pages/3/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+". . . Tại sao mẹ lại khóc ạ?"
+> CONTEXT: Map047/events/1/pages/3/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Con không muốn về. . . )
+> CONTEXT: Map047/events/124/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Trong đây chỉ nói là nó hơi chếch
+về phía tây một chút,\\. nhưng. . ."
+> CONTEXT: Map047/events/126/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Chúng có nhiều như thế. . .
+\\.\\.Làm sao bố tìm ra được ạ?"
+> CONTEXT: Map047/events/126/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Bố ]
+"Hmm. . . \\.bố nghĩ bố tìm ra
+được nó rồi!"
+> CONTEXT: Map047/events/126/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Bố tìm ra rồi ư?! \\.\\.Con muốn xem!!"
+> CONTEXT: Map047/events/126/pages/1/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Woa,\\. không thể tin được. . ."
+> CONTEXT: Map047/events/126/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Nó thực sự giống bức hình trong sách này. . ."
+> CONTEXT: Map047/events/126/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Bố ]
+"Này con, \\.bố đã nói
+với con rồi mà nhỉ?"
+> CONTEXT: Map047/events/126/pages/1/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Bố ]
+"Chỉ cần con đọc tên, \\.và bố sẽ tìm ra nó!"
+> CONTEXT: Map047/events/126/pages/1/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+". . . Vậy nếu chúng không có tên thì sao ạ?"
+> CONTEXT: Map047/events/126/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Tất cả những ngôi sao đó. . .\\.\\. không phải
+ngôi sao nào cũng có tên\\. mà phải không?"
+> CONTEXT: Map047/events/126/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Bố ]
+"Vậy, \\.sao con không lại đây
+và tự mình quan sát đi nhỉ?"
+> CONTEXT: Map047/events/126/pages/1/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Này,\\. bố ơi?"
+> CONTEXT: Map047/events/126/pages/1/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+". . . Bố có nghĩ những ngôi sao trên
+kia có ngôi sao mang tên con không ạ?"
+> CONTEXT: Map047/events/126/pages/1/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Bố ]
+"Đã có một ngôi sao mang
+tên con rồi, \\.Lynri. . ."
+> CONTEXT: Map047/events/126/pages/1/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Bố ]
+". . . Chỉ là nó không có trên đó thôi."
+> CONTEXT: Map047/events/126/pages/1/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Sao ạ. . . ?"
+> CONTEXT: Map047/events/126/pages/1/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+". . . A."
+> CONTEXT: Map047/events/126/pages/1/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Bố\\. sến súa quá."
+> CONTEXT: Map047/events/126/pages/1/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+"Con thích hoa oải hương hơn,\\. nhưnggg. . ."
+> CONTEXT: Map047/events/126/pages/1/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[67]\\nm[ Lynri ]
+". . . Con phải thừa nhận rằng,\\. những ngôi sao
+cũng rất tuyệt!"
+> CONTEXT: Map047/events/126/pages/1/345/Dialogue < UNTRANSLATED
+
+> END STRING

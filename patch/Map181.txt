@@ -1,0 +1,162 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[5]
+"A Neil, \\.ông đây rồi!"
+> CONTEXT: Map181/events/2/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+"Tôi không thể kiềm chế được nữa. . .
+. . . tôi muốn thổ lộ với ông!"
+> CONTEXT: Map181/events/2/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Không vui đâu."
+> CONTEXT: Map181/events/2/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+"Đùa \\ichút\\i thôi mà. . ."
+> CONTEXT: Map181/events/2/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+"Vậy, \\.tôi làm thế được chưa?"
+> CONTEXT: Map181/events/2/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Ừm. . . \\.\\.cảm ơn."
+> CONTEXT: Map181/events/2/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Nghe thì 'hoàn hảo' đấy,\\. nhưng
+thật kỳ lạ. . ."
+> CONTEXT: Map181/events/2/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+". . . Cảm giác 'hoàn hảo' chỉ là tạm thời
+vì thực tế vẫn còn nhiều khó khăn."
+> CONTEXT: Map181/events/2/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Nó đến rồi đi, \\.chẳng mang lại bài
+học. . .\\.\\.hay kỷ niệm nào đáng nhớ."
+> CONTEXT: Map181/events/2/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Nhưng vẫn. . ."
+> CONTEXT: Map181/events/2/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Cô có biết Thư viện Babylon không?"
+> CONTEXT: Map181/events/2/pages/0/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+"Thư viện Babylon... nghe khá thú vị đấy.\\.\\.
+Tôi có nên tìm tài liệu về nó không?"
+> CONTEXT: Map181/events/2/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Ừm, \\.không. . . \\.không cần."
+> CONTEXT: Map181/events/2/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Đó là một Thư viện giả thuyết chứa đựng mọi
+tổ hợp có thể có của các chữ cái và dấu câu."
+> CONTEXT: Map181/events/2/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+". . . Mọi kiến thức, từ quá khứ đến tương lai,\\.
+đều nằm trong\\. Thư viện Babylon."
+> CONTEXT: Map181/events/2/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Vậy nên nó chỉ toàn mấy thứ vô nghĩa, \\.nhưng. . ."
+> CONTEXT: Map181/events/2/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+". . . Đôi khi, cô với lấy một quyển sách,\\.
+và nó tình cờ lại là thứ cô cần."
+> CONTEXT: Map181/events/2/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+"Cái gì thế?!"
+> CONTEXT: Map181/events/2/pages/0/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Phát hiện sự xâm nhập trái phép. . ."
+> CONTEXT: Map181/events/2/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Watts ]
+"Tôi phải đi rồi."
+> CONTEXT: Map181/events/2/pages/0/298/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+"Xâm nhập trái phép? \\.\\.Cái gì xâm nhập cơ. . . ??"
+> CONTEXT: Map181/events/2/pages/0/359/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]
+"Khoan, \\.đừng nói là--
+> CONTEXT: Map181/events/2/pages/0/370/Dialogue < UNTRANSLATED
+
+> END STRING

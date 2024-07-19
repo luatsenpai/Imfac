@@ -1,0 +1,201 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+( Mình đang ở đâu. . . ? )
+> CONTEXT: Map043/events/1/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+( Thật kỳ lạ khi bỏ mình lại
+ở một nơi thế này . . )
+> CONTEXT: Map043/events/1/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+( Nhưng. . . \\.tại sao cô ấy đưa mình tới đây? )
+> CONTEXT: Map043/events/1/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[210]\\nm[ Bà Jones ]
+"Nào, Lynri,\\. ta đã được cha mẹ
+con dặn dò là--. . ."
+> CONTEXT: Map043/events/78/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[210]\\nm[ Ms. Jones ]
+"Này, \\.đừng chạy lung tung nữa!"
+> CONTEXT: Map043/events/78/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Tại sao cô ấy đưa mình tới đây? )
+> CONTEXT: Map043/events/124/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Chào. . . ?"
+> CONTEXT: Map043/events/126/pages/0/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/10/pages/5/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/16/pages/2/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/63/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/63/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ê--. . ."
+> CONTEXT: Map043/events/142/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/222/pages/3/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/49/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/49/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[174]\\nm[ Bà Jones ]
+"Nào, \\.nào. . .\\.\\.
+Các con tập trung lại đây,\\. được không?"
+> CONTEXT: Map043/events/180/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[174]\\nm[ Bà Jones ]
+"Peter, \\.đừng bắt nạt Izzy nữa!"
+> CONTEXT: Map043/events/180/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[174]\\nm[ Bà Jones ]
+"Và Lynri--. . ."
+> CONTEXT: Map043/events/180/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[174]\\nm[ Bà Jones ]
+". . . Này, \\.Lynri!"
+> CONTEXT: Map043/events/180/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[174]\\nm[ Bà Jones ]
+"Ta đã nói không được đi xa khỏi nhóm mà!
+\\.\\.. . . \\iĐặc biệt\\i là con đấy!"
+> CONTEXT: Map043/events/180/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( 'Lynri'. . . ? )
+> CONTEXT: Map043/events/180/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Đây là quá khứ sao. . . ? \\.\\.Làm sao có thể. . . ? )
+> CONTEXT: Map043/events/180/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[205]\\nm[ Bà Jones ]
+"Lynri, \\.nếu con không quan sát thì. . ."
+> CONTEXT: Map043/events/184/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[205]\\nm[ Bà Jones ]
+". . . Lynri?"
+> CONTEXT: Map043/events/184/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Lynri. . ."
+> CONTEXT: Map043/events/213/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mọi thứ ở đây đóng băng trước khi cô ấy ngất. . . )
+> CONTEXT: Map043/events/213/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Vậy có nghĩa toàn bộ nơi này. . .\\. là do cô ấy tạo ra? )
+> CONTEXT: Map043/events/213/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[214]\\nm[ Bà Jones ]
+"Được rồi, \\.nếu con làm thế nữa--"
+> CONTEXT: Map043/events/215/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[214]\\nm[ Ms. Jones ]
+"Này-- \\.Bác sĩ nói con có mặt trong
+chuyến đi lần này là có lý do!"
+> CONTEXT: Map043/events/215/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Bác sĩ. . . ? )
+> CONTEXT: Map043/events/215/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Những người này. . . \\.\\.là. . . ? )
+> CONTEXT: Map043/events/218/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Uhhh. . . )
+> CONTEXT: Map043/events/219/pages/2/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Đây là thứ gì. . . ? )
+> CONTEXT: Map043/events/219/pages/2/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Rào chắn này. . . )
+> CONTEXT: Map043/events/222/pages/3/5/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,104 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'treeline-autumn'
+> CONTEXT: Map067/events/1/pages/1/9/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map067/events/1/pages/2/7/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map062/events/1/pages/0/6/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map062/events/1/pages/1/3/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map011/events/1/pages/0/5/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+"Quincy. . . ?"
+> CONTEXT: Map067/events/1/pages/1/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Quincy ]
+( Mình thấy bản thân mình hơi khó ưa. . . )
+> CONTEXT: Map067/events/1/pages/1/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Quincy ]
+( Khoan, \\.nếu mình không có bất kỳ ký ức về
+chuyện này. . . \\.\\.liệu đó có phải mình? )
+> CONTEXT: Map067/events/1/pages/1/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Cho tớ hỏi, \\.chỗ này
+có ai ngồi chưa vậy?"
+> CONTEXT: Map067/events/34/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[61]\\nm[ Lynri ]
+"Xin lỗi, \\.đã có người ngồi rồi. . ."
+> CONTEXT: Map067/events/34/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'treeline'
+> CONTEXT: Map067/events/46/pages/0/0/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map067/events/48/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map067/events/95/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map067/events/96/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map067/events/97/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map067/events/98/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/1/pages/1/4/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map060/events/1/pages/0/6/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/1/pages/2/5/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/1/pages/3/9/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/1/pages/4/11/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/12/pages/1/9/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/46/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/48/pages/0/2/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/95/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/96/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/97/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map061/events/98/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map010/events/1/pages/0/23/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map010/events/1/pages/1/23/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map010/events/46/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map010/events/48/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map010/events/95/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map010/events/96/pages/0/1/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Khoan đã. . . \\.\\.Tại sao lại có cảm giác. . . )
+> CONTEXT: Map067/events/112/pages/4/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Nhưng tại sao nó chỉ hoạt động với cái
+này mà những cái kia thì không. . . ? )
+> CONTEXT: Map067/events/112/pages/4/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hết rồi sao. . . ? )
+> CONTEXT: Map067/events/121/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Nhưng. . .\\.\\. rào chắn vẫn còn. . . )
+> CONTEXT: Map067/events/121/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING

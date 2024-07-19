@@ -1,0 +1,319 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Em đang nghĩ gì đó. . . ?"
+> CONTEXT: Map118/events/23/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Chúng ta thực sự. . . \\.sẽ
+cân nhắc việc này chứ?"
+> CONTEXT: Map118/events/23/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Anh không biết nữa, \\.nhưng. . ."
+> CONTEXT: Map118/events/23/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+". . . Chúng ta phải đưa ra quyết định thôi.."
+> CONTEXT: Map118/events/23/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Em đã nói là em muốn
+một gia đình, \\.đúng không. . . ?"
+> CONTEXT: Map118/events/23/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Ừm, \\.nhưng chuyện này không
+chỉ là những gì em muốn."
+> CONTEXT: Map118/events/23/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Ý em là, \\.không lâu trước đây\\. em vẫn
+còn đang bận tâm về cuộc sống \\icủa mình\\i."
+> CONTEXT: Map118/events/23/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Em nghĩ em đang làm rất tốt, \\.nhưng. . ."
+> CONTEXT: Map118/events/23/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Có lẽ chúng ta nên đặt lịch đi khám? \\.\\.
+Y học đã có những bước tiến rất xa rồi."
+> CONTEXT: Map118/events/23/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Điều đó sẽ chỉ cho chúng ta biết xác suất thôi. . .
+\\.\\.Dù thế nào thì cũng là rủi ro."
+> CONTEXT: Map118/events/23/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Và kể cả khi bỏ qua nó, \\.
+để trở thành bậc cha mẹ. . ."
+> CONTEXT: Map118/events/23/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+". . . Anh thì sao,\\. Quince?"
+> CONTEXT: Map118/events/23/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+"Ý em là, \\.anh có \\imuốn\\i
+có con không?"
+> CONTEXT: Map118/events/23/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Nói thật thì. . ."
+> CONTEXT: Map118/events/23/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Trước khi bà anh qua đời,\\.
+Bà là gia đình duy nhất anh có."
+> CONTEXT: Map118/events/23/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Anh hầu như không nhớ những khoẳng khắc bên bố mẹ,
+\\.nhưng. . .\\.\\. Anh vẫn nhớ cảm giác đó."
+> CONTEXT: Map118/events/23/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Để có gia đình của chúng ta. . ."
+> CONTEXT: Map118/events/23/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Thú thực thì. . .\\. điều đó nghe có vẻ
+khá tuyệt đấy."
+> CONTEXT: Map118/events/23/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+". . . Nhưng như em đã nói, \\.đây là
+chuyện còn hơn cả mong muốn."
+> CONTEXT: Map118/events/23/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[22]\\nm[ Lynri ]
+". . . Em sợ lắm, \\.Quince."
+> CONTEXT: Map118/events/23/pages/0/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Anh cũng vậy. . . \\.\\.Nhưng đó là quyết định
+mà chúng ta phải gánh chịu."
+> CONTEXT: Map118/events/23/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+"Dù sao thì, \\.chỉ cần biết rằng
+dù cho chúng ta chọn gì đi nữa. . ."
+> CONTEXT: Map118/events/23/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[21]\\nm[ Quincy ]
+". . . Anh vẫn sẽ cùng em đi tới cuối con đường này."
+> CONTEXT: Map118/events/23/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Có thai. . . ?"
+> CONTEXT: Map118/events/25/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Ừm,\\. có vẻ là vậy. . .\\.\\. Xin chúc mừng."
+> CONTEXT: Map118/events/25/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Thứ lỗi cho tôi. . .\\.\\. Bộ việc này
+không nằm trong kế hoạch sao?"
+> CONTEXT: Map118/events/25/pages/0/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[13]\\nm[ Quincy ]
+"Ừm, \\.không. . .\\.\\. nhưng. . ."
+> CONTEXT: Map118/events/25/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Nhưng. . . "
+> CONTEXT: Map118/events/25/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Nhưng bác sĩ, \\.bệnh án của tôi--
+> CONTEXT: Map118/events/25/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Ừm. . .\\. Tôi biết tình trạng của cô."
+> CONTEXT: Map118/events/25/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Vậy. . .\\.\\. Tôi vẫn có thể. . . ?"
+> CONTEXT: Map118/events/25/pages/0/125/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Nghiêm túc chứ? \\.\\.Việc này khá
+quan ngại đấy."
+> CONTEXT: Map118/events/25/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Nhưng, \\.tôi phải nói thế nào nhỉ. . ."
+> CONTEXT: Map118/events/25/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+". . . Hầu hết mọi người đều mang
+yếu tố nguy cơ di truyền,\\. Lynri."
+> CONTEXT: Map118/events/25/pages/0/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Giờ,\\. nếu đó là một căn bệnh có nguy cơ cao
+như Huntington, \\.thì có thể ngăn chặn được. . ."
+> CONTEXT: Map118/events/25/pages/0/180/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+". . . Nhưng với các loại bệnh nghiêm trọng nhưng
+phổ biến khác như ung thư, \\.thì chịu thua."
+> CONTEXT: Map118/events/25/pages/0/187/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Mặt khác,\\. tình trạng hiếm gặp của chị đây. . ."
+> CONTEXT: Map118/events/25/pages/0/191/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+". . . Mặc dù cũng nghiêm trọng, \\.nhưng nó
+sẽ rơi vào một trong hai trường hợp."
+> CONTEXT: Map118/events/25/pages/0/207/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+"Giờ thì đừng hiểu lầm ý tôi.\\. Đây không hẳn
+là khuyến khích,\\. nhưng còn vài vấn đề nữa. . ."
+> CONTEXT: Map118/events/25/pages/0/219/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Bác Sĩ ]
+". . . Nhưng đây là quyết định mà chỉ
+hai người mới có thể đưa ra được."
+> CONTEXT: Map118/events/25/pages/0/227/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/25/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING

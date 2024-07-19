@@ -1,0 +1,224 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[30]\\nm[ Lynri ]
+"Em về rồi!"
+> CONTEXT: Map123/events/41/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Quincy ]
+"Nè!\\. Công việc thế nào rồi?"
+> CONTEXT: Map123/events/41/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[30]\\nm[ Lynri ]
+"Tuần đầu tiên cũng không tệ. . .\\.
+Em nghĩ em sắp thích nghi rồi."
+> CONTEXT: Map123/events/41/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[30]\\nm[ Lynri ]
+"Anh đang làm gì đó?"
+> CONTEXT: Map123/events/41/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Quincy ]
+"À, \\.em cứ đợi đi. . ."
+> CONTEXT: Map123/events/41/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Quincy ]
+". . . Để làm món bánh cà rốt
+ngon nhất mà em từng ăn!"
+> CONTEXT: Map123/events/41/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[29]\\nm[ Lynri ]
+"Cảm ơn ông đã mời tôi tới đây. . .
+\\.\\.Tôi đã học được rất nhiều thứ."
+> CONTEXT: Map123/events/43/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[28]\\nm[ Ts. Yu ]
+"Tôi đoán là \\.cô hòa nhập
+cũng tốt nhỉ?"
+> CONTEXT: Map123/events/43/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[28]\\nm[ Ts. Yu ]
+"Thứ Hai chúng tôi sẽ giới thiệu cho cô
+dự án chính.\\.\\. Nhớ giữ bí mật nhé."
+> CONTEXT: Map123/events/43/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[29]\\nm[ Lynri ]
+"Tôi đã sẵn sàng!"
+> CONTEXT: Map123/events/43/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[60]\\nm[ Ts. Clegg ]
+"À, \\.tôi chắc chắn đã tìm ra vấn đề rồi. . ."
+> CONTEXT: Map123/events/63/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[60]\\nm[ Ts. Clegg ]
+"Cô có phiền ở lại thêm một chút để chạy
+thử nghiệm không?"
+> CONTEXT: Map123/events/63/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[59]\\nm[ Lynri ]
+"Chắc rồi, \\.tôi đến đây để giúp mà."
+> CONTEXT: Map123/events/63/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Lynri ]
+"Này. . . \\.\\.Xin lỗi vì em đã về trễ."
+> CONTEXT: Map123/events/69/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[72]\\nm[ Quincy ]
+"Mọi thứ vẫn ổn chứ?"
+> CONTEXT: Map123/events/69/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[68]\\nm[ Lynri ]
+"Ừm. \\.Luôn luôn có những vấn đề cần khắc phục,
+\\.nhưng. . .\\. chúng ta sẽ vượt qua thôi."
+> CONTEXT: Map123/events/69/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[72]\\nm[ Quincy ]
+"Tất nhiên.\\.\\. Họ đã có em rồi mà!"
+> CONTEXT: Map123/events/69/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[72]\\nm[ Quincy ]
+"Anh đã hâm nóng đồ ăn rồi."
+> CONTEXT: Map123/events/69/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[113]\\nm[ Ts. Yu ]
+"Module chuyển giao vẫn bị chậm tiến độ,
+\\.\\.mặc dù chúng ta đang có những tiến triển."
+> CONTEXT: Map123/events/111/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[114]\\nm[ Ts. Haynes ]
+"Nhưng các nhà đầu tư đang mong đợi một bản demo.. . .\\.
+\\.Cô chắc là nó sẽ sẵn sàng trước khi ra mắt không?"
+> CONTEXT: Map123/events/111/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[112]\\nm[ Lynri ]
+"Ừm. . .\\.\\. Chúng ta sẽ làm được."
+> CONTEXT: Map123/events/111/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[113]\\nm[ Ts. Yu ]
+"À mà này. . . \\.\\.Cô đã suy nghĩ
+thêm về lời đề nghị đó chưa,\\. Lynri?"
+> CONTEXT: Map123/events/111/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[113]\\nm[ Ts. Yu ]
+"Chúng tôi cũng đã bố trí chỗ trống cho cô. . .
+\\.Mọi chuyện sẽ ổn thôi."
+> CONTEXT: Map123/events/111/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[108]\\nm[ Lynri ]
+"Xin lỗi em lại về trễ, \\.em phải--. . .
+> CONTEXT: Map123/events/117/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[126]\\nm[ Lynri ]
+"Ôi, \\.mình quên mất hôm nay là ngày đó. . ."
+> CONTEXT: Map123/events/129/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[122]\\nm[ Louie ]
+"Ừm, \\.mấy hạn chế pháp lý chết tiệt,
+\\.\\.tiến bộ là tiến bộ."
+> CONTEXT: Map123/events/131/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[122]\\nm[ Louie ]
+"Chỉ là. . ."
+> CONTEXT: Map123/events/131/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[122]\\nm[ Louie ]
+". . . Cô chắc cô muốn tới
+buổi demo vào tuần tới?"
+> CONTEXT: Map123/events/131/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[121]\\nm[ Lynri ]
+"Vâng. . .\\.\\. Đó là vinh dự \\.của tôi."
+> CONTEXT: Map123/events/131/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[121]\\nm[ Lynri ]
+"Nó đã đi được một chặng đường dài rồi. . .\\.\\.
+Tôi rất vui vì đã góp phần cho dự án này."
+> CONTEXT: Map123/events/131/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING

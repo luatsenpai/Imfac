@@ -1,0 +1,196 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Khởi động."
+> CONTEXT: Map164/events/1/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+C H À O  M Ừ N G  T I Ế N  S Ĩ  T R Ở  L Ạ I
+> CONTEXT: Map164/events/1/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Hệ thống, \\.khởi chạy kiểm tra
+stress thông qua phương pháp hội tụ
+trí nhớ nhân tạo."
+> CONTEXT: Map164/events/1/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+K I Ể M  T R A :  K I Ể M  T R A  T H Ự C  T H Ể
+Đ A N G  K Ế T  N Ố I  T H Ự C  T H Ể
+V Ớ I  M Ẫ U  K Ý  Ứ C  H I Ệ N  C Ó
+> CONTEXT: Map164/events/1/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+V U I  L Ò N G  C H Ọ N  T H A M  C H I Ế U
+T H Ự C  T H Ể  M U Ố N  K I Ể M  T R A
+> CONTEXT: Map164/events/1/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Hãy tìm ký ức về. . . \\.'\\ituyết\\i'."
+> CONTEXT: Map164/events/1/pages/0/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Khoan. . . \\.Chỗ đó."
+> CONTEXT: Map164/events/1/pages/0/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Quay lại."
+> CONTEXT: Map164/events/1/pages/0/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+X Á C  N H Ậ N  L Ự A  C H Ọ N
+C Ủ A  T H Ự C  T H Ể
+> CONTEXT: Map164/events/1/pages/0/565/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+Đ Ã  T Ạ O  H Ồ  S Ơ
+C H O  T H Ự C  T H Ể
+> CONTEXT: Map164/events/1/pages/0/568/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+G I Ữ  T Í N H  C Á C H  V À  Đ Ặ C  Đ I Ể M?
+> CONTEXT: Map164/events/1/pages/0/571/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Có."
+> CONTEXT: Map164/events/1/pages/0/574/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+G I Ữ  L Ạ I  K Ý  Ứ C  T Ư Ơ N G  Đ Ư Ơ N G ?
+> CONTEXT: Map164/events/1/pages/0/577/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+K H Ở I  T Ạ O  K Ý  Ứ C  T H Ự C  T H Ể ?
+> CONTEXT: Map164/events/1/pages/0/579/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+K H Ở I  T Ạ O  K Ý  Ứ C  C H O T H Ự C  T H Ể ?
+> CONTEXT: Map164/events/1/pages/0/581/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Không."
+> CONTEXT: Map164/events/1/pages/0/584/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+Đ Ã  K H Ở I  T Ạ O  T H Ự C  T H Ể
+> CONTEXT: Map164/events/1/pages/0/587/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/1/pages/0/615/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+H Ã Y  C H Ọ N  T H I Ế T  L Ậ P  K Ý  Ứ C
+Đ Ể  T R Ì N H  D I Ễ N  T H Ự C  N G H I Ệ M
+> CONTEXT: Map164/events/1/pages/0/590/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/1/pages/1/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Không quan trọng. \\.\\.Hãy chọn dùm tôi."
+> CONTEXT: Map164/events/1/pages/0/594/Dialogue < UNTRANSLATED
+> CONTEXT: Map164/events/1/pages/1/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+X Á C  N H Ậ N  K Ý  Ứ C : L Ầ N  Đ Ầ U  V À O
+D I N H  T H Ự  Y U - H A Y N E S
+> CONTEXT: Map164/events/1/pages/0/597/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Không sao."
+> CONTEXT: Map164/events/1/pages/0/601/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+Đ A N G  K H Ở I  T Ạ O  Q U Á  T R Ì N H
+G H É P  T H Ự C  T H Ể  V Ớ I  K Ý  Ứ C
+> CONTEXT: Map164/events/1/pages/0/604/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+Đ A N G  T Ả I  T H I Ế T  L Ậ P  K Ý  Ứ C
+> CONTEXT: Map164/events/1/pages/0/608/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+Đ A N G  T Ả I  T H Ự C  T H Ể  N H Â N  T Ạ O
+> CONTEXT: Map164/events/1/pages/0/610/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+B Ắ T  Đ Ầ U  H Ộ I  T Ụ
+K Ý  Ứ C  T I Ế P  X Ú C
+> CONTEXT: Map164/events/1/pages/0/612/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]
+Đ Ã  K H Ở I  T Ạ O  T H I Ế T  L Ậ P  K Ý  Ứ C
+> CONTEXT: Map164/events/1/pages/0/617/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,29 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+( Chuyện gì. . .\\. đang xảy ra với mình vậy. . . ? )
+> CONTEXT: Map041/events/57/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/57/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[58]\\nm[ Lynri ]
+"Vụ gì thế này-- ?!"
+> CONTEXT: Map041/events/57/pages/16/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Ởm. . ."
+> CONTEXT: Map041/events/57/pages/16/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[58]\\nm[ Lynri ]
+". . . Mỗi mình anh thôi
+là đã đủ rắc rối rồi."
+> CONTEXT: Map041/events/57/pages/16/139/Dialogue < UNTRANSLATED
+
+> END STRING

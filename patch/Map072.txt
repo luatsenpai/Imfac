@@ -1,0 +1,135 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Phù,\\. đây là hộp cuối cùng rồi. . ."
+> CONTEXT: Map072/events/20/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Anh đã bảo là chúng ta sẽ xong xuôi
+mọi thứ ngay đêm nay thôi!"
+> CONTEXT: Map072/events/20/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Này. . .\\.\\. Có chuyện gì vậy?"
+> CONTEXT: Map072/events/20/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+". . .  Anh đã chắc rồi chứ?"
+> CONTEXT: Map072/events/20/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Chuyển nhà tới tận đây với em
+chỉ vì công việc của em. . . "
+> CONTEXT: Map072/events/20/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Anh cũng bận giải quyết chút
+việc ở nhà mà, \\.đúng không?"
+> CONTEXT: Map072/events/20/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Ờ ừm,\\. nhưng. . .\\.\\. Không có gì bất thường đâu!"
+> CONTEXT: Map072/events/20/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Ý anh là, \\.Cơ sở Yu-Haynes. . ."
+> CONTEXT: Map072/events/20/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Cứ làm những gì em muốn,\\. Anh
+chắc chắn nó sẽ đi trước thời đại!"
+> CONTEXT: Map072/events/20/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Chỉ là. . ."
+> CONTEXT: Map072/events/20/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Nè. . . \\.\\.Ổn mà."
+> CONTEXT: Map072/events/20/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+". . . Anh biết việc này có ý nghĩa như
+thế nào đối với em mà."
+> CONTEXT: Map072/events/20/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Và yên tâm đi, \\.chắc chắn anh sẽ
+tự xoay sở được ở đây thôi."
+> CONTEXT: Map072/events/20/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Cảm ơn, \\.Quince. . ."
+> CONTEXT: Map072/events/20/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+". . . Em rất vui vì có anh ở đây."
+> CONTEXT: Map072/events/20/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Tất nhiên rồi. \\.\\.Anh
+đã hứa là anh sẽ làm mà."
+> CONTEXT: Map072/events/20/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Nào. . .\\. Hãy nằm xuống
+và nghỉ ngơi đi."
+> CONTEXT: Map072/events/20/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Quincy ]
+"Đừng có mà ngủ gật trong
+ngày đầu đi làm nhé."
+> CONTEXT: Map072/events/20/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,61 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Ts. Haynes ]
+"Ngài Armstrong, \\.không chỉ hội
+đồng quản trị mới có tiếng nói. . ."
+> CONTEXT: Map096/events/7/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map096/events/10/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+". . . Tất nhiên. \\.\\.Sự hiện diện của
+quý vị là niềm vinh dự cho chúng tôi."
+> CONTEXT: Map096/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Lynri ]
+"Cảm ơn, \\.Tôi sẽ cố hết mình--\\w[10]
+> CONTEXT: Map096/events/10/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Viktor ]
+"Ts. Haynes?\\.\\. Ngài vẫn còn ở đó chứ?"
+> CONTEXT: Map096/events/10/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Ts. Haynes ]
+"Xin lỗi. . ."
+> CONTEXT: Map096/events/10/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Dr. Haynes ]
+"Tôi đây."
+> CONTEXT: Map096/events/10/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Viktor ]
+"Nếu không có ghế trong hội đồng quản trị. . . \\.\\.
+Việc tài trợ cho dự án này sẽ không có lợi cho chúng tôi."
+> CONTEXT: Map096/events/10/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Rika ]
+". . . Cô nên đi gặp Ts. Yu ở khu vực phía tây.
+\\.\\.Cô ấy phụ trách nhóm nghiên cứu của cô."
+> CONTEXT: Map096/events/10/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING

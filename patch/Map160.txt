@@ -1,0 +1,30 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]
+Một bức tượng đá khắc họa người phụ nữ và con chim.
+> CONTEXT: Map160/events/90/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/91/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/92/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/90/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/91/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/92/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map146/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/90/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/91/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/92/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map107/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/90/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/90/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/91/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/91/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/92/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/92/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map070/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/90/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/91/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/92/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/93/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

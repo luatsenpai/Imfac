@@ -1,0 +1,687 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\oi[\#]: x=24
+> CONTEXT: Items/1/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chanh Đấm
+> CONTEXT: Items/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Restores HP to one ally.
+> CONTEXT: Items/2/description/ < UNTRANSLATED
+> CONTEXT: Items/3/description/ < UNTRANSLATED
+> CONTEXT: Items/21/description/ < UNTRANSLATED
+> CONTEXT: Items/22/description/ < UNTRANSLATED
+> CONTEXT: Items/23/description/ < UNTRANSLATED
+> CONTEXT: Items/24/description/ < UNTRANSLATED
+> CONTEXT: Items/25/description/ < UNTRANSLATED
+> CONTEXT: Items/26/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Khóc Lóc Thảm thiết
+> CONTEXT: Items/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+shoe
+> CONTEXT: Items/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Restores SP to one ally.
+> CONTEXT: Items/4/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+108-Heal04
+> CONTEXT: Items/4/menu_se/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Tát Xoay Người
+> CONTEXT: Items/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cú Đá Hủy Diệt
+> CONTEXT: Items/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Tia Laze Mũi
+> CONTEXT: Items/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hỏa Tiễn Chó
+> CONTEXT: Items/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Khen Ngợi
+> CONTEXT: Items/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+R I C E B O T ( H T ) ?
+> CONTEXT: Items/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Mèo (?)
+> CONTEXT: Items/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Rudog
+> CONTEXT: Items/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ds. Nhiệm Vụ
+> CONTEXT: Items/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Press 'Z' during gameplay to view active duty reminder.
+> CONTEXT: Items/14/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ra ngoài luôn
+> CONTEXT: Items/16/name/ < UNTRANSLATED
+> CONTEXT: Items/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Quay lại trên lầu
+> CONTEXT: Items/18/name/ < UNTRANSLATED
+> CONTEXT: Items/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+v--DON'T USE; orbs
+> CONTEXT: Items/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+^don't use; orbs
+> CONTEXT: Items/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Gậy Cá
+> CONTEXT: Items/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chìa Khóa Cửa
+> CONTEXT: Items/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chìa khóa đồng nhỏ.
+> CONTEXT: Items/29/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Trang bị
+> CONTEXT: Items/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chiếc hộp nặng như thế này, thứ bên trong hẳn phải rất quan trọng.
+> CONTEXT: Items/30/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+M.Hình Quan Sát Bệnh Nhân
+> CONTEXT: Items/31/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Connects wirelessly to the patient's local monitor for live supervision.
+> CONTEXT: Items/31/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+---
+> CONTEXT: Items/32/name/ < UNTRANSLATED
+> CONTEXT: Items/35/name/ < UNTRANSLATED
+> CONTEXT: Items/41/name/ < UNTRANSLATED
+> CONTEXT: Items/41/description/ < UNTRANSLATED
+> CONTEXT: Items/42/name/ < UNTRANSLATED
+> CONTEXT: Items/42/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chìa khóa cửa tầng hầm. Ai cũng thích chìa khóa.
+> CONTEXT: Items/35/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Bút Đánh Dấu
+> CONTEXT: Items/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi Chú: Sổ Lục
+> CONTEXT: Items/55/name/ < UNTRANSLATED
+> CONTEXT: Items/157/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chỉ toàn trang trắng. . .
+> CONTEXT: Items/55/description/ < UNTRANSLATED
+> CONTEXT: Items/157/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Rudog
+> CONTEXT: Items/62/name/ < UNTRANSLATED
+> CONTEXT: Items/150/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin thích xem "Rudog, chú chó Corgi mũi đỏ".
+> CONTEXT: Items/62/description/ < UNTRANSLATED
+> CONTEXT: Items/150/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+*careful Below: invisible icons
+> CONTEXT: Items/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Tất Trắng
+> CONTEXT: Items/110/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Thật cổ điển.
+> CONTEXT: Items/110/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Tất Xanh Ngọc
+> CONTEXT: Items/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Màu sắc trên mức trung bình.
+> CONTEXT: Items/111/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Vớ Sọc Huơu Cao Cổ
+> CONTEXT: Items/112/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Thực ra, chân của hươu cao cổ không có hoa văn này, nhưng bạn không phải hươu cao cổ.
+> CONTEXT: Items/112/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Vớ Lông
+> CONTEXT: Items/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Mùa đông sắp đến rồi, chuẩn bị đâu.
+> CONTEXT: Items/113/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Vớ Hình Dưa Leo
+> CONTEXT: Items/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Có thể dùng như mặt nạ.
+> CONTEXT: Items/114/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Vớ Lỗ Chỗ
+> CONTEXT: Items/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Số lỗ chiếm 60% nhưng vẫn còn 40% là vớ
+> CONTEXT: Items/115/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Vớ Sọc Cầu Vòng
+> CONTEXT: Items/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Tặng kèm Skittles. Tăng tự tin khi dùng.
+> CONTEXT: Items/116/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Vớ Lụa Quý
+> CONTEXT: Items/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Có mùi gỗ gụ nồng nàn.
+> CONTEXT: Items/117/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nấm Lam
+> CONTEXT: Items/119/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cây nấm ảo và có màu lam.
+> CONTEXT: Items/119/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Faye
+> CONTEXT: Items/129/name/ < UNTRANSLATED
+> CONTEXT: Items/146/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Không hẳn là "cô gái bên kia ban công".
+> CONTEXT: Items/129/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Nước Chanh
+> CONTEXT: Items/130/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin giữ một lọ nước cốt chanh có thể dùng làm mực vô hình.
+> CONTEXT: Items/130/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi Chú: Album Ảnh
+> CONTEXT: Items/131/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hầu như không có bất kỳ kỷ niệm vui nào được ghi lại ở đây được nhìn thấy trong quá trình di chuyển ký ức.
+> CONTEXT: Items/131/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Trôi dạt xa nhau
+> CONTEXT: Items/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin và Faye đã dần xa cách nhau.
+> CONTEXT: Items/132/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Sân bay đóng cửa
+> CONTEXT: Items/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sân bay nơi Colin từng đào tạo đã đóng cửa.
+> CONTEXT: Items/133/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Gi Chú: (Tiếc nuối) mực tấn công
+> CONTEXT: Items/134/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin đã bị một con mực đập vào mặt trong buổi hẹn hò đầu tiên.
+> CONTEXT: Items/134/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Gặp Sofia
+> CONTEXT: Items/135/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin và Sofia gặp nhau tại buổi tập ban nhạc cộng đồng.
+> CONTEXT: Items/135/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Whacky Gal
+> CONTEXT: Items/136/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Có ai đó là con chim cu nhỏ...
+> CONTEXT: Items/136/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lưu ý: (Tiếc nuối) sai chính tả
+> CONTEXT: Items/137/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Một thông điệp đề xuất lộn xộn để cả thành phố cùng xem.
+> CONTEXT: Items/137/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chuú: (Tiếc nuối) khởi đầu cẩu thả
+> CONTEXT: Items/138/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Một khởi đầu tệ hại cho tuần trăng mật được mong đợi từ lâu.
+> CONTEXT: Items/138/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: công việc đầu tiên
+> CONTEXT: Items/139/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Thực ra là Phó Giám Đốc."
+> CONTEXT: Items/139/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Đại úy Ernst
+> CONTEXT: Items/140/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Bộ ria mép đạt giải.
+> CONTEXT: Items/140/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Bay
+> CONTEXT: Items/141/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Faye gợi ý Colin tìm một sân bay và tìm đường đi.
+> CONTEXT: Items/141/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: (Tiếc nuối) Vắng mặt
+> CONTEXT: Items/142/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin đã bỏ lỡ ngày ra đời của Asher.
+> CONTEXT: Items/142/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: hoa dâm bụt
+> CONTEXT: Items/143/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Mọc rất nhiều nơi Colin sống.
+> CONTEXT: Items/143/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: chủ đề thang âm
+> CONTEXT: Items/144/name/ < UNTRANSLATED
+> CONTEXT: Items/145/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Faye chơi cùng với thang âm của Colin.
+> CONTEXT: Items/144/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sofia chơi cùng với thang âm của Colin
+> CONTEXT: Items/145/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cô gái bên kia ban công.
+> CONTEXT: Items/146/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Đàn Cello
+> CONTEXT: Items/147/name/ < UNTRANSLATED
+> CONTEXT: Items/148/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Khi còn nhỏ, Colin ghét chơi đàn cello.
+> CONTEXT: Items/147/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin thích chơi đàn cello khi còn nhỏ.
+> CONTEXT: Items/148/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: (Tiếc nuối) Hạ cánh không tốt
+> CONTEXT: Items/149/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lần hạ cánh cuối cùng trong sự nghiệp của Colin đã không đạt được mục tiêu.
+> CONTEXT: Items/149/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Sự bất thường
+> CONTEXT: Items/151/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Có thứ gì đó đang can thiệp vào quá trình duyệt bộ nhớ...
+> CONTEXT: Items/151/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi ch1u: Vịt
+> CONTEXT: Items/152/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nó quạc quạc.
+> CONTEXT: Items/152/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: (Tiếc nuối) Không có cháu
+> CONTEXT: Items/153/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin muốn có cháu.
+> CONTEXT: Items/153/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Điều Colin Ước
+> CONTEXT: Items/154/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Để ra đi trong hạnh phúc mà không phải thay đổi quá nhiều.
+> CONTEXT: Items/154/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Bản sao không ổn định
+> CONTEXT: Items/155/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Có một trường hợp kỳ lạ về Colin trên ban công của ký ức gần đây nhất.
+> CONTEXT: Items/155/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Quả bóng đã cũ
+> CONTEXT: Items/156/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Quả bóng đá cũ của Asher được cất giữ trên gác xép.
+> CONTEXT: Items/156/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Hoa dâm bụt
+> CONTEXT: Items/158/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Gia đình tôi luôn để một chậu hoa dâm bụt trong nhà.
+> CONTEXT: Items/158/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Phi công đã nghỉ hưu
+> CONTEXT: Items/159/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin từng làm phi công thương mại cho một hãng hàng không.
+> CONTEXT: Items/159/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghi chú: Đàn Cello cổ
+> CONTEXT: Items/160/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Colin chơi đàn cello. Nhưng không giỏi.
+> CONTEXT: Items/160/description/ < UNTRANSLATED
+
+> END STRING

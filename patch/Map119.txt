@@ -1,0 +1,42 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Quincy ]
+"Này, \\.sao em về sớm thế. . . "
+> CONTEXT: Map119/events/26/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Quincy ]
+". . . Có chuyện gì ư?"
+> CONTEXT: Map119/events/26/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[30]\\nm[ Lynri ]
+"Em muốn đi."
+> CONTEXT: Map119/events/26/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Quincy ]
+". . . Em muốn đến sống tại ký túc xá?"
+> CONTEXT: Map119/events/26/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[30]\\nm[ Lynri ]
+"Không. . ."
+> CONTEXT: Map119/events/26/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[30]\\nm[ Lynri ]
+". . . Em muốn đi ngắm nhìn thế giới với anh."
+> CONTEXT: Map119/events/26/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING

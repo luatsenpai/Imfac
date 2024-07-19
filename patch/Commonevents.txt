@@ -1,0 +1,211 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+COMMON EVENT 10 CALLED -
+ NOT SUPPOSED TO HAPPEN ANYWHERE! WTF?!
+> CONTEXT: Commonevents/10/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"windowskin-phone"
+> CONTEXT: Commonevents/11/0/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/15/0/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/22/1/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/47/0/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"viewwindow"
+> CONTEXT: Commonevents/12/1/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/100/209/InlineScript/2:1 < UNTRANSLATED
+> CONTEXT: Commonevents/100/239/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"
+> CONTEXT: Commonevents/20/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\e[0]Đã nhận \\c[6]\\oi[54]
+> CONTEXT: Commonevents/20/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+> CONTEXT: Commonevents/20/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+> CONTEXT: Commonevents/20/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]\\nm[ Colin ]
+> CONTEXT: Commonevents/20/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]
+> CONTEXT: Commonevents/20/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[40]
+Ai thường xuyên đi lấy tài liệu?
+> CONTEXT: Commonevents/20/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\oi[11]
+> CONTEXT: Commonevents/20/65/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\oi[12]
+> CONTEXT: Commonevents/20/65/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[TRANSLATOR EXPLANATION]:
+References to: "...All that junk inside your trunk..."
+from song <My Humps\> by Black Eyed Peas
+> CONTEXT: Commonevents/20/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Finding Paradise (Main Theme) - Kan
+R. Gao"
+> CONTEXT: Commonevents/20/281/InlineScript/3:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[45]\\nm[ Ts. Rosalene ]
+"Vô hiệu hóa hiển thị và tương tác; \\.
+Để lộ ra lúc này sẽ rất rối.."
+> CONTEXT: Commonevents/26/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[44]\\nm[ Ts. Watts ]
+"Ờ ờ, \\.vui ha?"
+> CONTEXT: Commonevents/26/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[Glitch: Common event 34 Set to Walking]
+> CONTEXT: Commonevents/34/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[Glitch: Common event 35 Set to Walking]
+> CONTEXT: Commonevents/35/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"windowskin_bg2"
+> CONTEXT: Commonevents/49/1/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"viewwindow_bw"
+> CONTEXT: Commonevents/54/1/InlineScript/2:1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"OooOo. . .\\.\\. Tôi là maaaaa đâyyy. . . . ."
+> CONTEXT: Commonevents/62/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+N G Ắ T  K Í C H  H O Ạ T  T H Ự C  T H Ể
+> CONTEXT: Commonevents/63/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Dài thế. . .\\.\\. Nhưng tại sao. . ."
+> CONTEXT: Commonevents/64/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm,\\. càng ngày càng dài hơn đấy. . ."
+> CONTEXT: Commonevents/64/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan. . . \\.\\.Mày đang dài hơn à?"
+> CONTEXT: Commonevents/64/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Mày đang làm gì vậy. . ."
+> CONTEXT: Commonevents/64/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Cần liên kết ký ức để bắn.
+\\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
+> CONTEXT: Commonevents/100/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Cần: \\oi[25]\\oi[21]\\oi[22]\\oi[23]\\oi[24]
+> CONTEXT: Commonevents/100/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Ts. Watts ]
+"Cái gì?"
+> CONTEXT: Commonevents/103/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\e[0]\\iKhông đủ bộ nhớ, không thể thực hiện thao tác.
+> CONTEXT: Commonevents/130/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\e[0]\\iCần \\b\\v[32]\\b \\oi[26] để tiến hành.\\i
+> CONTEXT: Commonevents/131/8/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/131/11/Dialogue < UNTRANSLATED
+
+> END STRING

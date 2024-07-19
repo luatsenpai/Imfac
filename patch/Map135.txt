@@ -1,0 +1,69 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Con làm tốt lắm,\\. tiếp tục đi nào. . ."
+> CONTEXT: Map135/events/12/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Tobias ]
+"Bố ơi. . . \\.ông và mẹ đi đâu rồi ạ?"
+> CONTEXT: Map135/events/12/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/18/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Quincy ]
+"Họ đang đi lấy một thứ gì đó cực kỳ thú vị đấy. . .
+. . . Hãy ráng chờ thêm một chút \\.nhé?"
+> CONTEXT: Map135/events/12/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/18/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[18]\\nm[ Tobias ]
+". . . Dạ."
+> CONTEXT: Map135/events/12/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map135/events/18/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[24]\\nm[ Naomi ]
+"Cháu có đói không, \\.Tobi? \\.Cháu
+muốn gì\\. thì cứ nói nhé. . ."
+> CONTEXT: Map135/events/24/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+". . . Với tình trạng hiện
+tại của thằng bé?"
+> CONTEXT: Map135/events/32/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+"Liệu đưa ra ngoài chơi có ổn không ạ. . . ?"
+> CONTEXT: Map135/events/32/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[31]\\nm[ Bill ]
+"Lynri. . ."
+> CONTEXT: Map135/events/32/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Lynri ]
+"Vâng. . .\\.\\. Con hiểu rồi."
+> CONTEXT: Map135/events/32/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING

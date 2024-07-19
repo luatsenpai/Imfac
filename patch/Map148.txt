@@ -1,0 +1,235 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Hơi dính bụi một tẹo,\\. nhưng. . .
+Vẫn còn xài ngon lành."
+> CONTEXT: Map148/events/9/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Thật không thể tin là đã lâu như vậy rồi."
+> CONTEXT: Map148/events/9/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Biết đâu những ngôi sao vẫn còn đó, \\.nhỉ?"
+> CONTEXT: Map148/events/9/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+". . . Bố muốn đợi tới khi thằng bé
+trưởng thành hơn một chút."
+> CONTEXT: Map148/events/9/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Tại sao vậy ạ. . . ?"
+> CONTEXT: Map148/events/9/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Ờm. . . \\.\\.Khoảnh khắc đầu tiên chiêm ngưỡng
+nó sẽ không bao giờ có thể lặp lại được."
+> CONTEXT: Map148/events/9/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+". . . Sẽ tuyệt hơn khi nhận ra nó không
+chỉ là ánh sáng đẹp trên bầu trời."
+> CONTEXT: Map148/events/9/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[12]\\nm[ Lynri ]
+"Bố còn nhớ lần đầu tiên bố
+đưa con đi ngắm sao không?"
+> CONTEXT: Map148/events/9/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Làm sao bố có thể quên chứ?"
+> CONTEXT: Map148/events/9/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Bố đã hỏi rằng con muốn trở thành ngôi sao hay
+hoa oải hương\\. và con nói con muốn trở thành
+ngôi sao\\. và--
+> CONTEXT: Map148/events/9/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+". . . và mọi người có thể thấy những bông
+hoa oải hương xinh đẹp đến nhường nào."
+> CONTEXT: Map148/events/9/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Con đã \\.không nói thật."
+> CONTEXT: Map148/events/9/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Con biết, \\.lúc đó con\\.còn ngây ngô. . .
+\\.\\.con chỉ muốn bố hài lòng."
+> CONTEXT: Map148/events/9/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Nhưng sau đó, \\.dù thực sự \\iđã\\i
+cố gắng để trở thành một ngôi sao. . ."
+> CONTEXT: Map148/events/9/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+". . . Trái tim con không thực sự hướng về nó."
+> CONTEXT: Map148/events/9/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Chỉ vì con đã sợ rằng con sẽ
+bỏ lỡ cơ hội duy nhất để tỏa sáng."
+> CONTEXT: Map148/events/9/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Con biết mình \\iphải\\i phấn đấu vì những
+điều vĩ đại và để lại dấu ấn, \\.nhưng. . ."
+> CONTEXT: Map148/events/9/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+"Liệu có gì sai khi con chỉ muốn là. . .
+\\.\\.. . . một cây hoa oải hương bình dị?"
+> CONTEXT: Map148/events/9/pages/0/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Bố không biết chuyện con \\imuốn\\i phấn
+đấu vì điều vĩ đại, \\.Lyn, \\.nhưng. . ."
+> CONTEXT: Map148/events/9/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+". . . Những ngôi sao lấp lánh nhất đôi
+khi lại không hề cố gắng tỏa sáng."
+> CONTEXT: Map148/events/9/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Dù vậy, chúng vẫn tỏa sáng, \\.và
+theo những cách thức kỳ diệu nhất."
+> CONTEXT: Map148/events/9/pages/0/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Và nè, \\.dù con có muốn hay không. . .
+\\.Con vẫn để lại dấu ấn trong tim bố."
+> CONTEXT: Map148/events/9/pages/0/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Ý bố là,\\. ừm, \\.có thể điều đó không mang
+nhiều ý nghĩa với cả thế giới, \\.nhưng. . ."
+> CONTEXT: Map148/events/9/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+". . . Nhưng mang cả thế giới đến cho một người
+nào đó vẫn có giá trị mà,\\. phải không?"
+> CONTEXT: Map148/events/9/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Như con đã mang lại cho bố, \\.và. . .\\.
+\\.Bố chắc chắn Tobi cũng sẽ mang lại cho con."
+> CONTEXT: Map148/events/9/pages/0/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Bố biết con vẫn đang tự trách mình, \\.Lynri. . .
+\\.\\.Nhưng điều đó chẳng giúp ích gì cả."
+> CONTEXT: Map148/events/9/pages/0/366/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Đời người thật ngắn ngủi,\\. nên chúng ta chỉ
+có thể trân trọng những gì đang có và
+sống một cách trọn vẹn nhất."
+> CONTEXT: Map148/events/9/pages/0/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+". . . Và bao gồm cả thời gian."
+> CONTEXT: Map148/events/9/pages/0/396/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Bill ]
+"Vậy, \\.chúng ta hãy đưa thằng bé đi xem
+những điều kỳ thú mà thế giới này vẫn đang
+ẩn chứa. . . \\.\\.được chứ?"
+> CONTEXT: Map148/events/9/pages/0/414/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]\\nm[ Lynri ]
+". . . Vâng."
+> CONTEXT: Map148/events/9/pages/0/425/Dialogue < UNTRANSLATED
+
+> END STRING

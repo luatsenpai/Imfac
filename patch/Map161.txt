@@ -1,0 +1,248 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Bác Sĩ ]
+"Chúc mừng, \\.hãy nghỉ ngơi thật điều độ. . ."
+> CONTEXT: Map161/events/1/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Bác Sĩ ]
+"Dù cô cần thời gian hồi phục,\\.
+nhưng tình hình đang rất căng thẳng."
+> CONTEXT: Map161/events/1/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Bác Sĩ ]
+". . . Chúng tôi sẽ sớm đưa cô
+đến phòng phẫu thuật."
+> CONTEXT: Map161/events/1/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Tôi hiểu rồi."
+> CONTEXT: Map161/events/1/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Thằng bé thế nào rồi. . . ?"
+> CONTEXT: Map161/events/1/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Thằng bé vẫn ổn. . .\\.\\. Em hãy
+quan tâm tới bản thân mình hơn."
+> CONTEXT: Map161/events/1/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Thằng bé thật nhỏ nhắn. . ."
+> CONTEXT: Map161/events/1/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Tobi Reynard bé nhỏ của chúng ta."
+> CONTEXT: Map161/events/1/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Nói về chuyện đó \\.thì. . ."
+> CONTEXT: Map161/events/1/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Ừm, \\.anh vẫn đang suy nghĩ. . ."
+> CONTEXT: Map161/events/1/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Có lẽ. . . \\.\\.thằng bé nên
+theo họ em."
+> CONTEXT: Map161/events/1/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Họ em. . . ?"
+> CONTEXT: Map161/events/1/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Ừm. . .\\. tại sao
+không chứ."
+> CONTEXT: Map161/events/1/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Nhưng sau tất cả, \\.thì cũng
+có nhiều lý do nên làm như vậy."
+> CONTEXT: Map161/events/1/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Em thích điều đó."
+> CONTEXT: Map161/events/1/pages/0/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Dù thế. . . \\.\\i'Tobi'\\i nghe cũng không
+hợp với họ \\i'Watts'\\i,\\. đúng chứ?"
+> CONTEXT: Map161/events/1/pages/0/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Em có ý tưởng\\.
+nào khác không?"
+> CONTEXT: Map161/events/1/pages/0/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Vậy. . .\\.\\. '\\iNeil\\i' thì sao?"
+> CONTEXT: Map161/events/1/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Neil \\.sao?"
+> CONTEXT: Map161/events/1/pages/0/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Ừm. . . \\.\\.Anh thích nó."
+> CONTEXT: Map161/events/1/pages/0/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+". . . Neil Watts bé nhỏ của chúng ta."
+> CONTEXT: Map161/events/1/pages/0/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ở thực tại cơ bản, \\.con trai cô không gặp
+phải những biến chứng sinh non.
+> CONTEXT: Map161/events/1/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Thằng bé đã trải qua tuổi thơ khá bình yên. . .
+> CONTEXT: Map161/events/1/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . với tất cả tình yêu thương mà
+cô và Quincy dành cho thằng bé.
+> CONTEXT: Map161/events/1/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nhưng về phần cô. . .\\.\\. Cô vẫn
+chưa khôi phục hoàn toàn.
+> CONTEXT: Map161/events/1/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Do sự chậm trễ, \\.việc điều trị không thể
+cứu vãn tình trạng suy giảm của cô. . .
+> CONTEXT: Map161/events/1/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . và cô đã phải nằm liệt giường
+trong phần lớn những năm tháng còn lại.
+> CONTEXT: Map161/events/1/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Tuy nhiên, \\.có lẽ vì mong muốn ở bên cạnh anh ấy,
+\\.cô đã sống lâu hơn nhiều so với dự đoán của bác sĩ.
+> CONTEXT: Map161/events/1/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Để chứng kiến thằng bé trưởng thành, \\.
+dù chỉ là một chút.
+> CONTEXT: Map161/events/1/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nhưng rồi, \\.cô cảm thấy thời gian của
+mình không còn nhiều. . .
+> CONTEXT: Map161/events/1/pages/1/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cô đã đi tìm lại một vài người bạn cũ. . .
+> CONTEXT: Map161/events/1/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . để lại một thứ gì đó cho
+thằng bé khi trưởng thành.
+> CONTEXT: Map161/events/1/pages/1/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Cô đã để lại cho thằng bé một phần ký ức của cô.
+> CONTEXT: Map161/events/1/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lúc đó, \\.không có cách nào để giải mã nó. . .
+> CONTEXT: Map161/events/1/pages/1/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nhưng. . . \\.\\. cô vẫn hy vọng \\i'một ngày nào đó'\\i\\..
+> CONTEXT: Map161/events/1/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING

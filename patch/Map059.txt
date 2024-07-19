@@ -1,0 +1,167 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Giáo Viên ]
+". . . Giống như hươu cao cổ, \\.loài bướm đêm tiêu
+cũng được dùng làm ví dụ về chọn lọc tự nhiên."
+> CONTEXT: Map059/events/56/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Giáo Viên ]
+"Mặc dù thí nghiệm đã gây nhiều tranh cãi,
+\\.nhưng giả thuyết vẫn không thay đổi. . ."
+> CONTEXT: Map059/events/56/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Giáo Viên ]
+". . . Khi xảy ra đột biến gen, \\.chọn lọc tự nhiên
+sẽ quyết định liệu nó nên tồn tại hay bị đào thải.."
+> CONTEXT: Map059/events/56/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Giáo Viên ]
+"Nếu đột biến có lợi, \\.thì sinh vật đó có nhiều
+khả năng sống sót và truyền lại gen của nó. . ."
+> CONTEXT: Map059/events/56/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Giáo Viên ]
+". . . Và nếu đột biến có hại,\\. nó ít có khả năng sống sót
+và sinh sản,\\. do đó nó sẽ tự loại bỏ khỏi quần thể."
+> CONTEXT: Map059/events/56/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'LF_night'
+> CONTEXT: Map059/events/63/pages/0/0/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/0/30/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/1/27/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/2/28/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/3/32/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map047/events/1/pages/4/32/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Cậu vẫn ổn chứ, \\.Lynri?"
+> CONTEXT: Map059/events/77/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+". . . Tớ ổn.\\.\\. Có gì sao?"
+> CONTEXT: Map059/events/77/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Ừm,\\. thứ nhất,\\. trông cậu có vẻ buồn. . ."
+> CONTEXT: Map059/events/77/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+". . . Và thứ hai là chuyện cậu
+bỏ tiết giữa chừng."
+> CONTEXT: Map059/events/77/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Tớ chỉ không muốn lãng phí thời gian, \\.vậy thôi."
+> CONTEXT: Map059/events/77/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+". . . Tớ chẳng lạ gì với
+cái môn phải học rồi."
+> CONTEXT: Map059/events/77/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Vậy cậu bỏ tiết để. . .\\.\\. \\iđọc\\i. . ."
+> CONTEXT: Map059/events/77/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Cậu đang đọc \\igì\\i vậy?"
+> CONTEXT: Map059/events/77/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Nghiên cứu vi sinh vật."
+> CONTEXT: Map059/events/77/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Hả, \\ithôi nào\\i. . . \\.\\.Cậu cúp tiết thầy Stacy.
+Nhưng có thời gian cho cái môn vi sinh vớ vẩn kia?!"
+> CONTEXT: Map059/events/77/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Phải tạo \\iký ức\\i thời Trung Học chứ!"
+> CONTEXT: Map059/events/77/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Hờ. . . \\.\\.Cậu có quan điểm thú vị đấy."
+> CONTEXT: Map059/events/77/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Ê--. . .\\. Cậu đi đâu đấy?"
+> CONTEXT: Map059/events/77/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Tớ đi tìm vài cuốn sách về sự
+hình thành của ký ức."
+> CONTEXT: Map059/events/77/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[11]\\nm[ Emily ]
+"Ý tớ không phải thế!!"
+> CONTEXT: Map059/events/77/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[10]\\nm[ Lynri ]
+"Tớ biết,\\. dù sao cũng cảm ơn."
+> CONTEXT: Map059/events/77/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING

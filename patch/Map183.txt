@@ -1,0 +1,146 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"NEIL!"
+> CONTEXT: Map183/events/7/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Ts. Watts ]
+". . . Tôi thề,\\. tôi không lấy cái kẹp giấy của cô."
+> CONTEXT: Map183/events/7/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"Đừng lo.\\.\\. Chúng tôi chỉ tình cờ đi ngang qua thôi!"
+> CONTEXT: Map183/events/7/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[6]\\nm[ Ts. Lin ]
+"Sắp tới \\igiờ\\i rồi.\\.\\. Hồi nãy còn
+một tiếng, \\.giờ thì sắp rồi."
+> CONTEXT: Map183/events/7/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"Ừm,\\. trùng hợp ghê ha?!"
+> CONTEXT: Map183/events/7/pages/0/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"Dù sao thì, \\.chúng tôi định tới
+một nơi rất đỉnh. \\.\\.Đi cùng chứ?"
+> CONTEXT: Map183/events/7/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Ts. Watts ]
+"Đỉnh cỡ nào cơ?"
+> CONTEXT: Map183/events/7/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"Cực kỳ đỉnh!"
+> CONTEXT: Map183/events/7/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Ts. Watts ]
+"Dẹp đi."
+> CONTEXT: Map183/events/7/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"Hừ,\\. \\iai đó\\i làm cụt hứng quá đê."
+> CONTEXT: Map183/events/7/pages/0/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"Ờ được thôi, \\.vậy là Neil không
+được ăn kem thả ga rồi!"
+> CONTEXT: Map183/events/7/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[5]\\nm[ Ts. Winters ]
+"Thôi được. . .\\.\\. VẬY LÀ NEIL KHÔNG
+ĐƯỢC ĂN KEM THẢ GA RỒI!!"
+> CONTEXT: Map183/events/7/pages/0/314/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Rosalene ]
+"Thôi được, \\.Neil. . ."
+> CONTEXT: Map183/events/7/pages/0/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Rosalene ]
+"Ai biết được khi nào
+chúng ta lại có thể--
+> CONTEXT: Map183/events/7/pages/0/397/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Rosalene ]
+"Đổi ý nhanh vậy?"
+> CONTEXT: Map183/events/7/pages/0/433/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Ts. Watts ]
+"Nó chỉ là áo khoác thôi mà. \\.\\.
+Có phải đầm cocktail đâu."
+> CONTEXT: Map183/events/7/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Ts. Watts ]
+"Tôi đang háo hức đây."
+> CONTEXT: Map183/events/7/pages/0/471/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Rosalene ]
+"Ê, \\.ông quên đóng. . ."
+> CONTEXT: Map183/events/7/pages/0/498/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Rosalene ]
+"Có ai trong đó sao?"
+> CONTEXT: Map183/events/7/pages/0/546/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Ts. Rosalene ]
+"Này. . . ?"
+> CONTEXT: Map183/events/7/pages/0/554/Dialogue < UNTRANSLATED
+
+> END STRING

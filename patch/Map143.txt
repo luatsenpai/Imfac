@@ -1,0 +1,41 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+". . . Một trong hai người có thể ở lại với
+Lynri chứ?"
+> CONTEXT: Map143/events/48/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/48/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/48/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/48/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+"Người còn lại. . . \\.Xin hãy đi với tôi."
+> CONTEXT: Map143/events/48/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/48/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/48/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/48/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mình không thể nghe họ nói gì. . . )
+> CONTEXT: Map143/events/49/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/49/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/49/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/49/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hay là. . .\\. do \\icô ấy\\i không nghe thấy? )
+> CONTEXT: Map143/events/49/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map140/events/49/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map121/events/49/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/49/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING

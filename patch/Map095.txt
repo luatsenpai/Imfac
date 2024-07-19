@@ -1,0 +1,119 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Rika ]
+"Chào mừng tới Cơ Sở Yu-Haynes."
+> CONTEXT: Map095/events/1/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Rika ]
+"Trung tâm phát triển chính của chúng tôi có
+nhiều chi nhánh, đây chỉ là một trong số đó."
+> CONTEXT: Map095/events/1/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Rika ]
+". . . Chắc cô cũng đã đoán ra, \\.đây cũng
+là một trong những địa điểm bí mật nhất."
+> CONTEXT: Map095/events/1/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Quào, \\.chỗ này. . ."
+> CONTEXT: Map095/events/1/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Ngay từ đầu, tôi đã cảm
+thấy có điều gì đó lạ lạ ở đây!"
+> CONTEXT: Map095/events/1/pages/0/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Và con robot này. . ."
+> CONTEXT: Map095/events/1/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Biết ngay mà. . . ! \\.\\.Nó không chỉ
+có chức năng nấu cơm, \\.đúng không?"
+> CONTEXT: Map095/events/1/pages/0/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[26]\\nm[ Ts. Kim ]
+"NỒI CƠM ĐIỆN LẠI
+LÀM LOẠN NỮA!"
+> CONTEXT: Map095/events/1/pages/0/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[26]\\nm[ Ts. Kim ]
+"Ê--\\. QUAY LẠI NGAY!"
+> CONTEXT: Map095/events/1/pages/0/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[26]\\nm[ Ts. Kim ]
+"Nếu mấy tên đầu bếp dám ném nó xuống
+đường ống lần nữa,\\. tôi thề tôi sẽ. . ."
+> CONTEXT: Map095/events/1/pages/0/391/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Rika ]
+"Nó là nồi cơm điện."
+> CONTEXT: Map095/events/1/pages/0/429/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Okay."
+> CONTEXT: Map095/events/1/pages/0/431/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Rika ]
+"Nào. . . \\.\\.Tôi sẽ đưa cô đi tham quan."
+> CONTEXT: Map095/events/1/pages/0/452/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Quincy ]
+"Okay. . . \\.\\.Chúng ta
+xuống dưới rồi."
+> CONTEXT: Map095/events/1/pages/2/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Quincy ]
+"Chỗ này không có ai,\\. hơi đáng sợ đấy. . ."
+> CONTEXT: Map095/events/1/pages/2/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mình cần đến trung tâm tính toán. . . )
+> CONTEXT: Map095/events/46/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,8 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+[ Private Build - Full Pre-Release ]
+Impostor Factory
+( Sept. 19, 2021 )
+> CONTEXT: Map014/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,119 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+"Có một loại thuốc đang thử nghiệm sẽ giúp ích cho
+những triệu chứng sớm như thế này, \\.nhưng. . ."
+> CONTEXT: Map051/events/15/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+". . . Đây là lần thứ hai chuyện này diễn ra, \\.đúng chứ?"
+> CONTEXT: Map051/events/15/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Mẹ ]
+"Vâng. . . \\.\\.Chúng tôi cứ nghĩ đó là lần duy nhất. . ."
+> CONTEXT: Map051/events/15/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Mẹ ]
+". . . Chúng tôi đáng ra không nên cho con
+bé đi mà không có sự giám sát chặt chẽ."
+> CONTEXT: Map051/events/15/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+"Chà. . . \\.May mắn thay, \\.cú ngã không ảnh hưởng mấy."
+> CONTEXT: Map051/events/15/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+"Triệu chứng sớm này có thể sẽ nguy hiểm,\\.\\.
+thuốc thử nghiệm vẫn đang được quan sát."
+> CONTEXT: Map051/events/15/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+"Nhưng sẽ mất rất lâu. . ."
+> CONTEXT: Map051/events/15/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[15]\\nm[ Mẹ ]
+"Mọi chuyện sẽ ổn thôi,\\. Lynri."
+> CONTEXT: Map051/events/15/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Bố ]
+"Con hãy dưỡng bệnh nhé, \\.chúng ta sẽ
+cố hết mình. . .\\. được chứ?"
+> CONTEXT: Map051/events/16/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Vâng ạ!"
+> CONTEXT: Map051/events/16/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/16/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Con xin lỗi\\. bố. . ."
+> CONTEXT: Map051/events/16/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Tất cả là lỗi của con,\\. đúng không?"
+> CONTEXT: Map051/events/16/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Bố ]
+"Con nên cẩn thận hơn, \\.Lynri."
+> CONTEXT: Map051/events/16/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Bố ]
+". . . Nhưng không, \\.\\.đây không phải lỗi của con."
+> CONTEXT: Map051/events/16/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Bố có nghĩ con còn được tham gia
+chuyến dã ngoại của lớp nữa không. . . ?"
+> CONTEXT: Map051/events/16/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Bố ]
+"Chà, \\.chúng ta cần xem bác sĩ nói gì đã."
+> CONTEXT: Map051/events/16/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING

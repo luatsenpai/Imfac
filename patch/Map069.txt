@@ -1,0 +1,232 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Bill ]
+"Chúng ta rất tự hào về con, \\.Lyn."
+> CONTEXT: Map069/events/60/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[47]\\nm[ Naomi ]
+"Chúng ta biết con sẽ làm được!"
+> CONTEXT: Map069/events/60/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[47]\\nm[ Naomi ]
+". . . Nhưng cô không ngờ là cháu có thể chinh
+phục được một người dễ thương như vậy đấy!"
+> CONTEXT: Map069/events/60/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Lynri ]
+"Mẹ này. . . \\.\\.Đừng nói thế trong
+lần gặp đầu tiên chứ. . ."
+> CONTEXT: Map069/events/60/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[47]\\nm[ Naomi ]
+"Mong là \\.lần đầu tiên này sẽ dẫn
+đến những lần gặp gỡ sau này!"
+> CONTEXT: Map069/events/60/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[47]\\nm[ Naomi ]
+"Ohoho xin lỗi, \\.mẹ hạnh phúc quá!
+\\.\\.Đã bao nhiêu năm rồi nhỉ. . ."
+> CONTEXT: Map069/events/60/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[47]\\nm[ Naomi ]
+"Không thể tin là con đã trưởng thành thế này!"
+> CONTEXT: Map069/events/60/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Lynri ]
+"Chẳng phải mẹ vừa bảo mẹ biết
+con sẽ làm được sao. . ."
+> CONTEXT: Map069/events/60/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Bill ]
+"Nào nào, \\.hôm nay là ngày để
+ăn mừng thành tích của hai đứa."
+> CONTEXT: Map069/events/60/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Bill ]
+"Sao con không cùng chúng ta
+tham gia bữa tiệc tối nay nhỉ, \\.Quincy?"
+> CONTEXT: Map069/events/60/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[32]\\nm[ Bill ]
+"Chúng ta có thể cùng nhau thảo luận
+kế hoạch sau khi tốt nghiệp của hai đứa."
+> CONTEXT: Map069/events/60/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[8]\\nm[ Quincy ]
+"V-vâng. . . \\.\\.Cảm ơn \\.chú --"
+> CONTEXT: Map069/events/60/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]
+". . . Lynri,\\. hóa ra cô ở đây."
+> CONTEXT: Map069/events/60/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hai người đó. . . )
+> CONTEXT: Map069/events/60/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Lynri ]
+"Chị. . . \\.\\.Chị từ--"
+> CONTEXT: Map069/events/60/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+"Ts. Haynes và Ts. Yu có gửi lời hỏi thăm."
+> CONTEXT: Map069/events/60/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[52]\\nm[ Emil ]
+". . . Và tất nhiên,\\. chúng tôi \\.
+có mặt ngay lập tức."
+> CONTEXT: Map069/events/60/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+"Xin chúc mừng."
+> CONTEXT: Map069/events/60/pages/0/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Lynri ]
+". . . Vậy có nghĩa là tôi đã vượt qua bài
+phỏng vấn của họ?"
+> CONTEXT: Map069/events/60/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[52]\\nm[ Emil ]
+"Bài phỏng vấn? \\.Đó chỉ là thủ tục."
+> CONTEXT: Map069/events/60/pages/0/312/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+". . . Để xác nhận xem cô có phải
+\\.tác giả của bài nghiên cứu không thôi."
+> CONTEXT: Map069/events/60/pages/0/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+"Vậy. . . \\.\\.Cô có muốn tham gia
+bữa tiệc không,\\. Lynri?"
+> CONTEXT: Map069/events/60/pages/0/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Lynri ]
+"Bữa tiệc. . . ?"
+> CONTEXT: Map069/events/60/pages/0/344/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[52]\\nm[ Emil ]
+". . . Giới thiệu sơ lược."
+> CONTEXT: Map069/events/60/pages/0/348/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+Thay mặt cho Cơ Sở Yu-Haynes,\\. tôi
+hân hạnh gửi cô lời mời tham dự."
+> CONTEXT: Map069/events/60/pages/0/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Lynri ]
+". . . Tôi nên mong đợi điều gì?"
+> CONTEXT: Map069/events/60/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+"Một buổi giao lưu. . .\\.\\. chuyên môn."
+> CONTEXT: Map069/events/60/pages/0/411/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+"Chi tiết trên tấm thẻ này."
+> CONTEXT: Map069/events/60/pages/0/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[52]\\nm[ Emil ]
+"Những cơ hội thế này rất hiếm xảy ra;
+\\.\\.chúng tôi mong cô hãy cân nhắc."
+> CONTEXT: Map069/events/60/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[9]\\nm[ Lynri ]
+". . . Chắc rồi."
+> CONTEXT: Map069/events/60/pages/0/471/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[50]\\nm[ Rika ]
+"Nhân tiện, \\.đây là một bữa tiệc trang trọng.
+\\.\\.Hãy ăn diện thật đẹp nhé."
+> CONTEXT: Map069/events/60/pages/0/537/Dialogue < UNTRANSLATED
+
+> END STRING

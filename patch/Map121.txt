@@ -1,0 +1,378 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Bà. . . \\.\\.Bà chắc chứ?"
+> CONTEXT: Map121/events/47/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Tôi e là vậy. \\.Tôi đã kiểm tra rất nhiều lần."
+> CONTEXT: Map121/events/47/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Tình trạng diễn biến cấp tính, \\.và
+có vẻ đang trở nặng nhanh chóng."
+> CONTEXT: Map121/events/47/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Tại sao lại \\.xảy ra vào lúc này chứ. . ."
+> CONTEXT: Map121/events/47/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Em bé vẫn có vẻ bình thường, \\.nhưng. . ."
+> CONTEXT: Map121/events/47/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Nhưng. . . ?"
+> CONTEXT: Map121/events/47/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Ừm. . . \\.Vì chúng tôi đã phát hiện
+sớm \\.nên có thể điều trị, \\.Lynri."
+> CONTEXT: Map121/events/47/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Vậy tốt quá!"
+> CONTEXT: Map121/events/47/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Mặc dù chưa chắc chắn, \\.nhưng cơ hội
+thành công sẽ cao nếu chúng ta. . ."
+> CONTEXT: Map121/events/47/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+". . . Nếu chúng ta bắt đầu điều trị ngay lập tức."
+> CONTEXT: Map121/events/47/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Khoan,\\. điều trị ngay lập tức. . ."
+> CONTEXT: Map121/events/47/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Liệu nó. . . \\.\\.sẽ ổn chứ?"
+> CONTEXT: Map121/events/47/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Là đứa bé sao?\\.\\. Thật không may là\\. không."
+> CONTEXT: Map121/events/47/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+". . . Chúng tôi cần phải can thiệp sớm bằng cách
+cho sinh non trước khi bắt đầu điều trị."
+> CONTEXT: Map121/events/47/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Sinh non. . . \\.\\.Nhưng vẫn còn quá sớm mà!"
+> CONTEXT: Map121/events/47/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Tôi biết."
+> CONTEXT: Map121/events/47/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Chúng tôi có trang thiết bị để cố gắng giữ cho
+em bé sống sót trong trường hợp đó,\\. nhưng. . ."
+> CONTEXT: Map121/events/47/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+". . . Sinh non ở giai đoạn này
+thường sẽ để lại di chứng lâu dài."
+> CONTEXT: Map121/events/47/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Và. . .\\. Nếu chúng ta trì hoãn việc điều trị
+của tôi cho đến khi bé sẵn sàng thì sao. . . ?"
+> CONTEXT: Map121/events/47/pages/0/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Nếu vậy, chúng ta sẽ bỏ lỡ thời
+điểm vàng để điều trị cho cô."
+> CONTEXT: Map121/events/47/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Em bé cần đủ thời gian để phát triển
+liên tục, \\.nhưng với cô. . ."
+> CONTEXT: Map121/events/47/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+". . . Ngay cả trong trường hợp tốt nhất, \\.
+việc trì hoãn điều trị vẫn có thể dẫn đến
+những di chứng ảnh hưởng đến cuộc sống."
+> CONTEXT: Map121/events/47/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Và trong trường hợp tệ nhất\\.. . ."
+> CONTEXT: Map121/events/47/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]
+"Bác Sĩ, \\.phòng số 5 cần bà."
+> CONTEXT: Map121/events/47/pages/0/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Tôi sẽ cho hai người vài phút để suy nghĩ."
+> CONTEXT: Map121/events/47/pages/0/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+"Tôi biết đây là một quyết định khó khăn, \\.
+nhưng vì tình hình hiện tại. . .
+\\.\\.Anh cần đưa ra quyết định nhanh chóng."
+> CONTEXT: Map121/events/47/pages/0/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+". . . Tôi xin lỗi, anh phải quyết định rồi."
+> CONTEXT: Map121/events/47/pages/0/395/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Chúng ta đang nghĩ gì vậy. . . ?"
+> CONTEXT: Map121/events/47/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Tại sao chúng ta--. . ."
+> CONTEXT: Map121/events/47/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Tại sao lúc đó em lại
+nghĩ đây là ý hay chứ?"
+> CONTEXT: Map121/events/47/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Đó là lỗi của anh."
+> CONTEXT: Map121/events/47/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Nếu không có anh thì em đã không làm vậy."
+> CONTEXT: Map121/events/47/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Tại sao không phải là em--. . ."
+> CONTEXT: Map121/events/47/pages/1/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+". . . Mọi thứ cứ như \\.một giấc mơ vậy."
+> CONTEXT: Map121/events/47/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Du lịch khắp thế giới cùng anh,
+\\.chuẩn bị sinh con. . ."
+> CONTEXT: Map121/events/47/pages/1/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Cả năm qua. . . \\.\\.
+Mọi thứ vẫn. . . \\.\\.bình thường."
+> CONTEXT: Map121/events/47/pages/1/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Em chỉ là. . .\\. không muốn phải thức dậy."
+> CONTEXT: Map121/events/47/pages/1/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+". . . Em hãy tiếp nhận điều trị đi."
+> CONTEXT: Map121/events/47/pages/1/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Sao cơ. . . ?"
+> CONTEXT: Map121/events/47/pages/1/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Anh đã quyết định rồi, em đừng nói gì nữa."
+> CONTEXT: Map121/events/47/pages/1/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Quincy. . ."
+> CONTEXT: Map121/events/47/pages/1/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Anh sẽ cố gắng hết sức
+chăm sóc thằng bé."
+> CONTEXT: Map121/events/47/pages/1/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Nhưng em. . ."
+> CONTEXT: Map121/events/47/pages/1/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+". . . chỉ còn cách này thì
+em mới \\icó thể\\i yên tâm được."
+> CONTEXT: Map121/events/47/pages/1/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Thật bất công với thằng bé."
+> CONTEXT: Map121/events/47/pages/1/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Thằng bé cũng sẽ thiệt thòi
+nếu không có mẹ bên cạnh."
+> CONTEXT: Map121/events/47/pages/1/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[2]\\nm[ Lynri ]
+"Đáng ra. . . \\.Đáng ra chúng ta
+phải nghĩ đến điều đó sớm hơn--
+> CONTEXT: Map121/events/47/pages/1/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Chúng ta đều phạm sai lầm, \\.được chứ?!"
+> CONTEXT: Map121/events/47/pages/1/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+". . . Anh là người có lỗi."
+> CONTEXT: Map121/events/47/pages/1/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+"Chúng ta không thể thay đổi quá khứ,\\.
+nhưng chúng ta có thể quyết định từ bây giờ."
+> CONTEXT: Map121/events/47/pages/1/280/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[16]\\nm[ Quincy ]
+". . . Chúng ta không thể mất em được."
+> CONTEXT: Map121/events/47/pages/1/305/Dialogue < UNTRANSLATED
+
+> END STRING

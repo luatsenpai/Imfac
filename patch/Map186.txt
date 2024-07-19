@@ -1,0 +1,10 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'LF-day-sky'
+> CONTEXT: Map186/events/1/pages/0/35/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map157/events/1/pages/0/31/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map088/events/1/pages/0/35/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map054/events/1/pages/0/34/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map043/events/1/pages/0/97/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING

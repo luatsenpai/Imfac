@@ -1,0 +1,415 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+'Space_BG_earth'
+> CONTEXT: Map115/events/1/pages/0/19/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Chúng ta đã tới trạm. . ."
+> CONTEXT: Map115/events/1/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Có vẻ như chúng ta là người đến cuối cùng."
+> CONTEXT: Map115/events/1/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+"Người đến cuối cùng. . . ?"
+> CONTEXT: Map115/events/1/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"C-\\.Chuyện gì vậy?!"
+> CONTEXT: Map115/events/1/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+"Đây là tất cả sao. . ."
+> CONTEXT: Map115/events/1/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Ừm, \\.những phiên bản của cô từ
+những nhánh thực tại nơi tôi hình thành."
+> CONTEXT: Map115/events/1/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Ít nhất thì \\.những gì còn cứu được."
+> CONTEXT: Map115/events/1/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Những gì còn cứu được?"
+> CONTEXT: Map115/events/1/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Ừm, không thể nhân bản \\itất cả\\i các
+phiên bản bất hợp lệ của anh,\\. nhưng . ."
+> CONTEXT: Map115/events/1/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Nếu chúng ta hợp nhất những phiên bản
+giống nhau, thì chỉ cần giải quyết \\imộ\\it phiên
+bản duy nhất."
+> CONTEXT: Map115/events/1/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Đó là cách để chấm dứt các vòng lặp vô hạn
+bất hợp lệ, nhưng vẫn giữ được \\i'anh'\\i
+. . . \\.theo một nghĩa nào đó."
+> CONTEXT: Map115/events/1/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Nhắc đến chuyện đó. . ."
+> CONTEXT: Map115/events/1/pages/0/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Tôi nghĩ mọi người
+đã có mặt đầy đủ rồ."
+> CONTEXT: Map115/events/1/pages/0/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Vậy đấy, \\.thế là ổn rồi phải không?"
+> CONTEXT: Map115/events/1/pages/1/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Xin lỗi vì để anh phải chứng kiến,
+\\.nhưng tôi sẽ cố gắng làm thật nhanh."
+> CONTEXT: Map115/events/1/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Space_BG'
+> CONTEXT: Map115/events/1/pages/2/46/InlineScript/2:8 < UNTRANSLATED
+> CONTEXT: Map115/events/1/pages/10/11/InlineScript/2:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"C-\\.Cô làm gì thế?!"
+> CONTEXT: Map115/events/1/pages/3/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Tôi đã nói với anh rồi mà?"
+> CONTEXT: Map115/events/1/pages/3/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Tôi đang cứu thế giới này."
+> CONTEXT: Map115/events/1/pages/3/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Cuối cùng thì. . ."
+> CONTEXT: Map115/events/1/pages/9/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Một chút bình yên và tĩnh lặng."
+> CONTEXT: Map115/events/1/pages/9/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Những ánh sáng đó. . ."
+> CONTEXT: Map115/events/1/pages/10/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Đã đến lúc họ nghỉ ngơi để những
+người khác có thể tiếp tục tỏa sáng."
+> CONTEXT: Map115/events/1/pages/10/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Đằng sau cánh cổng đó,\\. anh sẽ tìm
+được cuộc sống mới cho mình. . ."
+> CONTEXT: Map115/events/1/pages/10/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Một thế giới nơi căn bệnh của cô
+được chữa khỏi, \\.nơi mọi người đều sống
+hạnh phúc mãi mãi về sau."
+> CONTEXT: Map115/events/1/pages/10/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Đó sẽ là ảo ảnh tuyến tính, cần rất
+ít tài nguyên để duy trì. . ."
+> CONTEXT: Map115/events/1/pages/10/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Nhưng với anh,\\. nó giống như
+cuộc sống thật của anh vậy."
+> CONTEXT: Map115/events/1/pages/10/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Hãy coi nó như một món quà chia tay."
+> CONTEXT: Map115/events/1/pages/10/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Cô nghe thấy không, \\.Lynri?!"
+> CONTEXT: Map115/events/1/pages/10/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Chúng ta sẽ sống ở dòng
+thời gian tuyệt vời nhất!"
+> CONTEXT: Map115/events/1/pages/10/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Lynri. . . ?"
+> CONTEXT: Map115/events/1/pages/10/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+". . . Thật vô nghĩa."
+> CONTEXT: Map115/events/1/pages/10/297/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+"Con trai của chúng ta vẫn bình an ngoài kia. . .
+\\.\\.Nhưng nhiệm vụ chúng ta ở đây đã kết thúc."
+> CONTEXT: Map115/events/1/pages/10/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+"Vận mệnh của thế giới
+ngoài kia đã được an bài."
+> CONTEXT: Map115/events/1/pages/10/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+". . . Sao lại phải đi thực tế ảo khác
+trong khi chuyến đi của chính chúng ta
+không còn ý nghĩa gì nữa?"
+> CONTEXT: Map115/events/1/pages/10/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+"Tôi đã trải nghiệm hết tất cả rồi. . ."
+> CONTEXT: Map115/events/1/pages/10/361/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Lynri ]
+". . . Dù sao, \\.nhiêu đó cũng đủ rồi."
+> CONTEXT: Map115/events/1/pages/10/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Nhưng. . ."
+> CONTEXT: Map115/events/1/pages/10/391/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+". . . Nhưng nếu cô chưa từng thì sao?"
+> CONTEXT: Map115/events/1/pages/10/424/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Ý tôi là, thế giới của tôi cũng bị hủy hoại,\\.
+thậm chí còn tệ hơn. . ."
+> CONTEXT: Map115/events/1/pages/10/453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+". . . Nhưng dù sao đi nữa, \\.điều này không phải
+mở ra nhiều khả năng hơn sao, \\.thay vì hạn chế chúng."
+> CONTEXT: Map115/events/1/pages/10/465/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Nếu như thế giới của chúng ta không phải là
+'\\ithế giới gốc\\i' thì sao?\\. Điều đó có thực sự
+quan trọng không?"
+> CONTEXT: Map115/events/1/pages/10/480/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Mặc dù chúng không phải \\ilà\\i thật, \\.nhưng đó
+chính là những gì \\b\\ichúng ta\\i\\b từng trải nghiệm,
+là tất cả những gì chúng ta từng biết đến."
+> CONTEXT: Map115/events/1/pages/10/504/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Ý tôi là, \\.ai mà biết được thực tại của cô ấy
+có thực sự là lớp cuối cùng không?"
+> CONTEXT: Map115/events/1/pages/10/525/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Bên kia cánh cổng kia là gì. . . \\.\\.Có thể nó không
+phải là thật đối với cô ấy,\\. nhưng nó là thật đối với \\ichúng ta\\i."
+> CONTEXT: Map115/events/1/pages/10/543/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Biết đâu. . . \\.bước qua cánh cổng này, chúng ta
+sẽ thấy được một mảnh vỡ của thực tại đích thực
+đang tồn tại ở đâu đó ngoài kia."
+> CONTEXT: Map115/events/1/pages/10/564/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Một thực tại, \\.nơi chúng ta có thể
+ở lại và cùng nhau già đi. . ."
+> CONTEXT: Map115/events/1/pages/10/584/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+"Cô thấy sao, \\.Lynri?"
+> CONTEXT: Map115/events/1/pages/10/599/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+". . . Muốn cùng tôi đi một chuyến cuối cùng không?"
+> CONTEXT: Map115/events/1/pages/10/609/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]\\nm[ Quincy ]
+". . . Cô sẽ đợi bọn tôi đến lúc đó chứ?"
+> CONTEXT: Map115/events/1/pages/10/713/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Tôi không cần phải đợi."
+> CONTEXT: Map115/events/1/pages/10/722/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Với tôi, \\.thời gian
+là một thực tại."
+> CONTEXT: Map115/events/1/pages/10/737/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+"Đi thôi."
+> CONTEXT: Map115/events/1/pages/10/754/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+". . . Cuộc sống mới của hai người đang chờ đấy."
+> CONTEXT: Map115/events/1/pages/10/768/Dialogue < UNTRANSLATED
+
+> END STRING

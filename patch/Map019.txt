@@ -1,0 +1,643 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Cánh cửa đằng kia chắc hẳn là
+lối quay về hành lang. . . )
+> CONTEXT: Map019/events/1/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/15/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có lẽ mình nên lấy chìa khóa ra khỏi đó. . . )
+> CONTEXT: Map019/events/1/pages/1/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/15/pages/1/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[1]
+Cửa khóa.
+> CONTEXT: Map019/events/1/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/1/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/1/pages/7/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]
+Mở khóa cửa với \\oi[29].
+> CONTEXT: Map019/events/3/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Hử, \\.mình nhớ vừa nãy còn cắm chìa khóa trên cửa mà. . . )
+> CONTEXT: Map019/events/3/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Quào. . .\\.\\. Căn phòng này trông lạ quá. . . )
+> CONTEXT: Map019/events/4/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Phu nhân?"
+> CONTEXT: Map019/events/4/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[4]\\nm[ Quincy ]
+"Trời đất ơi,\\. là thật kìa!"
+> CONTEXT: Map019/events/4/pages/4/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[7]
+Đã nhận \\oi[29].
+> CONTEXT: Map019/events/7/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Một chiếc chìa khóa đồng nhỏ.
+> CONTEXT: Map019/events/12/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có lẽ nó dùng cho cánh cửa kia. . . )
+> CONTEXT: Map019/events/12/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Uhhh, \\.Có lẽ mình nên lấy nó ra . . )
+> CONTEXT: Map019/events/12/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có lẽ có gì đó quanh đây sẽ giúp
+dụ nó ra. . . )
+> CONTEXT: Map019/events/12/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Mình nên tìm cách lấy chìa khóa. . .
+\\.. . . không thì mất tay như chơi. )
+> CONTEXT: Map019/events/12/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Đây, lấy thứ này. . . \\.\\.trên cây gậy đi. . . )
+> CONTEXT: Map019/events/12/pages/2/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Ok."
+> CONTEXT: Map019/events/12/pages/2/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có vẻ như nó muốn được yên tĩnh. . . )
+> CONTEXT: Map019/events/12/pages/4/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Trong lỗ không có gì.
+> CONTEXT: Map019/events/12/pages/5/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Này,\\. tao chỉ muốn nói chuyện thôi mà. . ."
+> CONTEXT: Map019/events/16/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
+"TỆ QUÁ!!"
+> CONTEXT: Map019/events/16/pages/3/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]
+Đã nhận \\oi[28].
+> CONTEXT: Map019/events/17/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tại sao con mèo đó dài thế?!"
+> CONTEXT: Map019/events/17/pages/7/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Là sao hả. . . ?"
+> CONTEXT: Map019/events/17/pages/7/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Khoan, \\.tôi không đến
+đây để hỏi câu đó."
+> CONTEXT: Map019/events/17/pages/7/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ờm, \\.tôi sẽ vào
+thẳng vấn đề nhé."
+> CONTEXT: Map019/events/17/pages/7/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô có tới hai bản thể."
+> CONTEXT: Map019/events/17/pages/7/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Đúng vậy, \\.tôi đã chứng kiến. \\.
+Cô đã ở hai nơi cùng lúc."
+> CONTEXT: Map019/events/17/pages/7/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Bên cạnh đó, \\.tôi nghĩ bồn rửa mặt chết tiệt
+dưới lầu có thể \\iđảo ngược thời gian\\i."
+> CONTEXT: Map019/events/17/pages/7/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi không nói về bộ phim \\i'Ngày Chuột Chuỗi '\\i,\\.
+nhưng có thứ gì đó điên rồ đang diễn ra. . ."
+> CONTEXT: Map019/events/17/pages/7/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Anh có biết anh đang lảm nhảm về mấy
+chuyện không thể nào xảy ra được không\\.?"
+> CONTEXT: Map019/events/17/pages/7/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi biết chứ, \\.tin tôi đi."
+> CONTEXT: Map019/events/17/pages/7/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Không lẽ,\\. \\iTôi\\i bị điên \\.rồi sao?"
+> CONTEXT: Map019/events/17/pages/7/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Tôi chắc chắn luôn đấy!
+Nhưng \\ichuyện này\\i kỳ lạ \\.lắm sao?"
+> CONTEXT: Map019/events/17/pages/7/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Tôi không biết anh đang mong chờ
+điều gì từ tôi."
+> CONTEXT: Map019/events/17/pages/7/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Chỉ cần trả lời tôi: \\.Cô có
+hiểu tôi đang nói gì không?"
+> CONTEXT: Map019/events/17/pages/7/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Cũng không hẳn. . ."
+> CONTEXT: Map019/events/17/pages/7/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ah-hah! \\.\\.Cô nói dối!"
+> CONTEXT: Map019/events/17/pages/7/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Tại sao anh lại nghĩ vậy?"
+> CONTEXT: Map019/events/17/pages/7/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ờm, \\.để xem nào. . ."
+> CONTEXT: Map019/events/17/pages/7/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tầng dưới thì có thi thể.\\. Cô chỉ đang ở một mình,
+\\.và một người lạ tiếp cận cô với mấy
+câu chuyện điên rồ. . ."
+> CONTEXT: Map019/events/17/pages/7/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Nếu cô không liên quan tới chuyện này,\\.
+\\ivậy tại sao cô không bỏ chạy\\i?"
+> CONTEXT: Map019/events/17/pages/7/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Thế tôi sẽ phải chạy đi đâu?"
+> CONTEXT: Map019/events/17/pages/7/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi không biết. . .\\. nơi nào đó để
+tránh xa tôi ra?"
+> CONTEXT: Map019/events/17/pages/7/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Trời. . . \\.Nói thật thì, \\.anh \\iđang\\i khiến tôi sợ quá đấy."
+> CONTEXT: Map019/events/17/pages/7/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Nhưng lạ ở chỗ. . .\\. Ờm. . ."
+> CONTEXT: Map019/events/17/pages/7/250/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Tôi không biết nữa, \\.nhưng tôi cảm thấy
+anh không phải là hung thủ hay đại loại thế."
+> CONTEXT: Map019/events/17/pages/7/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Làm sao cô biết được chứ? \\.\\.
+Cô không quen tôi mà!"
+> CONTEXT: Map019/events/17/pages/7/264/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Và xét theo hoàn cảnh đó, \\.ngay cả \\itôi\\i
+cũng đang nghĩ mình là hung thủ."
+> CONTEXT: Map019/events/17/pages/7/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Tôi không chắc nữa. \\.\\.
+Tôi chỉ cảm thấy thế thôi."
+> CONTEXT: Map019/events/17/pages/7/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Có gì đó ở anh. . .\\.\\. Khiến tôi
+cảm thấy anh \\ikhông thể\\i là hung thủ."
+> CONTEXT: Map019/events/17/pages/7/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Được rồi, \\.Dù biết đây là điều tốt, \\.nhưng sao tự dưng
+\\.tôi cảm thấy bản thân mình như bị hạ thấp ấy. . ."
+> CONTEXT: Map019/events/17/pages/7/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Ờm. . . \\.Vậy tại sao \\ianh\\i không bỏ chạy?"
+> CONTEXT: Map019/events/17/pages/7/320/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khỏi ai cơ?"
+> CONTEXT: Map019/events/17/pages/7/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Khỏi tôi."
+> CONTEXT: Map019/events/17/pages/7/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tại sao ờ. . .\\. sao tôi lại phải chạy trốn cô?"
+> CONTEXT: Map019/events/17/pages/7/360/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Ờm, \\.Sự xuất hiện bí ẩn của một kẻ lạ mặt,
+khiến vòng lặp thời gian nhân lên. . ."
+> CONTEXT: Map019/events/17/pages/7/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Nếu những lời anh nói là đúng, \\.vậy
+có vẻ như \\itôi\\i là kẻ đáng ngờ rồi."
+> CONTEXT: Map019/events/17/pages/7/386/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm. . . \\.\\.Đúng là như vậy."
+> CONTEXT: Map019/events/17/pages/7/399/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Nhưng tôi đoán. . . \\.\\.tôi cũng có
+cảm giác giống cô\\. chăng?"
+> CONTEXT: Map019/events/17/pages/7/412/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ý tôi là, \\.chuyện này điên rồ tới mức
+tôi chưa thể tin được, \\.nhưng. . ."
+> CONTEXT: Map019/events/17/pages/7/422/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Có gì đó ở cô khiến tôi không
+cảm thấy cô là hung thủ."
+> CONTEXT: Map019/events/17/pages/7/431/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+". . . Đưa tôi đến đó đi."
+> CONTEXT: Map019/events/17/pages/7/447/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Sao cơ?"
+> CONTEXT: Map019/events/17/pages/7/454/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/37/pages/6/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Bồn rửa tay dưới lầu. \\.\\.Anh nói nó có thể
+đảo ngược thời gian?"
+> CONTEXT: Map019/events/17/pages/7/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô tin tôi ư?"
+> CONTEXT: Map019/events/17/pages/7/472/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Không, \\.vớ va vớ vẩn."
+> CONTEXT: Map019/events/17/pages/7/479/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[17]\\nm[ Lynri ]
+"Nhưng trong tình huống này. . . \\.tôi muốn biết
+điều gì đã khiến anh có những hành động như vậy."
+> CONTEXT: Map019/events/17/pages/7/490/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Được thôi, \\.tôi đoán đó là
+điều tốt nhất có thể mong đợi."
+> CONTEXT: Map019/events/17/pages/7/502/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[14]\\nm[ Quincy ]
+"Đi thôi. . . \\.\\.Tôi sẽ cho cô thấy."
+> CONTEXT: Map019/events/17/pages/7/539/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+^REMINDER CAT STUFF SAFE ROOM PLX^
+> CONTEXT: Map019/events/18/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
+"FUUUUUUUUUUUUUUUUUUUUUUUUU--
+> CONTEXT: Map019/events/19/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Tổ mèo lót đệm và bên cạnh có vài đồ vật bằng vải.
+> CONTEXT: Map019/events/21/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Chiếc sofa cũ kỹ với những vết sờn rách.
+> CONTEXT: Map019/events/22/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/22/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Đường hầm vui chơi còn mới.
+> CONTEXT: Map019/events/23/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/23/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cô quen con mèo này à?"
+> CONTEXT: Map019/events/23/pages/8/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[38]\\nm[ Lynri ]
+"Tôi mới gặp nó \\.năm phút trước thôi."
+> CONTEXT: Map019/events/23/pages/8/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Vậy sao? \\.Cô có nghĩ nó là hung thủ?"
+> CONTEXT: Map019/events/23/pages/8/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[38]\\nm[ Lynri ]
+"Chà, \\.nhìn con cá trích đỏ trên tấm
+thảm kia,\\. thì có lẽ là không."
+> CONTEXT: Map019/events/23/pages/8/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Har-har."
+> CONTEXT: Map019/events/23/pages/8/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Khoan, \\.là thật kìa."
+> CONTEXT: Map019/events/23/pages/8/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Cái tô trống rỗng.
+> CONTEXT: Map019/events/24/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Con mèo đang ngủ say.
+> CONTEXT: Map019/events/24/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Đánh thức nó
+> CONTEXT: Map019/events/24/pages/1/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Để nó ngủ
+> CONTEXT: Map019/events/24/pages/1/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]\\nm[ Quincy ]
+"Này. . . \\.\\.pssst. . ."
+> CONTEXT: Map019/events/24/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Đồ chơi nhồi bông hình con cá.
+> CONTEXT: Map019/events/36/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[0]
+Đồ chơi nhồi bông hình con cá trích đỏ. . . ?
+> CONTEXT: Map019/events/36/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING

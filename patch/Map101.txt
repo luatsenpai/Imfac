@@ -1,0 +1,162 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Không ngờ là máy tính lượng tự
+hiện đại lại trông thế này."
+> CONTEXT: Map101/events/19/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/20/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Vẻ ngoài cổ điển là để tôn vinh.. . .\\.\\.
+Lúc trước đâu có mặt kính thế này."
+> CONTEXT: Map101/events/19/pages/1/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/20/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Vậy. . .\\.\\. Đây là tiến sĩ mới \\.sao?"
+> CONTEXT: Map101/events/22/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Thú thực thì, \\.ta đã rất bất ngờ
+khi thấy cô ở bữa tiệc lần trước."
+> CONTEXT: Map101/events/22/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Nhưng khi thực sự gặp cô ở đây. . ."
+> CONTEXT: Map101/events/22/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Ts. Yu nói nghiên cứu của tôi có ích cho dự án.
+\\.Tôi sẽ cố gắng áp dụng các kết quả nghiên cứu--
+> CONTEXT: Map101/events/22/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Nghiên cứu của cô?\\.\\. Tôi đã đọc qua nó."
+> CONTEXT: Map101/events/22/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Đáng tiếc, \\.nó chẳng có gì
+mới mẻ cả."
+> CONTEXT: Map101/events/22/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Ý ông là. . . ?"
+> CONTEXT: Map101/events/22/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Những gì họ làm ở đây. . .
+\\.\\.Tôi đều đã giải mã được hết."
+> CONTEXT: Map101/events/22/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Họ đã không thể nào đạt tới tiến độ này
+nếu không có những phát hiện từ cô."
+> CONTEXT: Map101/events/22/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+". . . Ts. Yu và đội của bà ấy chắc hẳn
+đã tìm ra nó từ nhiều năm trước rồi."
+> CONTEXT: Map101/events/22/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Nhiều năm trước. . . ?"
+> CONTEXT: Map101/events/22/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[20]\\nm[ Lynri ]
+"Nhưng mà. . .\\.\\. tại sao những phát
+hiện của họ lại không được công bố?"
+> CONTEXT: Map101/events/22/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Cô nghiêm túc sao?"
+> CONTEXT: Map101/events/22/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Đây không phải là một học viện thuần túy nào đó
+truyền bá kiến thức vì lợi ích của nhân loại."
+> CONTEXT: Map101/events/22/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Tôi muốn 'tiền', \\.nhưng. . .\\. các nhóm
+lợi ích liên quan còn phức tạp hơn nhiều."
+> CONTEXT: Map101/events/22/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Dù thế nào thì,\\. nghe đây này. . ."
+> CONTEXT: Map101/events/22/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+". . . Nếu cô muốn tạo ra gì đó khác biệt,
+\\.thì \\iđây\\i là nơi thích hợp nhất."
+> CONTEXT: Map101/events/22/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+"Có thể sẽ mất một thời gian nữa công chúng
+mới được trải nghiệm, \\.nhưng ở đây thì. . ."
+> CONTEXT: Map101/events/22/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[19]\\nm[ Louie ]
+". . . đây sẽ là nơi mọi thứ bắt đầu."
+> CONTEXT: Map101/events/22/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING

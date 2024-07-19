@@ -1,0 +1,117 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Khi trời \\.đổ mưa.
+> CONTEXT: Map093/events/16/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chẳng bao lâu sau khi cô qua đời. . . \\.\\.
+con trai cô đã được chẩn đoán mắc phải
+căn bệnh di truyền giống như cô.
+> CONTEXT: Map093/events/16/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nhưng có lẽ đó lại là\\. một lời nhắc nhở về
+quãng thời gian hữu hạn của thằng bé trên
+thế gian này. . .
+> CONTEXT: Map093/events/16/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Nó đánh thức một điều gì đó sâu thẳm
+trong thằng bé, \\.thôi thúc anh ấy tiến về
+phía trước, \\.giống như cô vậy.
+> CONTEXT: Map093/events/16/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Và mặc dù thằng bé cố gắng tạo khoảng cách với mọi người,
+\\.biết những gì có thể xảy ra với những người thân thiết.
+> CONTEXT: Map093/events/16/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Nhưng không hiệu quả với tất cả mọi người.
+> CONTEXT: Map093/events/16/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Bắt đầu từ \\.những điều cơ bản nhất, \\.
+thằng bé kiên trì nỗ lực không ngừng. . .
+> CONTEXT: Map093/events/16/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Vượt xa cả những nghiên cứu mà cô đã để lại.
+> CONTEXT: Map093/events/16/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nhưng dù như thế, \\.khi thời khắc đó đến. . .
+> CONTEXT: Map093/events/16/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Lần này đến lần khác, thằng bé bị
+cơ sở từ chối vì sự cố của cô.
+> CONTEXT: Map093/events/16/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Vì vậy, \\.thằng bé đã tìm kiếm một con đường khác.
+> CONTEXT: Map093/events/16/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Thằng bé đã chuyển hướng hợp tác với một
+công ty bên ngoài, công ty này đã mua
+bản quyền công nghệ chưa hoàn thiện.
+> CONTEXT: Map093/events/16/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chỉ trong một thời gian ngắn, \\.
+thằng bé đã lọt vào đội ngũ. . .
+> CONTEXT: Map093/events/16/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Cùng với vài sự giúp đỡ từ bạn bè.
+> CONTEXT: Map093/events/16/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Đó là một công ty nơi thằng bé vẫn có thể. . .
+truy cập vào mã nguồn và phần cứng của công nghệ.
+> CONTEXT: Map093/events/16/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Đó là một công ty sử dụng công nghệ này để
+hoàn thành những nguyện vọng cuối cùng, bằng các
+cấy ghép ký ức về một cuộc sống mới.
+> CONTEXT: Map093/events/16/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+. . . Một công ty có tên là Sigmund Corp.
+> CONTEXT: Map093/events/16/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
