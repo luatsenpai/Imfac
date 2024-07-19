@@ -84,7 +84,9 @@ H N N N N N N N N N G H
 "I don't know about you, \\.but I find it suspicious that
 a bot this advanced would be just a rice cooker. . ."
 > CONTEXT: Map173/events/2/pages/0/160/Dialogue < UNTRANSLATED
-
+\\ignr\\e[7]\\nm[ Lynri ]
+"Tôi không biết gì về anh, \\.nhưng tôi thấy lạ khi
+con robot hiện đại thế này lại chỉ là nồi cơm điện. . ."
 > END STRING
 
 > BEGIN STRING

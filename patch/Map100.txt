@@ -12,14 +12,17 @@ trong số bản in này. . ."
 ". . . Không, \\.dự án cô tham gia chỉ là một
 trong số dự án mà chúng tôi theo đuổi."
 > CONTEXT: Map100/events/19/pages/0/4/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+". . . Không, \\.dự án cô tham gia chỉ là một
+trong số dự án mà chúng tôi theo đuổi."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Dr. Yu ]
 "Nhưng suỵttt. . . \\.\\.\\iĐây là cái tôi thích nhấr!\\i"
 > CONTEXT: Map100/events/19/pages/0/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+"Nhưng suỵttt. . . \\.\\.\\iĐây là cái tôi thích nhấr!\\i"
 > END STRING
 
 > BEGIN STRING
@@ -87,7 +90,9 @@ B À  C Ó  M U Ố N  D Ù N G  C Ơ M ?
 "Không phải\\. lúc này.\\.\\.
 Nhưng ta cảm ơn."
 > CONTEXT: Map100/events/20/pages/0/57/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+"Không phải\\. lúc này.\\.\\.
+Nhưng ta cảm ơn."
 > END STRING
 
 > BEGIN STRING

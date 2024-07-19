@@ -3,7 +3,9 @@
 ". . . Nhưng giữ lại một cỗ máy chuyển giao
 ký ức làm gì khi nó đã giết người dùng?!"
 > CONTEXT: Map117/events/7/pages/0/54/Dialogue < UNTRANSLATED
-
+\\ignr\\e[12]\\nm[ Viktor ]
+". . . Nhưng giữ lại một cỗ máy chuyển giao
+ký ức làm gì khi nó đã giết người dùng?!"
 > END STRING
 
 > BEGIN STRING

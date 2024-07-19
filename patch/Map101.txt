@@ -5,7 +5,9 @@
 hiện đại lại trông thế này."
 > CONTEXT: Map101/events/19/pages/1/6/Dialogue < UNTRANSLATED
 > CONTEXT: Map101/events/20/pages/1/6/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Không ngờ là máy tính lượng tử
+hiện đại lại trông thế này."
 > END STRING
 
 > BEGIN STRING
@@ -51,7 +53,8 @@ khi thấy cô ở bữa tiệc lần trước."
 \\ignr\\e[19]\\nm[ Louie ]
 "Nghiên cứu của cô?\\.\\. Tôi đã đọc qua nó."
 > CONTEXT: Map101/events/22/pages/0/26/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Nghiên cứu của cô?\\.\\. Ta đã đọc qua nó."
 > END STRING
 
 > BEGIN STRING
@@ -74,7 +77,9 @@ mới mẻ cả."
 "Những gì họ làm ở đây. . .
 \\.\\.Tôi đều đã giải mã được hết."
 > CONTEXT: Map101/events/22/pages/0/55/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Những gì họ làm ở đây. . .
+\\.\\.Ta đều đã giải mã được hết."
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +133,9 @@ truyền bá kiến thức vì lợi ích của nhân loại."
 "Tôi muốn 'tiền', \\.nhưng. . .\\. các nhóm
 lợi ích liên quan còn phức tạp hơn nhiều."
 > CONTEXT: Map101/events/22/pages/0/108/Dialogue < UNTRANSLATED
-
+\\ignr\\e[19]\\nm[ Louie ]
+"Ta muốn 'tiền', \\.nhưng. . .\\. các nhóm
+lợi ích liên quan còn phức tạp hơn nhiều."
 > END STRING
 
 > BEGIN STRING

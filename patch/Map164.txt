@@ -108,7 +108,8 @@ K H Ở I  T Ạ O  K Ý  Ứ C  T H Ự C  T H Ể ?
 \\ignr\\e[4]
 K H Ở I  T Ạ O  K Ý  Ứ C  C H O T H Ự C  T H Ể ?
 > CONTEXT: Map164/events/1/pages/0/581/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]
+K H Ở I  T Ạ O  K Ý  Ứ C  C H O  T H Ự C  T H Ể ?
 > END STRING
 
 > BEGIN STRING

@@ -288,7 +288,8 @@ quy tắc nào dành cho chúng."
 \\ignr\\e[17]\\nm[ Quincy ]
 ( Người trông coi sẽ nổi giận lôi đình cho coi. . . )
 > CONTEXT: Map158/events/17/pages/0/48/Dialogue < UNTRANSLATED
-
+\\ignr\\e[17]\\nm[ Quincy ]
+( Người trông coi sẽ nổi trận lôi đình cho coi. . . )
 > END STRING
 
 > BEGIN STRING

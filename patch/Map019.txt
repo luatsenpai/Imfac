@@ -240,7 +240,9 @@ chuyện không thể nào xảy ra được không\\.?"
 "Tôi chắc chắn luôn đấy!
 Nhưng \\ichuyện này\\i kỳ lạ \\.lắm sao?"
 > CONTEXT: Map019/events/17/pages/7/112/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Nhưng tôi chắc chắn luôn đấy!
+Bộ \\ichuyện này\\i kỳ lạ \\.lắm sao?"
 > END STRING
 
 > BEGIN STRING
@@ -526,7 +528,8 @@ cảm thấy cô là hung thủ."
 \\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
 "FUUUUUUUUUUUUUUUUUUUUUUUUU--
 > CONTEXT: Map019/events/19/pages/1/11/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]\\ws[2]
+"HẢAAAAAAAAAAAAAAAAAAAA--"
 > END STRING
 
 > BEGIN STRING

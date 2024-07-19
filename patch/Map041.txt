@@ -17,7 +17,8 @@
 > BEGIN STRING
 "Ởm. . ."
 > CONTEXT: Map041/events/57/pages/16/106/Dialogue < UNTRANSLATED
-
+\\ignr\\e[58]\\nm[ Lynri ]
+"Ờm. . ."
 > END STRING
 
 > BEGIN STRING

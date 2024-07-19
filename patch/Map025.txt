@@ -98,7 +98,6 @@ Không
 TÔI ĐANG LÀM VIỆC.\\.
 XIN ĐỪNG LÀM PHIỀN.
 > CONTEXT: Map025/events/66/pages/0/10/Dialogue < UNTRANSLATED
-
 > END STRING
 
 > BEGIN STRING

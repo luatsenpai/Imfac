@@ -66,7 +66,9 @@ không nhỉ."
 đủ gần như thể được chạm tay vào lịch sử!"
 > CONTEXT: Map062/events/18/pages/0/136/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/136/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Nó đứng sừng sững như minh chứng của nền văn minh,\\.
+đủ gần như thể được chạm tay vào lịch sử!"
 > END STRING
 
 > BEGIN STRING
@@ -75,7 +77,9 @@ không nhỉ."
 cũng nhiệt huyết như cậu vậy."
 > CONTEXT: Map062/events/18/pages/0/144/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/144/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+". . . Mong là giáo sư Nhân Chủng Học của cậu
+cũng nhiệt huyết như cậu vậy."
 > END STRING
 
 > BEGIN STRING
@@ -708,5 +712,6 @@ chắc rằng liệu nó có chuyển biến xấu đi không."
 ". . . Tớ là quả bom hẹn giờ."
 > CONTEXT: Map062/events/18/pages/0/1114/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1114/Dialogue < UNTRANSLATED
-
+\\ignr\\e[42]\\nm[ Lynri ]
+". . . Tớ là một quả bom hẹn giờ."
 > END STRING

@@ -40,7 +40,9 @@ vài thứ tôi chưa hiểu."
 ". . . Tại sao ngươi không ngăn cản
 vòng lặp này ngay từ đầu?"
 > CONTEXT: Map038/events/3/pages/2/138/Dialogue < UNTRANSLATED
-
+\\ignr\\e[36]\\nm[ Lynri ]
+". . . Tại sao ngươi không ngăn cản
+vòng lặp này ngay từ đầu?"
 > END STRING
 
 > BEGIN STRING
@@ -664,7 +666,9 @@ dữ liệu của ngươi. . . ?"
 "Máy nghe thấy không?? \\.\\.
 \\iTiếng gỗ cọt kẹt\\i rợn người!"
 > CONTEXT: Map038/events/46/pages/0/133/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Mày nghe thấy không?? \\.\\.
+\\iTiếng gỗ cọt kẹt\\i rợn người!"
 > END STRING
 
 > BEGIN STRING
@@ -987,7 +991,9 @@ mày đồng hành cùng."
 \\ignr\\e[0]\\nm[ Quincy ]
 "Hey. . . \\.\\.I'm glad you're on my side."
 > CONTEXT: Map038/events/66/pages/1/9/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm. . . \\.\\.Tao rất vui khi có
+mày đồng hành cùng."
 > END STRING
 
 > BEGIN STRING

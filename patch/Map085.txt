@@ -18,7 +18,8 @@ họ đến rồi mà nhỉ. . ."
 \\ignr\\e[15]\\nm[ Lynri ]
 "Ối. . . \\.\\.Tôi đã đi muộn rồi sao?"
 > CONTEXT: Map085/events/1/pages/0/24/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Lynri ]
+"Ối. . . \\.\\.Tôi đã đến muộn rồi sao?"
 > END STRING
 
 > BEGIN STRING
