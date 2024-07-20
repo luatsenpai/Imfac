@@ -14,13 +14,13 @@ Một bức tượng đá khắc họa người phụ nữ và con chim.
 > CONTEXT: Map107/events/91/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map107/events/92/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map107/events/93/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/90/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/90/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/91/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/91/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/92/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map071/events/92/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map070/events/93/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/90/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/91/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map071/events/92/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map071/events/93/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map005/events/90/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map005/events/91/pages/0/2/Dialogue < UNTRANSLATED

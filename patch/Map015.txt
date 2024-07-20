@@ -7,9 +7,9 @@
 > END STRING
 
 > BEGIN STRING
-Rổi khỏi phòng
-> CONTEXT: Map015/events/2/pages/1/22/Choice/0 < UNTRANSLATED
 Rời khỏi phòng
+> CONTEXT: Map015/events/2/pages/1/22/Choice/0 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -157,12 +157,10 @@ P H Á T  H I Ệ N  B Ấ T  T H Ư Ờ N G
 
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Viktor ]
-". . . Ông bà đang kỳ vọng tôi đầu tư
-vào cái máy in cổ lỗ sĩ này à?"
-> CONTEXT: Map015/events/37/pages/2/98/Dialogue < UNTRANSLATED
-\\ignr\\e[37]\\nm[ Viktor ]
 ". . . Ông bà đang kỳ vọng tôi sẽ đầu tư
 vào cái máy in cổ lỗ sĩ này à?"
+> CONTEXT: Map015/events/37/pages/2/98/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -191,11 +189,9 @@ qua vẻ bề ngoài, \\.nhưng. . ."
 > BEGIN STRING
 \\ignr\\e[37]\\nm[ Louie ]
 "Nếu như thứ này có khả năng tính toán lượng tử
-như đã tuyên bố. . . \\.Nó nhỏ đến khó tin."
-> CONTEXT: Map015/events/37/pages/2/217/Dialogue < UNTRANSLATED
-\\ignr\\e[37]\\nm[ Louie ]
-"Nếu như thứ này có khả năng tính toán lượng tử
 như đã tuyên bố. . . \\.Thì nó nhỏ đến khó tin."
+> CONTEXT: Map015/events/37/pages/2/217/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -231,12 +227,10 @@ kết nối có dây với trung tâm dữ liệu."
 
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Ts. Yu ]
-"Dữ liệu đầu vào bị hạn chế nhưng không thể\\.
-phủ nhận tiềm năng đáng kinh ngạc của nó."
-> CONTEXT: Map015/events/37/pages/2/258/Dialogue < UNTRANSLATED
-\\ignr\\e[12]\\nm[ Ts. Yu ]
 "Dữ liệu đầu vào bị hạn chế, nhưng không thể\\.
 phủ nhận tiềm năng đáng kinh ngạc của nó."
+> CONTEXT: Map015/events/37/pages/2/258/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -265,16 +259,15 @@ N Ó  S Ắ P  B Ắ T  Đ Ầ U
 \\ignr\\e[0]\\nm[ Quincy ]
 "Hử,\\. ta nhớ cảnh này trong ký ức. . ."
 > CONTEXT: Map015/events/37/pages/4/85/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Họ sẽ demo cái máy ở đây\\. nhỉ? \\.
-\\.Tôi không nghĩ\\. đoạn hồi ức có cảnh đó."
-> CONTEXT: Map015/events/37/pages/4/94/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
-"Họ sẽ demo cái máy ở đây\\. nhỉ? \\.
 \\.Ta không nghĩ\\. đoạn hồi ức có cảnh đó."
+> CONTEXT: Map015/events/37/pages/4/94/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -560,10 +553,9 @@ K H Ô N G  B I Ế T
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-". . . Vậy, \\.tôi phải đi tìm hiểu rồi."
-> CONTEXT: Map015/events/37/pages/6/627/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 ". . . Vậy, \\.ta phải đi tìm hiểu rồi."
+> CONTEXT: Map015/events/37/pages/6/627/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -888,23 +880,23 @@ D O  R I C E B O T  L À M
 > END STRING
 
 > BEGIN STRING
-"Oh. . . \\.Gọn gàng đấy."
-> CONTEXT: Map015/events/39/pages/3/28/Dialogue < UNTRANSLATED
 \\ignr\\e[0]\\nm[ Quincy ]
 "Ồ. . . \\.Gọn gàng đấy."
+> CONTEXT: Map015/events/39/pages/3/28/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[39]\\nm[ R I C E B O T ]
 N G À I  M U Ố N  Ă N  C H Ứ?
-> CONTEXT: Map015/events/39/pages/3/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/39/pages/3/33/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Ừm, \\.ngon đấy . . \\.Cảm ơn."
-> CONTEXT: Map015/events/39/pages/3/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/39/pages/3/37/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -912,39 +904,37 @@ N G À I  M U Ố N  Ă N  C H Ứ?
 \\ignr\\e[39]\\nm[ R I C E B O T ]
 C H Ỉ  N G O N  T H Ô I  S A O ?   \\.\\.
 P H Ả I  L À  N G O N  T U Y Ệ T !
-> CONTEXT: Map015/events/39/pages/3/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/39/pages/3/41/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Không hẳn. . ."
-> CONTEXT: Map015/events/39/pages/3/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/39/pages/3/47/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[39]\\nm[ R I C E B O T ]
-E M I L   Đ Ã  T H Ử  S U S H I  C Á H Ồ I\\.
-\\.C H Ú N G  N G O N  T U Y Ệ T
-> CONTEXT: Map015/events/39/pages/3/50/Dialogue < UNTRANSLATED
-\\ignr\\e[39]\\nm[ R I C E B O T ]
 E M I L   Đ Ã  T H Ử  S U S H I  C Á  H Ồ I\\.
 \\.C H Ú N G  N G O N  T U Y Ệ T
+> CONTEXT: Map015/events/39/pages/3/51/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Đ-Được rồi... \\.Cách mi nói trong tình
 huống như vầy thật là đáng lo ngại."
-> CONTEXT: Map015/events/39/pages/3/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/39/pages/3/58/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[39]\\nm[ R I C E B O T ]
 N G U Y Ê N  L I Ệ U  B Í  M Ậ T  L À  C Ơ M
-> CONTEXT: Map015/events/39/pages/3/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/39/pages/3/75/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/39/pages/4/50/Dialogue < UNTRANSLATED
 
 > END STRING
@@ -1148,11 +1138,10 @@ vậy, chúng ta cần quay lại với hóa học cơ bản. . . !"
 
 > BEGIN STRING
 \\ignr\\e[51]\\nm[ Lynri ]
-"Oh. . . vậy sao?"
+"À. . . vậy sao?"
 > CONTEXT: Map015/events/50/pages/0/28/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/50/pages/0/60/Dialogue < UNTRANSLATED
-\\ignr\\e[51]\\nm[ Lynri ]
-"À. . . vậy sao?"
+
 > END STRING
 
 > BEGIN STRING
@@ -1288,12 +1277,10 @@ sẽ thấy điều này \\icực kỳ\\i hấp dẫn. . . !"
 
 > BEGIN STRING
 \\ignr\\e[50]\\nm[ Louie ]
-"Bởi vậy, \\.do hầu hết lông mèo đều
-bỏ vào thùng rác công cộng. . ."
-> CONTEXT: Map015/events/51/pages/1/50/Dialogue < UNTRANSLATED
-\\ignr\\e[50]\\nm[ Louie ]
 "Thì là, \\.do hầu hết lông mèo đều
 bỏ vào thùng rác công cộng. . ."
+> CONTEXT: Map015/events/51/pages/1/50/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1403,13 +1390,11 @@ tâm tới mấy món công nghệ \\.đâu nhỉ?"
 
 > BEGIN STRING
 \\ignr\\e[52]\\nm[ Idina ]
-"Oh, tôi quan tâm chứ!
+"À, tôi quan tâm chứ!
 Rất \\.\\.quan tâm là đằng khác!"
 > CONTEXT: Map015/events/53/pages/0/10/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/53/pages/0/38/Dialogue < UNTRANSLATED
-\\ignr\\e[52]\\nm[ Idina ]
-"À, tôi quan tâm chứ!
-Rất \\.\\.quan tâm là đằng khác!"
+
 > END STRING
 
 > BEGIN STRING
@@ -1523,12 +1508,10 @@ Tôi chắc chắn mình đã thấy--. . ."
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Và sau đó cô đuổi theo tôi,\\.
-và rôi tôi. . . \\.vào phòng vệ sinh. . ."
-> CONTEXT: Map015/events/54/pages/0/64/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 "Và sau đó anh đuổi theo tôi,\\.
 và rồi tôi. . . \\.vào phòng tắm. . ."
+> CONTEXT: Map015/events/54/pages/0/64/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1630,12 +1613,10 @@ phòng bên thật ghê rợn, \\.nhưng. . ."
 
 > BEGIN STRING
 \\ignr\\e[61]\\nm[ Louie ]
-"Thật đáng tiếc vì nó đãlàm gián đoạn
-buổi trình diễn một thứ đầy hứa hẹn."
-> CONTEXT: Map015/events/61/pages/1/25/Dialogue < UNTRANSLATED
-\\ignr\\e[61]\\nm[ Louie ]
 "Thật đáng tiếc vì nó đã làm gián đoạn
 buổi trình diễn một thứ đầy hứa hẹn."
+> CONTEXT: Map015/events/61/pages/1/25/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

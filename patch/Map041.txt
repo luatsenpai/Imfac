@@ -15,16 +15,16 @@
 > END STRING
 
 > BEGIN STRING
-"Ởm. . ."
-> CONTEXT: Map041/events/57/pages/16/106/Dialogue < UNTRANSLATED
 \\ignr\\e[58]\\nm[ Lynri ]
 "Ờm. . ."
+> CONTEXT: Map041/events/57/pages/16/106/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[58]\\nm[ Lynri ]
 ". . . Mỗi mình anh thôi
 là đã đủ rắc rối rồi."
-> CONTEXT: Map041/events/57/pages/16/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/57/pages/16/140/Dialogue < UNTRANSLATED
 
 > END STRING

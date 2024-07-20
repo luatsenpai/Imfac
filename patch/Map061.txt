@@ -298,14 +298,14 @@ luận văn phải làm đây này."
 
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
-"Tớ học GDKP. . . "
+"Tớ học Giáo dục. . . "
 > CONTEXT: Map061/events/12/pages/1/489/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[14]\\nm[ Quincy ]
-". . . GDKP. . . "
+". . . Giáo dục. . . "
 > CONTEXT: Map061/events/12/pages/1/498/Dialogue < UNTRANSLATED
 
 > END STRING
@@ -328,7 +328,9 @@ luận văn phải làm đây này."
 \\ignr\\e[11]\\nm[ Lynri ]
 ". . . Giáo dục khai phóng sẽ rất hữu ích!"
 > CONTEXT: Map061/events/12/pages/1/563/Dialogue < UNTRANSLATED
-
+\\ignr\\e[11]\\nm[ Lynri ]
+". . . Giáo dục khai phóng chắc chắn
+sẽ rất hữu ích!"
 > END STRING
 
 > BEGIN STRING
@@ -336,7 +338,9 @@ luận văn phải làm đây này."
 "Tớ chưa nói gì mà!
 \\.Sao cậu lại khẳng định thế!"
 > CONTEXT: Map061/events/12/pages/1/577/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Quincy ]
+"Tớ chưa nói gì mà!
+\\.Sao cậu lại khẳng định như thế!"
 > END STRING
 
 > BEGIN STRING
@@ -453,7 +457,8 @@ Tớ ra hành lang mua cà phê đây."
 \\ignr\\e[14]\\nm[ Quincy ]
 "Cậu có muốn uống luôn không?"
 > CONTEXT: Map061/events/12/pages/1/841/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Quincy ]
+"Cậu muốn uống không?"
 > END STRING
 
 > BEGIN STRING

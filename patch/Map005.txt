@@ -161,8 +161,7 @@ Cửa khóa.
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-( Nó trống không . .\\.\\. và ẩm ướt. )
-> CONTEXT: Map005/events/88/pages/0/2/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 ( Nó trống không. . .\\.\\. và ẩm ướt. )
+> CONTEXT: Map005/events/88/pages/0/2/Dialogue < UNTRANSLATED
+
 > END STRING

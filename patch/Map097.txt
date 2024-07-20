@@ -8,12 +8,10 @@
 
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Rika ]
-"Các đầu bếp sẽ gửi đồ ăn xuống ống thông ba
-lần mỗi ngày.\\.\\. Chỉ cần đưa yêu cầu thôi."
-> CONTEXT: Map097/events/12/pages/0/13/Dialogue < UNTRANSLATED
-\\ignr\\e[11]\\nm[ Rika ]
 "Các đầu bếp sẽ gửi đồ ăn xuống đường ống ba
 lần mỗi ngày.\\.\\. Chỉ cần đưa yêu cầu thôi."
+> CONTEXT: Map097/events/12/pages/0/13/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

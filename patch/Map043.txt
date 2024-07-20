@@ -22,21 +22,18 @@
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[210]\\nm[ Bà Jones ]
-"Nào, Lynri,\\. ta đã được cha mẹ
-con dặn dò là--. . ."
-> CONTEXT: Map043/events/78/pages/0/15/Dialogue < UNTRANSLATED
 \\ignr\\e[210]\\nm[ Cô Jones ]
 "Nào, Lynri,\\. cô đã được cha mẹ
 con dặn dò là--. . ."
+> CONTEXT: Map043/events/78/pages/0/15/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[210]\\nm[ Ms. Jones ]
-"Này, \\.đừng chạy lung tung nữa!"
-> CONTEXT: Map043/events/78/pages/0/59/Dialogue < UNTRANSLATED
 \\ignr\\e[210]\\nm[ Cô Jones ]
 "Này, \\.đừng chạy lung tung nữa!"
+> CONTEXT: Map043/events/78/pages/0/59/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -68,47 +65,40 @@ con dặn dò là--. . ."
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[174]\\nm[ Bà Jones ]
+\\ignr\\e[174]\\nm[ Cô Jones ]
 "Nào, \\.nào. . .\\.\\.
 Các con tập trung lại đây,\\. được không?"
 > CONTEXT: Map043/events/180/pages/0/8/Dialogue < UNTRANSLATED
-\\ignr\\e[174]\\nm[ Cô Jones ]
-"Nào, \\.nào. . .\\.\\.
-Các con tập trung lại đây,\\. được không?"
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[174]\\nm[ Bà Jones ]
+\\ignr\\e[174]\\nm[ Cô Jones ]
 "Peter, \\.đừng bắt nạt Izzy nữa!"
 > CONTEXT: Map043/events/180/pages/0/16/Dialogue < UNTRANSLATED
-\\ignr\\e[174]\\nm[ Cô Jones ]
-"Peter, \\.đừng bắt nạt Izzy nữa!"
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[174]\\nm[ Bà Jones ]
+\\ignr\\e[174]\\nm[ Cô Jones ]
 "Và Lynri--. . ."
 > CONTEXT: Map043/events/180/pages/0/48/Dialogue < UNTRANSLATED
-\\ignr\\e[174]\\nm[ Cô Jones ]
-"Và Lynri--. . ."
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[174]\\nm[ Bà Jones ]
+\\ignr\\e[174]\\nm[ Cô Jones ]
 ". . . Này, \\.Lynri!"
 > CONTEXT: Map043/events/180/pages/0/63/Dialogue < UNTRANSLATED
-\\ignr\\e[174]\\nm[ Cô Jones ]
-". . . Này, \\.Lynri!"
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[174]\\nm[ Bà Jones ]
-"Ta đã nói không được đi xa khỏi nhóm mà!
-\\.\\.. . . \\iĐặc biệt\\i là con đấy!"
-> CONTEXT: Map043/events/180/pages/0/70/Dialogue < UNTRANSLATED
 \\ignr\\e[174]\\nm[ Cô Jones ]
 "Cô đã nói không được đi xa khỏi nhóm mà!
 \\.\\.. . . \\iĐặc biệt\\i là con đấy!"
+> CONTEXT: Map043/events/180/pages/0/70/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -126,19 +116,17 @@ Các con tập trung lại đây,\\. được không?"
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[205]\\nm[ Bà Jones ]
-"Lynri, \\.nếu con không quan sát thì. . ."
-> CONTEXT: Map043/events/184/pages/0/8/Dialogue < UNTRANSLATED
 \\ignr\\e[205]\\nm[ Cô Jones ]
 "Lynri, \\.nếu con không cẩn thận thì. . ."
+> CONTEXT: Map043/events/184/pages/0/8/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[205]\\nm[ Bà Jones ]
-". . . Lynri?"
-> CONTEXT: Map043/events/184/pages/0/42/Dialogue < UNTRANSLATED
 \\ignr\\e[205]\\nm[ Cô Jones ]
 ". . . Lynri?"
+> CONTEXT: Map043/events/184/pages/0/42/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -163,21 +151,18 @@ Các con tập trung lại đây,\\. được không?"
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[214]\\nm[ Bà Jones ]
-"Được rồi, \\.nếu con làm thế nữa--"
-> CONTEXT: Map043/events/215/pages/0/13/Dialogue < UNTRANSLATED
 \\ignr\\e[214]\\nm[ Cô Jones ]
 "Được rồi, \\.nếu con làm thế nữa--"
+> CONTEXT: Map043/events/215/pages/0/13/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[214]\\nm[ Ms. Jones ]
-"Này-- \\.Bác sĩ nói con có mặt trong
-chuyến đi lần này là có lý do!"
-> CONTEXT: Map043/events/215/pages/0/48/Dialogue < UNTRANSLATED
 \\ignr\\e[214]\\nm[ Cô Jones ]
 "Này-- \\.Bác sĩ nói con có thể đi
 chuyến đi lần này, nhưng con phải--"
+> CONTEXT: Map043/events/215/pages/0/48/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

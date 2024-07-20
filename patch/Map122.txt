@@ -240,11 +240,9 @@ thế này đâu!"
 > BEGIN STRING
 \\ignr\\e[28]\\nm[ Lynri ]
 "D-dừng lại đi--\\. Anh đang
-dọa con đó!"
-> CONTEXT: Map122/events/57/pages/0/68/Dialogue < UNTRANSLATED
-\\ignr\\e[28]\\nm[ Lynri ]
-"D-dừng lại đi--\\. Anh đang
 dọa đứa bé đó!"
+> CONTEXT: Map122/events/57/pages/0/68/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

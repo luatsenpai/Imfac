@@ -37,19 +37,18 @@ vài thứ tôi chưa hiểu."
 > END STRING
 
 > BEGIN STRING
-". . . Tại sao ngươi không ngăn cản
-vòng lặp này ngay từ đầu?"
-> CONTEXT: Map038/events/3/pages/2/138/Dialogue < UNTRANSLATED
 \\ignr\\e[36]\\nm[ Lynri ]
 ". . . Tại sao ngươi không ngăn cản
 vòng lặp này ngay từ đầu?"
+> CONTEXT: Map038/events/3/pages/2/138/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[36]\\nm[ Lynri ]
 "Tại sao ngươi muốn bảo tồn thế giới này
 nhưng không loại bỏ bọn ta?"
-> CONTEXT: Map038/events/3/pages/2/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/152/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -57,7 +56,7 @@ nhưng không loại bỏ bọn ta?"
 \\ignr\\e[36]\\nm[ Lynri ]
 "Và tại sao ngươi ở đây. . . \\.còn phí thời
 gian nói với bọn ta về mấy thứ này?"
-> CONTEXT: Map038/events/3/pages/2/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/165/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -65,35 +64,35 @@ gian nói với bọn ta về mấy thứ này?"
 \\ignr\\e[12]
 ". . . Tại sao \\icô\\i lại phí thời gian
 nói chuyện với \\ianh ta\\i?"
-> CONTEXT: Map038/events/3/pages/2/174/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/175/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Quincy ]
 "Ê-- \\.Tôi đang ở đây nha. . ."
-> CONTEXT: Map038/events/3/pages/2/189/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/190/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[36]\\nm[ Lynri ]
 "Chuyện này khác, \\.anh ta--. . ."
-> CONTEXT: Map038/events/3/pages/2/196/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/197/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[36]\\nm[ Lynri ]
 "Anh ta. . ."
-> CONTEXT: Map038/events/3/pages/2/207/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/208/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[20]\\nm[ Quincy ]
 "Lynri. . . ?"
-> CONTEXT: Map038/events/3/pages/2/240/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/241/Dialogue < UNTRANSLATED
 > CONTEXT: Map038/events/18/pages/6/275/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/4/pages/7/103/Dialogue < UNTRANSLATED
 
@@ -103,14 +102,14 @@ nói chuyện với \\ianh ta\\i?"
 \\ignr\\e[36]\\nm[ Lynri ]
 "Nói ta biết. . .\\.\\. Bọn ta là
 \\igì\\i đối với ngươi?"
-> CONTEXT: Map038/events/3/pages/2/256/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/257/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[12]
 ". . . Với tôi?"
-> CONTEXT: Map038/events/3/pages/2/269/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/3/pages/2/270/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -663,12 +662,10 @@ dữ liệu của ngươi. . . ?"
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Máy nghe thấy không?? \\.\\.
-\\iTiếng gỗ cọt kẹt\\i rợn người!"
-> CONTEXT: Map038/events/46/pages/0/133/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 "Mày nghe thấy không?? \\.\\.
 \\iTiếng gỗ cọt kẹt\\i rợn người!"
+> CONTEXT: Map038/events/46/pages/0/133/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -983,23 +980,22 @@ sẽ khởi động trình demo."
 \\.\\.Tao rất vui khi có
 mày đồng hành cùng."
 > CONTEXT: Map038/events/66/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map038/events/66/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/66/pages/1/18/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Hey. . . \\.\\.I'm glad you're on my side."
-> CONTEXT: Map038/events/66/pages/1/9/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 "Ừm. . . \\.\\.Tao rất vui khi có
 mày đồng hành cùng."
+> CONTEXT: Map038/events/66/pages/1/9/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Tuy nhiên,\\. thú thực thì. . ."
-> CONTEXT: Map038/events/66/pages/1/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/66/pages/1/26/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -1007,7 +1003,7 @@ mày đồng hành cùng."
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . Tao đã nghĩ mày là kiểu mèo
 thích xài dao."
-> CONTEXT: Map038/events/66/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/66/pages/1/30/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -1015,7 +1011,7 @@ thích xài dao."
 \\ignr\\e[0]\\nm[ Quincy ]
 "Nhưng. . .\\. tao đoán trông mày
 thế này cũng không tới nỗi tệ."
-> CONTEXT: Map038/events/66/pages/1/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map038/events/66/pages/1/43/Dialogue < UNTRANSLATED
 
 > END STRING
 

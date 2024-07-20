@@ -116,10 +116,9 @@
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-( Maybe the door got unlocked. . . )
-> CONTEXT: Map018/events/4/pages/2/36/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 ( Có lẽ cánh cửa đã được mở khóa rồi. . . )
+> CONTEXT: Map018/events/4/pages/2/36/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -322,12 +321,10 @@ miễn trừ trách nhiệm."
 
 > BEGIN STRING
 \\ignr\\e[16]\\nm[ Ts. Yu ]
-"Thủ tục hành chính. . .\\.\\. Tốt nhất
-cô nên thích nghi với giấy tờ đi."
-> CONTEXT: Map018/events/4/pages/10/354/Dialogue < UNTRANSLATED
-\\ignr\\e[16]\\nm[ Ts. Yu ]
 "Thủ tục hành chính thôi. . .\\.\\. Tốt nhất
 cô nên thích nghi với giấy tờ đi."
+> CONTEXT: Map018/events/4/pages/10/354/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

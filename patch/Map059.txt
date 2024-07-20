@@ -163,5 +163,6 @@ hình thành của ký ức."
 \\ignr\\e[10]\\nm[ Lynri ]
 "Tớ biết,\\. dù sao cũng cảm ơn."
 > CONTEXT: Map059/events/77/pages/0/173/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Lynri ]
+"Tớ biết,\\. dù sao cũng cảm ơn cậu."
 > END STRING

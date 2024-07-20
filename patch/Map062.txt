@@ -62,24 +62,20 @@ không nhỉ."
 
 > BEGIN STRING
 \\ignr\\e[41]\\nm[ Quincy ]
-"Nó đứng sừng sững như minh chứng của nền văn minh;\\.
+"Nó đứng sừng sững như minh chứng của nền văn minh,\\.
 đủ gần như thể được chạm tay vào lịch sử!"
 > CONTEXT: Map062/events/18/pages/0/136/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/136/Dialogue < UNTRANSLATED
-\\ignr\\e[41]\\nm[ Quincy ]
-"Nó đứng sừng sững như minh chứng của nền văn minh,\\.
-đủ gần như thể được chạm tay vào lịch sử!"
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[42]\\nm[ Lynri ]
-". . . Mong rằng giáo sư Nhân học của cậu
+". . . Mong là giáo sư Nhân Chủng Học của cậu
 cũng nhiệt huyết như cậu vậy."
 > CONTEXT: Map062/events/18/pages/0/144/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/144/Dialogue < UNTRANSLATED
-\\ignr\\e[42]\\nm[ Lynri ]
-". . . Mong là giáo sư Nhân Chủng Học của cậu
-cũng nhiệt huyết như cậu vậy."
+
 > END STRING
 
 > BEGIN STRING
@@ -507,7 +503,8 @@ cậu đã chia sẻ về nghiên cứu của cậu. . ."
 ". . . Tớ đã quyết định con đường phải đi."
 > CONTEXT: Map062/events/18/pages/0/759/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/759/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+". . . Tớ đã chọn được lối đi cho riêng mình."
 > END STRING
 
 > BEGIN STRING
@@ -709,9 +706,8 @@ chắc rằng liệu nó có chuyển biến xấu đi không."
 
 > BEGIN STRING
 \\ignr\\e[42]\\nm[ Lynri ]
-". . . Tớ là quả bom hẹn giờ."
+". . . Tớ là một quả bom hẹn giờ."
 > CONTEXT: Map062/events/18/pages/0/1114/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/18/pages/0/1114/Dialogue < UNTRANSLATED
-\\ignr\\e[42]\\nm[ Lynri ]
-". . . Tớ là một quả bom hẹn giờ."
+
 > END STRING

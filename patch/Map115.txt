@@ -73,13 +73,10 @@ phiên bản bất hợp lệ của anh,\\. nhưng . ."
 > BEGIN STRING
 \\ignr\\e[1]
 ". . . Nếu chúng ta hợp nhất những phiên bản
-giống nhau, thì chỉ cần giải quyết \\imộ\\it phiên
-bản duy nhất."
-> CONTEXT: Map115/events/1/pages/0/200/Dialogue < UNTRANSLATED
-\\ignr\\e[1]
-". . . Nếu chúng ta hợp nhất những phiên bản
 giống nhau, thì chỉ cần giải quyết \\imột\\i phiên
 bản duy nhất."
+> CONTEXT: Map115/events/1/pages/0/200/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

@@ -3,7 +3,6 @@
 \\ignr\\e[2]
 Cửa khóa.
 > CONTEXT: Map042/events/2/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map042/events/3/pages/0/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/3/pages/0/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/3/pages/2/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/2/pages/8/4/Dialogue < UNTRANSLATED
@@ -11,5 +10,12 @@ Cửa khóa.
 > CONTEXT: Map015/events/3/pages/2/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/3/pages/8/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/3/pages/9/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\ignr\\e[3]
+Cửa khóa.
+> CONTEXT: Map042/events/3/pages/0/4/Dialogue < UNTRANSLATED
 
 > END STRING

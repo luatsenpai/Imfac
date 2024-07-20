@@ -1,25 +1,24 @@
 ﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-". . . Nhưng giữ lại một cỗ máy chuyển giao
-ký ức làm gì khi nó đã giết người dùng?!"
-> CONTEXT: Map117/events/7/pages/0/54/Dialogue < UNTRANSLATED
 \\ignr\\e[12]\\nm[ Viktor ]
 ". . . Nhưng giữ lại một cỗ máy chuyển giao
 ký ức làm gì khi nó đã giết người dùng?!"
+> CONTEXT: Map117/events/7/pages/0/54/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[13]\\nm[ Ts. Yu ]
 "Chúng ta vẫn chưa chắc
 chắn về việc đó mà."
-> CONTEXT: Map117/events/7/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/64/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[13]\\nm[ Ts. Yu ]
 "Nó chỉ mới thất bại một lần."
-> CONTEXT: Map117/events/7/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/71/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -27,7 +26,7 @@ chắn về việc đó mà."
 \\ignr\\e[12]\\nm[ Viktor ]
 "Chà,\\. chúc may mắn với những lần thử nghiệm
 tiếp theo và những hạn chế pháp lý mà nó gây ra."
-> CONTEXT: Map117/events/7/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/83/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -35,14 +34,14 @@ tiếp theo và những hạn chế pháp lý mà nó gây ra."
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
 "Chúng ta đang hoạt động bí mật. . .\\.
 \\.Chúng ta có thể lách luật được."
-> CONTEXT: Map117/events/7/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/88/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Viktor ]
 "Không. . . \\.\\.Ông bà \\itừng\\i hoạt động bí mật."
-> CONTEXT: Map117/events/7/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/93/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -50,7 +49,7 @@ tiếp theo và những hạn chế pháp lý mà nó gây ra."
 \\ignr\\e[14]\\nm[ Idina ]
 "Đúng,\\. và bây giờ mọi thứ\\.
 đang \\ivượt\\i tầm kiểm soát rồi!"
-> CONTEXT: Map117/events/7/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/105/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -58,7 +57,7 @@ tiếp theo và những hạn chế pháp lý mà nó gây ra."
 \\ignr\\e[12]\\nm[ Viktor ]
 "Dù bằng cách nào, \\.nếu không có sự tương
 thích cơ bản với việc ghi chép ký ức. . ."
-> CONTEXT: Map117/events/7/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/118/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -66,14 +65,14 @@ thích cơ bản với việc ghi chép ký ức. . ."
 \\ignr\\e[12]\\nm[ Viktor ]
 ". . . Điều đó chắc chắn không phải là
 điềm tốt cho cốt lõi của dự án."
-> CONTEXT: Map117/events/7/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/123/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Prisha ]
 "Chà, \\.mấy người bi quan quá đấy. . ."
-> CONTEXT: Map117/events/7/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/135/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -81,14 +80,14 @@ thích cơ bản với việc ghi chép ký ức. . ."
 \\ignr\\e[11]\\nm[ Prisha ]
 "Biết đâu mọi thứ xoay chuyển thì sao?\\.\\.
 Đừng đánh mất lý trí chỉ vì một chút trở ngại chứ."
-> CONTEXT: Map117/events/7/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/152/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[12]\\nm[ Viktor ]
 "Đây mà là \\imột chút\\i trở ngại à?!"
-> CONTEXT: Map117/events/7/pages/0/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/158/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -96,28 +95,28 @@ thích cơ bản với việc ghi chép ký ức. . ."
 \\ignr\\e[14]\\nm[ Idina ]
 "Ừm. . . \\.\\.Chuyển giao ký ức để làm gì
 nếu họ chết trong quá trình đó?"
-> CONTEXT: Map117/events/7/pages/0/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/166/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[11]\\nm[ Prisha ]
 "Chà. \\..\\. .\\."
-> CONTEXT: Map117/events/7/pages/0/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/173/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
 "Lynri. . . ?"
-> CONTEXT: Map117/events/7/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/198/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[13]\\nm[ Ts. Yu ]
 "Đợi đã, \\.Lynri--. . .
-> CONTEXT: Map117/events/7/pages/0/298/Dialogue < UNTRANSLATED
+> CONTEXT: Map117/events/7/pages/0/299/Dialogue < UNTRANSLATED
 
 > END STRING
 

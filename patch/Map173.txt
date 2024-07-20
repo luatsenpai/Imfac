@@ -23,10 +23,9 @@ N H À  C Ủ A  R I C E B O T
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Huh, \\.vậy đây là nơi mi sạc điện \\.sao?"
-> CONTEXT: Map173/events/2/pages/0/34/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 "Hmm, \\.vậy đây là nơi mi sạc điện \\.sao?"
+> CONTEXT: Map173/events/2/pages/0/34/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -68,10 +67,9 @@ O K
 
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ R I C E B O T ]
-X Ạ C  Đ I Ệ N
-> CONTEXT: Map173/events/2/pages/0/143/Dialogue < UNTRANSLATED
-\\ignr\\e[2]\\nm[ R I C E B O T ]
 S Ạ C  Đ I Ệ N
+> CONTEXT: Map173/events/2/pages/0/143/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -83,28 +81,24 @@ H N N N N N N N N N G H
 
 > BEGIN STRING
 \\ignr\\e[7]\\nm[ Lynri ]
-"I don't know about you, \\.but I find it suspicious that
-a bot this advanced would be just a rice cooker. . ."
-> CONTEXT: Map173/events/2/pages/0/160/Dialogue < UNTRANSLATED
-\\ignr\\e[7]\\nm[ Lynri ]
 "Tôi không biết gì về anh, \\.nhưng tôi thấy lạ khi
 con robot hiện đại thế này lại chỉ là nồi cơm điện. . ."
+> CONTEXT: Map173/events/2/pages/0/160/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-\\ignr\\e[0]\\nm[ Quincy ]
-"Tôi nói \\.đúng chứ?!"
-> CONTEXT: Map173/events/2/pages/0/170/Dialogue < UNTRANSLATED
 \\ignr\\e[0]\\nm[ Quincy ]
 "Tôi biết \\.mà?!"
+> CONTEXT: Map173/events/2/pages/0/170/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Tôi đã nhắm vào nó. . ."
-> CONTEXT: Map173/events/2/pages/0/179/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 "Tôi đang để mắt đến nó. . ."
+> CONTEXT: Map173/events/2/pages/0/179/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

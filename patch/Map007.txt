@@ -16,11 +16,9 @@
 > BEGIN STRING
 \\ignr\\e[2]\\nm[ Quincy ]
 "Từ nãy tới giờ. . . \\.mày cứ
-tự tiên đi ra đi vào thế?"
-> CONTEXT: Map007/events/2/pages/4/45/Dialogue < UNTRANSLATED
-\\ignr\\e[2]\\nm[ Quincy ]
-"Từ nãy tới giờ. . . \\.mày cứ
 tự tiện đi ra đi vào thế?"
+> CONTEXT: Map007/events/2/pages/4/45/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -106,10 +104,9 @@ vượt khỏi tầm kiểm soát. . . )
 
 > BEGIN STRING
 \\ignr\\e[4]\\nm[ Quincy ]
-"Uh ờm, \\.tôi nghĩ họ đang ở trong đó."
-> CONTEXT: Map007/events/4/pages/5/137/Dialogue < UNTRANSLATED
-\\ignr\\e[4]\\nm[ Quincy ]
 "À ờm, \\.tôi nghĩ họ đang ở trong đó."
+> CONTEXT: Map007/events/4/pages/5/137/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -439,10 +436,9 @@ cảm giác như đang nhìn thấy Quincy chăng?
 
 > BEGIN STRING
 \\ignr\\e[45]\\nm[ Lynri ]
-"Đi thôi, \\.tôi sẽ gặp anh ở trong kia."
-> CONTEXT: Map007/events/45/pages/0/220/Dialogue < UNTRANSLATED
-\\ignr\\e[45]\\nm[ Lynri ]
 "Đi đi, \\.tôi sẽ gặp anh ở trong kia."
+> CONTEXT: Map007/events/45/pages/0/220/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

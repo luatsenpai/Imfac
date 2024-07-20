@@ -17,11 +17,9 @@ mình đi rửa tay luôn vậy. . . )
 > BEGIN STRING
 \\ignr\\e[1]\\nm[ Quincy ]
 "N-này nghe tôi giải thích, \\.đây chỉ
-là hiểu lầm thôi,\\. được chưa?"
-> CONTEXT: Map017/events/2/pages/2/22/Dialogue < UNTRANSLATED
-\\ignr\\e[1]\\nm[ Quincy ]
-"N-này nghe tôi giải thích, \\.đây chỉ
 là hiểu lầm thôi,\\. được chứ?"
+> CONTEXT: Map017/events/2/pages/2/22/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -63,12 +61,10 @@ ngài không nói vậy luôn đi?"
 
 > BEGIN STRING
 \\ignr\\e[10]\\nm[ Rika ]
-"Vâng. \\.\\.Bây giờ chỉ hãy bình tĩnh lại
-và qua phòng bên cạnh nói chuyện thôi nào."
-> CONTEXT: Map017/events/2/pages/2/66/Dialogue < UNTRANSLATED
-\\ignr\\e[10]\\nm[ Rika ]
 "Vâng. \\.\\.Bây giờ hãy bình tĩnh lại
 và qua phòng bên cạnh nói chuyện thôi nào."
+> CONTEXT: Map017/events/2/pages/2/66/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -94,10 +90,9 @@ và qua phòng bên cạnh nói chuyện thôi nào."
 
 > BEGIN STRING
 \\ignr\\e[1]\\nm[ Quincy ]
-"Ê-- \\.Tôi nghe đấy nhé. . ."
-> CONTEXT: Map017/events/2/pages/2/108/Dialogue < UNTRANSLATED
-\\ignr\\e[1]\\nm[ Quincy ]
 "Ê-- \\.Tôi nghe hết đấy nhé. . ."
+> CONTEXT: Map017/events/2/pages/2/108/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -277,10 +272,9 @@ Chỉ là bồn rửa thông thường
 
 > BEGIN STRING
 \\ignr\\e[6]\\nm[ Quincy ]
-( Tiếng đâ cửa. . . \\.\\.dừng lại rồi? )
-> CONTEXT: Map017/events/11/pages/4/173/Dialogue < UNTRANSLATED
-\\ignr\\e[6]\\nm[ Quincy ]
 ( Tiếng đập cửa. . . \\.\\.dừng lại rồi? )
+> CONTEXT: Map017/events/11/pages/4/173/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

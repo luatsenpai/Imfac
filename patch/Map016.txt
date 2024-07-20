@@ -274,10 +274,9 @@ Chiếc nồi đầy vun.
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"(. . .)
-> CONTEXT: Map016/events/24/pages/1/27/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
 "(. . .)"
+> CONTEXT: Map016/events/24/pages/1/27/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -442,16 +441,16 @@ M È O  T R O N G  H Ộ P  ?
 > CONTEXT: Map016/events/33/pages/0/107/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/0/106/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/3/107/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Oh. . .\\. Rồi."
+"À. . .\\. Rồi."
 > CONTEXT: Map016/events/33/pages/0/116/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/0/115/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/3/116/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
-"À. . .\\. Rồi."
+
 > END STRING
 
 > BEGIN STRING
@@ -513,6 +512,7 @@ L Ạ I  L Ầ N  N Ữ A
 > CONTEXT: Map016/events/33/pages/1/55/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/1/55/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/4/55/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -553,12 +553,11 @@ C Á I  C H Ế T
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Khoan, \\.ý ngươi là sao?"
+"Khoan, \\.ý mi là sao?"
 > CONTEXT: Map016/events/33/pages/1/83/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/1/83/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/4/83/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
-"Khoan, \\.ý mi là sao?"
+
 > END STRING
 
 > BEGIN STRING
@@ -599,18 +598,17 @@ N G U Y Ê N  N H Â N  G Â Y  R A  C Á I  C H Ế T
 > CONTEXT: Map016/events/33/pages/1/110/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/1/110/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/4/110/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
-"Ê, \\.nếu đã có ngươi ở đây,
-\\.thì ngươi cần ta làm gì?"
+"Ê, \\.nếu đã có mi ở đây,
+\\.thì mi cần ta làm gì?"
 > CONTEXT: Map016/events/33/pages/1/130/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/1/130/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/4/130/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
-"Ê, \\.nếu đã có mi ở đây,
-\\.thì mi cần ta làm gì?"
+
 > END STRING
 
 > BEGIN STRING
@@ -651,13 +649,11 @@ C Ầ N  T H Ê M  D Ữ  L I Ệ U
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Này, \\.nếu không phiền, ta muốn hỏi. . .
-\\.Tại sao ngươi lại làm việc này?"
+\\.Tại sao mi lại làm việc này?"
 > CONTEXT: Map016/events/33/pages/1/171/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/1/171/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/4/171/Dialogue < UNTRANSLATED
-\\ignr\\e[0]\\nm[ Quincy ]
-"Này, \\.nếu không phiền, ta muốn hỏi. . .
-\\.Tại sao mi lại làm việc này?"
+
 > END STRING
 
 > BEGIN STRING
