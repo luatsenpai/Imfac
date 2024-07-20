@@ -211,7 +211,9 @@ dưới lầu có thể \\iđảo ngược thời gian\\i."
 "Tôi không nói về bộ phim \\i'Ngày Chuột Chuỗi '\\i,\\.
 nhưng có thứ gì đó điên rồ đang diễn ra. . ."
 > CONTEXT: Map019/events/17/pages/7/69/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi không nói về bộ phim \\i'Ngày Chuột Chũi '\\i,\\.
+nhưng có thứ gì đó điên rồ đang diễn ra. . ."
 > END STRING
 
 > BEGIN STRING

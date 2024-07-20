@@ -25,7 +25,8 @@ N H À  C Ủ A  R I C E B O T
 \\ignr\\e[0]\\nm[ Quincy ]
 "Huh, \\.vậy đây là nơi mi sạc điện \\.sao?"
 > CONTEXT: Map173/events/2/pages/0/34/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hmm, \\.vậy đây là nơi mi sạc điện \\.sao?"
 > END STRING
 
 > BEGIN STRING
@@ -69,7 +70,8 @@ O K
 \\ignr\\e[2]\\nm[ R I C E B O T ]
 X Ạ C  Đ I Ệ N
 > CONTEXT: Map173/events/2/pages/0/143/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ R I C E B O T ]
+S Ạ C  Đ I Ệ N
 > END STRING
 
 > BEGIN STRING

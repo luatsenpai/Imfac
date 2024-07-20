@@ -1289,7 +1289,9 @@ sẽ thấy điều này \\icực kỳ\\i hấp dẫn. . . !"
 "Bởi vậy, \\.do hầu hết lông mèo đều
 bỏ vào thùng rác công cộng. . ."
 > CONTEXT: Map015/events/51/pages/1/50/Dialogue < UNTRANSLATED
-
+\\ignr\\e[50]\\nm[ Louie ]
+"Thì là, \\.do hầu hết lông mèo đều
+bỏ vào thùng rác công cộng. . ."
 > END STRING
 
 > BEGIN STRING
