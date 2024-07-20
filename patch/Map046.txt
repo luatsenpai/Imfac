@@ -121,7 +121,9 @@ có thể cho tôi biết anh đã thấy gì."
 "Ờm, \\.mọi chuyện bắt đầu từ khi
 tôi vào phòng vệ sinh,\\. sau đó--. . ."
 > CONTEXT: Map046/events/43/pages/0/208/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ờm, \\.mọi chuyện bắt đầu từ khi
+tôi vào phòng tắm,\\. sau đó--. . ."
 > END STRING
 
 > BEGIN STRING

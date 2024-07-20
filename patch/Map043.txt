@@ -130,7 +130,7 @@ Các con tập trung lại đây,\\. được không?"
 "Lynri, \\.nếu con không quan sát thì. . ."
 > CONTEXT: Map043/events/184/pages/0/8/Dialogue < UNTRANSLATED
 \\ignr\\e[205]\\nm[ Cô Jones ]
-"Lynri, \\.nếu con không quan sát thì. . ."
+"Lynri, \\.nếu con không cẩn thận thì. . ."
 > END STRING
 
 > BEGIN STRING

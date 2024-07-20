@@ -41,7 +41,9 @@ bé đi mà không có sự giám sát chặt chẽ."
 "Triệu chứng sớm này có thể sẽ nguy hiểm,\\.\\.
 thuốc thử nghiệm vẫn đang được quan sát."
 > CONTEXT: Map051/events/15/pages/0/35/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Bác Sĩ ]
+"Triệu chứng sớm này có thể sẽ nguy hiểm,\\.\\.
+thuốc thử nghiệm vẫn đang được nghiên cứu."
 > END STRING
 
 > BEGIN STRING

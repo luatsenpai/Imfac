@@ -575,7 +575,8 @@ Chiếc sofa cũ kỹ với những vết sờn rách.
 \\ignr\\e[0]\\nm[ Quincy ]
 "Vậy sao? \\.Cô có nghĩ nó là hung thủ?"
 > CONTEXT: Map019/events/23/pages/8/25/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Vậy sao? \\.Cô có nghĩ nó là hung thủ không?"
 > END STRING
 
 > BEGIN STRING
@@ -590,7 +591,8 @@ thảm kia,\\. thì có lẽ là không."
 \\ignr\\e[0]\\nm[ Quincy ]
 "Har-har."
 > CONTEXT: Map019/events/23/pages/8/36/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Hah-hah."
 > END STRING
 
 > BEGIN STRING

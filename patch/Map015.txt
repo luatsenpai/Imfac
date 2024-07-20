@@ -890,7 +890,8 @@ D O  R I C E B O T  L À M
 > BEGIN STRING
 "Oh. . . \\.Gọn gàng đấy."
 > CONTEXT: Map015/events/39/pages/3/28/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ồ. . . \\.Gọn gàng đấy."
 > END STRING
 
 > BEGIN STRING
@@ -1150,7 +1151,8 @@ vậy, chúng ta cần quay lại với hóa học cơ bản. . . !"
 "Oh. . . vậy sao?"
 > CONTEXT: Map015/events/50/pages/0/28/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/50/pages/0/60/Dialogue < UNTRANSLATED
-
+\\ignr\\e[51]\\nm[ Lynri ]
+"À. . . vậy sao?"
 > END STRING
 
 > BEGIN STRING
@@ -1405,7 +1407,9 @@ tâm tới mấy món công nghệ \\.đâu nhỉ?"
 Rất \\.\\.quan tâm là đằng khác!"
 > CONTEXT: Map015/events/53/pages/0/10/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/53/pages/0/38/Dialogue < UNTRANSLATED
-
+\\ignr\\e[52]\\nm[ Idina ]
+"À, tôi quan tâm chứ!
+Rất \\.\\.quan tâm là đằng khác!"
 > END STRING
 
 > BEGIN STRING
@@ -1524,7 +1528,7 @@ và rôi tôi. . . \\.vào phòng vệ sinh. . ."
 > CONTEXT: Map015/events/54/pages/0/64/Dialogue < UNTRANSLATED
 \\ignr\\e[0]\\nm[ Quincy ]
 "Và sau đó anh đuổi theo tôi,\\.
-và rồi tôi. . . \\.vào phòng vệ sinh. . ."
+và rồi tôi. . . \\.vào phòng tắm. . ."
 > END STRING
 
 > BEGIN STRING

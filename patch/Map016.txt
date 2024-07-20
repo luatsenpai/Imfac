@@ -450,7 +450,8 @@ M È O  T R O N G  H Ộ P  ?
 > CONTEXT: Map016/events/33/pages/0/116/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/0/115/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/3/116/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"À. . .\\. Rồi."
 > END STRING
 
 > BEGIN STRING

@@ -95,14 +95,16 @@ con robot hiện đại thế này lại chỉ là nồi cơm điện. . ."
 \\ignr\\e[0]\\nm[ Quincy ]
 "Tôi nói \\.đúng chứ?!"
 > CONTEXT: Map173/events/2/pages/0/170/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi biết \\.mà?!"
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[0]\\nm[ Quincy ]
 "Tôi đã nhắm vào nó. . ."
 > CONTEXT: Map173/events/2/pages/0/179/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Tôi đang để mắt đến nó. . ."
 > END STRING
 
 > BEGIN STRING

@@ -441,7 +441,8 @@ cảm giác như đang nhìn thấy Quincy chăng?
 \\ignr\\e[45]\\nm[ Lynri ]
 "Đi thôi, \\.tôi sẽ gặp anh ở trong kia."
 > CONTEXT: Map007/events/45/pages/0/220/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Lynri ]
+"Đi đi, \\.tôi sẽ gặp anh ở trong kia."
 > END STRING
 
 > BEGIN STRING

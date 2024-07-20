@@ -243,7 +243,9 @@ luôn đi nhỉ?"
 "Oh, \\.thỉnh thoảng đi chơi đêm cũng
 không ảnh hưởng gì đâu em!"
 > CONTEXT: Map056/events/18/pages/0/551/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Bố ]
+"À, \\.thỉnh thoảng đi chơi đêm cũng
+không ảnh hưởng gì đâu em!"
 > END STRING
 
 > BEGIN STRING

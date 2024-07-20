@@ -388,7 +388,9 @@ bùn đất văng khắp nhà rồi. . ."
 "Oh, \\.má của anh thật dễ thươnggg
 sau khi anh nói câu đó!"
 > CONTEXT: Map013/events/4/pages/9/171/Dialogue < UNTRANSLATED
-
+\\ignr\\e[79]\\nm[ Idina ]
+"Ôi, \\.má của anh thật dễ thươnggg
+sau khi anh nói câu đó!"
 > END STRING
 
 > BEGIN STRING
@@ -1979,7 +1981,8 @@ chúng ta đã đi xa quá rồi."
 \\ignr\\e[20]\\nm[ Lynri ]
 "Đi đi. \\.\\.Họ đang đợi anh trong toilet."
 > CONTEXT: Map013/events/20/pages/11/9/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Đi đi. \\.\\.Họ đang đợi anh trong nhà tắm."
 > END STRING
 
 > BEGIN STRING
@@ -2304,7 +2307,8 @@ về sát nhân nói là--"
 \\ignr\\e[0]\\nm[ Quincy ]
 ". . . Cô có nghe podcasts sát nhân không?"
 > CONTEXT: Map013/events/21/pages/8/169/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Cô có nghe podcasts sát nhân sao?"
 > END STRING
 
 > BEGIN STRING
@@ -2860,7 +2864,9 @@ có chút vấn đề không?" )
 ( "Đúng rồi ha?! \\.những người này có vẻ
 hơi quá đề cao bản thân!" )
 > CONTEXT: Map013/events/54/pages/10/6/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( "Đúng rồi ha?! \\.Những người này có vẻ
+hơi quá đề cao bản thân!" )
 > END STRING
 
 > BEGIN STRING
