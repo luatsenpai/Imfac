@@ -18,7 +18,9 @@
 ". . . Nhưng cô không ngờ là cháu có thể chinh
 phục được một người dễ thương như vậy đấy!"
 > CONTEXT: Map069/events/60/pages/0/29/Dialogue < UNTRANSLATED
-
+\\ignr\\e[47]\\nm[ Naomi ]
+". . . Nhưng không ngờ là con có thể chinh
+phục được một người dễ thương như vậy đấy!"
 > END STRING
 
 > BEGIN STRING
@@ -65,7 +67,9 @@ con sẽ làm được sao. . ."
 "Nào nào, \\.hôm nay là ngày để
 ăn mừng thành tích của hai đứa."
 > CONTEXT: Map069/events/60/pages/0/114/Dialogue < UNTRANSLATED
-
+\\ignr\\e[32]\\nm[ Bill ]
+"Nào nào, \\.hôm nay là ngày
+ăn mừng thành tích của hai đứa."
 > END STRING
 
 > BEGIN STRING
@@ -81,7 +85,9 @@ tham gia bữa tiệc tối nay nhỉ, \\.Quincy?"
 "Chúng ta có thể cùng nhau thảo luận
 kế hoạch sau khi tốt nghiệp của hai đứa."
 > CONTEXT: Map069/events/60/pages/0/152/Dialogue < UNTRANSLATED
-
+\\ignr\\e[32]\\nm[ Bill ]
+"Chúng ta có thể cùng nhau thảo luận
+kế hoạch sau lễ tốt nghiệp của hai đứa."
 > END STRING
 
 > BEGIN STRING
@@ -184,7 +190,9 @@ bữa tiệc không,\\. Lynri?"
 Thay mặt cho Cơ Sở Yu-Haynes,\\. tôi
 hân hạnh gửi cô lời mời tham dự."
 > CONTEXT: Map069/events/60/pages/0/363/Dialogue < UNTRANSLATED
-
+\\ignr\\e[50]\\nm[ Rika ]
+"Thay mặt cho Cơ Sở Yu-Haynes,\\. tôi
+hân hạnh gửi cô lời mời tham dự."
 > END STRING
 
 > BEGIN STRING
@@ -213,7 +221,9 @@ hân hạnh gửi cô lời mời tham dự."
 "Những cơ hội thế này rất hiếm xảy ra;
 \\.\\.chúng tôi mong cô hãy cân nhắc."
 > CONTEXT: Map069/events/60/pages/0/439/Dialogue < UNTRANSLATED
-
+\\ignr\\e[52]\\nm[ Emil ]
+"Những cơ hội thế này rất hiếm xảy ra,
+\\.\\.chúng tôi mong cô hãy cân nhắc."
 > END STRING
 
 > BEGIN STRING

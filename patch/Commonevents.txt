@@ -99,7 +99,9 @@ R. Gao"
 "Vô hiệu hóa hiển thị và tương tác; \\.
 Để lộ ra lúc này sẽ rất rối.."
 > CONTEXT: Commonevents/26/85/Dialogue < UNTRANSLATED
-
+\\ignr\\e[45]\\nm[ Ts. Rosalene ]
+"Vô hiệu hóa hiển thị và tương tác, \\.
+Để lộ ra lúc này sẽ rất rối.."
 > END STRING
 
 > BEGIN STRING

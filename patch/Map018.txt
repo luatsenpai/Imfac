@@ -155,7 +155,8 @@ người sang máy móc. . . ?"
 \\ignr\\e[15]\\nm[ Ts. Haynes ]
 "Đúng vậy, \\.kết nối,\\. và. . . \\.chuyển đổi."
 > CONTEXT: Map018/events/4/pages/10/94/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Đúng thế, \\.kết nối,\\. và. . . \\.chuyển đổi."
 > END STRING
 
 > BEGIN STRING
@@ -208,7 +209,9 @@ hơn so với những nghiên cứu khác mà cô từng làm."
 "Giờ cô đã hiểu tại sao điều này không
 được đăng tuyển công khai, \\.đúng không?"
 > CONTEXT: Map018/events/4/pages/10/173/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Giờ cô đã hiểu tại sao điều này không
+được đăng tuyển công khai \\.rồi chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -238,7 +241,9 @@ kinh nghiệm hơn. . ."
 "Ừm, \\.chúng tôi đã kiểm tra lý lịch
 của cô \\. và tình hình đặc biệt của cô---
 > CONTEXT: Map018/events/4/pages/10/217/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Ừm, \\.chúng tôi đã kiểm tra lý lịch
+của cô\\. và tình hình đặc biệt của cô---"
 > END STRING
 
 > BEGIN STRING
@@ -255,7 +260,10 @@ của cô \\. và tình hình đặc biệt của cô---
 \\.nghiên cứu của cô đã
 nói lên tất cả."
 > CONTEXT: Map018/events/4/pages/10/244/Dialogue < UNTRANSLATED
-
+\\ignr\\e[16]\\nm[ Ts. Yu ]
+"Và cô đừng tự ti như thế,\\.
+\\.nghiên cứu của cô đã
+nói lên tất cả."
 > END STRING
 
 > BEGIN STRING
@@ -270,7 +278,9 @@ nói lên tất cả."
 "Hội chứng kẻ mạo danh rất phổ biến với những
 người tài năng; \\.đừng để nó ảnh hưởng tới cô."
 > CONTEXT: Map018/events/4/pages/10/254/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Dr. Haynes ]
+"Hội chứng kẻ mạo danh rất phổ biến với những
+người tài năng, \\.đừng để nó ảnh hưởng tới cô."
 > END STRING
 
 > BEGIN STRING
@@ -292,7 +302,9 @@ người tài năng; \\.đừng để nó ảnh hưởng tới cô."
 "Chúng ta hãy ký TTBMTT và trực tiếp
 chứng kiến những ký tích thôi nào?"
 > CONTEXT: Map018/events/4/pages/10/296/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"Chúng ta hãy ký TTBMTT và trực tiếp
+chứng kiến những kỳ tích thôi nào?"
 > END STRING
 
 > BEGIN STRING

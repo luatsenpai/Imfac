@@ -3,7 +3,8 @@
 \\ignr\\e[25]\\nm[ Quincy ]
 "Em làm được rồi!"
 > CONTEXT: Map064/events/1/pages/0/134/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Quincy ]
+"Em tới rồi!"
 > END STRING
 
 > BEGIN STRING
@@ -106,7 +107,9 @@ này với em \\.sao?"
 "Này--. . . \\.\\.Thực ra,\\.
 ý em không phải thế"
 > CONTEXT: Map064/events/1/pages/0/421/Dialogue < UNTRANSLATED
-
+\\ignr\\e[24]\\nm[ Lynri ]
+"Này--. . . \\.\\.Thực ra,\\.
+ý em không phải thế."
 > END STRING
 
 > BEGIN STRING
@@ -470,7 +473,9 @@ thành con người thế này,\\. em vẫn nhớ chứ?"
 "Hở. . . \\.\\.Em không có ý so sánh với bản gốc,
 \\.nhưng cái này cũng có những điểm rất sáng tạo."
 > CONTEXT: Map064/events/63/pages/0/5/Dialogue < UNTRANSLATED
-
+\\ignr\\e[32]\\nm[ Lynri ]
+"Ồ. . . \\.\\.Em không có ý so sánh với bản gốc,
+\\.nhưng cái này cũng có những điểm rất sáng tạo."
 > END STRING
 
 > BEGIN STRING
