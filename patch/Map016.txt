@@ -351,7 +351,9 @@ giáo sư, \\.thì đó là con mèo. . ."
 > CONTEXT: Map016/events/33/pages/0/24/Dialogue < UNTRANSLATED
 > CONTEXT: Map018/events/62/pages/0/24/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/63/pages/3/24/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan, \\.giả sữ thay hai vị
+giáo sư \\.thành con mèo. . ."
 > END STRING
 
 > BEGIN STRING
@@ -696,7 +698,9 @@ T Ừ  D Ữ  L I Ệ U  T H Í  N G H I Ệ M
 G I Ả  T H U Y Ế T  S Ẽ  Đ Ư Ợ C  K I Ể M  T R A
 \\.N G U Y Ê N  N H Â N  S Ẽ  Đ Ư Ợ C  X Á C  Đ Ị N H
 > CONTEXT: Map016/events/33/pages/1/198/Dialogue < UNTRANSLATED
-
+\\ignr\\e[29]
+G I Ả  T H U Y Ế T  S Ẽ  Đ Ư Ợ C  T H Ử  N G H I Ệ M
+\\.N G U Y Ê N  N H Â N  S Ẽ  Đ Ư Ợ C  X Á C  Đ Ị N H
 > END STRING
 
 > BEGIN STRING

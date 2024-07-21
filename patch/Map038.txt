@@ -216,7 +216,8 @@ không tuân theo các định luật vật lý. . ."
 \\ignr\\e[20]\\nm[ Quincy ]
 "Ê-ê, \\.ngươi là ai--
 > CONTEXT: Map038/events/3/pages/4/130/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Quincy ]
+"Ê-ê, \\.ngươi đang làm gì--"
 > END STRING
 
 > BEGIN STRING
@@ -372,7 +373,9 @@ bất thường ở đây cả. . ."
 ". . . Tôi đã quá ngây thơ khi nghĩ\\.
 mình có thể làm được chuyện này."
 > CONTEXT: Map038/events/18/pages/1/69/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Tao đã quá ngây thơ khi nghĩ\\.
+mình có thể làm được chuyện này."
 > END STRING
 
 > BEGIN STRING
@@ -724,7 +727,9 @@ dữ liệu của ngươi. . . ?"
 "Rồi, \\.này. . . \\.tao xin lỗi.
 \\.\\.Tao không nên nói thể."
 > CONTEXT: Map038/events/46/pages/0/315/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Rồi, \\.này. . . \\.tao xin lỗi.
+\\.\\.Tao không nên nói thế."
 > END STRING
 
 > BEGIN STRING
@@ -844,7 +849,8 @@ máy tính xem thử nào!"
 \\ignr\\e[0]\\nm[ Quincy ]
 "Cái gì thế này. . . ?"
 > CONTEXT: Map038/events/52/pages/0/26/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Cái gì thế. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -981,7 +987,9 @@ sẽ khởi động trình demo."
 mày đồng hành cùng."
 > CONTEXT: Map038/events/66/pages/1/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map038/events/66/pages/1/18/Dialogue < UNTRANSLATED
-
+"Cảm ơn vì mày đã ở đây\\.. . .
+\\.\\.Tao rất vui khi có
+mày cùng đồng hành."
 > END STRING
 
 > BEGIN STRING
@@ -989,7 +997,9 @@ mày đồng hành cùng."
 "Ừm. . . \\.\\.Tao rất vui khi có
 mày đồng hành cùng."
 > CONTEXT: Map038/events/66/pages/1/9/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Ừm. . . \\.\\.Tao rất vui khi có
+mày cùng đồng hành."
 > END STRING
 
 > BEGIN STRING
@@ -1067,5 +1077,7 @@ sử dụng dữ liệu ký ức tạm thời để khởi tạo? )
 ( Có cần phải dùng cả một đống bóng đèn để
 trình chiếu trong khi RGB LED là dủ rồi. . . ? )
 > CONTEXT: Map038/events/87/pages/0/2/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+( Có cần phải dùng cả một đống bóng đèn để
+trình chiếu trong khi RGB LED là đủ rồi. . . ? )
 > END STRING

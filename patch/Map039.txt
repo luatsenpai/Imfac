@@ -60,28 +60,32 @@
 \\ignr\\e[28]\\nm[ Lynri ]
 ". . . Tôi chỉ ước rằng anh ấy thực sự ở đây."
 > CONTEXT: Map039/events/1/pages/1/304/Dialogue < UNTRANSLATED
-
+\\ignr\\e[28]\\nm[ Lynri ]
+". . . Tôi chỉ ước rằng thằng bé thực sự ở đây."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[27]
 "Anh ấy đang ở đây."
 > CONTEXT: Map039/events/1/pages/1/314/Dialogue < UNTRANSLATED
-
+\\ignr\\e[27]
+"Thằng bé đang ở đây."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[27]
 ". . . Anh ấy đã ở đây suốt thời gian qua."
 > CONTEXT: Map039/events/1/pages/1/350/Dialogue < UNTRANSLATED
-
+\\ignr\\e[27]
+". . . Thằng bé đã ở đây suốt thời gian qua."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[27]
 "Và từ bây giờ, \\.anh ấy sẽ luôn như vậy."
 > CONTEXT: Map039/events/1/pages/1/359/Dialogue < UNTRANSLATED
-
+\\ignr\\e[27]
+"Và từ bây giờ, \\.thằng bé sẽ luôn như vậy."
 > END STRING
 
 > BEGIN STRING

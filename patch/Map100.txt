@@ -19,7 +19,8 @@ trong số dự án mà chúng tôi theo đuổi."
 \\ignr\\e[10]\\nm[ Ts. Yu ]
 "Nhưng suỵttt. . . \\.\\.\\iĐây là cái tôi thích nhấr!\\i"
 > CONTEXT: Map100/events/19/pages/0/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+"Nhưng suỵttt. . . \\.\\.\\iĐây là cái tôi thích nhất!\\i"
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +58,9 @@ làm việc của cô ấy thôi nhỉ?"
 "Nhân tiện, cô đem Ricebot
 lên cầu thang\\. được không?"
 > CONTEXT: Map100/events/19/pages/0/57/Dialogue < UNTRANSLATED
-
+\\ignr\\e[10]\\nm[ Ts. Yu ]
+"Nhân tiện, cô đem Ricebot
+lên tầng trên\\. được không?"
 > END STRING
 
 > BEGIN STRING
@@ -117,7 +120,8 @@ chuyển giao dữ liệu ký ức. . ."
 \\ignr\\e[21]\\nm[ Ts. Kim ]
 ". . . và chuyển giao người và máy nhỉ?"
 > CONTEXT: Map100/events/21/pages/0/7/Dialogue < UNTRANSLATED
-
+\\ignr\\e[21]\\nm[ Ts. Kim ]
+". . . và chuyển giao người sang máy nhỉ?"
 > END STRING
 
 > BEGIN STRING

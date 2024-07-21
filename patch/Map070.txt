@@ -11,7 +11,9 @@
 Không, \\.đó chỉ là chiếc đuôi cáo
 có tri giác."
 > CONTEXT: Map070/events/22/pages/0/8/Dialogue < UNTRANSLATED
-
+\\ignr\\e[21]\\nm[ Emil ]
+"Không, \\.đó chỉ là chiếc đuôi cáo
+có tri giác."
 > END STRING
 
 > BEGIN STRING

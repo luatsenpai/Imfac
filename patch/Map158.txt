@@ -68,7 +68,10 @@ nó dùng cho mục đích gì. . . ?"
 mọi người có thể để lại một phần của mình
 sau khi họ ra đi."
 > CONTEXT: Map158/events/1/pages/0/189/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Lynri ]
+". . . Một cánh cửa dẫn đến một thế giới, nơi
+mọi người có thể để lại một phần của mình
+sau khi họ ra đi."
 > END STRING
 
 > BEGIN STRING
@@ -224,7 +227,9 @@ có thể tôi có cách cho anh thêm thời gian."
 \\ignr\\e[40]
 "Khi anh sẵn sàng, \\.hãy lại đây với tôi."
 > CONTEXT: Map158/events/1/pages/0/663/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]
+"Khi nào hai người sẵn sàng, \\.
+hãy lại đây với tôi."
 > END STRING
 
 > BEGIN STRING
@@ -364,7 +369,9 @@ mày như thế nào, \\.nhưng. . ."
 ". . . Có lẽ tạo sẽ gặp lại mày trong
 lần khởi động lại nào đó\\. chăng?"
 > CONTEXT: Map158/events/21/pages/1/143/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+". . . Có lẽ tao sẽ gặp lại mày trong
+lần khởi động lại nào đó\\. chăng?"
 > END STRING
 
 > BEGIN STRING

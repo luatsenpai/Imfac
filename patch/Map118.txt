@@ -33,7 +33,9 @@ cân nhắc việc này chứ?"
 "Em đã nói là em muốn
 một gia đình, \\.đúng không. . . ?"
 > CONTEXT: Map118/events/23/pages/0/77/Dialogue < UNTRANSLATED
-
+\\ignr\\e[21]\\nm[ Quincy ]
+"Em đã nói là em muốn có
+một gia đình, \\.đúng không. . . ?"
 > END STRING
 
 > BEGIN STRING
@@ -118,14 +120,17 @@ Bà là gia đình duy nhất anh có."
 "Anh hầu như không nhớ những khoẳng khắc bên bố mẹ,
 \\.nhưng. . .\\.\\. Anh vẫn nhớ cảm giác đó."
 > CONTEXT: Map118/events/23/pages/0/189/Dialogue < UNTRANSLATED
-
+\\ignr\\e[21]\\nm[ Quincy ]
+"Anh hầu như không nhớ những khoảnh khắc bên bố mẹ,
+\\.nhưng. . .\\.\\. Anh vẫn nhớ cảm giác đó."
 > END STRING
 
 > BEGIN STRING
 \\ignr\\e[21]\\nm[ Quincy ]
 "Để có gia đình của chúng ta. . ."
 > CONTEXT: Map118/events/23/pages/0/195/Dialogue < UNTRANSLATED
-
+\\ignr\\e[21]\\nm[ Quincy ]
+"Việc có một gia đình riêng. . ."
 > END STRING
 
 > BEGIN STRING

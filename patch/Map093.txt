@@ -26,7 +26,9 @@ thế gian này. . .
 trong thằng bé, \\.thôi thúc anh ấy tiến về
 phía trước, \\.giống như cô vậy.
 > CONTEXT: Map093/events/16/pages/0/82/Dialogue < UNTRANSLATED
-
+. . . Nó đánh thức một điều gì đó sâu thẳm
+trong thằng bé, \\.thôi thúc thằng bé tiến về
+phía trước, \\.giống như cô vậy.
 > END STRING
 
 > BEGIN STRING
@@ -107,7 +109,9 @@ truy cập vào mã nguồn và phần cứng của công nghệ.
 hoàn thành những nguyện vọng cuối cùng, bằng các
 cấy ghép ký ức về một cuộc sống mới.
 > CONTEXT: Map093/events/16/pages/0/148/Dialogue < UNTRANSLATED
-
+. . . Đó là một công ty sử dụng công nghệ này để
+hoàn thành những nguyện vọng cuối cùng, bằng cách
+cấy ghép ký ức về một cuộc sống mới.
 > END STRING
 
 > BEGIN STRING

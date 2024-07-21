@@ -4,7 +4,9 @@
 "Còn rất nhiều nhánh rẽ khác
 \\.ngoài vấn kia. . ."
 > CONTEXT: Map030/events/1/pages/0/108/Dialogue < UNTRANSLATED
-
+\\ignr\\e[40]
+"Còn rất nhiều nhánh rẽ khác
+\\.ngoài kia. . ."
 > END STRING
 
 > BEGIN STRING

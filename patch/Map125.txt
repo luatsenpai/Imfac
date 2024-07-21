@@ -34,7 +34,8 @@ em khi thốt ra câu đó lúc em còn nhỏ."
 \\ignr\\e[13]\\nm[ Lynri ]
 "Huh. . ."
 > CONTEXT: Map125/events/5/pages/0/69/Dialogue < UNTRANSLATED
-
+\\ignr\\e[13]\\nm[ Lynri ]
+"Hmm. . ."
 > END STRING
 
 > BEGIN STRING
@@ -66,7 +67,10 @@ cho em từ rất lâu rồi."
 Có lẽ một ngày nó đó chúng ta sẽ
 đọc nó cho Tobi nghe."
 > CONTEXT: Map125/events/5/pages/0/135/Dialogue < UNTRANSLATED
-
+\\ignr\\e[12]\\nm[ Quincy ]
+"Này, hãy giữ nó lại đi. . . \\.\\.
+Có lẽ một ngày nào đó chúng ta sẽ
+đọc nó cho Tobi nghe."
 > END STRING
 
 > BEGIN STRING

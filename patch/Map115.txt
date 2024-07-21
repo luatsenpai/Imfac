@@ -100,7 +100,9 @@ bất hợp lệ, nhưng vẫn giữ được \\i'anh'\\i
 ". . . Tôi nghĩ mọi người
 đã có mặt đầy đủ rồ."
 > CONTEXT: Map115/events/1/pages/0/264/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]
+". . . Tôi nghĩ mọi người
+đã có mặt đầy đủ rồi."
 > END STRING
 
 > BEGIN STRING
@@ -404,7 +406,8 @@ là một thực tại."
 \\ignr\\e[1]
 "Đi thôi."
 > CONTEXT: Map115/events/1/pages/10/754/Dialogue < UNTRANSLATED
-
+\\ignr\\e[1]
+"Đi đi."
 > END STRING
 
 > BEGIN STRING

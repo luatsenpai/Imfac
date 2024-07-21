@@ -115,7 +115,9 @@ thử nghiệm không?"
 "Ừm. \\.Luôn luôn có những vấn đề cần khắc phục,
 \\.nhưng. . .\\. chúng ta sẽ vượt qua thôi."
 > CONTEXT: Map123/events/69/pages/0/12/Dialogue < UNTRANSLATED
-
+\\ignr\\e[68]\\nm[ Lynri ]
+"Ừm. \\.Luôn luôn có những vấn đề cần khắc phục,
+\\.nhưng. . .\\. bọn em sẽ vượt qua thôi."
 > END STRING
 
 > BEGIN STRING
@@ -129,7 +131,8 @@ thử nghiệm không?"
 \\ignr\\e[72]\\nm[ Quincy ]
 "Anh đã hâm nóng đồ ăn rồi."
 > CONTEXT: Map123/events/69/pages/0/26/Dialogue < UNTRANSLATED
-
+\\ignr\\e[72]\\nm[ Quincy ]
+"Anh hâm nóng đồ ăn rồi đó."
 > END STRING
 
 > BEGIN STRING
@@ -190,7 +193,9 @@ thêm về lời đề nghị đó chưa,\\. Lynri?"
 "Ừm, \\.mấy hạn chế pháp lý chết tiệt,
 \\.\\.tiến bộ là tiến bộ."
 > CONTEXT: Map123/events/131/pages/2/10/Dialogue < UNTRANSLATED
-
+\\ignr\\e[122]\\nm[ Louie ]
+"Hừ, \\.mấy hạn chế pháp lý chết tiệt,
+\\.\\.tiến bộ là tiến bộ."
 > END STRING
 
 > BEGIN STRING

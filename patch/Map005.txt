@@ -82,7 +82,8 @@ lời mời này nhỉ. . . )
 \\ignr\\e[17]\\nm[ Quincy ]
 ( Đài phun nước. . . \\.Có gì ở trên đó sao? )
 > CONTEXT: Map005/events/17/pages/8/86/Dialogue < UNTRANSLATED
-
+\\ignr\\e[17]\\nm[ Quincy ]
+( Đài phun nước. . . \\.không có gì ở trên đó sao? )
 > END STRING
 
 > BEGIN STRING

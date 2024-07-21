@@ -299,7 +299,9 @@ C Á I  C H Ế T ,  N H Ư N G . . .
 C Á C  N H Á N H  D Ẫ N  Đ Ế N  C Á I  C H Ế T  Đ Ề U
 L I Ê N  Q U A N  K H O Ả N G  Đ Ế N  K H Ắ C  N À Y
 > CONTEXT: Map015/events/37/pages/4/129/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+C Á C  N H Á N H  D Ẫ N  Đ Ế N  C Á I  C H Ế T  Đ Ề U
+L I Ê N  Q U A N  Đ Ế N  K H O Ả N H  K H Ắ C  N À Y
 > END STRING
 
 > BEGIN STRING
@@ -407,7 +409,9 @@ T H I Ế T  L Ậ P  L Ạ I  C Ă N  P H Ò N G
 "Khoan, \\.nếu được, hãy thiết lập lại
 căn phòng khi chúng ta ở bên trong. . ."
 > CONTEXT: Map015/events/37/pages/6/188/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan, \\.nếu có thể thiết lập lại
+căn phòng khi chúng ta ở bên trong. . ."
 > END STRING
 
 > BEGIN STRING
@@ -505,7 +509,8 @@ T H I Ế T  L Ậ P  L Ạ I
 \\ignr\\e[82]
 G I Ờ ,  \\.K I Ể M  T R A  L Ầ N  C U Ố I
 > CONTEXT: Map015/events/37/pages/6/562/Dialogue < UNTRANSLATED
-
+\\ignr\\e[82]
+G I Ờ ,  \\.T H Ử  N G H I Ệ M  L Ầ N  C U Ố I
 > END STRING
 
 > BEGIN STRING
@@ -1862,5 +1867,7 @@ N Ó  S Ẽ  B Ả O  V Ệ  A N H .
 "Mấy người cứ lo xa,\\.\\. tôi
 nghĩ không có gì xảy ra đâu. . ."
 > CONTEXT: Map015/events/84/pages/1/16/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Mấy người cứ lo xa,\\.\\. ta
+nghĩ không có gì xảy ra đâu. . ."
 > END STRING

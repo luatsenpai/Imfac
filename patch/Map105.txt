@@ -29,7 +29,9 @@
 "Ừm. . . \\.\\.em nghĩ\\. em chỉ bị
 say máy bay do máy bay hơi sóc thôi."
 > CONTEXT: Map105/events/31/pages/0/19/Dialogue < UNTRANSLATED
-
+\\ignr\\e[14]\\nm[ Lynri ]
+"Ừm. . . \\.\\.em nghĩ\\. em chỉ bị
+say máy bay do máy bay hơi xóc thôi."
 > END STRING
 
 > BEGIN STRING

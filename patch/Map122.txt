@@ -105,7 +105,8 @@ rất đáng yêu!"
 \\ignr\\e[22]\\nm[ Mẹ ]
 "Anh yêu, \\.lại đây. . . đây là một tin tuyệt vời!"
 > CONTEXT: Map122/events/51/pages/0/48/Dialogue < UNTRANSLATED
-
+\\ignr\\e[22]\\nm[ Mẹ ]
+"Anh yêu\\.. . . đây là một tin tuyệt vời!"
 > END STRING
 
 > BEGIN STRING
@@ -430,5 +431,6 @@ những kỷ niệm quý giá à?"
 \\ignr\\e[37]\\nm[ Lynri ]
 "Ừm, \\.luôn có gì đó ở đây."
 > CONTEXT: Map122/events/66/pages/0/83/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Lynri ]
+"Ừm, \\.luôn có gì đó ở nơi đây."
 > END STRING

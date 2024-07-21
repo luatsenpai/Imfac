@@ -15,7 +15,7 @@ Tuổi thơ của cô,\\. tuổi trẻ của cô. . .
 > BEGIN STRING
 . . . chuẩn đoán của cô.
 > CONTEXT: Map157/events/1/pages/0/91/Dialogue < UNTRANSLATED
-
+. . . chẩn đoán của cô.
 > END STRING
 
 > BEGIN STRING

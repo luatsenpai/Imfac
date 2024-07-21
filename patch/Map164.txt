@@ -28,7 +28,10 @@ K I Ể M  T R A :  K I Ể M  T R A  T H Ự C  T H Ể
 Đ A N G  K Ế T  N Ố I  T H Ự C  T H Ể
 V Ớ I  M Ẫ U  K Ý  Ứ C  H I Ệ N  C Ó
 > CONTEXT: Map164/events/1/pages/0/206/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]
+T H Ử  N G H I Ệ M :  T H Ự C  T H Ể
+Đ A N G  K Ế T  N Ố I  T H Ự C  T H Ể
+V Ớ I  M Ẫ U  K Ý  Ứ C  H I Ệ N  C Ó
 > END STRING
 
 > BEGIN STRING
@@ -36,7 +39,9 @@ V Ớ I  M Ẫ U  K Ý  Ứ C  H I Ệ N  C Ó
 V U I  L Ò N G  C H Ọ N  T H A M  C H I Ế U
 T H Ự C  T H Ể  M U Ố N  K I Ể M  T R A
 > CONTEXT: Map164/events/1/pages/0/216/Dialogue < UNTRANSLATED
-
+\\ignr\\e[4]
+V U I  L Ò N G  C H Ọ N  T H A M  C H I Ế U
+T H Ự C  T H Ể  M U Ố N  T H Ử  N G H I Ệ M
 > END STRING
 
 > BEGIN STRING

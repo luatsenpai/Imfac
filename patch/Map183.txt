@@ -114,7 +114,9 @@ chúng ta lại có thể--
 "Nó chỉ là áo khoác thôi mà. \\.\\.
 Có phải đầm cocktail đâu."
 > CONTEXT: Map183/events/7/pages/0/439/Dialogue < UNTRANSLATED
-
+\\ignr\\e[9]\\nm[ Ts. Watts ]
+"Chỉ là mặc áo khoác thôi mà. \\.\\.
+Có phải mặc đầm cocktail đâu."
 > END STRING
 
 > BEGIN STRING

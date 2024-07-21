@@ -115,7 +115,9 @@ có nhiều lý do nên làm như vậy."
 "Dù thế. . . \\.\\i'Tobi'\\i nghe cũng không
 hợp với họ \\i'Watts'\\i,\\. đúng chứ?"
 > CONTEXT: Map161/events/1/pages/0/258/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Lynri ]
+"Dù thế. . . \\.\\i'Tobi '\\i nghe cũng không
+hợp với họ \\i'Watts'\\i,\\. đúng chứ?"
 > END STRING
 
 > BEGIN STRING
@@ -130,7 +132,8 @@ nào khác không?"
 \\ignr\\e[2]\\nm[ Lynri ]
 "Vậy. . .\\.\\. '\\iNeil\\i' thì sao?"
 > CONTEXT: Map161/events/1/pages/0/285/Dialogue < UNTRANSLATED
-
+\\ignr\\e[2]\\nm[ Lynri ]
+"Vậy. . .\\.\\. '\\iNeil \\i' thì sao?"
 > END STRING
 
 > BEGIN STRING
@@ -178,7 +181,8 @@ cô và Quincy dành cho thằng bé.
 Nhưng về phần cô. . .\\.\\. Cô vẫn
 chưa khôi phục hoàn toàn.
 > CONTEXT: Map161/events/1/pages/1/28/Dialogue < UNTRANSLATED
-
+Nhưng về phần cô. . .\\.\\. Cô vẫn
+chưa hồi phục hoàn toàn.
 > END STRING
 
 > BEGIN STRING

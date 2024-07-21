@@ -649,7 +649,8 @@ toàn bộ khách đã có mặt. )
 \\ignr\\e[0]\\nm[ Quincy ]
 "Ừm!"
 > CONTEXT: Map013/events/4/pages/30/126/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Chắc!"
 > END STRING
 
 > BEGIN STRING
@@ -688,7 +689,9 @@ trong lúc tôi rời đi, \\.được chứ?"
 "Khoan, \\.cô định bỏ tôi ở đây một
 mình để xem có thêm thi thể đấy à?!"
 > CONTEXT: Map013/events/4/pages/30/374/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Khoan, \\.cô định bỏ tôi ở đây một mình
+để xem có thêm thi thể không đấy à?!"
 > END STRING
 
 > BEGIN STRING
@@ -974,7 +977,8 @@ N H I Ề U  C Ơ M  H Ơ N  N Ữ A
 \\ignr\\e[41]\\nm[ Quincy ]
 "Vậy, \\.chúng ta còn chần chứ gì nữa?!"
 > CONTEXT: Map013/events/4/pages/31/880/Dialogue < UNTRANSLATED
-
+\\ignr\\e[41]\\nm[ Quincy ]
+"Vậy, \\.chúng ta còn chần trừ gì nữa?!"
 > END STRING
 
 > BEGIN STRING
@@ -1097,7 +1101,9 @@ Khởi động
 "Tôi đã chạy một loạt các bài kiểm tra
 để xác nhận một số. . . \\.nghi ngờ."
 > CONTEXT: Map013/events/20/pages/8/82/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Tôi đã chạy một loạt các thử nghiệm
+để xác nhận một số. . . \\.nghi ngờ."
 > END STRING
 
 > BEGIN STRING
@@ -1554,7 +1560,9 @@ bị thiết lập lại."
 "Và tôi chỉ. . . \\.\\.tình cờ sử dụng bồn rửa
 đó mỗi lần cô thiết lập lại chăng?"
 > CONTEXT: Map013/events/20/pages/9/143/Dialogue < UNTRANSLATED
-
+\\ignr\\e[0]\\nm[ Quincy ]
+"Và tôi chỉ. . . \\.\\.tình cờ sử dụng bồn rửa
+đó mỗi lần cô thiết lập lại?"
 > END STRING
 
 > BEGIN STRING
@@ -1569,7 +1577,9 @@ bị thiết lập lại."
 "Xác xuất xảy ra \\ituy\\i rất hiếm,\\.
 nhưng vẫn cao hơn 0%."
 > CONTEXT: Map013/events/20/pages/9/162/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Xác suất xảy ra \\ituy\\i rất hiếm,\\.
+nhưng vẫn cao hơn 0%."
 > END STRING
 
 > BEGIN STRING
@@ -1577,7 +1587,8 @@ nhưng vẫn cao hơn 0%."
 "Thực ra. . .\\. Đó cũng là lý do khiến tôi
 nghi ngờ\\. nhưng chúng ta sẽ kiểm tra nó sớm thôi."
 > CONTEXT: Map013/events/20/pages/9/172/Dialogue < UNTRANSLATED
-
+"Thực ra. . .\\. Đó cũng là lý do khiến tôi nghi ngờ,
+\\.nhưng chúng ta sẽ kiểm tra nó sớm thôi."
 > END STRING
 
 > BEGIN STRING
@@ -1614,7 +1625,9 @@ nghi ngờ\\. nhưng chúng ta sẽ kiểm tra nó sớm thôi."
 "Kể cũng lạ, \\.bởi vì dựa theo ký ức của tôi nó
 là điều không thể tránh khỏi trong mô phỏng này."
 > CONTEXT: Map013/events/20/pages/9/246/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Kể cũng lạ, \\.bởi vì dựa theo ký ức của tôi, nó
+là điều không thể tránh khỏi trong mô phỏng này."
 > END STRING
 
 > BEGIN STRING
@@ -1857,7 +1870,9 @@ và Ts. Yu, \\.và mục đích của họ."
 "Ừm. \\.\\.Những gì anh cần làm là vào
 văn phòng và quan sát họ."
 > CONTEXT: Map013/events/20/pages/10/149/Dialogue < UNTRANSLATED
-
+\\ignr\\e[20]\\nm[ Lynri ]
+"Ừm. \\.\\.Những gì anh cần làm là vào
+căn phòng và quan sát họ."
 > END STRING
 
 > BEGIN STRING
@@ -2054,7 +2069,9 @@ Tôi không tiết lộ với ai đâu."
 L Y N R I  ,   B À I  K I Ể M  T R A
 B A N  Đ Ầ U  Đ Ã  H O À N  T Ấ T
 > CONTEXT: Map013/events/20/pages/16/249/Dialogue < UNTRANSLATED
-
+\\ignr\\e[103]
+L Y N R I  , T H Ử  N G H I Ệ M
+B A N  Đ Ầ U  Đ Ã  H O À N  T Ấ T
 > END STRING
 
 > BEGIN STRING

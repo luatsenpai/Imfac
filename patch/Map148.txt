@@ -96,7 +96,9 @@ hoa oải hương xinh đẹp đến nhường nào."
 "Con biết, \\.lúc đó con\\.còn ngây ngô. . .
 \\.\\.con chỉ muốn bố hài lòng."
 > CONTEXT: Map148/events/9/pages/0/203/Dialogue < UNTRANSLATED
-
+\\ignr\\e[7]\\nm[ Lynri ]
+"Con biết, \\.lúc đó con \\.còn ngây ngô. . .
+\\.\\.con chỉ muốn bố hài lòng."
 > END STRING
 
 > BEGIN STRING

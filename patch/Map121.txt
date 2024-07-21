@@ -198,7 +198,9 @@ nhưng vì tình hình hiện tại. . .
 \\ignr\\e[46]\\nm[ Bác Sĩ ]
 ". . . Tôi xin lỗi, anh phải quyết định rồi."
 > CONTEXT: Map121/events/47/pages/0/395/Dialogue < UNTRANSLATED
-
+\\ignr\\e[46]\\nm[ Bác Sĩ ]
+". . . Tôi xin lỗi vì đã để
+anh phải đưa ra quyết định."
 > END STRING
 
 > BEGIN STRING

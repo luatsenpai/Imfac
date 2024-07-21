@@ -36,7 +36,8 @@ thế giới gốc ở bên dưới càng ngày càng bị đè nén. . .
 Cho đến cuối cùng,\\. dù chỉ cần tạo thêm một
 mô phỏng nữa, \\. dù nó có trừu tượng đi nữa. . .
 > CONTEXT: Map029/events/1/pages/0/179/Dialogue < UNTRANSLATED
-
+Cho đến cuối cùng,\\. dù chỉ cần tạo thêm một
+mô phỏng nữa, \\.dù nó có trừu tượng đi nữa. . .
 > END STRING
 
 > BEGIN STRING

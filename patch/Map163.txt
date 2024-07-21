@@ -73,7 +73,8 @@ nữa sẽ không có vấn đề gì đâu."
 "Tôi nghĩ cô đã gặp ở bữa tiệc nhỉ."
 > CONTEXT: Map163/events/28/pages/0/38/Dialogue < UNTRANSLATED
 > CONTEXT: Map095/events/28/pages/0/38/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Rika ]
+"Tôi nghĩ cô đã gặp ở bữa tiệc rồi nhỉ."
 > END STRING
 
 > BEGIN STRING
