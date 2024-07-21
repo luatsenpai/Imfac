@@ -278,7 +278,7 @@ nói lên tất cả."
 "Hội chứng kẻ mạo danh rất phổ biến với những
 người tài năng; \\.đừng để nó ảnh hưởng tới cô."
 > CONTEXT: Map018/events/4/pages/10/254/Dialogue < UNTRANSLATED
-\\ignr\\e[15]\\nm[ Dr. Haynes ]
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
 "Hội chứng kẻ mạo danh rất phổ biến với những
 người tài năng, \\.đừng để nó ảnh hưởng tới cô."
 > END STRING
@@ -321,7 +321,10 @@ khi vào đây rồi mà. . . ?"
 \\.\\.TTBMTT và giấy
 miễn trừ trách nhiệm."
 > CONTEXT: Map018/events/4/pages/10/319/Dialogue < UNTRANSLATED
-
+\\ignr\\e[15]\\nm[ Ts. Haynes ]
+"À, \\.còn nhiều TTBMTT lắm.
+\\.\\.TTBMTT và giấy
+miễn trừ trách nhiệm."
 > END STRING
 
 > BEGIN STRING

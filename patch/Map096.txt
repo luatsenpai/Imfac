@@ -13,7 +13,9 @@
 ". . . Tất nhiên. \\.\\.Sự hiện diện của
 quý vị là niềm vinh dự cho chúng tôi."
 > CONTEXT: Map096/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+\\ignr\\e[7]\\nm[ Ts. Haynes ]
+". . . Tất nhiên. \\.\\.Sự hiện diện của
+quý vị là niềm vinh dự cho chúng tôi."
 > END STRING
 
 > BEGIN STRING
@@ -41,7 +43,8 @@ quý vị là niềm vinh dự cho chúng tôi."
 \\ignr\\e[7]\\nm[ Dr. Haynes ]
 "Tôi đây."
 > CONTEXT: Map096/events/10/pages/0/34/Dialogue < UNTRANSLATED
-
+\\ignr\\e[7]\\nm[ Ts. Haynes ]
+"Tôi đây."
 > END STRING
 
 > BEGIN STRING

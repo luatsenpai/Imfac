@@ -1587,6 +1587,7 @@ nhưng vẫn cao hơn 0%."
 "Thực ra. . .\\. Đó cũng là lý do khiến tôi
 nghi ngờ\\. nhưng chúng ta sẽ kiểm tra nó sớm thôi."
 > CONTEXT: Map013/events/20/pages/9/172/Dialogue < UNTRANSLATED
+\\ignr\\e[20]\\nm[ Lynri ]
 "Thực ra. . .\\. Đó cũng là lý do khiến tôi nghi ngờ,
 \\.nhưng chúng ta sẽ kiểm tra nó sớm thôi."
 > END STRING

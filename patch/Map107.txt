@@ -61,7 +61,9 @@ Cô là người sống ở đây sao?"
 "Những vị khách mới đã đến,
 \\.và chúng tôi chờ đợi\\.. . ."
 > CONTEXT: Map107/events/17/pages/0/276/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Ts. Kim ]
+"Những vị khách mới đã đến,
+\\.và chúng tôi chờ đợi\\.. . ."
 > END STRING
 
 > BEGIN STRING
@@ -91,5 +93,6 @@ trong đó và nói chuyện với những người khác."
 \\ignr\\e[25]\\nm[ Dr. Kim ]
 "Lynri,\\. Đợi đã. . . !"
 > CONTEXT: Map107/events/17/pages/0/346/Dialogue < UNTRANSLATED
-
+\\ignr\\e[25]\\nm[ Ts. Kim ]
+"Lynri,\\. Đợi đã. . . !"
 > END STRING

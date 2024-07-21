@@ -175,7 +175,9 @@ vào cái máy in cổ lỗ sĩ này à?"
 "Tuy nhiên gu ông ấy có chút. . .
 \\.\\ihoài cổ\\i."
 > CONTEXT: Map015/events/37/pages/2/130/Dialogue < UNTRANSLATED
-
+\\ignr\\e[37]\\nm[ Ts. Yu ]
+"Tuy nhiên gu ông ấy có chút. . .
+\\.\\ihoài cổ\\i."
 > END STRING
 
 > BEGIN STRING
